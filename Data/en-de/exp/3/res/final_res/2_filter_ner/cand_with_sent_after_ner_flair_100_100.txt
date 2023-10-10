@@ -1,0 +1,92 @@
+GDPR-related GDPR | w_freq: 1 - 17 | wiki_freq: 3 - 7 | sentence_idx: 2882 | align_1: 8-11 | align_2: 9-16 | ner_entity: GDPR-related-GDPR |    In addition , you can see all things GDPR-related , including our Binding Corporate Rules , which were approved earlier this year . ||| Darüber hinaus sehen Sie alles , was mit der DSGVO ( GDPR ) zu tun hat , einschließlich unserer Binding Corporate Rules , die Anfang des Jahres verabschiedet wurden .
+
+Petro-Dollar Petro-Dollar | w_freq: 1 - 2 | wiki_freq: 0 - 1 | sentence_idx: 48764 | align_1: 8-7 | align_2: 9-11 | ner_entity: Petro-Dollar-Petro-Dollar |    The timing of the transition away from the Petro-Dollar will not be 8 - 9 years , not in this world . ||| Die Übergangszeit , in der Abschied vom Petro-Dollar genommen wird , wird keine 8 - 9 Jahre betragen - nicht in dieser Welt .
+
+Commandments2:83 2:83 | w_freq: 1 - 1 | wiki_freq: 0 - 3 | sentence_idx: 76516 | align_1: 1-0 | align_2: 2-6 | ner_entity: Commandments2:83-none |    The Commandments2:83 We made a covenant with the Children of Israel : " You shall not worship except GOD . ||| 2:83 Und ( damals ) als wir die Verpflichtung der Kinder Israels ( auf folgende Gebote ) entgegennahmen : Ihr sollt nur ( dem alleinigen ) Gott dienen .
+
+UISNEACH UISNEACH | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 91622 | align_1: 10-10 | align_2: 11-16 | ner_entity: UISNEACH-UISNEACH |    I know how much it meant to you to visit UISNEACH , my dear . ||| Ich weiß , wie viel es Dir bedeutet hat , UISNEACH * * ) zu besuchen , meine Liebe .
+
+Jabeth-gilead Jabesch | w_freq: 1 - 2 | wiki_freq: 0 - 9 | sentence_idx: 199300 | align_1: 11-8 | align_2: 12-13 | ner_entity: Jabeth-gilead-Jabesch |    And they told David , saying , That the men of Jabeth-gilead were they that buried Saul . ||| Und man berichtete David : Die Männer von Jabesch [ in ] Gilead sind es , die Saul begraben haben .
+
+galectin-10 Galectin-10 | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 210226 | align_1: 6-6 | align_2: 7-11 | ner_entity: none-Galectin-10 |    Animals treated with a variant of galectin-10 did not show this reaction . ||| Tiere , mit einer Variante von Galectin-10 behandelt worden waren , zeigten diese Reaktion nicht .
+
+Rizevim Rizevim | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 218126 | align_1: 8-10 | align_2: 9-15 | ner_entity: Rizevim-Rizevim |    I presume the reason why you are with Rizevim is to fight strong foes , right ? ” ||| Ich nehme an , der Grund , warum du mit Rizevim hier bist ist , ist starke Feinde zu bekämpfen , nicht wahr ? “
+
+G&T T-Niveau | w_freq: 1 - 1 | wiki_freq: 76 - 0 | sentence_idx: 227309 | align_1: 17-17 | align_2: 18-22 | ner_entity: G&T-none |    It sounds simple , but there are so many ways to elevate this drink above the average G&T you might have had before . ||| Klingt einfach , aber es gibt so viele Möglichkeiten , dieses Getränk über das durchschnittliche G & T-Niveau zu heben , das Sie vielleicht schon einmal hatten .
+
+HABEKO HABEKO | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 256005 | align_1: 10-8 | align_2: 11-12 | ner_entity: HABEKO-HABEKO |    Therefore , it is important to one Having partners like HABEKO who can reliably handle this complex and responsible job . ||| Daher ist es wichtig , einen Partner wie HABEKO zu haben , der diese komplexe und verantwortungsvolle Aufgabe zuverlässig übernimmt .
+
+9GAG 9GAG | w_freq: 1 - 1 | wiki_freq: 47 - 24 | sentence_idx: 347975 | align_1: 0-0 | align_2: 1-6 | ner_entity: 9GAG-9GAG |    9GAG is your best source of FUN ! ||| 9GAG ( 9gag . com ) ist Ihre beste Quelle für Spaß .
+
+ALLAH ALLAH | w_freq: 7 - 22 | wiki_freq: 27 - 0 | sentence_idx: 350709 | align_1: 3-0 | align_2: 4-5 | ner_entity: ALLAH-ALLAH |    We swear by ALLAH , ||| ALLAH ( der Erhabene ) , Glaubensthemen permalink
+
+Shafi`i Shafi | w_freq: 2 - 4 | wiki_freq: 48 - 56 | sentence_idx: 395093 | align_1: 9-9 | align_2: 10-17 | ner_entity: Sunni Shafi`i-Shafi ` ich |    Less than 1 % are part of the Sunni Shafi`i school ( primarily Chechens ) . ||| Weniger als 1 % ist ein Teil der Sunniten Shafi ` ich ( Shafi ` ich ) Schule ( in erster Linie Tschetschenen ( Tschetschenen ) ) .
+
+Bayán Bayán | w_freq: 1 - 2 | wiki_freq: 80 - 0 | sentence_idx: 409454 | align_1: 15-12 | align_2: 16-17 | ner_entity: Persian Bayán-none |    During his incarceration there , the Báb began his most important work , the Persian Bayán , which he never finished . ||| Während seiner Haft dort , Báb begann seine wichtigste Arbeit , persischen Bayán ( Persischer Bayán ) , den er nie beendete .
+
+irBarcelona irBarcelona | w_freq: 2 - 1 | wiki_freq: 0 - 0 | sentence_idx: 456492 | align_1: 7-8 | align_2: 8-13 | ner_entity: irBarcelona-irBarcelona |    The personal data I deal with in irBarcelona come from : ||| Die persönlichen Daten , mit denen ich in irBarcelona zu tun habe , stammen aus :
+
+Solizentrum Solizentrum | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 457049 | align_1: 5-4 | align_2: 6-9 | ner_entity: none-Solizentrum |    Many hands have made our Solizentrum what it is today : ||| Viele Hände haben das Solizentrum zu dem gemacht , was es heute ist :
+
+Nazirites Nazirither | w_freq: 1 - 1 | wiki_freq: 28 - 0 | sentence_idx: 489954 | align_1: 10-9 | align_2: 11-21 | ner_entity: Nazirites-none |    And I stirred up prophets from your sons , and Nazirites from your young men . ||| 1 Und habe aus euren Kindern Propheten auferweckt und Nazirither ( von Gott vor der Geburt für bestimmte Aufgaben auserwählte ) aus euren Jünglingen .
+
+euro2020.com/hospitality euro2020.com/hospitality | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 493806 | align_1: 1-1 | align_2: 2-6 | ner_entity: euro2020.com/hospitality-euro2020.com/hospitality |    Visit euro2020.com/hospitality to apply now . ||| Besuche euro2020.com/hospitality , um dich jetzt zu bewerben .
+
+Shafi`i Shafi | w_freq: 2 - 4 | wiki_freq: 48 - 56 | sentence_idx: 555564 | align_1: 9-9 | align_2: 10-17 | ner_entity: Sunni Shafi`i-Shafi ` ich |    Less than 1 % are part of the Sunni Shafi`i school ( mainly Chechnyans ) . ||| Weniger als 1 % ist ein Teil der Sunniten Shafi ` ich ( Shafi ` ich ) Schule ( in erster Linie Tschetschenen ( Tschetschenen ) ) .
+
+Indriyas Indriyas | w_freq: 2 - 2 | wiki_freq: 6 - 0 | sentence_idx: 580581 | align_1: 18-16 | align_2: 19-20 | ner_entity: Indriyas-none |    How long do you want to be a slave of the world , a slave of passions and Indriyas ? ||| Wie lange willst du noch ein Sklave der Welt sein , ein Sklave von Leidenschaften und Indriyas ( Sinneseindrücke ) ?
+
+Mix93.3 Mix93.3 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 589803 | align_1: 9-10 | align_2: 10-15 | ner_entity: Mix93.3-Mix93.3 |    “ He apologizes to his fans in KC and Mix93.3 . ” ||| Er entschuldigt sich bei seinen Fans in KC und bei Mix93.3 ( sic ) “ .
+
+BETS BETS | w_freq: 2 - 1 | wiki_freq: 5 - 2 | sentence_idx: 593058 | align_1: 6-6 | align_2: 7-10 | ner_entity: BETS-none |    The Maestro is referring to the BETS about Adam in my previous post . ||| Der Maestro bezieht sich auf die BETS ( Wetten ) über Adam in meinem vorherigen Beitrag .
+
+Inpex Inpex | w_freq: 1 - 1 | wiki_freq: 37 - 3 | sentence_idx: 665696 | align_1: 9-9 | align_2: 10-14 | ner_entity: Inpex-Inpex |    That same year I competed in a show called Inpex ( recognized worldwide ) and won Best Innovation in Safety / Security . ||| Im selben Jahr konkurrierte er in einer Show namens Inpex < / Em > ( weltweit anerkannt ) und gewann beste Innovation in Sicherheit / Sicherheit .
+
+MigrationWatch MigrationWatch | w_freq: 1 - 1 | wiki_freq: 49 - 13 | sentence_idx: 667019 | align_1: 8-6 | align_2: 9-10 | ner_entity: MigrationWatch-MigrationWatch |    He highlighted a report by the anti-immigration group MigrationWatch that raised the prospect of 130,000 EU immigrants arriving in Britain every year . ||| Er hob einen Bericht der Anti-Immigrationsgruppe MigrationWatch hervor , in dem die Aussicht auf 130.000 EU-Immigranten , die jedes Jahr nach Großbritannien einreisen , aufgeworfen wurde .
+
+eTA eTA | w_freq: 8 - 6 | wiki_freq: 48 - 7 | sentence_idx: 674323 | align_1: 31-28 | align_2: 32-33 | ner_entity: eTA-eTA |    Secondly , you can not leave the country if you were diagnosed with tuberculosis and finally , it 's your obligation to be aware of what the Australian tourist visa or eTA enables you to do in Australia . ||| Zweitens können Sie das Land nicht verlassen , wenn Sie mit Tuberkulose diagnostiziert wurden und schließlich ist es Ihre Verantwortung zu wissen , was das Touristenvisum Australien oder eTA ( ESTA ) Ihnen erlaubt , in Australien zu tun .
+
+FIBO FIBO | w_freq: 6 - 6 | wiki_freq: 29 - 16 | sentence_idx: 693376 | align_1: 6-8 | align_2: 7-13 | ner_entity: FIBO-FIBO |    The current version as displayed at FIBO costs about EUR 20,000 . ||| Die aktuelle Version , wie sie auf der FIBO zu sehen war , kostet rund 20.000 Euro .
+
+Oreodonts Oreodont | w_freq: 1 - 1 | wiki_freq: 5 - 0 | sentence_idx: 744798 | align_1: 0-0 | align_2: 1-5 | ner_entity: Oreodonts-Oreodont |    Oreodonts , an endemic American group , were very diverse during this time . ||| Oreodont ( oreodont ) s , eine endemische amerikanische Gruppe , waren während dieser Zeit sehr verschieden .
+
+Dracos Dracos | w_freq: 6 - 5 | wiki_freq: 19 - 16 | sentence_idx: 751908 | align_1: 10-9 | align_2: 11-15 | ner_entity: Dracos-Dracos |    One of the technologies given to the Nazis by the Dracos was LIFE-EXTENDING TECHNOLOGIES . ||| Eine der Technologien , die den Nazis von den Dracos zur Verfügung gestellt bekamen , war lebensverlängernde Technologien .
+
+Dyfvermark Dyfvermark | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 765589 | align_1: 6-7 | align_2: 7-11 | ner_entity: Joachim Dyfvermark-Joachim Dyfvermark |    Finally , ( 5 ) Joachim Dyfvermark from Swedish Television was an important partner for several respondents who worked closely with him researching a specific aspect or person and exchanging the information gathered . ||| Schließlich ( 5 ) war auch Joachim Dyfvermark ( JD ) vom schwedischen Fernsehen ein wichtiger Partner für mehrere Befragte , die eng mit ihm zusammenarbeiteten , um einen bestimmten Aspekt oder eine bestimmte Person zu erforschen und die gesammelten Informationen auszutauschen .
+
+myers-briggs briggs | w_freq: 1 - 2 | wiki_freq: 0 - 0 | sentence_idx: 768942 | align_1: 9-11 | align_2: 10-16 | ner_entity: none-myers briggs |    Another reason why experts question the scientific credibility of myers-briggs is that the answers are entirely self-reported . ||| Ein weiterer grund , warum experten die wissenschaftliche glaubwürdigkeit von myers briggs in frage stellen , ist , dass die antworten vollständig von sich selbst berichtet werden .
+
+Steemit Steemit | w_freq: 6 - 6 | wiki_freq: 12 - 23 | sentence_idx: 779759 | align_1: 4-5 | align_2: 5-10 | ner_entity: Steemit-Steemit |    Almost everything related to Steemit is openly available . ||| Fast alles , was mit Steemit zu tun hat , ist offen verfügbar .
+
+Andale Andale | w_freq: 1 - 1 | wiki_freq: 80 - 5 | sentence_idx: 782054 | align_1: 1-1 | align_2: 2-5 | ner_entity: Andale-none |    ‘ Andale , Comte Ronald de Ronaldo Bonnefont , ’ he thought , ‘ you will have to open your eyes . ’ ||| ‘ Andale ( los ) , Graf Ronald de Ronaldo Bonnefont , ’ dachte er , ‘ du wirst deine Augen aufmachen müssen . ’
+
+Zanjón Zanjón | w_freq: 1 - 2 | wiki_freq: 50 - 26 | sentence_idx: 784718 | align_1: 11-10 | align_2: 12-16 | ner_entity: Pact of Zanjón-Pakt von Zanjón |    Neither the brutal fighting nor the reforms in the Pact of Zanjón ( February 1878 ) quelled the desire of some revolutionaries for independence . ||| Weder das brutale Kämpfen noch die Reformen im Pakt von Zanjón ( Pakt von Zanjón ) ( Februar 1878 ) unterdrückten den Wunsch von einigen Revolutionären für die Unabhängigkeit .
+
+thibk thibk | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 803364 | align_1: 6-8 | align_2: 7-12 | ner_entity: none-thibk |    Then after the eight months I thibk I got him mad and that was the last I heard from him . ||| Dann nach den acht monaten , die ich thibk bekam , habe ich ihn wütend gemacht , und das war das letzte , was ich von ihm gehört habe .
+
+HFSC HFSC | w_freq: 1 - 1 | wiki_freq: 24 - 1 | sentence_idx: 830737 | align_1: 5-5 | align_2: 6-9 | ner_entity: HFSC-HFSC |    Do n’t change this to HFSC unless you know what you ’re doing . ||| Ändern Sie dies nicht in HFSC , es sei denn , Sie wissen , was Sie tun .
+
+38:79 Sad-79 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 835512 | align_1: 0-2 | align_2: 1-6 | ner_entity: none-Sad-79 |    38:79 He said : " My Lord , respite me until the Day they are resurrected . " ||| 38 / Sad-79 : ( Iblis ) Sagte : „ Mein Herr , so gewähre mir Aufschub bis zum Tag der Wiederauferstehung “ .
+
+Shamsky Shamsky | w_freq: 1 - 2 | wiki_freq: 65 - 1 | sentence_idx: 845017 | align_1: 5-7 | align_2: 6-15 | ner_entity: The Shamsky Monkey Trust-Die Shamsky Monkey Stiftung |    Another legal entity , The Shamsky Monkey Trust , purchased two more houses in 2009 and 2010 . ||| Eine andere juristische Person , „ Die Shamsky Monkey Stiftung “ ( „ The Shamsky Monkey Trust “ ) , kaufte in den Jahren 2009 und 2010 zwei weitere Häuser .
+
+Boniperti Boniperti | w_freq: 1 - 2 | wiki_freq: 89 - 39 | sentence_idx: 851655 | align_1: 26-29 | align_2: 27-34 | ner_entity: Giampiero Boniperti-Giampiero Boniperti |    His phone calls , every morning at 6 am , from wherever he was , whatever was he doing , to the club ’s president Giampiero Boniperti , were legendary . ||| Seine Anrufe , jeden Morgen um 6:00 Uhr , von wo auch immer er war , was auch immer war er das Tun , zu Präsident des Klubs Giampiero Boniperti ( Giampiero Boniperti ) , waren legendär .
+
+G-TEC G-TEC | w_freq: 1 - 1 | wiki_freq: 3 - 1 | sentence_idx: 869341 | align_1: 6-7 | align_2: 7-11 | ner_entity: ŠKODA SCALA G-TEC-SCALA G-TEC |    And anyone driving a ŠKODA SCALA G-TEC will in future also benefit from comparatively low fuel costs in many countries . ” ||| Und wer künftig mit einem SKODA SCALA G-TEC unterwegs ist , profitiert in vielen Ländern zudem von vergleichsweise niedrigen Kraftstoffkosten . ”
+
+MoMRtA MoMRtA | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 870166 | align_1: 8-8 | align_2: 9-16 | ner_entity: MoMRtA-MoMRtA |    The Museum of Manufactured Response to Absence ( MoMRtA ) questions the impact of the presence or absence of minority communities and subcultures on the nations they take residence in . ||| Das Museum of Manufactured Response to Absence ( MoMRtA - Museum der gefertigten Antwort auf Abwesenheit ) hinterfragt die Auswirkungen der Präsenz oder Abwesenheit von Minderheitsgemeinden und Subkulturen auf die Nationen , in denen sie ihren Wohnsitz haben .
+
+Saqar Saqar | w_freq: 11 - 9 | wiki_freq: 30 - 1 | sentence_idx: 873408 | align_1: 8-8 | align_2: 9-18 | ner_entity: Saqar-Saqar |    And what can make you know what is Saqar ? ||| „ Und wie kannst du wissen , was Saqar ( ein anderer Name für die Hölle ) ist ?
+
+CAPCOMs CAPCOMs | w_freq: 2 - 2 | wiki_freq: 19 - 0 | sentence_idx: 897744 | align_1: 4-4 | align_2: 5-8 | ner_entity: none-CAPCOMs |    They also served as CAPCOMs during the mission . ||| Sie dienten auch als CAPCOMs ( Kapselmitteilender ) während der Mission .
+
+terraXcube terraXcube | w_freq: 1 - 1 | wiki_freq: 2 - 2 | sentence_idx: 911750 | align_1: 12-10 | align_2: 13-15 | ner_entity: terraXcube-terraXcube |    Companies from these sectors can use the facilities and the services of terraXcube to : ||| Unternehmen aus diesen Sektoren können die Infrastrukturen und Dienstleistungen von terraXcube in Anspruch nehmen , um :
+
+O.T.C. O.T.C. | w_freq: 1 - 1 | wiki_freq: 22 - 0 | sentence_idx: 950475 | align_1: 3-1 | align_2: 4-7 | ner_entity: O.T.C.-none |    Any public school O.T.C. in England is far more like a modern army than we were . ||| Jedes O.T.C. ( Offiziersausbildungskorps ) einer Internatsschule in England ähnelt eher einer modernen Armee , als wir es taten .
+
+Vaishaka Shivaya | w_freq: 1 - 1 | wiki_freq: 14 - 4 | sentence_idx: 975712 | align_1: 14-23 | align_2: 15-27 | ner_entity: Vaishaka-Om Namah Shivaya |    Visakhapatnam , which is popularly referred to as Vizag , is named after God Vaishaka . ||| Vishvanatha ist ein [ [ spiritueller Name ] ] , der Aspiranten gegeben werden kann , die das Mantra [ [ Om Namah Shivaya ] ] haben .
+
+Amadon Amadon | w_freq: 1 - 2 | wiki_freq: 51 - 36 | sentence_idx: 989089 | align_1: 3-3 | align_2: 4-8 | ner_entity: Dean Amadon-Dean Amadon |    1951 with Dean Amadon , " A classification of recent birds . " ||| 1951 mit Dean Amadon ( Dean Amadon ) , " Eine Klassifikation von neuen Vögeln " .
+
+AWEG AWEG | w_freq: 3 - 3 | wiki_freq: 0 - 0 | sentence_idx: 992902 | align_1: 1-1 | align_2: 2-5 | ner_entity: none-AWEG |    1 AWEG , which only have to be filled or packaged to become the final product ) . ||| 1 AWEG [ 1 ] , die lediglich abgefüllt oder abgepackt werden müssen , um zum Endprodukt zu werden ) .
+

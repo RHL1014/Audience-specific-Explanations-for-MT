@@ -1,0 +1,74 @@
+Vibhutis Vibhutis | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 5637 | align_1: 1-1 | align_2: 2-5 | ner_entity: Vibhutis-none |    The Vibhutis of the Lord , Siddhis and Riddhis are theirs though they do not want them . ||| Die Vibhutis ( Gnade ) des Herrn , Siddhis und Riddhis ( acht / vier okkulte Kräfte ) gehören ihnen , obwohl sie sie nicht begehren .
+
+Riddhis Riddhis | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 5637 | align_1: 8-10 | align_2: 9-18 | ner_entity: Riddhis-Riddhis |    The Vibhutis of the Lord , Siddhis and Riddhis are theirs though they do not want them . ||| Die Vibhutis ( Gnade ) des Herrn , Siddhis und Riddhis ( acht / vier okkulte Kräfte ) gehören ihnen , obwohl sie sie nicht begehren .
+
+Allaah Allaah | w_freq: 34 - 17 | wiki_freq: 28 - 0 | sentence_idx: 8059 | align_1: 6-0 | align_2: 7-5 | ner_entity: Allaah-Allaah |    If he were to swear by Allaah , Allaah would fulfill his oath . ||| Allaah ( ta ’ aala ) schwört auf Seine Geschöpfe nach Belieben .
+
+Allaah Allaah | w_freq: 34 - 17 | wiki_freq: 28 - 0 | sentence_idx: 8059 | align_1: 8-0 | align_2: 9-6 | ner_entity: Allaah-Allaah |    If he were to swear by Allaah , Allaah would fulfill his oath . ||| Allaah ( ta ’ aala ) schwört auf Seine Geschöpfe nach Belieben .
+
+al-Hadid:20 3:185 | w_freq: 2 - 11 | wiki_freq: 0 - 0 | sentence_idx: 12919 | align_1: 18-17 | align_2: 19-21 | ner_entity: al-Hadid:20-none |    Allah says , “ And the life of this world is only a deceiving enjoyment . ” [ al-Hadid:20 ] ||| Allah sagt : „ Und das diesseitige Leben ist nur trügerischer Genuß . “ ( Aal Imraan 3:185 , ungefähre Bedeutung ) .
+
+al-Hadid:20 Imraan | w_freq: 2 - 2 | wiki_freq: 0 - 14 | sentence_idx: 12919 | align_1: 18-16 | align_2: 19-21 | ner_entity: al-Hadid:20-Aal Imraan |    Allah says , “ And the life of this world is only a deceiving enjoyment . ” [ al-Hadid:20 ] ||| Allah sagt : „ Und das diesseitige Leben ist nur trügerischer Genuß . “ ( Aal Imraan 3:185 , ungefähre Bedeutung ) .
+
+Mleccha mleccha | w_freq: 1 - 1 | wiki_freq: 45 - 1 | sentence_idx: 20985 | align_1: 8-6 | align_2: 9-10 | ner_entity: Mleccha-none |    And , O lord of men , numerous Mleccha kings then rule over the earth ! ||| O Herr der Menschen , zahllose mleccha [ Fleischesser ] Könige herrschen dann über die Erde !
+
+Allaah Allaah | w_freq: 34 - 17 | wiki_freq: 28 - 0 | sentence_idx: 31780 | align_1: 3-0 | align_2: 4-5 | ner_entity: Allaah-Allaah |    I swear by Allaah , they have shown their betrayal . ||| Allaah ( ta ’ aala ) schwört auf Seine Geschöpfe nach Belieben .
+
+IsraelPolitik IsraelPolitik | w_freq: 2 - 3 | wiki_freq: 10 - 0 | sentence_idx: 129722 | align_1: 8-7 | align_2: 9-12 | ner_entity: IsraelPolitik-IsraelPolitik |    The questions and answers were later posted on IsraelPolitik , the country 's official political blog . ||| Die Fragen und Antworten wurden später auf IsraelPolitik ( Israel Politik ) , der offizielle politische blog des Landes angeschlagen .
+
+Qaroun Qarun | w_freq: 2 - 12 | wiki_freq: 11 - 11 | sentence_idx: 159057 | align_1: 1-2 | align_2: 2-6 | ner_entity: Qaroun-Qarun |    Surely Qaroun was of the people of Musa , but he rebelled against ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging
+
+Qarun Qarun | w_freq: 16 - 12 | wiki_freq: 78 - 11 | sentence_idx: 197919 | align_1: 3-2 | align_2: 4-6 | ner_entity: Qarun-Qarun |    “ Indeed , Qarun was from the people of Moses , but he tyrannized them . ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging
+
+Qaroun Qarun | w_freq: 2 - 12 | wiki_freq: 11 - 11 | sentence_idx: 206130 | align_1: 3-2 | align_2: 4-6 | ner_entity: Qaroun-Qarun |    S : Surely Qaroun was of the people of Musa , but he rebelled against ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging
+
+Qarun Qarun | w_freq: 16 - 12 | wiki_freq: 78 - 11 | sentence_idx: 218842 | align_1: 2-2 | align_2: 3-6 | ner_entity: Qarun-Qarun |    Indeed , Qarun was from the people of Moses , but he tyrannized them . ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging
+
+86:9 86:9 | w_freq: 5 - 2 | wiki_freq: 0 - 1 | sentence_idx: 244212 | align_1: 1-2 | align_2: 2-8 | ner_entity: Psalm 86:9-none |    Psalm 86:9 – “ All the nations you have made will come and worship before you and will glorify your name . ” ||| In Psalm 86:9 , 10 ist vorausgesagt worden : „ Alle Nationen , die du gemacht hast , werden kommen und vor dir anbeten , Herr , und deinen Namen verherrlichen .
+
+goyim Goyim | w_freq: 10 - 15 | wiki_freq: 41 - 7 | sentence_idx: 329003 | align_1: 1-2 | align_2: 2-6 | ner_entity: none-Goyim |    The goyim are a flock of sheep and we are their wolves " . ||| „ Die Goyim ( Heiden ) sind eine Herde von Schafen , und wir sind die Wölfe .
+
+Wolterstorff Wolterstorff | w_freq: 1 - 1 | wiki_freq: 94 - 51 | sentence_idx: 336969 | align_1: 12-9 | align_2: 13-14 | ner_entity: Nick Wolterstorff-Nick Wolterstorff |    It would seem , then , that we should conclude with Nick Wolterstorff that God is temporal . ||| Es scheint also , als sollten wir mit Nick Wolterstorff den Schluss ziehen , dass Gott temporal ist .
+
+Ice4Life Ice4Life | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 441146 | align_1: 19-17 | align_2: 20-22 | ner_entity: Ice4Life-Ice4Life |    The goals will be reviewed every year , but we will always be opposed to keeping the goals of Ice4Life as Mark Bos put it at the time . ||| Die Ziele werden jedes Jahr überprüft , aber wir werden immer dagegen sein , die Ziele von Ice4Life so zu halten , wie Mark Bos es damals formuliert hat .
+
+GeneXmatch GeneXmatch | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 443329 | align_1: 3-2 | align_2: 4-8 | ner_entity: GeneXmatch-GeneXmatch |    Can I use GeneXmatch when I already have frozen embryos with my donor?+ ||| Kann ich GeneXmatch auch dann noch verwenden , wenn ich bereits eingefrorene Embryos mit meinem Spender gezeugt habe?+
+
+UNICEF-Khartoum UNICEF-Khartoum | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 471902 | align_1: 13-14 | align_2: 14-19 | ner_entity: UNICEF-Khartoum-UNICEF-Khartoum |    A document prepared by the National Committee of Social Assistance in collaboration with UNICEF-Khartoum is doing the same . ||| Ein Dokument , das vom Nationalen Rat für soziale Unterstützung in Zusammenarbeit mit der UNICEF-Khartoum vorbereitet worden ist , tut das gleiche .
+
+Googlebot Googlebot | w_freq: 4 - 4 | wiki_freq: 33 - 17 | sentence_idx: 476004 | align_1: 7-6 | align_2: 8-11 | ner_entity: Googlebot-Googlebot |    We are now ready to welcome Mr. Googlebot but he seems to be a little shy ... ||| Wir sind nun bereit , Mr. Googlebot willkommen zu heißen , doch er scheint ein wenig schüchtern zu sein ...
+
+Katibin Katibin | w_freq: 1 - 2 | wiki_freq: 27 - 3 | sentence_idx: 478948 | align_1: 1-1 | align_2: 2-6 | ner_entity: Kiraman Katibin-Kiraman Katibin |    Kiraman Katibin : the two angels who record a person ’s good and bad deeds . ||| Kiraman Katibin ( Kiraman Katibin ) - zwei Engel , die die guten und schlechten Akte der Person registrieren .
+
+47Aaron Qarun | w_freq: 1 - 12 | wiki_freq: 0 - 11 | sentence_idx: 531529 | align_1: 0-1 | align_2: 1-5 | ner_entity: none-Qarun |    47Aaron did as Moses told him and ran out among the people . ||| 76. Qarun ( Korah ) war einer aus dem Volk von Moses , doch er täuschte und unterdrückte es .
+
+non-Kazakhs non-Kazakhs | w_freq: 1 - 1 | wiki_freq: 5 - 0 | sentence_idx: 606261 | align_1: 16-16 | align_2: 17-22 | ner_entity: non-Kazakhs-none |    The term Kazakhstani ( ; ) was coined to describe all citizens of Kazakhstan , including non-Kazakhs . ||| Der Begriff Kazakhstani ( ;) wurde ins Leben gerufen , um alle Bürger Kasachstans , einschließlich non-Kazakhs ( Kazakhs ) zu beschreiben .
+
+Canadian-Americans Canadian-Americans | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 609233 | align_1: 5-5 | align_2: 6-11 | ner_entity: Canadian-Americans-none |    You can say things like Canadian-Americans – like Jim Carrey who has dual citizenship . ||| Man kann Sachen sagen wie Canadian-Americans ( Amerikaner kanadischer Herkunft ) - wie Jim Carrey , der eine doppelte Staatsbürgerschaft besitzt .
+
+Semicha Semicha | w_freq: 1 - 1 | wiki_freq: 74 - 87 | sentence_idx: 673903 | align_1: 5-4 | align_2: 6-10 | ner_entity: Semicha-Semicha |    And I am giving you Semicha and now you are a Rabbi . ||| Und ich gebe dir Semicha ( Rabbiner-Diplom bzw. Ordination ) und du bist von jetzt an ein Rabbiner .
+
+Elacin Elacin | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 679362 | align_1: 6-5 | align_2: 7-10 | ner_entity: Elacin-Elacin |    To inform employees of customers of Elacin that new hearing protection products are needed ||| Um Mitarbeiter von Kunden von Elacin darüber zu informieren , dass neue Hörschutzprodukte benötigt werden
+
+Palodes Palodes | w_freq: 1 - 1 | wiki_freq: 11 - 2 | sentence_idx: 680482 | align_1: 3-2 | align_2: 4-7 | ner_entity: Palodes-Palodes |    When you reach Palodes , take care to proclaim that the great god Pan is dead . " ||| Wenn Sie Palodes ( Pelodes ) erreichen , darauf achten öffentlich zu verkündigen , dass die große Gott-Pfanne tot ist . "
+
+WooCommerce WooCommerce | w_freq: 25 - 25 | wiki_freq: 46 - 9 | sentence_idx: 685086 | align_1: 7-9 | align_2: 8-14 | ner_entity: WooCommerce-WooCommerce |    If you ’re interested in contributing to WooCommerce we ’ve got more than 350 contributors , and there ’s always room for more . ||| Wenn Sie daran interessiert sind , einen Beitrag zu WooCommerce zu leisten , haben wir mehr als 350 Mitwirkende , und es gibt immer Platz für mehr .
+
+DLTB DLTB | w_freq: 1 - 1 | wiki_freq: 3 - 14 | sentence_idx: 701986 | align_1: 6-4 | align_2: 7-9 | ner_entity: DLTB-DLTB |    It is also indisputable for the DLTB that black lottery bets must remain banned . ||| Unstrittig ist für den DLTB auch die Tatsache , dass schwarze Lotteriewetten weiterhin verboten bleiben müssen .
+
+MARIANUM MARIANUM | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 712370 | align_1: 20-23 | align_2: 21-28 | ner_entity: MARIANUM-IMPERIUM MARIANUM |    We pray and ask in silence that the Western world one day will be as it was : an IMPERIUM MARIANUM . " ||| Wir beten und bitten in der Stille , dass die westliche Welt eines Tages sein wird , wie sie war : ein IMPERIUM MARIANUM [ Marias Kaiserreich ] . ”
+
+Juptr Juptr | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 836865 | align_1: 2-2 | align_2: 3-7 | ner_entity: Juptr-Juptr |    We founded Juptr because we believe a successful future will be shaped in communities . ||| Wir haben Juptr ins Leben gerufen , weil wir überzeugt sind , dass eine erfolgreiche Zukunft in Communities gestaltet wird .
+
+E-47 E-47 | w_freq: 5 - 5 | wiki_freq: 1 - 0 | sentence_idx: 860192 | align_1: 0-0 | align_2: 1-4 | ner_entity: E-47-none |    E-47 Said , " You can just go a few days . ||| E-47 [ Pharao ] sagte : „ Ihr könnt einfach ein paar Tage gehen .
+
+Polozov Polosow | w_freq: 1 - 1 | wiki_freq: 36 - 7 | sentence_idx: 865779 | align_1: 13-12 | align_2: 14-18 | ner_entity: Nikolai Polozov-Nikolaj Polosow |    And when these letters were brought to me , I even asked Nikolai Polozov to come and I gave him to read these 5 - 6 letters . ||| Und als mir diese Briefe gebracht wurden , habe ich sogar Nikolaj Polosow ( Anwalt ) gebeten , zu kommen , ich gab ihm diese 5 - 6 Briefe zu lesen .
+
+Bwin Bwin | w_freq: 2 - 2 | wiki_freq: 61 - 12 | sentence_idx: 879875 | align_1: 10-10 | align_2: 11-15 | ner_entity: Bwin-Bwin |    The biggest complaint we seem to come across online with Bwin is their support . ||| Die größte Beanstandung , die wir scheinen , online mit Bwin zufällig zu stoßen , ist ihre Unterstützung .
+
+IsraelPolitik IsraelPolitik | w_freq: 2 - 3 | wiki_freq: 10 - 0 | sentence_idx: 900014 | align_1: 8-7 | align_2: 9-12 | ner_entity: IsraelPolitik-IsraelPolitik |    The questions and answers were later posted on IsraelPolitik , the country ’s official political blog . ||| Die Fragen und Antworten wurden später auf IsraelPolitik ( Israel Politik ) , der offizielle politische blog des Landes angeschlagen .
+
+komin Komin | w_freq: 1 - 1 | wiki_freq: 12 - 6 | sentence_idx: 948858 | align_1: 9-11 | align_2: 10-16 | ner_entity: none-Komin |    Fatma : “ It ’s been 20 months since komin was created , and I ’m working here . ||| Fatma : » Es ist 20 Monate her , seit die Komin ( Gemeinde ) gegründet wurde , und ich arbeite hier .
+
+Ovda Ovda | w_freq: 1 - 1 | wiki_freq: 84 - 17 | sentence_idx: 999518 | align_1: 8-8 | align_2: 9-14 | ner_entity: Ovda-Ovda |    I recommend you check flights to Eilat or Ovda if : ||| Ich empfehle euch , Flüge nach Eilat oder Ovda in Betracht zu ziehen , wenn :
+

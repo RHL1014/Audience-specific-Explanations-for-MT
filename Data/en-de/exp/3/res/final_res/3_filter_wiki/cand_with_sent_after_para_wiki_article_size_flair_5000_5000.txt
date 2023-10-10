@@ -1,0 +1,58 @@
+Cloudflare Cloudflare | w_freq: 19 - 18 | wiki_freq: 321 - 85 | sentence_idx: 3995 | align_1: 22-28 | align_2: 23-35 | entity: Cloudflare - Cloudflare |    I ’m proud of the work we ’ve done through Project Galileo over the last five years lending the full weight of Cloudflare to protect these politically and artistically important organizations . ||| Ich bin stolz auf die Arbeit , die wir in den letzten fünf Jahren im Rahmen von Project Galileo geleistet haben , indem wir das ganze Gewicht von Cloudflare in die Waagschale gelegt haben , um diese politisch und künstlerisch wichtigen Organisationen zu schützen . 
+
+Ayre Ayre | w_freq: 2 - 2 | wiki_freq: 891 - 134 | sentence_idx: 74867 | align_1: 0-0 | align_2: 1-4 | entity: Ayre - Ayre |    Ayre not opting for Bitcoin mining also sends a very clear signal to that community . ||| Ayre , der sich nicht für den Bitcoin-Mining entscheidet , sendet auch ein sehr klares Signal an diese Gemeinschaft . 
+
+Rogge Rogge | w_freq: 5 - 5 | wiki_freq: 639 - 686 | sentence_idx: 102424 | align_1: 7-6 | align_2: 8-11 | entity: Rogge - Rogge |    But it is necessary to remind Mr. Rogge that the Chinese communist regime treated the application and hosting of the Olympic Games exactly as an important political task . ||| Aber es ist notwendig , Herrn Rogge daran zu erinnern , dass das chinesische kommunistische Regime die Bewerbung und Gastgeberfunktion der Olympischen Spiele eben genau als wichtige politische Aufgabe behandelt . 
+
+Gaia Gaia | w_freq: 217 - 191 | wiki_freq: 4660 - 1629 | sentence_idx: 121701 | align_1: 9-11 | align_2: 10-16 | entity: Gaia - Gaia |    Everything we do in these last days to ascend Gaia is infinitely bigger than our wildest imagination . ||| Alles , was wir in diesen letzten Tagen tun , um Gaia aufsteigen zu lassen , ist unendlich viel größer als unsere wildeste Vorstellung . 
+
+ISL ISL | w_freq: 7 - 6 | wiki_freq: 2110 - 210 | sentence_idx: 151937 | align_1: 0-0 | align_2: 1-6 | entity: ISL - ISL |    ISL : Support the Demands of the Palestinian Freedom Fighters in Israeli Prisons ! ||| ISL [ in englischer Sprache ] : Unterstützt die Forderungen der palästinensischen Freiheitskämpfer in den israelischen Gefängnissen ! 
+
+Limpopo Limpopo | w_freq: 7 - 6 | wiki_freq: 3027 - 619 | sentence_idx: 230279 | align_1: 4-2 | align_2: 5-7 | entity: Limpopo - Limpopo |    What ’s happening in Limpopo serves as a sobering case study . ||| Was in Limpopo vor sich geht , dient als ernüchternde Fallstudie . 
+
+Amchitka Amchitka | w_freq: 1 - 1 | wiki_freq: 325 - 39 | sentence_idx: 236657 | align_1: 12-13 | align_2: 13-19 | entity: Amchitka - Amchitka |    The news of a third test of an even larger bomb on Amchitka quickly sparked international criticism . ||| Die Nachricht , dass ein dritter Test mit einer noch größeren Bombe auf Amchitka durchgeführt werden sollte , rief rasch internationale Kritik hervor . 
+
+BLS BLS | w_freq: 11 - 9 | wiki_freq: 1130 - 1120 | sentence_idx: 337747 | align_1: 9-10 | align_2: 10-16 | entity: BLS - BLS |    Why is every economic indicator flashing red while the BLS says the employment situation has never been better ? ||| Warum leuchten alle ökonomischen Indikatoren rot auf , während das BLS ( Agentur für Arbeit ) sagt , dass die Beschäftigungssituation nie besser war ? 
+
+Lebowski Lebowski | w_freq: 2 - 1 | wiki_freq: 338 - 103 | sentence_idx: 409157 | align_1: 30-29 | align_2: 31-34 | entity: The Big Lebowski - The Big Lebowski |    And let ’s not forget that just one eye roll between cast members can say a thousand words , especially in “ The Breakfast Club ” or “ The Big Lebowski . ” ||| Und vergessen wir nicht , dass nur ein kurzer Blickkontakt zwischen den Darstellern tausend Worte sagen kann , was besonders in " Der Frühstücksclub " und " The Big Lebowski " der Fall ist . 
+
+Wittgenstein Wittgenstein | w_freq: 7 - 5 | wiki_freq: 3261 - 2814 | sentence_idx: 435019 | align_1: 4-3 | align_2: 5-8 | entity: Ludwig Wittgenstein - Ludwig Wittgenstein |    One must consult Ludwig Wittgenstein to grasp exotic forms of consciousness , he said . ||| Man müsse Ludwig Wittgenstein zu Rate ziehen , um exotische Formen des Bewusstseins zu erfassen , sagte er . 
+
+Beam Beam | w_freq: 22 - 18 | wiki_freq: 4197 - 610 | sentence_idx: 523328 | align_1: 15-18 | align_2: 16-25 | entity: Jim Beam - Jim Beam |    Jim Beam Home Assistant : We 're still not 100 % sure that the Jim Beam shot-dispensing , talking , home assistant is real . ||| Jim Beam Home Assistant : Wir sind immer noch nicht 100 % ig sicher , dass der Jim Beam , der die Kamera ausgibt , sprechend und zu Hause ist , real ist . 
+
+Kinloss Kinloss | w_freq: 1 - 2 | wiki_freq: 531 - 128 | sentence_idx: 529696 | align_1: 4-4 | align_2: 5-9 | entity: RAF Kinloss - RAF Kinloss |    A third , RAF Kinloss will close as an RAF unit in 2013–14 . ||| Ein Drittel , RAF Kinloss ( RAF Kinloss ) wird als eine Einheit von RAF in 2013 - 14 geschlossen . 
+
+Jaisalmer Jaisalmer | w_freq: 1 - 2 | wiki_freq: 842 - 88 | sentence_idx: 541174 | align_1: 8-8 | align_2: 9-13 | entity: Jaisalmer - Jaisalmer |    There are two other airports in Kota and Jaisalmer , but are not open for commercial / civilian flights yet . ||| Es gibt zwei andere Flughäfen in Kota und Jaisalmer ( Jaisalmer Flughafen ) , aber ist für kommerzielle / zivile Flüge noch nicht offen . 
+
+Shaddai Shaddai | w_freq: 5 - 4 | wiki_freq: 254 - 12 | sentence_idx: 546877 | align_1: 19-20 | align_2: 20-27 | entity: El Shaddai - El Shaddai |    And his strength all gone , and here God stand before him , said , " I 'm El Shaddai . ||| Und seine Kraft war ganz dahin , und hier steht Gott vor ihm und sagt : “ Ich Bin El Shaddai , Ich Bin der gebrüstete Gott . ” 
+
+Shaddai Shaddai | w_freq: 5 - 4 | wiki_freq: 254 - 12 | sentence_idx: 546878 | align_1: 19-20 | align_2: 20-27 | entity: El Shaddai - El Shaddai |    And his strength all gone , and here God stand before him , said , " I 'm El Shaddai . ||| Und seine Kraft war ganz dahin , und hier steht Gott vor ihm und sagt : " Ich Bin El Shaddai , Ich Bin der gebrüstete Gott . " 
+
+Podgórze Podgórze | w_freq: 1 - 2 | wiki_freq: 197 - 160 | sentence_idx: 613246 | align_1: 11-10 | align_2: 12-15 | entity: Podgórze - Podgórze |    Much of Jewish intellectual life had moved to new centres like Podgórze . ||| Viel jüdisches intellektuelles Leben hatte sich zu neuen Zentren wie Podgórze ( Podgórze ) bewegt . 
+
+Inpex Inpex | w_freq: 1 - 1 | wiki_freq: 37 - 3 | sentence_idx: 665696 | align_1: 9-9 | align_2: 10-14 | entity: Inpex - Inpex |    That same year I competed in a show called Inpex ( recognized worldwide ) and won Best Innovation in Safety / Security . ||| Im selben Jahr konkurrierte er in einer Show namens Inpex < / Em > ( weltweit anerkannt ) und gewann beste Innovation in Sicherheit / Sicherheit . 
+
+Hades Hades | w_freq: 8 - 8 | wiki_freq: 3363 - 992 | sentence_idx: 674911 | align_1: 1-2 | align_2: 2-10 | entity: Hades - Hades |    And Hades followed him . ||| Und der Hades [ das allgemeine Grab der Menschheit ] folgte dicht hinter ihm . 
+
+Asana Asana | w_freq: 24 - 37 | wiki_freq: 213 - 81 | sentence_idx: 692239 | align_1: 7-4 | align_2: 8-9 | entity: Asana - Asana |    Created a “ home ” project in Asana where form responses will be recorded ||| Ein „ Home“-Projekt in Asana erstellt haben , in dem Rückmeldungen aus Formularen erfasst werden 
+
+Magento Magento | w_freq: 42 - 42 | wiki_freq: 165 - 73 | sentence_idx: 719190 | align_1: 1-1 | align_2: 2-6 | entity: Magento - Magento |    With Magento , never feel trapped in your eCommerce solution again . ||| Mit Magento , nie das Gefühl , gefangen in Ihrer eCommerce-Lösung wieder . 
+
+Hollande Hollande | w_freq: 39 - 35 | wiki_freq: 1605 - 750 | sentence_idx: 730335 | align_1: 12-8 | align_2: 13-13 | entity: François Hollande - François Hollande |    The arguments that are put forward by France 's new president François Hollande are nonsense and got us into this whole mess in the first place . ||| Die Argumente , die Frankreichs neuer Präsident François Hollande jetzt wieder vertritt , sind Unsinn und haben uns erst in dieses ganze Schlamassel gebracht . 
+
+Marcin Marcin | w_freq: 7 - 7 | wiki_freq: 2323 - 1116 | sentence_idx: 731104 | align_1: 12-12 | align_2: 13-17 | entity: Marcin - Marcin |    So we decided to ask our staff – Alexandra , Slawomir and Marcin ‘ What has your Dad taught you , that helps you in your work ? ’ ||| So haben wir beschlossen , unsere Mitarbeiter – Aleksandra , Sławomir und Marcin danach zu fragen : „ Was hat Dir dein Vater beigebracht , was Dir bei der Arbeit hilft ? 
+
+Jehu Jehu | w_freq: 3 - 3 | wiki_freq: 766 - 165 | sentence_idx: 838482 | align_1: 6-6 | align_2: 7-10 | entity: Jehu - Jehu |    The driving is like that of Jehu son of Nimshi–he drives like a madman . ” ||| Der Anführer der Truppe kann nur Jehu sein , der Enkel von Nimschi , denn er fährt wie ein Verrückter ! « 
+
+Maipú Maipú | w_freq: 1 - 1 | wiki_freq: 400 - 160 | sentence_idx: 839492 | align_1: 5-7 | align_2: 6-11 | entity: Maipú - Maipú |    During that same address in Maipú he urged us to speak out and be the renewal that the Church needs . ||| Es war bei der gleichen Ansprache in Maipú , bei der er uns einludt , Klartext zu reden und die Erneuerung zu sein , die die Kirche braucht . 
+
+Bormann Bormann | w_freq: 11 - 10 | wiki_freq: 1037 - 1326 | sentence_idx: 846479 | align_1: 3-3 | align_2: 4-8 | entity: Martin Bormann - Martin Bormann |    Along with Martin Bormann , he increasingly controlled access to Hitler . ||| Zusammen mit Martin Bormann ( Martin Bormann ) , er zunehmend kontrollierter Zugang zu Hitler . 
+
+Berlusconi Berlusconi | w_freq: 41 - 37 | wiki_freq: 3933 - 1334 | sentence_idx: 849448 | align_1: 5-5 | align_2: 6-10 | entity: Silvio Berlusconi - Silvio Berlusconi |    He then served in Silvio Berlusconi 's second cabinet as Reforms Minister . ||| Er dann gedient in Silvio Berlusconi ( Silvio Berlusconi ) 's das zweite Kabinett als Reformminister . 
+
+Boniperti Boniperti | w_freq: 1 - 2 | wiki_freq: 89 - 39 | sentence_idx: 851655 | align_1: 26-29 | align_2: 27-34 | entity: Giampiero Boniperti - Giampiero Boniperti |    His phone calls , every morning at 6 am , from wherever he was , whatever was he doing , to the club ’s president Giampiero Boniperti , were legendary . ||| Seine Anrufe , jeden Morgen um 6:00 Uhr , von wo auch immer er war , was auch immer war er das Tun , zu Präsident des Klubs Giampiero Boniperti ( Giampiero Boniperti ) , waren legendär . 
+
+Congreve Congreve | w_freq: 2 - 3 | wiki_freq: 1118 - 174 | sentence_idx: 896409 | align_1: 1-1 | align_2: 2-6 | entity: William Congreve - William Congreve |    William Congreve 's Incognita or Love and Duty Reconcil'd ( 1692 ) was typical in this respect . ||| William Congreve ( William Congreve ) 's Inkognito oder Liebe und Aufgabe Reconcil'd ( 1692 ) war typisch in dieser Beziehung . 
+
+Tullius Tullius | w_freq: 1 - 2 | wiki_freq: 665 - 680 | sentence_idx: 899146 | align_1: 6-5 | align_2: 7-10 | entity: Servius Tullius - Servius Tullius |    At least one king , Servius Tullius , was elected by the Senate alone , and not by the people . ||| Mindestens ein König , Servius Tullius ( Servius Tullius ) , war gewählt durch Senat allein , und nicht durch Leute . 
+

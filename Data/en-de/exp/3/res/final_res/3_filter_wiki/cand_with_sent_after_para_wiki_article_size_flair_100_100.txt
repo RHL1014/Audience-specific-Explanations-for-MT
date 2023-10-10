@@ -1,0 +1,4 @@
+Inpex Inpex | w_freq: 1 - 1 | wiki_freq: 37 - 3 | sentence_idx: 665696 | align_1: 9-9 | align_2: 10-14 | entity: Inpex - Inpex |    That same year I competed in a show called Inpex ( recognized worldwide ) and won Best Innovation in Safety / Security . ||| Im selben Jahr konkurrierte er in einer Show namens Inpex < / Em > ( weltweit anerkannt ) und gewann beste Innovation in Sicherheit / Sicherheit . 
+
+Boniperti Boniperti | w_freq: 1 - 2 | wiki_freq: 89 - 39 | sentence_idx: 851655 | align_1: 26-29 | align_2: 27-34 | entity: Giampiero Boniperti - Giampiero Boniperti |    His phone calls , every morning at 6 am , from wherever he was , whatever was he doing , to the club ’s president Giampiero Boniperti , were legendary . ||| Seine Anrufe , jeden Morgen um 6:00 Uhr , von wo auch immer er war , was auch immer war er das Tun , zu Präsident des Klubs Giampiero Boniperti ( Giampiero Boniperti ) , waren legendär . 
+

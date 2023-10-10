@@ -1,0 +1,122 @@
+Saqar Saqar | w_freq: 6 - 7 | wiki_freq: 30 - 1 | sentence_idx: 10297 | align_1: 7-8 | align_2: 8-17 | ner_entity: Saqar-Saqar |    And what can let you know What Saqar is ? ||| „ Und wie kannst du wissen , was Saqar ( ein anderer Name für die Hölle ) ist ?
+
+Xiongnu-Qiang Xiongnu-Qiang | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 16066 | align_1: 4-4 | align_2: 5-9 | ner_entity: Xiongnu-Qiang-Xiongnu-Qiang |    They repelled a joint Xiongnu-Qiang invasion of this northwestern territory in 111 BCE . ||| Sie trieben einen gemeinsamen Xiongnu-Qiang ( Qiang Leute ) Invasion dieses nordwestlichen Territoriums in 111 BCE zurück .
+
+L’Informale L'Informale | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 17048 | align_1: 5-4 | align_2: 6-9 | ner_entity: L’Informale-none |    Q : It seems to L’Informale that these changes swept away old paradigms , changing the landscape of the Arab-Israeli conflict and offering Israel its best opportunity . ||| F : Es scheint L'Informale so zu sein , dass diese Veränderungen alte Paradigmen wegfegten , was die Landschaft des arabisch-israelischen Konflikts verändert und Israel seine günstigste Gelegenheit bietet .
+
+Baidoun Baidoun | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 35510 | align_1: 2-4 | align_2: 3-8 | ner_entity: Baidoun-Baidoun |    A decision Baidoun says she ’ll regret for a long time . ||| Eine Entscheidung , die Baidoun getroffen hat , besagt , dass sie es für lange Zeit bereuen wird .
+
+BELVUE BELVUE | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 46102 | align_1: 0-0 | align_2: 1-4 | ner_entity: BELVUE-BELVUE |    BELVUE Slow Breakfast : you only pay for what you eat . ||| BELVUE “ SLOW ” Frühstück : Sie zahlen nur für das was SIE essen .
+
+Varkiza Varkiza | w_freq: 2 - 4 | wiki_freq: 95 - 39 | sentence_idx: 62440 | align_1: 12-10 | align_2: 13-16 | ner_entity: Treaty of Varkiza-Treaty of Varkiza |    In February 1945 , the various Greek parties signed the Treaty of Varkiza , with the support of all the Allies . ||| Im Februar 1945 , unterzeichneten verschiedene griechische Parteien Treaty of Varkiza ( Treaty of Varkiza ) , mit Unterstützung alle Verbündete .
+
+Zorrozaurre Zorrozaurre | w_freq: 1 - 2 | wiki_freq: 6 - 1 | sentence_idx: 67411 | align_1: 18-17 | align_2: 19-23 | ner_entity: Zorrozaurre-Zorrozaurre |    However , in 2007 , a plan was approved to continue the canal and form the island of Zorrozaurre . ||| Jedoch , 2007 , wurde ein Plan genehmigt , um den Kanal fortzusetzen und die Insel von Zorrozaurre ( Zorrozaurre ) zu bilden .
+
+ICEP ICEP | w_freq: 1 - 1 | wiki_freq: 10 - 16 | sentence_idx: 75557 | align_1: 2-2 | align_2: 3-7 | ner_entity: ICEP-ICEP |    We created ICEP to do something useful and lasting for people in developing countries . ||| Wir haben ICEP ins Leben gerufen , um etwas Sinnvolles und Dauerhaftes für die Menschen in Entwicklungsländern zu leisten .
+
+SCP-1437 SCP-1437 | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 86986 | align_1: 5-9 | align_2: 6-13 | ner_entity: SCP-1437-SCP-1437 |    Any trespassers attempting to access SCP-1437 are to be charged with the crime of industrial espionage . ||| Jegliche Eindringlinge , die versuchen , sich Zutritt zu SCP-1437 zu verschaffen , sind wegen dem Verbrechen der Industriespionage anzuklagen .
+
+Huiyihuiying Huiyihuiying | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 119633 | align_1: 2-2 | align_2: 3-6 | ner_entity: Huiyihuiying-Huiyihuiying |    I founded Huiyihuiying and wanted to explore further . ||| Ich gründete Huiyihuiying ( HY ) und wollte weiter zu erforschen .
+
+Goreans Online-Goreaner | w_freq: 8 - 1 | wiki_freq: 7 - 0 | sentence_idx: 131112 | align_1: 5-3 | align_2: 6-8 | ner_entity: Goreans-none |    I have met many online Goreans unwilling to fully embrace this precept despite its importance to Gorean philosophy . ||| Ich habe viele Online-Goreaner getroffen , die nicht gewillt waren , diesen Grundsatz völlig zu akzeptieren , trotz seiner Wichtigkeit für die goreanische Philosophie .
+
+al-Baqarah al-Baqarah | w_freq: 3 - 3 | wiki_freq: 28 - 0 | sentence_idx: 141082 | align_1: 11-12 | align_2: 12-23 | ner_entity: Soorat al-Baqarah-Sura al-Baqarah |    Indeed , Satan runs away from a house in which Soorat al-Baqarah is recited . » ||| “ Wahrlich , Satan flieht von dem Haus , in dem Sura al-Baqarah ( das 2. Kapitel des Qur ´ an ) rezitiert wird . ”
+
+ImpOS ImpOS | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 143897 | align_1: 16-19 | align_2: 17-25 | ner_entity: ImpOS-ImpOS |    Of course , I bought the scanner to use it under OS/2 , and especially with ImpOS . ||| Natürlich habe ich den Scanner vor allem gekauft , um ihn unter OS / 2 , und speziell mit ImpOS / 2 , zu verwenden .
+
+Boniperti Boniperti | w_freq: 1 - 2 | wiki_freq: 89 - 39 | sentence_idx: 170026 | align_1: 26-29 | align_2: 27-34 | ner_entity: Giampiero Boniperti-Giampiero Boniperti |    His phone calls , every morning at 6 am , from wherever he was , whatever was he doing , to the club 's president Giampiero Boniperti , were legendary . ||| Seine Anrufe , jeden Morgen um 6:00 Uhr , von wo auch immer er war , was auch immer war er das Tun , zu Präsident des Klubs Giampiero Boniperti ( Giampiero Boniperti ) , waren legendär .
+
+Agartha Agartha | w_freq: 3 - 2 | wiki_freq: 76 - 39 | sentence_idx: 172973 | align_1: 5-5 | align_2: 6-9 | ner_entity: Agartha-Agartha |    The Agarthans offered places in Agartha where , if necessary , we can arrange for special individual or group teachings . ||| Die Agarther boten Orte in Agartha an , an denen wir , falls nötig , spezielle Einzel- oder Gruppen-Unterrichte arrangieren können .
+
+Saqar Saqar | w_freq: 6 - 7 | wiki_freq: 30 - 1 | sentence_idx: 199696 | align_1: 5-7 | align_2: 6-12 | ner_entity: Saqar-Saqar |    So do you know what Saqar is ? ||| Und wie kannst du wissen , was Saqar ( das Höllenfeuer ) ist ?
+
+Generali-Arena Generali-Arena | w_freq: 1 - 1 | wiki_freq: 0 - 4 | sentence_idx: 231688 | align_1: 14-13 | align_2: 15-17 | ner_entity: Generali-Arena-Generali-Arena |    ABB has installed its new and innovative technologies throughout the stadium , making the Generali-Arena what it is today : the most modern and beautiful stadium in Austria . " ||| ABB hat im gesamten Stadion seine neuen innovativen Technologien installiert , damit die Generali-Arena das wird , was sie heute ist : das modernste und schönste Stadion in Österreich . “
+
+ayatollahs Ayatollahs | w_freq: 9 - 10 | wiki_freq: 47 - 4 | sentence_idx: 259337 | align_1: 4-5 | align_2: 5-10 | ner_entity: none-Ayatollahs |    What about the mad ayatollahs obtaining atomic bombs and annihilating us ? " ||| Was ist mit den verrückten Ayatollahs , die die Atombomben erhalten und uns vernichten wollen ? “
+
+Alliandre Alliandre | w_freq: 2 - 2 | wiki_freq: 1 - 1 | sentence_idx: 304759 | align_1: 13-11 | align_2: 14-16 | ner_entity: Alliandre-Alliandre |    “ Lord Perrin , your Lady wife and I were hunting with Queen Alliandre when we were attacked by Aiel . ||| » Lord Perrin , Eure Gemahlin und ich waren mit Königin Alliandre auf der Jagd , als wir von Aiel angegriffen wurden .
+
+donepezil Donepezil | w_freq: 2 - 2 | wiki_freq: 74 - 35 | sentence_idx: 325048 | align_1: 8-12 | align_2: 9-19 | ner_entity: none-Donepezil |    “ We observed that patients who continued taking donepezil were better able to remember , understand , communicate and perform daily tasks for at least a year longer than those who stopped taking the drugs . ” ||| " Wir haben festgestellt , dass Patienten , die sich weiter mit Donepezil befanden , sich in der Lage waren , sich zu erinnern , zu verstehen , zu kommunizieren und tägliche Aufgaben für mindestens ein Jahr länger zu leisten , als diejenigen , die die Drogen nicht mehr aufgaben .
+
+ayatollahs Ayatollahs | w_freq: 9 - 10 | wiki_freq: 47 - 4 | sentence_idx: 346304 | align_1: 4-5 | align_2: 5-10 | ner_entity: none-Ayatollahs |    What about the mad ayatollahs obtaining atomic bombs and annihilating us ? " ||| Was ist mit den verrückten Ayatollahs , die die Atombomben erhalten und uns vernichten wollen ? "
+
+Yasua Yasua | w_freq: 2 - 2 | wiki_freq: 2 - 0 | sentence_idx: 362207 | align_1: 20-16 | align_2: 21-20 | ner_entity: Yasua-Yasua |    “ The children , all under 15 , four of them , they said , ‘ No , we love Yasua . ||| « Die vier Kinder – alle unter 15 Jahren – sagten ' Nein , wir lieben Yasua ( Jesus ) !
+
+EU-committee EU-Gremium | w_freq: 1 - 1 | wiki_freq: 2 - 1 | sentence_idx: 383509 | align_1: 4-5 | align_2: 5-9 | ner_entity: EU-committee-none |    Young politicians in the EU-committee can be of considerable importance , since the average age of the EU-commission is 53,4 years . ||| Junge Politiker , die im EU-Gremium vertreten sind , können von grosser Bedeutung sein , denn das Durchschnittsalter in der EU-Kommission liegt bei 53,4 Jahren .
+
+OnTheWaterfront OnTheWaterfront | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 389532 | align_1: 7-9 | align_2: 8-14 | ner_entity: OnTheWaterfront-OnTheWaterfront |    Our last Flickr Friday theme was # OnTheWaterfront , and these are some of your submissions . ||| Unser Flickr Friday Thema der letzten Woche war # OnTheWaterfront ( Am Wasser ) , und dies sind einige eurer Beiträge .
+
+SOMETIME Sometime | w_freq: 1 - 3 | wiki_freq: 0 - 44 | sentence_idx: 411775 | align_1: 5-4 | align_2: 6-8 | ner_entity: none-Everybody's Got To Learn Sometime |    EVERYBODY 'S GOT TO LEARN SOMETIME by The Korgis ||| Everybody's Got To Learn Sometime , bekannt geworden durch The Korgis
+
+Chagai-II Chagai-II | w_freq: 1 - 1 | wiki_freq: 62 - 3 | sentence_idx: 431288 | align_1: 6-5 | align_2: 7-10 | ner_entity: Chagai-II-Chagai-II |    The second nuclear test — Codename Chagai-II — was conducted and supervised by the Pakistan Atomic Energy Commission ( PAEC ) in May 30 , 1998 . ||| Der zweite Kerntest - Codename Chagai-II ( Chagai-I ich ) - wurde geführt und von der Atomenergie-Kommission von Pakistan ( Atomenergie-Kommission von Pakistan ) ( PAEC ) im Mai 30 , 1998 beaufsichtigt .
+
+DAESH DAESH | w_freq: 3 - 2 | wiki_freq: 10 - 1 | sentence_idx: 442170 | align_1: 12-13 | align_2: 13-18 | ner_entity: DAESH-DAESH |    We strongly condemn treating a terrorist organization as a partner in fighting DAESH . ||| Dabei verurteilen wir die Behandlung einer Terrororganisation als einen Partner im Kampf gegen DAESH , auf das Schärfste .
+
+Varkiza Varkiza | w_freq: 2 - 4 | wiki_freq: 95 - 39 | sentence_idx: 444943 | align_1: 11-10 | align_2: 12-16 | ner_entity: Treaty of Varkiza-Treaty of Varkiza |    In February 1945 the various Greek parties signed the Treaty of Varkiza , with the support of all the Allies . ||| Im Februar 1945 , unterzeichneten verschiedene griechische Parteien Treaty of Varkiza ( Treaty of Varkiza ) , mit Unterstützung alle Verbündete .
+
+CCUs CCUs | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 450036 | align_1: 17-17 | align_2: 18-24 | ner_entity: none-CCUs |    “ Will the Hulls ( or at least the Hull A ) be flying in AC before CCUs or whatever they ’re turning into in the future goes away forever ? ” – Valensiakol ||| “ Werden die Hulls ( oder zumindest die Hull A ) im AC fliegen , bevor die CCUs ( cross Chassis Upgrades ) , oder in was sie sich in Zukunft verwandeln werden , für immer verschwinden ? ” – Valensiakol
+
+Chulin Chulin | w_freq: 2 - 2 | wiki_freq: 52 - 3 | sentence_idx: 463183 | align_1: 4-4 | align_2: 5-8 | ner_entity: Chulin 4a-Chulin |    For example , in Chulin 4a , he comments about a phrase , " We do not read this . ||| Zum Beispiel , in Chulin ( Kodashim ) 4a , kommentiert er über einen Ausdruck , " Wir lesen das nicht .
+
+eTA eTA | w_freq: 11 - 10 | wiki_freq: 48 - 7 | sentence_idx: 470500 | align_1: 31-28 | align_2: 32-33 | ner_entity: eTA-eTA |    Secondly , you can not leave the country if you were diagnosed with tuberculosis and finally , it 's your obligation to be aware of what the Australian tourist visa or eTA permits you to do in Australia . ||| Zweitens können Sie das Land nicht verlassen , wenn Sie mit Tuberkulose diagnostiziert wurden und schließlich ist es Ihre Verantwortung zu wissen , was das Touristenvisum Australien oder eTA ( ESTA ) Ihnen erlaubt , in Australien zu tun .
+
+Euro-state Euro-Staat | w_freq: 1 - 1 | wiki_freq: 0 - 2 | sentence_idx: 486303 | align_1: 5-4 | align_2: 6-9 | ner_entity: Euro-state-none |    Your obsession with creating this Euro-state means that you ’re happy to destroy democracy . ||| Ihre Besessenheit , diesen Euro-Staat schaffen zu wollen , bedeutet , dass Sie glücklich darüber sind , Demokratie zu zerstören .
+
+donepezil Donepezil | w_freq: 2 - 2 | wiki_freq: 74 - 35 | sentence_idx: 495005 | align_1: 8-12 | align_2: 9-19 | ner_entity: none-Donepezil |    ' We observed that patients who continued taking donepezil were better able to remember , understand , communicate and perform daily tasks for at least a year longer than those who stopped taking the drugs . ||| " Wir haben festgestellt , dass Patienten , die sich weiter mit Donepezil befanden , sich in der Lage waren , sich zu erinnern , zu verstehen , zu kommunizieren und tägliche Aufgaben für mindestens ein Jahr länger zu leisten , als diejenigen , die die Drogen nicht mehr aufgaben .
+
+Al-Jawad Al-Jawad | w_freq: 1 - 1 | wiki_freq: 23 - 1 | sentence_idx: 511444 | align_1: 1-1 | align_2: 2-5 | ner_entity: Imam Al-Jawad-Imam Al-Jawad |    Imam Al-Jawad is the Representative of Allah ||| Imam Al-Jawad ( as ) ist der Repräsentant von Allah
+
+Myrtha Myrtha | w_freq: 1 - 1 | wiki_freq: 61 - 27 | sentence_idx: 512558 | align_1: 9-10 | align_2: 10-16 | ner_entity: Myrtha-Myrtha |    But you are already a woman ... " says Myrtha approaching her and taking her by the hand . ||| Aber du bist ja schon eine Frau ... » sagt Myrtha , indem sie sich ihr nähert und sie bei der Hand nimmt .
+
+Assagioli Assagioli | w_freq: 5 - 5 | wiki_freq: 91 - 37 | sentence_idx: 522228 | align_1: 13-12 | align_2: 14-20 | ner_entity: Roberto Assagioli-Roberto Assagioli |    * [ WEB The Will Project ] was a project proposed by Roberto Assagioli to explore all aspects and manifestations of the Will . ||| [ WEB war Das Wille-Projekt ] ein Projekt , das von Roberto Assagioli ( Roberto Assagioli ) vorgeschlagen ist , um alle Aspekte und Manifestationen des Willens zu erforschen .
+
+ayatollahs Ayatollahs | w_freq: 9 - 10 | wiki_freq: 47 - 4 | sentence_idx: 622904 | align_1: 4-5 | align_2: 5-10 | ner_entity: none-Ayatollahs |    What about the mad ayatollahs obtaining atomic bombs and annihilating us ? ” ||| Was ist mit den verrückten Ayatollahs , die die Atombomben erhalten und uns vernichten wollen ? “
+
+Kashfi Kashfi | w_freq: 2 - 4 | wiki_freq: 73 - 31 | sentence_idx: 639136 | align_1: 1-1 | align_2: 2-6 | ner_entity: Ja'far Kashfi-Ja'far Kashfi |    Ja'far Kashfi defines " ta'wil " as ' to lead back or to bring something back to its origin or archetype ' . ||| Ja'far Kashfi ( Ja'far Kashfi ) definiert ta'wil als , ' um zurück zu führen oder etwas seinem Ursprung oder Archetyp zurückzubringen ' .
+
+Valposchiavo Valposchiavo | w_freq: 1 - 1 | wiki_freq: 8 - 8 | sentence_idx: 666226 | align_1: 23-21 | align_2: 24-25 | ner_entity: Valposchiavo-Valposchiavo |    One of the most beautiful places in Europe ( yes , that is right ) is a place that hardly anyone knows : Valposchiavo . ||| Einer der schönsten Orte in Europa ( ja , das stimmt ) ist ein Ort , den kaum jemand kennt : Valposchiavo ( Puschlav ) .
+
+grido grido | w_freq: 1 - 2 | wiki_freq: 30 - 8 | sentence_idx: 671683 | align_1: 1-1 | align_2: 2-6 | ner_entity: Il grido-Il grido |    Il grido ( The Outcry , 1957 ) was a return to working class stories , depicting a factory worker and his daughter . ||| Il grido ( Il grido ) ( Der Ausruf , 1957 ) war eine Rückkehr zu Arbeitergeschichten , einen Fabrikarbeiter und seine Tochter zeichnend .
+
+PACT-ACT PACT-ACT | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 687011 | align_1: 11-10 | align_2: 12-16 | ner_entity: PACT-ACT-PACT-ACT |    If you would like to order some extra snus before the PACT-ACT it could be a good idea to freeze it . ||| Wenn Sie etwas zusätzlichen Snus bestellen möchten , bevor der PACT-ACT in Kraft tritt , könnte es eine gute Idee sein , ihn einzufrieren .
+
+panslavic panslavic | w_freq: 1 - 1 | wiki_freq: 7 - 0 | sentence_idx: 712205 | align_1: 8-7 | align_2: 9-11 | ner_entity: panslavic-none |    In this period he began to develop his panslavic views . ||| In dieser Periode begann er , seinen panslavic ( Panslavism ) Ansichten zu entwickeln .
+
+ayatollahs Ayatollahs | w_freq: 9 - 10 | wiki_freq: 47 - 4 | sentence_idx: 717852 | align_1: 4-5 | align_2: 5-10 | ner_entity: none-Ayatollahs |    What about the mad ayatollahs obtaining atomic bombs and annihilating us ? ” ||| Was ist mit den verrückten Ayatollahs , die die Atombomben erhalten und uns vernichten wollen ? "
+
+Spoorweg-Maatschappij Spoorweg-Maatschappij | w_freq: 1 - 2 | wiki_freq: 98 - 57 | sentence_idx: 722564 | align_1: 22-22 | align_2: 23-28 | ner_entity: Hollandsche IJzeren Spoorweg-Maatschappij-Hollandsche IJzeren Spoorweg-Maatschappij |    The Dutch parliament balked at the high level of investment needed , but a group of private investors started the Hollandsche IJzeren Spoorweg-Maatschappij on 1 June 1836 . ||| Holländisches Parlament schreckte vor dem hohen Niveau der erforderlichen Investition zurück , aber eine Gruppe von privaten Kapitalanlegern fing den Hollandsche IJzeren Spoorweg-Maatschappij ( Hollandsche IJzeren Spoorweg-Maatschappij ) am 1. Juni 1836 an .
+
+Kashfi Kashfi | w_freq: 2 - 4 | wiki_freq: 73 - 31 | sentence_idx: 731163 | align_1: 1-1 | align_2: 2-6 | ner_entity: Ja’far Kashfi-Ja'far Kashfi |    Ja’far Kashfi defines ta’wil as ‘ to lead back or to bring something back to its origin or archetype ’ . ||| Ja'far Kashfi ( Ja'far Kashfi ) definiert ta'wil als , ' um zurück zu führen oder etwas seinem Ursprung oder Archetyp zurückzubringen ' .
+
+pellepelle-europe.com pellepelle-europe.com | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 733280 | align_1: 4-4 | align_2: 5-10 | ner_entity: pellepelle-europe.com-pellepelle-europe.com |    Some information provided to pellepelle-europe.com is disclosed to our partners in the following cases : ||| Einige Daten , die pellepelle-europe.com zur Verfügung gestellt werden , können unseren Partnern in den folgenden Fällen offengelegt werden :
+
+Edigram Edigram | w_freq: 1 - 2 | wiki_freq: 0 - 0 | sentence_idx: 737377 | align_1: 23-21 | align_2: 24-26 | ner_entity: Edigram-Edigram |    This led to the development of a form of communication that is a hybrid between a telegram and an email , namely the Edigram . ||| Das führte zur Entwicklung einer Form der Kommunikation , die eine Hybride zwischen einem Telegramm und einer E-Mail , nämlich der Edigram ( Edigram ) ist .
+
+MRAs MRAs | w_freq: 2 - 2 | wiki_freq: 48 - 3 | sentence_idx: 737913 | align_1: 8-9 | align_2: 9-16 | ner_entity: MRAs-MRAs |    “ Men ’s right ’s activists ” ( MRAs ) claim that family law and social institutions discriminate against men . ||| Die " Men ’s Right ’s Activists " ( MRAs , auf Deutsch " Männerrecht-Aktivisten " ) behaupten , dass Familienrecht und soziale Institutionen Männer diskriminieren .
+
+Alamin Alamin | w_freq: 1 - 1 | wiki_freq: 41 - 0 | sentence_idx: 751464 | align_1: 15-11 | align_2: 16-17 | ner_entity: Alamin-none |    We recite them to you in truth , and Allah wills no injustice to the Alamin . ||| Sie umfassen die Wahrheit und Allah will keine Ungerechtigkeit für die Alamin ( Menschheit und Dschinn ) .
+
+thailand thailand | w_freq: 3 - 46 | wiki_freq: 90 - 0 | sentence_idx: 767943 | align_1: 4-5 | align_2: 5-10 | ner_entity: thailand-thailand |    Plan your holiday to thailand saving money , have more fun , and meet the right thai girls for you . ||| Planen sie ihren urlaub in thailand , indem sie geld sparen , mehr spaß haben und die richtigen thai-mädchen für sie treffen .
+
+Kitase-san Kitase-san | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 771240 | align_1: 19-22 | align_2: 20-27 | ner_entity: Kitase-san-Kitase-san |    Our research and development department worked with them on its launch , and I joined the crew after producer Kitase-san called me . ||| Unsere Forschungs- und Entwicklungsabteilung arbeitete mit ihnen an der Fertigstellung , und ich schloss mich dem Team an , nachdem ich von Kitase-san , dem Produzenten , gerufen wurde .
+
+SmartMe smartme | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 771350 | align_1: 9-8 | align_2: 10-13 | ner_entity: SmartMe-none |    Puliafito , 51 , calls this two-year prototype effort SmartMe . ||| Puliafito , 51 , nennt diese zweijährige prototyp-anstrengung smartme ( ausgesprochen smartmay ) .
+
+LAMB=29 LAMB=29 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 804587 | align_1: 6-6 | align_2: 7-11 | ner_entity: none-A LAMB=29 |    This number 29 stands for A LAMB=29 . ||| Diese Zahl 29 steht für A LAMB=29 ( Ein Lamm ) .
+
+Medicare+Choice Medicare+Choice | w_freq: 1 - 1 | wiki_freq: 8 - 0 | sentence_idx: 807474 | align_1: 6-5 | align_2: 7-11 | ner_entity: Medicare+Choice-Medicare+Choice |    These programs were known as “ Medicare+Choice ” or “ Part C ” plans . ||| Diese Programme waren als " Medicare+Choice ( Gesundheitsfürsorge + Wahl ) " oder Pläne " des Teils C " bekannt .
+
+ISRAEL21c Israel21c | w_freq: 2 - 2 | wiki_freq: 8 - 0 | sentence_idx: 821545 | align_1: 2-2 | align_2: 3-7 | ner_entity: ISRAEL21c-Israel21c |    Jangzapali tells ISRAEL21c he is deeply grateful for the Abraham family ’s generosity . ||| Jangzapali erklärte Israel21c gegenüber , wie dankbar er für die Großzügigkeit der Familie von Abraham sei .
+
+Tashy Tashy | w_freq: 1 - 1 | wiki_freq: 10 - 0 | sentence_idx: 837603 | align_1: 1-1 | align_2: 2-5 | ner_entity: Tashy-Tashy |    Oh Tashy , it ’s so easy to sing , ' I ’ll go where you want me to go ' , but what if that means He wants a little girl to become GYC president ? ||| Mensch Tashy [ Natasha ] , es singt sich so einfach : ›I'll go where you want me to go.‹ Doch was , wenn das bedeutet , dass ein kleines Mädchen GYC-Präsidentin wird ?
+
+Q60:10 Kafir | w_freq: 1 - 5 | wiki_freq: 0 - 27 | sentence_idx: 928846 | align_1: 0-3 | align_2: 1-12 | ner_entity: none-Kafir |    Q60:10 When believing women come to you , test their faith . ||| 8 Scheidung vom Kafir 60:10. O ihr , die ihr glaubt , wenn gläubige Frauen als Flüchtlinge zu euch kommen , so prüft sie .
+
+cp1160 CP1160 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 933721 | align_1: 8-5 | align_2: 9-10 | ner_entity: none-CP1160 |    The first thing that strikes you about the cp1160 is its size . ||| Das Erste , was am CP1160 ins Auge fällt , ist seine Größe .
+
+Infront Infront | w_freq: 2 - 2 | wiki_freq: 57 - 79 | sentence_idx: 946717 | align_1: 9-8 | align_2: 10-12 | ner_entity: Infront-Infront |    Financial professionals across Europe and South Africa rely on Infront for flexible financial market solutions . ||| Finanzfachleute in ganz Europa und Südafrika vertrauen auf Infront , wenn es um flexible Finanzmarktlösungen geht .
+
+Cacheiras Cacheiras | w_freq: 1 - 2 | wiki_freq: 4 - 0 | sentence_idx: 962913 | align_1: 10-9 | align_2: 11-15 | ner_entity: Battle of Cacheiras-von Cacheiras |    Solís and his forces were defeated at the Battle of Cacheiras , 23 April 1846 , and the survivors , including Solís himself , were shot . ||| Solís und seine Kräfte wurden in der Schlacht von Cacheiras ( Kampf von Cacheiras ) , am 23. April 1846 vereitelt , und die Überlebenden , einschließlich Solís selbst , wurden geschossen .
+
+Chulin Chulin | w_freq: 2 - 2 | wiki_freq: 52 - 3 | sentence_idx: 964872 | align_1: 4-4 | align_2: 5-8 | ner_entity: Chulin 4a-Chulin |    For example , in Chulin 4a , he comments about a phrase : " We do not read this . ||| Zum Beispiel , in Chulin ( Kodashim ) 4a , kommentiert er über einen Ausdruck , " Wir lesen das nicht .
+

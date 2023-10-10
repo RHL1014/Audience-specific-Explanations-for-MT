@@ -1,0 +1,408 @@
+Israelis Israels | w_freq: 575 - 2646 | wiki_freq: 6972 - 7011 | sentence_idx: 1708 | align_1: 8-3 | align_2: 9-12 | ner_entity: Israelis-Israels |    Except in this case its coming from the Israelis . ||| Nur der Überrest Israels , nur diejenigen , die umsinnen ( Ap .
+
+Ra Ra | w_freq: 44 - 36 | wiki_freq: 7493 - 2897 | sentence_idx: 3561 | align_1: 14-13 | align_2: 15-22 | ner_entity: Ra-Ra |    Begun and completed in the period of Araaraat 's time , with Hermes and Ra . ||| Begonnen und fertiggestellt im Zeitraum von Araaraart ’s Zeit , mit Hermes und Ra . { A.d . Ü. : Araaraat war lt.
+
+Vibhutis Vibhutis | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 5637 | align_1: 1-1 | align_2: 2-5 | ner_entity: Vibhutis-none |    The Vibhutis of the Lord , Siddhis and Riddhis are theirs though they do not want them . ||| Die Vibhutis ( Gnade ) des Herrn , Siddhis und Riddhis ( acht / vier okkulte Kräfte ) gehören ihnen , obwohl sie sie nicht begehren .
+
+Riddhis Riddhis | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 5637 | align_1: 8-10 | align_2: 9-18 | ner_entity: Riddhis-Riddhis |    The Vibhutis of the Lord , Siddhis and Riddhis are theirs though they do not want them . ||| Die Vibhutis ( Gnade ) des Herrn , Siddhis und Riddhis ( acht / vier okkulte Kräfte ) gehören ihnen , obwohl sie sie nicht begehren .
+
+Yajna Yajna | w_freq: 4 - 4 | wiki_freq: 297 - 9 | sentence_idx: 6162 | align_1: 9-7 | align_2: 10-13 | ner_entity: Maha Yajna-Maha Yajna |    Have you not realised the glory of this Maha Yajna ? ||| Hast du nicht die Herrlichkeit dieses Maha Yajna ( großes Opferritual ) bemerkt ?
+
+Allaah Allaah | w_freq: 34 - 17 | wiki_freq: 28 - 0 | sentence_idx: 8059 | align_1: 6-0 | align_2: 7-5 | ner_entity: Allaah-Allaah |    If he were to swear by Allaah , Allaah would fulfill his oath . ||| Allaah ( ta ’ aala ) schwört auf Seine Geschöpfe nach Belieben .
+
+Allaah Allaah | w_freq: 34 - 17 | wiki_freq: 28 - 0 | sentence_idx: 8059 | align_1: 8-0 | align_2: 9-6 | ner_entity: Allaah-Allaah |    If he were to swear by Allaah , Allaah would fulfill his oath . ||| Allaah ( ta ’ aala ) schwört auf Seine Geschöpfe nach Belieben .
+
+Brandl Brandl | w_freq: 4 - 4 | wiki_freq: 203 - 894 | sentence_idx: 8981 | align_1: 4-7 | align_2: 5-11 | ner_entity: Earl Brandl-Mark Staff Brandl |    As my father Earl Brandl said , " if you have no enemies , then you have never spoken clearly enough . " ||| Sein Vater Earl , sagt Mark Staff Brandl , habe jeweils gesagt : « Wenn du keine Feinde hast , hast du dich nie klar genug ausgedrückt . »
+
+Allah Allah | w_freq: 1378 - 1180 | wiki_freq: 12189 - 1130 | sentence_idx: 9161 | align_1: 0-0 | align_2: 1-4 | ner_entity: Allah-Allah |    Allah knows what we will do before we do it . ||| Allah ( swt ) weiß was wir machen werden bevor es geschieht .
+
+jötnar jötnar | w_freq: 1 - 1 | wiki_freq: 136 - 2 | sentence_idx: 9853 | align_1: 9-7 | align_2: 10-11 | ner_entity: none-jötnar |    One of the other two leads to the frost jötnar and the third to Mankind . ||| Einer der anderen zwei führt zum Frost jötnar ( Jötunn ) und das dritte zur Menschheit .
+
+al-Hadid:20 3:185 | w_freq: 2 - 11 | wiki_freq: 0 - 0 | sentence_idx: 12919 | align_1: 18-17 | align_2: 19-21 | ner_entity: al-Hadid:20-none |    Allah says , “ And the life of this world is only a deceiving enjoyment . ” [ al-Hadid:20 ] ||| Allah sagt : „ Und das diesseitige Leben ist nur trügerischer Genuß . “ ( Aal Imraan 3:185 , ungefähre Bedeutung ) .
+
+al-Hadid:20 Imraan | w_freq: 2 - 2 | wiki_freq: 0 - 14 | sentence_idx: 12919 | align_1: 18-16 | align_2: 19-21 | ner_entity: al-Hadid:20-Aal Imraan |    Allah says , “ And the life of this world is only a deceiving enjoyment . ” [ al-Hadid:20 ] ||| Allah sagt : „ Und das diesseitige Leben ist nur trügerischer Genuß . “ ( Aal Imraan 3:185 , ungefähre Bedeutung ) .
+
+Satan Satan | w_freq: 1044 - 855 | wiki_freq: 10944 - 2179 | sentence_idx: 15828 | align_1: 6-5 | align_2: 7-9 | ner_entity: Great Satan-Satan |    " Our hostility to the Great Satan is absolute . " ||| Unsere Feindschaft gegenüber dem großen Satan ( Amerika ) ist absolut . “
+
+Freud Freud | w_freq: 58 - 48 | wiki_freq: 11940 - 5634 | sentence_idx: 17091 | align_1: 6-6 | align_2: 7-11 | ner_entity: Freud-Freud |    Then , came another one : Freud on God 's couch . ||| Und dann das Gegenstück dazu : Freud , der bei Gott auf der Couch liegt .
+
+Kyrgyzstan Kirgistan | w_freq: 68 - 13 | wiki_freq: 10476 - 206 | sentence_idx: 17993 | align_1: 4-4 | align_2: 5-8 | ner_entity: Kyrgyzstan-Kirgistan |    In Kyrgyzstan and from Kyrgyzstan where our art of intervention is needed . ||| In Kirgistan und von Kirgistan aus dahin , wo unsere Kunst der Intervention gebraucht wird .
+
+Mleccha mleccha | w_freq: 1 - 1 | wiki_freq: 45 - 1 | sentence_idx: 20985 | align_1: 8-6 | align_2: 9-10 | ner_entity: Mleccha-none |    And , O lord of men , numerous Mleccha kings then rule over the earth ! ||| O Herr der Menschen , zahllose mleccha [ Fleischesser ] Könige herrschen dann über die Erde !
+
+Hereafter Jenseits | w_freq: 286 - 499 | wiki_freq: 614 - 5541 | sentence_idx: 24967 | align_1: 4-4 | align_2: 5-15 | ner_entity: Hereafter-none |    They also deny the Hereafter . ||| Und sie leugnen das Jenseits ( die Bekehrung des Geistes zu Allah im Diesseits ) .
+
+Iblis Gleicke | w_freq: 11 - 2 | wiki_freq: 539 - 21 | sentence_idx: 30282 | align_1: 0-2 | align_2: 1-6 | ner_entity: Iblis-Iris Gleicke |    Iblis : It is the voice of truth . ||| ( Iris Gleicke [ SPD ] : Das ist wahr ! )
+
+Allaah Allaah | w_freq: 34 - 17 | wiki_freq: 28 - 0 | sentence_idx: 31780 | align_1: 3-0 | align_2: 4-5 | ner_entity: Allaah-Allaah |    I swear by Allaah , they have shown their betrayal . ||| Allaah ( ta ’ aala ) schwört auf Seine Geschöpfe nach Belieben .
+
+Baal Ba | w_freq: 30 - 7 | wiki_freq: 2281 - 1711 | sentence_idx: 32707 | align_1: 6-3 | align_2: 7-11 | ner_entity: Baal-Ba |    37:125 " Will ye call upon Baal and forsake the Best of Creators,- ||| 37:125 Wollt ihr Ba ’ l ( euren Götzen ) anrufen und den besten Schöpfer verlassen ,
+
+Israelites Israelis | w_freq: 392 - 578 | wiki_freq: 6428 - 1597 | sentence_idx: 34071 | align_1: 6-11 | align_2: 7-15 | ner_entity: Israelites-none |    So he builds idols for the Israelites to worship instead . ||| Und sie werden für die Araber das errichten , was die Israelis ( wenn sie ihre Siedlungen auf
+
+WPC WPC | w_freq: 7 - 5 | wiki_freq: 856 - 100 | sentence_idx: 42030 | align_1: 2-2 | align_2: 3-6 | ner_entity: WPC-none |    '' A WPC found me drunk with men . ||| „ Eine WPC [ Polizeibeamtin ] fand mich betrunken mit Männern .
+
+Pharaoh Pharao | w_freq: 431 - 384 | wiki_freq: 5590 - 2745 | sentence_idx: 43290 | align_1: 9-8 | align_2: 10-18 | ner_entity: Pharaoh-Pharao |    “ Who am I that I should go to Pharaoh and bring the Israelites out of ||| " Wer bin ich , daß ich zum Pharao gehe " - auch , um ihm ein Geschenk und ein Angebot zu bringen ?
+
+Isa Isa | w_freq: 20 - 33 | wiki_freq: 7449 - 1457 | sentence_idx: 43885 | align_1: 8-8 | align_2: 9-13 | ner_entity: Isa-Isa |    His name is al-Masih ( Messiah ) , Isa the son of Mariam . ||| Sein Name ist al-Masih ( Messias ) , Isa ( Jesus ) , der Sohn der Maryam .
+
+Israelites Israels | w_freq: 392 - 2646 | wiki_freq: 6428 - 7011 | sentence_idx: 48427 | align_1: 7-9 | align_2: 8-18 | ner_entity: Israelites-Israels |    Their worship also served to remind the Israelites who were fighting on their behalf . ||| Sie hätten Imstande sein sollen , sich ihrer zugunsten Israels zu bedienen , gemäß der Herrlichkeit Dessen , der unter ihnen war .
+
+Allah ALLAH | w_freq: 1378 - 27 | wiki_freq: 12189 - 0 | sentence_idx: 58144 | align_1: 6-6 | align_2: 7-10 | ner_entity: Book of Allah-ALLAH |    Ask me concerning the Book of Allah ! ||| Fragt mich über das Buch von ALLAH , den erhabenen .
+
+Monson Monson | w_freq: 37 - 30 | wiki_freq: 2367 - 259 | sentence_idx: 67487 | align_1: 0-0 | align_2: 1-9 | ner_entity: Monson-Monson |    Monson said , " Men , take care not to make women weep , for God counts their tears . " ||| Monson , erster ratgeber in der ersten präsidentschaft , warnte : " männer , achte darauf , dass die frauen nicht weinen , denn gott zählt ihre tränen .
+
+Quran Qur | w_freq: 333 - 125 | wiki_freq: 13254 - 33 | sentence_idx: 67778 | align_1: 6-5 | align_2: 7-9 | ner_entity: Quran-Qur ’ an |    He quoted the verses of the Quran which talks about how Maryam ( A.S ) got pregnant . ||| Er zitierte die Verse des Qur ’ an , die darüber reden , wie Maryam ( A.S ) schwanger wurde .
+
+RSR RSR | w_freq: 7 - 7 | wiki_freq: 567 - 508 | sentence_idx: 70584 | align_1: 6-5 | align_2: 7-10 | ner_entity: 911 RSR-911 RSR |    They have made the new 911 RSR what it is : a race car , created by us all , together . ||| Sie haben den neuen 911 RSR zu dem gemacht , was er ist : Ein Rennfahrzeug , geschaffen von uns allen gemeinsam .
+
+Ishaq Ishaq | w_freq: 2 - 2 | wiki_freq: 2605 - 317 | sentence_idx: 72699 | align_1: 8-7 | align_2: 9-12 | ner_entity: Ishaq-Ishaq |    But here they falsely inserted the name of Ishaq . ||| Aber hier setzten sie fälschlicherweise den Namen Ishaq [ Isaak ] ein .
+
+Bone Bone | w_freq: 14 - 11 | wiki_freq: 11146 - 1365 | sentence_idx: 77384 | align_1: 0-0 | align_2: 1-6 | ner_entity: Bone-Bone |    Bone – population 2 , but still has a gas station ||| Bone ( Knochen , Idaho ) - Bevölkerung 2 , Aber hat noch Tankstelle
+
+Palestinians Palästinenser | w_freq: 1111 - 991 | wiki_freq: 12372 - 1852 | sentence_idx: 77834 | align_1: 9-11 | align_2: 10-16 | ner_entity: Palestinians-none |    Ross suggests that the only practical way to compensate Palestinians is to have a single , ||| Ross schlägt vor , dass der einzige praktische Weg , die Palästinenser zu entschädigen , darin besteht , einen einzigen zu haben ,
+
+Taft Taft | w_freq: 10 - 8 | wiki_freq: 11886 - 1244 | sentence_idx: 81516 | align_1: 8-8 | align_2: 9-12 | ner_entity: Taft-none |    They will beget sons and daughters , and Taft will have to create 99,000 more ! ||| Sie werden Söhne und Töchter hervorbringen , und Taft [ 20 ] wird 99.000 neue Stellen schaffen müssen !
+
+Indri Indri | w_freq: 1 - 2 | wiki_freq: 148 - 37 | sentence_idx: 92345 | align_1: 0-0 | align_2: 1-5 | ner_entity: Indri-none |    Indri - One of the loudest voices , mute forever soon ? ||| Indri ( Indri indri ) - eine der lautesten Stimmen , bald für immer verstummt ?
+
+Pharaoh Pharaos | w_freq: 431 - 70 | wiki_freq: 5590 - 587 | sentence_idx: 96174 | align_1: 5-11 | align_2: 6-17 | ner_entity: Pharaoh-Pharaos |    " The people of the Pharaoh : will they not fear Allah ? " 11 ||| Wollen sie denn nicht gottesfürchtig sein ? " " zum Volk Pharaos ( und frag sie ) , ob sie ( denn ) nicht gottesfürchtig sein wollen ! " " " " dem Volke Pharaos .
+
+Vilnius Vilnius | w_freq: 15 - 13 | wiki_freq: 13386 - 7195 | sentence_idx: 100555 | align_1: 9-8 | align_2: 10-13 | ner_entity: Vilnius-Vilnius |    “ There is no plan for how to evacuate Vilnius if an accident occurs . ||| „ Es gibt keinen Plan dafür , wie Vilnius evakuiert werden sollte , wenn ein Unfall passiert .
+
+Pluto Pluto | w_freq: 66 - 61 | wiki_freq: 6716 - 1374 | sentence_idx: 102078 | align_1: 8-6 | align_2: 9-11 | ner_entity: Pluto-none |    About 1 billion of them could have allowed Pluto to form . ||| Ungefähr 1 Milliarde von ihnen hätte Pluto erlauben können , sich zu bilden .
+
+Bystrzyca Bystrzyca | w_freq: 1 - 1 | wiki_freq: 256 - 299 | sentence_idx: 102250 | align_1: 1-1 | align_2: 2-5 | ner_entity: Bystrzyca-Bystrzyca |    Why Bystrzyca by passing through a good stop for a moment ? ||| Warum Bystrzyca , indem sie durch einen guten Halt für einen Moment ?
+
+Qur'an Koran | w_freq: 148 - 395 | wiki_freq: 6037 - 3991 | sentence_idx: 103355 | align_1: 3-2 | align_2: 4-7 | ner_entity: Qur'an-Koran |    81:25 And the Qur'an is not the word of a devil , expelled [ from the heavens ] . ||| 81:25 Der Koran ( w. Er ) ist ( in der Tat die Aussage jenes vortrefflichen Gesandten , und ) nicht die Aussage eines gesteinigten ( oder verfluchten ) Satans .
+
+ISIL ISIL | w_freq: 16 - 12 | wiki_freq: 13697 - 164 | sentence_idx: 103566 | align_1: 1-1 | align_2: 2-5 | ner_entity: ISIL-ISIL |    " ISIL gave us in two weeks what Maliki has not given us in eight years . " ||| „ ISIL [ ISIS ] gab uns in zwei Wochen , was uns Maliki nicht in acht Jahren gegeben hatte . “
+
+ISIL ISIL | w_freq: 16 - 12 | wiki_freq: 13697 - 164 | sentence_idx: 104722 | align_1: 1-1 | align_2: 2-5 | ner_entity: ISIL-ISIL |    “ ISIL gave us in two weeks what Maliki has not given us in eight years . ” ||| „ ISIL [ ISIS ] gab uns in zwei Wochen , was uns Maliki nicht in acht Jahren gegeben hatte . “
+
+Resurrection Tadel | w_freq: 77 - 89 | wiki_freq: 7651 - 449 | sentence_idx: 107916 | align_1: 23-11 | align_2: 24-19 | ner_entity: Final Resurrection-none |    And I swear by the self-reproaching soul ( at the doing of an evil deed as an evidence to the truth of Final Resurrection ) . ||| Nein , Ich schwöre bei der Seele , die sich selbst Tadel ausspricht . " ( 75:1 - 2 )
+
+Eesaa Isa | w_freq: 4 - 33 | wiki_freq: 0 - 1457 | sentence_idx: 110078 | align_1: 9-9 | align_2: 10-15 | ner_entity: Eesaa ibn Maryam-Isa |    " I am the closest of mankind to ‘ Eesaa ibn Maryam in this world and in the Hereafter . ||| “ Ich bin derjenige unter den Menschen , der Isa , dem Sohn der Maryam ( Maria ) im Diesseits und auch im Jenseits am nächsten steht .
+
+Maryam Maryam | w_freq: 64 - 45 | wiki_freq: 2582 - 575 | sentence_idx: 110719 | align_1: 16-18 | align_2: 17-23 | ner_entity: Maryam-Isa ibn Maryam |    ( Do not unduly praise me like the Christians exaggerated over ` Isa , son of Maryam . ||| Widersetzt euch mir nicht , wie sich die Jünger Jesus , dem Sohn der Maria ( Isa ibn Maryam ) , widersetzt haben . ”
+
+Almighty ALLAH | w_freq: 142 - 27 | wiki_freq: 2790 - 0 | sentence_idx: 111200 | align_1: 1-0 | align_2: 2-5 | ner_entity: Allah Almighty-ALLAH |    Allah Almighty gave him a son . ||| ALLAH , der Erhabene , schenkte ihr auch ein Kind .
+
+Palestinians Palästinenser | w_freq: 1111 - 991 | wiki_freq: 12372 - 1852 | sentence_idx: 113209 | align_1: 2-2 | align_2: 3-6 | ner_entity: Palestinians-none |    The 4,006 Palestinians the Europeans have not heard of ||| Die 4.006 Palästinenser , von denen die Europäer nie gehört haben
+
+Allah Allahs | w_freq: 1378 - 215 | wiki_freq: 12189 - 337 | sentence_idx: 115754 | align_1: 6-5 | align_2: 7-9 | ner_entity: Allah-Allahs |    The Sultan is the Shadow of Allah on Earth . ||| Der Sultan ist der Schatten Allahs ( swt ) auf Erden .
+
+Merkel Merkel | w_freq: 356 - 324 | wiki_freq: 4594 - 5781 | sentence_idx: 127304 | align_1: 7-6 | align_2: 8-11 | ner_entity: Merkel-Merkel |    What I said in August 2015 to Merkel I repeated 8 months later . ||| Was ich im August 2015 zu Merkel gesagt habe , habe ich auch acht Monate später noch einmal bekräftigt .
+
+IsraelPolitik IsraelPolitik | w_freq: 2 - 3 | wiki_freq: 10 - 0 | sentence_idx: 129722 | align_1: 8-7 | align_2: 9-12 | ner_entity: IsraelPolitik-IsraelPolitik |    The questions and answers were later posted on IsraelPolitik , the country 's official political blog . ||| Die Fragen und Antworten wurden später auf IsraelPolitik ( Israel Politik ) , der offizielle politische blog des Landes angeschlagen .
+
+shit Sch | w_freq: 153 - 4 | wiki_freq: 4782 - 324 | sentence_idx: 149034 | align_1: 6-6 | align_2: 7-11 | ner_entity: none-Sch |    15 solid seconds of ' holy shit this is happening . " ||| 15 solide Sekunden von ‚ Heiliger Sch * * * , das passiert gerade . ’ "
+
+Eesaa Isa | w_freq: 4 - 33 | wiki_freq: 0 - 1457 | sentence_idx: 150438 | align_1: 9-9 | align_2: 10-18 | ner_entity: Eesaa ibn Maryam-Isa |    " I am the closest of mankind to ‘ Eesaa ibn Maryam in this world and in the Hereafter . ||| “ Ich bin derjenige unter den Menschen , der Isa ( Jesus ) , dem Sohn der Maryam ( Maria ) im Diesseits und auch im Jenseits am nächsten steht .
+
+Fifty Fünfzig | w_freq: 98 - 53 | wiki_freq: 5826 - 370 | sentence_idx: 151350 | align_1: 9-6 | align_2: 10-11 | ner_entity: Petition of Fifty-none |    On May 5 , 1980 a group Petition of Fifty ( Petisi 50 ) demanded greater political freedoms . ||| Am 5. Mai 1980 forderte Gruppenbitte Fünfzig ( Bitte Fünfzig ) ( Petisi 50 ) größere politische Freiheit .
+
+Qaroun Qarun | w_freq: 2 - 12 | wiki_freq: 11 - 11 | sentence_idx: 159057 | align_1: 1-2 | align_2: 2-6 | ner_entity: Qaroun-Qarun |    Surely Qaroun was of the people of Musa , but he rebelled against ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging
+
+Israelites Übergebliebenen | w_freq: 392 - 2 | wiki_freq: 6428 - 1 | sentence_idx: 160831 | align_1: 2-3 | align_2: 3-10 | ner_entity: Israelites-none |    There were Israelites whose hearts were stirred up to great generosity . ||| da teilten die Übergebliebenen ( der Rest ) Israels , deren Herzen weit
+
+Allah Allah | w_freq: 1378 - 1180 | wiki_freq: 12189 - 1130 | sentence_idx: 169716 | align_1: 0-0 | align_2: 1-4 | ner_entity: Allah-Allah |    Allah swore by time through the ages ||| Allah ( t ) schwört bei der Zeit .
+
+Bunyan Bunyan | w_freq: 5 - 5 | wiki_freq: 1841 - 159 | sentence_idx: 183528 | align_1: 1-1 | align_2: 2-11 | ner_entity: John Bunyan-John Bunyan |    John Bunyan said , “ He who runs from God in the morning will scarcely find Him the rest of the day . ” ||| John Bunyan , der Autor der bekannten Pilgerreise , hat einmal gesagt : „ Wer morgens vor Gott wegläuft , wird Ihn den Rest des Tages kaum noch finden . “
+
+shit Sch | w_freq: 153 - 4 | wiki_freq: 4782 - 324 | sentence_idx: 186763 | align_1: 6-6 | align_2: 7-11 | ner_entity: none-Sch |    15 solid seconds of ' holy shit this is happening . " ||| 15 solide Sekunden von ' Heiliger Sch * * * , das passiert gerade . ' "
+
+shit Sch | w_freq: 153 - 4 | wiki_freq: 4782 - 324 | sentence_idx: 187502 | align_1: 6-6 | align_2: 7-11 | ner_entity: none-Sch |    15 solid seconds of ' holy shit this is happening . " ||| 15 solide Sekunden von ‚ Heiliger Sch * * * , das passiert gerade . ' “
+
+Mazen Mazen | w_freq: 17 - 17 | wiki_freq: 294 - 69 | sentence_idx: 194165 | align_1: 2-2 | align_2: 3-6 | ner_entity: Abu Mazen-Abu Mazen |    " Abu Mazen and all these evil people should perish from this world . ||| " Abu Mazen ( Abbas ) und all diese Bösen sollen von der Erde verschwinden .
+
+Qarun Qarun | w_freq: 16 - 12 | wiki_freq: 78 - 11 | sentence_idx: 197919 | align_1: 3-2 | align_2: 4-6 | ner_entity: Qarun-Qarun |    “ Indeed , Qarun was from the people of Moses , but he tyrannized them . ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging
+
+Qaroun Qarun | w_freq: 2 - 12 | wiki_freq: 11 - 11 | sentence_idx: 206130 | align_1: 3-2 | align_2: 4-6 | ner_entity: Qaroun-Qarun |    S : Surely Qaroun was of the people of Musa , but he rebelled against ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging
+
+Quran Qur | w_freq: 333 - 125 | wiki_freq: 13254 - 33 | sentence_idx: 215470 | align_1: 8-7 | align_2: 9-12 | ner_entity: Quran-Qur ’ an |    Only if you have true knowledge of the Quran will you be in a position to answer the questions and allegations raised against Islam . ” ||| Nur wenn Sie wahres Wissen über den Qur ’ an besitzen , werden Sie in der Lage sein , die Fragen und Anschuldigungen gegen den Islam zu beantworten . “
+
+D3 D3 | w_freq: 13 - 9 | wiki_freq: 2402 - 652 | sentence_idx: 215666 | align_1: 9-10 | align_2: 10-15 | ner_entity: none-D3 |    Spend some time in the sun to get the D3 you need . ||| Verbringen Sie einige Zeit in der Sonne , um die D3 zu bekommen , die Sie brauchen .
+
+Qarun Qarun | w_freq: 16 - 12 | wiki_freq: 78 - 11 | sentence_idx: 218842 | align_1: 2-2 | align_2: 3-6 | ner_entity: Qarun-Qarun |    Indeed , Qarun was from the people of Moses , but he tyrannized them . ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging
+
+Dollar Dollars | w_freq: 129 - 211 | wiki_freq: 10594 - 503 | sentence_idx: 219036 | align_1: 15-17 | align_2: 16-21 | ner_entity: Dollar-Dollars |    Indeed , it is a curious phenomenon , but such is the power of the Dollar as one political analyst describes , ||| Es ist in der Tat ein seltsames Phänomen , aber so ist nun einmal die Macht des Dollars , der , wie ein politischer Analyst beschreibt ,
+
+Agricole Agricole | w_freq: 5 - 5 | wiki_freq: 1027 - 415 | sentence_idx: 223502 | align_1: 9-10 | align_2: 10-15 | ner_entity: Crédit Agricole-Crédit Agricole |    It was acquired by another French bank ( Crédit Agricole ) in 2003 . ||| Es war erworben von einer anderen französischen Bank ( Crédit Agricole ( Crédit Agricole ) ) 2003.
+
+blockchain Blockchain | w_freq: 387 - 399 | wiki_freq: 2181 - 369 | sentence_idx: 231794 | align_1: 19-18 | align_2: 20-23 | ner_entity: none-Blockchain |    Just like on the internet or in cars , you need to know how it works to use the blockchain . ||| Genau wie im Internet oder in Autos müssen Sie wissen , wie es funktioniert , um die „ Blockchain “ nutzen zu können .
+
+Maryam Maryam | w_freq: 64 - 45 | wiki_freq: 2582 - 575 | sentence_idx: 232481 | align_1: 15-11 | align_2: 16-16 | ner_entity: Maryam-Maryam |    ( before his death ) refers to the death of ` Isa , son of Maryam . ||| Sterbt unter ihm , bis er an ʿĪsā der Sohn von Maryam ʿalayhi al-salām weitergegeben wird . “
+
+GDPR fegenden,)[Al-Takwier:14 | w_freq: 19 - 39 | wiki_freq: 653 - 0 | sentence_idx: 235446 | align_1: 9-11 | align_2: 10-15 | ner_entity: GDPR-none |    You swear to the stars , and to the GDPR . ||| Ich schwöre bei den unsichbaren Sternen , den voraneilenden und den fegenden,)[Al-Takwier:14 - 15 ] .
+
+Israelis Israelis | w_freq: 575 - 578 | wiki_freq: 6972 - 1597 | sentence_idx: 239797 | align_1: 1-1 | align_2: 2-5 | ner_entity: Israelis-none |    The Israelis we face are not independent actors . ||| Die Israelis , mit denen wir konfrontiert sind , sind keine unabhängigen Akteure .
+
+Bunyan Bunyan | w_freq: 5 - 5 | wiki_freq: 1841 - 159 | sentence_idx: 242827 | align_1: 1-1 | align_2: 2-13 | ner_entity: John Bunyan-John Bunyan |    John Bunyan said , “ He who runs from God in the morning will scarcely find Him the rest of the day . ” ||| John Bunyan , der Autor der bekannten „ Pilgerreise “ , hat einmal gesagt : „ Wer morgens vor Gott wegläuft , wird Ihn den Rest des Tages kaum noch finden . “
+
+86:9 86:9 | w_freq: 5 - 2 | wiki_freq: 0 - 1 | sentence_idx: 244212 | align_1: 1-2 | align_2: 2-8 | ner_entity: Psalm 86:9-none |    Psalm 86:9 – “ All the nations you have made will come and worship before you and will glorify your name . ” ||| In Psalm 86:9 , 10 ist vorausgesagt worden : „ Alle Nationen , die du gemacht hast , werden kommen und vor dir anbeten , Herr , und deinen Namen verherrlichen .
+
+Ibiza Ibiza | w_freq: 87 - 83 | wiki_freq: 4053 - 1780 | sentence_idx: 249587 | align_1: 14-13 | align_2: 15-18 | ner_entity: Ibiza-Ibiza |    With boats from 8 to 15 meters you have the unique opportunity to enjoy Ibiza as you always dreamed . ||| Mit Booten von 8 bis 15 Metern haben Sie die einzigartige Möglichkeit , Ibiza so zu genießen , wie Sie es sich immer erträumt haben .
+
+Weir Weir | w_freq: 8 - 6 | wiki_freq: 11014 - 1150 | sentence_idx: 250238 | align_1: 0-0 | align_2: 1-4 | ner_entity: Weir-Weir |    Weir : Rodney , we need the shield up in 40 seconds or we ’re dead . ||| Weir ( über Funk ): Rodney , der Schild muss in vierzig Sekunden stehen , oder wir sind tot !
+
+RUSH GOTT | w_freq: 5 - 104 | wiki_freq: 90 - 203 | sentence_idx: 260030 | align_1: 0-5 | align_2: 1-10 | ner_entity: RUSH-GOTT |    RUSH : " Kill them all , and let God sort 'em out . " ||| " Tötet alle und laßt GOTT aussortieren " ( unredlich : " Kill them all and let God sort them out . " )
+
+Bratislava Bratislava | w_freq: 37 - 37 | wiki_freq: 9909 - 7425 | sentence_idx: 265802 | align_1: 13-15 | align_2: 14-19 | ner_entity: Bratislava-Bratislava |    “ I call on each of the 27 leaders making their way to Bratislava to think of three reasons why we need the European Union . ||| „ Ich rufe jeden Einzelnen der 27 Staats- und Regierungschefs , die den Weg nach Bratislava antreten , auf , sich drei Gründe zu überlegen , warum wir die Europäische Union brauchen .
+
+Bratislava Bratislava | w_freq: 37 - 37 | wiki_freq: 9909 - 7425 | sentence_idx: 265803 | align_1: 13-15 | align_2: 14-19 | ner_entity: Bratislava-Bratislava |    “ I call on each of the 27 leaders making their way to Bratislava to think of three reasons why we need the European Union . ||| " Ich rufe jeden Einzelnen der 27 Staats- und Regierungschefs , die den Weg nach Bratislava antreten , auf , sich drei Gründe zu überlegen , warum wir die Europäische Union brauchen .
+
+Satan Satan | w_freq: 1044 - 855 | wiki_freq: 10944 - 2179 | sentence_idx: 272074 | align_1: 12-18 | align_2: 13-24 | ner_entity: Satan-Satan |    “ Now judgment is upon this world ; now the ruler ( Satan ) of this world will be cast out . ||| " Jetzt wird Gericht gehalten über diese Welt ; jetzt wird der Herrscher dieser Welt ( d.h. der Satan , der Dämon der Macht ) hinausgeworfen . " [ 6 ]
+
+Possible Possible | w_freq: 157 - 13 | wiki_freq: 7705 - 237 | sentence_idx: 280230 | align_1: 13-13 | align_2: 14-23 | ner_entity: Return If Possible-Return If Possible |    Especially today … One year later , I wish R.I.P. meant Return If Possible . ||| Besonders heute … Ein Jahr später wünschte ich , dass R.I.P. Return If Possible ( Wenn möglich , komm zurück ) bedeuten würde .
+
+Israelites Israels | w_freq: 392 - 2646 | wiki_freq: 6428 - 7011 | sentence_idx: 281736 | align_1: 11-18 | align_2: 12-23 | ner_entity: Israelites-Israels |    21But the LORD , the God of Israel , gave the Israelites victory over Sihon and his army . ||| 21Der HERR aber , der Gott Israels , gab den Sihon mit all seinem Volk in die Hände Israels , daß sie sie schlugen .
+
+Ammon Isra | w_freq: 14 - 18 | wiki_freq: 1392 - 33 | sentence_idx: 292216 | align_1: 4-4 | align_2: 5-13 | ner_entity: Ammon-Isra |    Thus the children of Ammon were subdued before the children of Israel . ” ||| Die Versuchung der Kinder Isra ’ ils ( Bani Isra ’ il ) waren gerade die Frauen . “
+
+Estonians Esten | w_freq: 10 - 10 | wiki_freq: 1604 - 1139 | sentence_idx: 309356 | align_1: 13-11 | align_2: 14-16 | ner_entity: Estonians-none |    What could Greeks , Germans and Italians learn something from the 1.4 million Estonians ? ||| Was können Griechen , Deutsche , Italiener von den 1,4 Millionen Esten lernen , Herr Minister ?
+
+Pharaoh Pharao | w_freq: 431 - 384 | wiki_freq: 5590 - 2745 | sentence_idx: 312845 | align_1: 2-2 | align_2: 3-7 | ner_entity: Pharaoh-Pharao |    Thus was Pharaoh completely humbled and broken down . ||| So war Pharao ( s. auch ) völlig niedergeschlagen und gegliedert .
+
+Messenger Messenger | w_freq: 154 - 85 | wiki_freq: 8006 - 1056 | sentence_idx: 320407 | align_1: 6-6 | align_2: 7-10 | ner_entity: Instant Messenger-Instant Messenger |    What is the purpose behind Instant Messenger , how do i get benefit from it ? ||| Was ist der Zweck von Instant Messenger ( IM ) und was für Nutzen habe ich davon ?
+
+Iraqis Iraker | w_freq: 107 - 102 | wiki_freq: 3367 - 455 | sentence_idx: 323194 | align_1: 3-1 | align_2: 4-5 | ner_entity: Iraqis-none |    Many of the Iraqis we spoke to on that day were upset with the institutionalization of an ethno-sectarian quota system . ||| Viele Iraker , mit denen wir an diesem Tag sprachen , waren verärgert über die Institutionalisierung eines ethno-sektiererischen Quotensystems .
+
+Israelis Israelis | w_freq: 575 - 578 | wiki_freq: 6972 - 1597 | sentence_idx: 324382 | align_1: 4-3 | align_2: 5-8 | ner_entity: Israelis-none |    ( An additional 410,000 Israelis abroad will not be able to vote . ) ||| ( Weitere 410.000 Israelis , die sich im Ausland aufhalten , werden nicht wählen können . )
+
+goyim Goyim | w_freq: 10 - 15 | wiki_freq: 41 - 7 | sentence_idx: 329003 | align_1: 1-2 | align_2: 2-6 | ner_entity: none-Goyim |    The goyim are a flock of sheep and we are their wolves " . ||| „ Die Goyim ( Heiden ) sind eine Herde von Schafen , und wir sind die Wölfe .
+
+Wolterstorff Wolterstorff | w_freq: 1 - 1 | wiki_freq: 94 - 51 | sentence_idx: 336969 | align_1: 12-9 | align_2: 13-14 | ner_entity: Nick Wolterstorff-Nick Wolterstorff |    It would seem , then , that we should conclude with Nick Wolterstorff that God is temporal . ||| Es scheint also , als sollten wir mit Nick Wolterstorff den Schluss ziehen , dass Gott temporal ist .
+
+Sonja sonja | w_freq: 9 - 1 | wiki_freq: 3467 - 0 | sentence_idx: 339760 | align_1: 4-4 | align_2: 5-8 | ner_entity: Sonja-sonja |    They choose four for Sonja to meet . ||| Sie wählen vier für sonja , um sich zu treffen .
+
+Ammon Isra | w_freq: 14 - 18 | wiki_freq: 1392 - 33 | sentence_idx: 354884 | align_1: 4-4 | align_2: 5-13 | ner_entity: Ammon-Isra |    Thus the children of Ammon were subdued before the children of Israel . " ||| Die Versuchung der Kinder Isra ’ ils ( Bani Isra ’ il ) waren gerade die Frauen . “
+
+Bibles Bibeln | w_freq: 37 - 41 | wiki_freq: 2247 - 700 | sentence_idx: 358465 | align_1: 7-6 | align_2: 8-11 | ner_entity: Bibles-Bibeln |    It was too dangerous to leave the Bibles where they were . ||| Es war zu gefährlich , die Bibeln dort zu lassen , wo sie waren .
+
+Westbrook Westbrook | w_freq: 9 - 9 | wiki_freq: 4468 - 545 | sentence_idx: 359737 | align_1: 8-8 | align_2: 9-12 | ner_entity: Westbrook-Westbrook |    In the following is only the mention of Westbrook that is part of her official writings . ↑ ||| Im Weiteren ist nur von der Erwähnung von Westbrook die Rede , die Teil ihrer offiziellen Schriften ist . ↑
+
+Israelites Israeliten | w_freq: 392 - 199 | wiki_freq: 6428 - 1641 | sentence_idx: 364153 | align_1: 2-3 | align_2: 3-8 | ner_entity: Israelites-none |    When the Israelites sinned , Moses raged at them . ||| Und als die Israeliten [ aus Ägypten ] auszogen , belebte Mose ihn .
+
+Israelite Israelita | w_freq: 118 - 1 | wiki_freq: 3404 - 50 | sentence_idx: 368213 | align_1: 3-0 | align_2: 4-10 | ner_entity: Israelite-Israelita |    Behold , an Israelite indeed ||| Israelita " [ [ Neue , Israelitische Vereinigung ] ] .
+
+Shuaib Schuaib | w_freq: 4 - 2 | wiki_freq: 194 - 13 | sentence_idx: 376865 | align_1: 7-7 | align_2: 8-13 | ner_entity: Shuaib-Schuaib |    God said , " Those who belied Shuaib became as if they had never dwelt there ( in their homes ) . ||| Gott sagte : " Diejenigen , die Schuaib der Lüge beschuldigt hatten , wurden ( so zugerichtet ) , als hätten sie nie darin gewohnt .
+
+Passover Pascha | w_freq: 9 - 5 | wiki_freq: 3664 - 6947 | sentence_idx: 388854 | align_1: 13-13 | align_2: 14-17 | ner_entity: none-Pascha |    And you will eat it in haste , it is the LORD ’S Passover . ||| In aller Eile sollt ihr es verzehren : Es ist der Vorübergang ( Pascha ) des Herrn .
+
+Michels Michels | w_freq: 6 - 10 | wiki_freq: 1178 - 1345 | sentence_idx: 402475 | align_1: 1-1 | align_2: 2-6 | ner_entity: Robert Michels-Robert Michels |    Robert Michels believed that any political system eventually evolves into an oligarchy . ||| Robert Michels ( Robert Michels ) glaubte , dass sich jedes politische System schließlich zu einer Oligarchie entwickelt .
+
+Albanians Kosovo-Albaner | w_freq: 66 - 7 | wiki_freq: 9918 - 266 | sentence_idx: 410056 | align_1: 6-5 | align_2: 7-10 | ner_entity: Kosovo Albanians-none |    The women who marry these Kosovo Albanians believe they have found the ideal , attentive husband . ||| Die Frauen , die diese Kosovo-Albaner im Westen heiraten , glauben , den idealen , aufmerksamen Ehemann gefunden zu haben .
+
+IRAs IRAs | w_freq: 29 - 25 | wiki_freq: 279 - 0 | sentence_idx: 420264 | align_1: 6-5 | align_2: 7-9 | ner_entity: none-IRAs |    There are two main types of IRAs most people use ( self-employed individuals have a few other options ): ||| Es gibt zwei Haupttypen von IRAs , die die meisten Menschen nutzen ( selbständige Personen haben einige andere Optionen ):
+
+DR dr | w_freq: 102 - 44 | wiki_freq: 7124 - 557 | sentence_idx: 422602 | align_1: 12-13 | align_2: 13-18 | ner_entity: DR-none |    No better way to end my last night in Santo Domingo , DR than to go back to back . ||| Es gibt keinen besseren weg , meine letzte nacht in santo domingo , dr , zu beenden , als zurück zu kehren .
+
+Iraqis Iraker | w_freq: 107 - 102 | wiki_freq: 3367 - 455 | sentence_idx: 430262 | align_1: 3-1 | align_2: 4-5 | ner_entity: Iraqis-none |    Many of the Iraqis we spoke to on that day were upset with institutionalization of an ethno-sectarian quota system . ||| Viele Iraker , mit denen wir an diesem Tag sprachen , waren verärgert über die Institutionalisierung eines ethno-sektiererischen Quotensystems .
+
+Liechtenstein Liechtenstein | w_freq: 100 - 92 | wiki_freq: 8673 - 11806 | sentence_idx: 436103 | align_1: 3-3 | align_2: 4-8 | ner_entity: Liechtenstein-Liechtenstein |    A way for Liechtenstein to influence European policy ||| Ein Weg für Liechtenstein , um die Europapolitik zu beeinflussen
+
+Ice4Life Ice4Life | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 441146 | align_1: 19-17 | align_2: 20-22 | ner_entity: Ice4Life-Ice4Life |    The goals will be reviewed every year , but we will always be opposed to keeping the goals of Ice4Life as Mark Bos put it at the time . ||| Die Ziele werden jedes Jahr überprüft , aber wir werden immer dagegen sein , die Ziele von Ice4Life so zu halten , wie Mark Bos es damals formuliert hat .
+
+GeneXmatch GeneXmatch | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 443329 | align_1: 3-2 | align_2: 4-8 | ner_entity: GeneXmatch-GeneXmatch |    Can I use GeneXmatch when I already have frozen embryos with my donor?+ ||| Kann ich GeneXmatch auch dann noch verwenden , wenn ich bereits eingefrorene Embryos mit meinem Spender gezeugt habe?+
+
+Lottery Lotterie | w_freq: 32 - 88 | wiki_freq: 8063 - 1165 | sentence_idx: 445290 | align_1: 14-14 | align_2: 15-19 | ner_entity: Ohio Lottery-Ohio Lotterie |    Ohio is also one of 41 states with its own lottery , the Ohio Lottery . ||| Ohio ist auch einer von 41 Staaten mit seiner eigenen Lotterie , der Ohio Lotterie ( Ohio Lotterie ) .
+
+Peoria Peoria | w_freq: 4 - 2 | wiki_freq: 6729 - 960 | sentence_idx: 466666 | align_1: 4-2 | align_2: 5-7 | ner_entity: Peoria-Peoria |    What is true in Peoria would be true in Amsterdam . ||| Was in Peoria das Wahre wäre , wäre in Amsterdam das Wahre .
+
+DeLorean DeLorean | w_freq: 11 - 8 | wiki_freq: 961 - 154 | sentence_idx: 470779 | align_1: 11-9 | align_2: 12-16 | ner_entity: DeLorean-DeLorean |    And what might that do to Marty and the undamaged future DeLorean now in 1885 ? ||| Und was würde dann mit Marty und dem unbeschädigten DeLorean aus der Zukunft , der sich jetzt im Jahr 1885 befindet , geschehen ?
+
+UNICEF-Khartoum UNICEF-Khartoum | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 471902 | align_1: 13-14 | align_2: 14-19 | ner_entity: UNICEF-Khartoum-UNICEF-Khartoum |    A document prepared by the National Committee of Social Assistance in collaboration with UNICEF-Khartoum is doing the same . ||| Ein Dokument , das vom Nationalen Rat für soziale Unterstützung in Zusammenarbeit mit der UNICEF-Khartoum vorbereitet worden ist , tut das gleiche .
+
+Shuaib Schuaib | w_freq: 4 - 2 | wiki_freq: 194 - 13 | sentence_idx: 474676 | align_1: 7-7 | align_2: 8-13 | ner_entity: Shuaib-Schuaib |    God said , “ Those who belied Shuaib became as if they had never dwelt there ( in their homes ) . ||| Gott sagte : " Diejenigen , die Schuaib der Lüge beschuldigt hatten , wurden ( so zugerichtet ) , als hätten sie nie darin gewohnt .
+
+Googlebot Googlebot | w_freq: 4 - 4 | wiki_freq: 33 - 17 | sentence_idx: 476004 | align_1: 7-6 | align_2: 8-11 | ner_entity: Googlebot-Googlebot |    We are now ready to welcome Mr. Googlebot but he seems to be a little shy ... ||| Wir sind nun bereit , Mr. Googlebot willkommen zu heißen , doch er scheint ein wenig schüchtern zu sein ...
+
+Katibin Katibin | w_freq: 1 - 2 | wiki_freq: 27 - 3 | sentence_idx: 478948 | align_1: 1-1 | align_2: 2-6 | ner_entity: Kiraman Katibin-Kiraman Katibin |    Kiraman Katibin : the two angels who record a person ’s good and bad deeds . ||| Kiraman Katibin ( Kiraman Katibin ) - zwei Engel , die die guten und schlechten Akte der Person registrieren .
+
+ITMA ITMA | w_freq: 1 - 1 | wiki_freq: 140 - 7 | sentence_idx: 487022 | align_1: 4-5 | align_2: 5-9 | ner_entity: ITMA-ITMA |    Which was the first ITMA you attended , for Mayer & Cie . or for another company ? ||| 1. Welches war die erste ITMA , an der Sie teilgenommen haben , für Mayer & Cie. oder ein anderes Unternehmen ?
+
+Kurds Kurden | w_freq: 195 - 191 | wiki_freq: 9714 - 2577 | sentence_idx: 495127 | align_1: 6-6 | align_2: 7-10 | ner_entity: Kurds-none |    “ They both [ Ezidis and Kurds ] speak “ Kourmandji . ” ||| “ Sie beide [ Êzîdî und Kurden , Anm . ] sprechen “ Kourmandji ” .
+
+Israelites Israels | w_freq: 392 - 2646 | wiki_freq: 6428 - 7011 | sentence_idx: 500136 | align_1: 7-7 | align_2: 8-13 | ner_entity: Israelites-Israels |    But ALL of the verses are about Israelites who have prophecy about them from the OT . ||| Und ihre Geschichte wurde in allen Ländern Israels gehört , von denen , die zu einem Fest kamen , um niederzufallen .
+
+WPC WPC | w_freq: 7 - 5 | wiki_freq: 856 - 100 | sentence_idx: 500584 | align_1: 2-2 | align_2: 3-6 | ner_entity: WPC-none |    '' A WPC found me drunk with men . ||| " Eine WPC [ Polizeibeamtin ] fand mich betrunken mit Männern .
+
+Gods Gods | w_freq: 139 - 22 | wiki_freq: 12574 - 1211 | sentence_idx: 503798 | align_1: 7-6 | align_2: 8-12 | ner_entity: Nine Gods-Nine Gods |    The game was based on ' Nine Gods . ' ||| Das Spiel basierte auf „ Nine Gods “ ( Neun Götter ) .
+
+Chippewa Chippewa | w_freq: 2 - 3 | wiki_freq: 4585 - 525 | sentence_idx: 523708 | align_1: 7-6 | align_2: 8-11 | ner_entity: Chippewa-none |    In contrast , only 583 identified as Chippewa . ||| Im Gegensatz wurden nur 583 als Chippewa ( Chippewa ) identifiziert .
+
+Concern Concern | w_freq: 14 - 2 | wiki_freq: 6502 - 1880 | sentence_idx: 525652 | align_1: 13-11 | align_2: 14-15 | ner_entity: Burma Democratic Concern-Birma Demokratische Concern |    Chinland Guardian : First of all , tell us more about Burma Democratic Concern ( BDC ) . ||| Chinland Guardian : Erzählen Sie uns zuallererst mehr über Birma Demokratische Concern ( Betroffenheit ) ( BDC ) .
+
+Hezbollah Hisbollah | w_freq: 125 - 131 | wiki_freq: 8613 - 1529 | sentence_idx: 527800 | align_1: 12-9 | align_2: 13-14 | ner_entity: Hezbollah-Hisbollah |    Israel , however , has chosen to treat the political members of Hezbollah as if they were fighters . ||| Israel jedoch hat entschieden , die politischen Mitglieder der Hisbollah so zu behandeln , als wären sie Kämpfer .
+
+47Aaron Qarun | w_freq: 1 - 12 | wiki_freq: 0 - 11 | sentence_idx: 531529 | align_1: 0-1 | align_2: 1-5 | ner_entity: none-Qarun |    47Aaron did as Moses told him and ran out among the people . ||| 76. Qarun ( Korah ) war einer aus dem Volk von Moses , doch er täuschte und unterdrückte es .
+
+rebellious Jahwe | w_freq: 75 - 31 | wiki_freq: 8261 - 160 | sentence_idx: 543344 | align_1: 5-2 | align_2: 6-8 | ner_entity: none-Jahwe |    Does God Himself have a rebellious and fallen son ? ||| Allah , Jahwe ( Jehu ) , Gott und ( k ) ein Sohn ?
+
+4.1 4.1 | w_freq: 50 - 42 | wiki_freq: 8676 - 385 | sentence_idx: 545718 | align_1: 10-11 | align_2: 11-18 | ner_entity: QuarkXPress 4.1-none |    “ I just upgraded from my 1998 license of QuarkXPress 4.1 because QuarkXPress 2018 is such a strong product . ” ||| „ Ich habe gerade das Upgrade von meiner Lizenz von QuarkXPress 4.1 aus dem Jahr 1998 vorgenommen , weil QuarkXPress 2018 solch ein leistungsstarkes Produkt ist . “
+
+Infinity Infinity | w_freq: 17 - 14 | wiki_freq: 8194 - 837 | sentence_idx: 552947 | align_1: 11-12 | align_2: 12-17 | ner_entity: Wolfram Infinity-Wolfram Infinity |    Now it is time to welcome the second generation – Wolfram Infinity . ||| Nun ist es an der Zeit , die zweite Generation - Wolfram Infinity - willkommen zu heißen .
+
+Improvement Improvement | w_freq: 49 - 17 | wiki_freq: 10887 - 496 | sentence_idx: 554284 | align_1: 17-17 | align_2: 18-21 | ner_entity: McKinney Life Improvement Center-McKinney Life Improvement |    They wanted to form another group and so they did and now we have the McKinney Life Improvement Center . ||| Sie wollten eine weitere Gruppe bilden und taten es auch und jetzt haben wir das McKinney Life Improvement ( Lebensverbesserung ) Center .
+
+Centaur Kentauren | w_freq: 1 - 1 | wiki_freq: 2799 - 303 | sentence_idx: 556309 | align_1: 2-2 | align_2: 3-7 | ner_entity: The Centaur-Dem Kentauren |    In The Centaur ( 1963 ) , George Caldwell is afraid of his cancer and does not have any religious faith . ||| In Dem Kentauren ( Der Kentaur ) ( 1963 ) hat George Caldwell Angst vor seinem Krebs und hat keinen religiösen Glauben .
+
+Allah Allah | w_freq: 1378 - 1180 | wiki_freq: 12189 - 1130 | sentence_idx: 560552 | align_1: 0-0 | align_2: 1-6 | ner_entity: Allah-Allah |    Allah says in the Quran when speaking of the story of Moses , ||| Allah ( Gebriesen sei ER ) sagt im Qur ’ an über Mose , Allahs Friede auf ihm :
+
+Ramadan Ramadaan | w_freq: 102 - 2 | wiki_freq: 5028 - 0 | sentence_idx: 562774 | align_1: 12-10 | align_2: 13-18 | ner_entity: Ramadan-Ramadaan |    He said : ‘ I had sexual intercourse with my wife in Ramadan . ’ ||| Er sagte : “ Ich habe mit meiner Frau im Ramadaan ( während der Fastenzeit ) Beischlaf gehabt . ”
+
+ESV o | w_freq: 3 - 284 | wiki_freq: 541 - 7826 | sentence_idx: 563954 | align_1: 11-11 | align_2: 12-16 | ner_entity: ESV-none |    And great fear came upon all who heard of it ( ESV ) . ||| Da kam große Furcht über alle , die es hörten [ o : die zugehört hatten ] .
+
+Kuma Pophet | w_freq: 4 - 1 | wiki_freq: 1008 - 0 | sentence_idx: 566032 | align_1: 5-1 | align_2: 6-9 | ner_entity: Kuma-none |    With the old design , Kuma said , " There 's a strong idea of creating a monument . ||| Der Pophet ( Frieden und Segen auf ihn ) sagte : „ Die Bescheidenheit ist Teil des Glaubens . “ ( Al-Buchari ) .
+
+Astraea Astraea | w_freq: 2 - 4 | wiki_freq: 486 - 158 | sentence_idx: 568368 | align_1: 7-6 | align_2: 8-11 | ner_entity: 5 Astraea-Astraea |    Fifteen years later , he found 5 Astraea , the first new asteroid in 38 years . ||| Fünfzehn Jahre später fand er 5 Astraea ( 5 Astraea ) , der erste neue Asteroid in 38 Jahren .
+
+ISIL ISIL | w_freq: 16 - 12 | wiki_freq: 13697 - 164 | sentence_idx: 575358 | align_1: 0-1 | align_2: 1-5 | ner_entity: ISIL-ISIL |    ISIL gave us in two weeks what Maliki could n’t give us in eight years . ” ||| „ ISIL [ ISIS ] gab uns in zwei Wochen , was uns Maliki nicht in acht Jahren gegeben hatte . “
+
+Resurrection Auferstehung | w_freq: 77 - 262 | wiki_freq: 7651 - 5079 | sentence_idx: 578021 | align_1: 14-18 | align_2: 15-23 | ner_entity: Day of Resurrection-none |    And what think those who invent a lie concerning Allah upon the Day of Resurrection ? ||| Und was werden diejenigen , die ( jetzt ) gegen Gott eine Lüge aushecken , am Tag der Auferstehung ( darüber ) denken ?
+
+Matrix Matrix | w_freq: 87 - 145 | wiki_freq: 8619 - 7342 | sentence_idx: 589914 | align_1: 17-15 | align_2: 18-20 | ner_entity: Children of the Matrix-Kinder der Matrix |    The anonymous writer who described some of “ D ’s ” experiences in the Children of the Matrix was me . ||| Der anonyme Schriftsteller , der einige der " D's " Erfahrungen in " Kinder der Matrix " beschrieben hat , war ich .
+
+Bone Bone | w_freq: 14 - 11 | wiki_freq: 11146 - 1365 | sentence_idx: 591534 | align_1: 0-0 | align_2: 1-6 | ner_entity: Bone-Bone |    Bone , population 2 , but still has a gas station ||| Bone ( Knochen , Idaho ) - Bevölkerung 2 , Aber hat noch Tankstelle
+
+Mazen Mazen | w_freq: 17 - 17 | wiki_freq: 294 - 69 | sentence_idx: 597020 | align_1: 1-2 | align_2: 2-6 | ner_entity: Abu Mazen-Abu Mazen |    Abu Mazen and all these evil people should perish from this earth . ||| " Abu Mazen ( Abbas ) und all diese Bösen sollen von der Erde verschwinden .
+
+Allah Allah | w_freq: 1378 - 1180 | wiki_freq: 12189 - 1130 | sentence_idx: 598698 | align_1: 9-12 | align_2: 10-20 | ner_entity: Allah-Allah |    Take me and my mother for two gods besides Allah he will say : Glory be ||| ` Nehmt mich und meine Mutter als zwei Gottheiten an Stelle von Allah an ! ‘ ? “ , sagt er : „ Gepriesen seiest DU !
+
+non-Kazakhs non-Kazakhs | w_freq: 1 - 1 | wiki_freq: 5 - 0 | sentence_idx: 606261 | align_1: 16-16 | align_2: 17-22 | ner_entity: non-Kazakhs-none |    The term Kazakhstani ( ; ) was coined to describe all citizens of Kazakhstan , including non-Kazakhs . ||| Der Begriff Kazakhstani ( ;) wurde ins Leben gerufen , um alle Bürger Kasachstans , einschließlich non-Kazakhs ( Kazakhs ) zu beschreiben .
+
+Bratislava Bratislava | w_freq: 37 - 37 | wiki_freq: 9909 - 7425 | sentence_idx: 608898 | align_1: 13-15 | align_2: 14-19 | ner_entity: Bratislava-Bratislava |    " I call on each of the 27 leaders making their way to Bratislava to think of three reasons why we need the European Union . ||| „ Ich rufe jeden Einzelnen der 27 Staats- und Regierungschefs , die den Weg nach Bratislava antreten , auf , sich drei Gründe zu überlegen , warum wir die Europäische Union brauchen .
+
+Bratislava Bratislava | w_freq: 37 - 37 | wiki_freq: 9909 - 7425 | sentence_idx: 608899 | align_1: 13-15 | align_2: 14-19 | ner_entity: Bratislava-Bratislava |    " I call on each of the 27 leaders making their way to Bratislava to think of three reasons why we need the European Union . ||| " Ich rufe jeden Einzelnen der 27 Staats- und Regierungschefs , die den Weg nach Bratislava antreten , auf , sich drei Gründe zu überlegen , warum wir die Europäische Union brauchen .
+
+Canadian-Americans Canadian-Americans | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 609233 | align_1: 5-5 | align_2: 6-11 | ner_entity: Canadian-Americans-none |    You can say things like Canadian-Americans – like Jim Carrey who has dual citizenship . ||| Man kann Sachen sagen wie Canadian-Americans ( Amerikaner kanadischer Herkunft ) - wie Jim Carrey , der eine doppelte Staatsbürgerschaft besitzt .
+
+Kelis Kelis | w_freq: 1 - 1 | wiki_freq: 903 - 119 | sentence_idx: 614782 | align_1: 4-2 | align_2: 5-7 | ner_entity: Kelis-Kelis |    It was thanks to Kelis I discovered a life outside of monograms . ” ||| Es ist Kelis zu verdanken , dass ich ein Leben außerhalb von Monogrammen entdeckte . "
+
+Astraea Astraea | w_freq: 2 - 4 | wiki_freq: 486 - 158 | sentence_idx: 626307 | align_1: 7-6 | align_2: 8-11 | ner_entity: 5 Astraea-Astraea |    Fifteen years later , he found 5   Astraea , the first new asteroid in 38 years . ||| Fünfzehn Jahre später fand er 5 Astraea ( 5 Astraea ) , der erste neue Asteroid in 38 Jahren .
+
+Batista Batista | w_freq: 13 - 11 | wiki_freq: 5951 - 1102 | sentence_idx: 627489 | align_1: 8-8 | align_2: 9-12 | ner_entity: Batista-Batista |    Not even all those who opposed Machado or Batista were necessarily revolutionaries . ||| Nicht einmal die , die gegen Machado oder Batista gekämpft haben , waren notwendigerweise Revolutionäre .
+
+Gaming Gaming | w_freq: 59 - 67 | wiki_freq: 14299 - 1678 | sentence_idx: 631447 | align_1: 11-12 | align_2: 12-18 | ner_entity: none-Mobile Gaming und Immersion |    = = = = Gaming in micro- and macrocosmos - Mobile Gaming = = = = = = = = Gaming in micro- and macrocosmos - Mobile Gaming = = = = ||| = = = = = Spielen im Mikrokosmos und Makrokosmos - Mobile Gaming und Immersion ( EG3 ) = = = = = = = = = = Spielen im Mikrokosmos und Makrokosmos - Mobile Gaming und Immersion ( EG3 ) = = = = =
+
+Gaming Gaming | w_freq: 59 - 67 | wiki_freq: 14299 - 1678 | sentence_idx: 631447 | align_1: 27-35 | align_2: 28-41 | ner_entity: none-Mobile Gaming und Immersion |    = = = = Gaming in micro- and macrocosmos - Mobile Gaming = = = = = = = = Gaming in micro- and macrocosmos - Mobile Gaming = = = = ||| = = = = = Spielen im Mikrokosmos und Makrokosmos - Mobile Gaming und Immersion ( EG3 ) = = = = = = = = = = Spielen im Mikrokosmos und Makrokosmos - Mobile Gaming und Immersion ( EG3 ) = = = = =
+
+Qur’an Koran | w_freq: 198 - 395 | wiki_freq: 541 - 3991 | sentence_idx: 634142 | align_1: 2-2 | align_2: 3-7 | ner_entity: Great Qur’an-Koran |    The Great Qur’an says : 4:82 : " Do they not ponder over the Qur'an ? ||| Denn der Koran Vers ( 4:82 ) sagt ; " Wollen sie also nicht nachdenken über den Koran ?
+
+Pharaoh Pharao | w_freq: 431 - 384 | wiki_freq: 5590 - 2745 | sentence_idx: 645491 | align_1: 13-10 | align_2: 14-17 | ner_entity: Pharaoh-Pharao |    Y : We rehearse to thee some of the story of Moses and Pharaoh in Truth , ||| Wir tragen dir etwas von der Geschichte von Moses und Pharao vor , der Wahrheit gemäß , für Leute ,
+
+Strasbourg Strasbourg | w_freq: 98 - 9 | wiki_freq: 14875 - 2045 | sentence_idx: 653373 | align_1: 13-12 | align_2: 14-17 | ner_entity: Strasbourg-Strasbourg |    All in all , 38 employees who travel with him between Brussels and Strasbourg . ||| Alles in allem 38 Mitarbeiter , die mit ihm zwischen Brüssel und Strasbourg hin- und her fahren .
+
+Disability Behinderung | w_freq: 27 - 82 | wiki_freq: 6202 - 7106 | sentence_idx: 664111 | align_1: 21-20 | align_2: 22-25 | ner_entity: High Level Group on Disability-none |    The Commission regularly discusses the implementation of the Convention at EU and Member State level in a High Level Group on Disability made up of : ||| Die Kommission erörtert regelmäßig die Umsetzung der Konvention auf Ebene der EU und der Mitgliedstaaten in der hochrangigen Gruppe „ Behinderung “ , die sich zusammensetzt aus :
+
+Semicha Semicha | w_freq: 1 - 1 | wiki_freq: 74 - 87 | sentence_idx: 673903 | align_1: 5-4 | align_2: 6-10 | ner_entity: Semicha-Semicha |    And I am giving you Semicha and now you are a Rabbi . ||| Und ich gebe dir Semicha ( Rabbiner-Diplom bzw. Ordination ) und du bist von jetzt an ein Rabbiner .
+
+Elacin Elacin | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 679362 | align_1: 6-5 | align_2: 7-10 | ner_entity: Elacin-Elacin |    To inform employees of customers of Elacin that new hearing protection products are needed ||| Um Mitarbeiter von Kunden von Elacin darüber zu informieren , dass neue Hörschutzprodukte benötigt werden
+
+Fir'awn Pharao | w_freq: 2 - 384 | wiki_freq: 5 - 2745 | sentence_idx: 679531 | align_1: 6-6 | align_2: 7-10 | ner_entity: Fir'awn-Pharao |    Allah says about the people of Fir'awn , “ The Fire ; they are exposed to it , morning and afternoon . ” ||| Allah sagt über die Leute des Pharao ( ungefähre Bedeutung ): „ das ( Höllen- ) Feuer , dem sie morgens und abends vorgeführt werden .
+
+Palodes Palodes | w_freq: 1 - 1 | wiki_freq: 11 - 2 | sentence_idx: 680482 | align_1: 3-2 | align_2: 4-7 | ner_entity: Palodes-Palodes |    When you reach Palodes , take care to proclaim that the great god Pan is dead . " ||| Wenn Sie Palodes ( Pelodes ) erreichen , darauf achten öffentlich zu verkündigen , dass die große Gott-Pfanne tot ist . "
+
+Pharaoh Pharaos | w_freq: 431 - 70 | wiki_freq: 5590 - 587 | sentence_idx: 683515 | align_1: 16-17 | align_2: 17-29 | ner_entity: Pharaoh-Pharaos |    Did he not hear the children of Israel and deliver them out of the hand of Pharaoh ? ||| Hat er die Kinder Israels erhört , die zu ihm schrien , und aus der Hand des Pharaos befreit , kann er nicht auch heute noch die Seinen erretten ? “
+
+WooCommerce WooCommerce | w_freq: 25 - 25 | wiki_freq: 46 - 9 | sentence_idx: 685086 | align_1: 7-9 | align_2: 8-14 | ner_entity: WooCommerce-WooCommerce |    If you ’re interested in contributing to WooCommerce we ’ve got more than 350 contributors , and there ’s always room for more . ||| Wenn Sie daran interessiert sind , einen Beitrag zu WooCommerce zu leisten , haben wir mehr als 350 Mitwirkende , und es gibt immer Platz für mehr .
+
+Freud sigmund | w_freq: 58 - 1 | wiki_freq: 11940 - 1 | sentence_idx: 693110 | align_1: 4-2 | align_2: 5-7 | ner_entity: Sigmund Freud-sigmund freud |    If I asked Sigmund Freud why we do the things we do , he ’d say that our behavior is motivated by sex and aggression . ||| Wenn ich sigmund freud fragen würde , warum wir die dinge tun , die wir tun , würde er sagen , dass unser verhalten von sex und aggression motiviert ist .
+
+DLTB DLTB | w_freq: 1 - 1 | wiki_freq: 3 - 14 | sentence_idx: 701986 | align_1: 6-4 | align_2: 7-9 | ner_entity: DLTB-DLTB |    It is also indisputable for the DLTB that black lottery bets must remain banned . ||| Unstrittig ist für den DLTB auch die Tatsache , dass schwarze Lotteriewetten weiterhin verboten bleiben müssen .
+
+Pharma Pharma | w_freq: 54 - 61 | wiki_freq: 2235 - 1218 | sentence_idx: 705564 | align_1: 6-6 | align_2: 7-10 | ner_entity: Big Pharma-none |    “ It ’s time for Big Pharma to pay for what they ’ve done . ”11 ||| " Es ist Zeit für Big Pharma , für das zu bezahlen , was sie getan haben . " 11
+
+Populus Populus | w_freq: 2 - 2 | wiki_freq: 1568 - 619 | sentence_idx: 707452 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-Populus |    Populus … The apple stands no chance against all these species . ||| Populus ( Pappeln ) … Der Apfel hat keine Chance gegen all diese Arten .
+
+MARIANUM MARIANUM | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 712370 | align_1: 20-23 | align_2: 21-28 | ner_entity: MARIANUM-IMPERIUM MARIANUM |    We pray and ask in silence that the Western world one day will be as it was : an IMPERIUM MARIANUM . " ||| Wir beten und bitten in der Stille , dass die westliche Welt eines Tages sein wird , wie sie war : ein IMPERIUM MARIANUM [ Marias Kaiserreich ] . ”
+
+Believe glauben | w_freq: 554 - 6389 | wiki_freq: 10382 - 8048 | sentence_idx: 717449 | align_1: 8-7 | align_2: 9-11 | ner_entity: Men Believe What They Wish-none |    Chapter 4 of the campaign – " Men Believe What They Wish " ||| Kapitel 4 der Kampagne - " Männer glauben an das , was sie wollen "
+
+african afrikaner | w_freq: 14 - 10 | wiki_freq: 304 - 0 | sentence_idx: 727289 | align_1: 4-4 | align_2: 5-8 | ner_entity: african-none |    He is the first african i have ever dated and my mother had to encourage me to give him a chance because of stereotyping . ||| Er ist der erste afrikaner , mit dem ich jemals zusammen war , und meine mutter musste mich ermutigen , ihm wegen stereotypen eine chance zu geben .
+
+Lila Lila | w_freq: 9 - 8 | wiki_freq: 3799 - 1602 | sentence_idx: 728374 | align_1: 7-7 | align_2: 8-11 | ner_entity: Lila-Lila |    Opposition to the exclusion of Alma and Lila should be self-evident . ||| Sich gegen den Ausschluss von Alma und Lila zu stellen , sollte selbstverständlich sein .
+
+Ringerike Ringerike | w_freq: 1 - 2 | wiki_freq: 500 - 144 | sentence_idx: 728840 | align_1: 11-8 | align_2: 12-13 | ner_entity: Ringerike-Ringerike |    According to this version , only his head is buried in Ringerike . ||| Gemäß dieser Version wird nur sein Kopf in Ringerike ( Ringerike ) begraben .
+
+Hangouts hangouts | w_freq: 16 - 16 | wiki_freq: 268 - 0 | sentence_idx: 734796 | align_1: 2-2 | align_2: 3-6 | ner_entity: Google Hangouts-none |    Five Google Hangouts You Can Join to Learn Something New ( or Have Fun ) ||| Fünf google hangouts , an denen sie teilnehmen können , um etwas neues zu lernen ( oder spaß zu haben ) .
+
+Daesh Daesh | w_freq: 29 - 24 | wiki_freq: 371 - 21 | sentence_idx: 746706 | align_1: 3-3 | align_2: 4-7 | ner_entity: Daesh-Daesh |    * No to Daesh and its terrorist attacks ! ||| * Nein zu Daesh ( IS ) und seinen terroristischen Angriffen !
+
+ECB EZB | w_freq: 262 - 243 | wiki_freq: 2989 - 1407 | sentence_idx: 762819 | align_1: 4-3 | align_2: 5-7 | ner_entity: ECB-EZB |    He agrees with the ECB that co-operation between the Commission and the ECB under the new Pericles IV Programme should be strengthened . ||| Er stimmt der EZB darin zu , dass die Zusammenarbeit zwischen der Kommission und der EZB im Rahmen des neuen Programms „ Pericles IV “ intensiviert werden sollte .
+
+Nanay Nanay | w_freq: 1 - 1 | wiki_freq: 149 - 72 | sentence_idx: 776992 | align_1: 2-2 | align_2: 3-8 | ner_entity: Nanay-Nanay |    “ When Nanay and Tatay adopted me , it was n’t a good life . ||| " Als Nanay [ philippinisch für Mama ] und Tatay [ Papa ] mich adoptiert haben , war es kein gutes Leben .
+
+Tatay Tatay | w_freq: 1 - 1 | wiki_freq: 108 - 9 | sentence_idx: 776992 | align_1: 4-9 | align_2: 5-14 | ner_entity: Tatay-Tatay |    “ When Nanay and Tatay adopted me , it was n’t a good life . ||| " Als Nanay [ philippinisch für Mama ] und Tatay [ Papa ] mich adoptiert haben , war es kein gutes Leben .
+
+CRM CRM | w_freq: 70 - 37 | wiki_freq: 1677 - 497 | sentence_idx: 803678 | align_1: 9-7 | align_2: 10-12 | ner_entity: BSI CRM-BSI CRM |    The good news is : if you use BSI CRM then you are already using a mobile CRM solution . ||| Die gute Nachricht : wenn Sie BSI CRM im Einsatz haben , dann nutzen Sie bereits eine mobile CRM-Lösung .
+
+Ow-'an w. | w_freq: 1 - 33 | wiki_freq: 0 - 451 | sentence_idx: 805638 | align_1: 12-17 | align_2: 13-28 | ner_entity: Ow-'an-none |    Then leave Me alone with those who deny this narration ( the Ow-'an ) . ||| Überlaß das mir , was mit denen geschehen soll , die diese Verkündigung für Lüge erklären ( w. laß mich und diejenigen , die ... für Lüge erklären ) !
+
+Decoration Zierde | w_freq: 5 - 3 | wiki_freq: 3363 - 553 | sentence_idx: 807030 | align_1: 11-10 | align_2: 12-20 | ner_entity: Decoration-none |    41   He will also actually enter into the land of the Decoration , and there will be many [ lands ] that will be made to stumble . .   .   . ||| 41 Er wird auch tatsächlich in das Land der ‚ Zierde ‘ [ [ ( Israel ) ] ] einziehen , und es wird viele [ Länder ] geben , die zum Straucheln gebracht werden .
+
+Possible possible | w_freq: 157 - 12 | wiki_freq: 7705 - 222 | sentence_idx: 814510 | align_1: 13-13 | align_2: 14-23 | ner_entity: Return If Possible-Return if possible |    Especially today … One year later , I wish R.I.P. meant Return If Possible . ||| Besonders heute … Ein Jahr danach , Ich wünschte R.I.P bedeutet Return if possible ( Bringen Sie es zurück , falls möglich ) .
+
+Pharaoh Pharao | w_freq: 431 - 384 | wiki_freq: 5590 - 2745 | sentence_idx: 815459 | align_1: 16-17 | align_2: 17-29 | ner_entity: Pharaoh-Pharao |    Did he not hear the children of Israel and deliver them out of the hand of Pharaoh ? ||| Hat er die Kinder Israels erhört , die zu ihm schrieen , und aus der Hand des Pharao befreit , kann er nicht auch heute noch die Seinen erretten ?
+
+Ducati Ducati | w_freq: 33 - 32 | wiki_freq: 2701 - 949 | sentence_idx: 825773 | align_1: 2-2 | align_2: 3-6 | ner_entity: Ducati-Ducati |    The first Ducati created to take you anywhere . ||| Die erste Ducati , die dazu geschaffen wurde , um Sie überall hin zu bringen .
+
+Novorossiya Noworossija | w_freq: 2 - 1 | wiki_freq: 336 - 8 | sentence_idx: 827802 | align_1: 11-9 | align_2: 12-17 | ner_entity: Novorossiya-Noworossija |    Do you really think that Russia is n't giving the so-called Novorossiya military and financial help ? " ||| Glauben Sie wirklich , dass Russland dem sogenannten ‘ Noworossija ’ ( ‘ Neurussland ’ ) keine militärische und finanzielle Hilfe gibt ? ”
+
+Ki-moon Ki-Moon | w_freq: 9 - 5 | wiki_freq: 1573 - 44 | sentence_idx: 832724 | align_1: 10-11 | align_2: 11-15 | ner_entity: Ban Ki-moon-Ban Ki-Moon |    So he did something exceedingly foolish : he told Ban Ki-moon not to go to Tehran . ||| Also tat er etwas ausgesprochen Törichtes : Er sagte zu Ban Ki-Moon , er solle nicht nach Teheran gehen .
+
+Juptr Juptr | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 836865 | align_1: 2-2 | align_2: 3-7 | ner_entity: Juptr-Juptr |    We founded Juptr because we believe a successful future will be shaped in communities . ||| Wir haben Juptr ins Leben gerufen , weil wir überzeugt sind , dass eine erfolgreiche Zukunft in Communities gestaltet wird .
+
+Ok Blossom | w_freq: 130 - 22 | wiki_freq: 1448 - 549 | sentence_idx: 840025 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-Blossom |    Ok … so you have mentioned before about the three days of darkness … does that depend on us also ? ||| Blossom : In Ordnung … also , ihr habt bereits die drei dunklen Tagen erwähnt … hängt das auch von uns ab ?
+
+Hebrews Hebräer | w_freq: 23 - 23 | wiki_freq: 2188 - 418 | sentence_idx: 859345 | align_1: 31-34 | align_2: 32-41 | ner_entity: Hebrews-none |    Are they ( holy angels ) not all ministering spirits , sent forth to minister for them ( people ) who shall be heirs ( inheritors ) of salvation . ~ Hebrews 1:14 ||| Sind sie ( gemeint sind die Engel ; Anm . von mir ) nicht alle nur dienende Geister , ausgesandt , um denen zu helfen , die das Heil erben sollen ? “ ( Hebräer Kapitel 1 , Verse 13 – 14 )
+
+E-47 E-47 | w_freq: 5 - 5 | wiki_freq: 1 - 0 | sentence_idx: 860192 | align_1: 0-0 | align_2: 1-4 | ner_entity: E-47-none |    E-47 Said , " You can just go a few days . ||| E-47 [ Pharao ] sagte : „ Ihr könnt einfach ein paar Tage gehen .
+
+Israelites Israels | w_freq: 392 - 2646 | wiki_freq: 6428 - 7011 | sentence_idx: 860399 | align_1: 11-8 | align_2: 12-14 | ner_entity: Israelites-Israels |    He handed over the nations and the Promised Land to the Israelites . ||| verkündigen Er sie in alle Städte und Dörfer Israels ausgesandt hatte ( Mat.10 ) .
+
+Possible Possible | w_freq: 157 - 13 | wiki_freq: 7705 - 237 | sentence_idx: 865210 | align_1: 21-19 | align_2: 22-24 | ner_entity: Redefine Possible-Redefine Possible |    So four years ago with the help of my two best friends and WE , we created a campaign called Redefine Possible . ||| Also habe ich vor vier Jahren gemeinsam mit meinen zwei besten Freunden und WE eine Kampagne namens „ Redefine Possible “ ins Leben gerufen .
+
+Cam Cam | w_freq: 119 - 42 | wiki_freq: 8027 - 1042 | sentence_idx: 865640 | align_1: 8-7 | align_2: 9-11 | ner_entity: Cam-Cam |    There was a Facebook petition for Mitchell and Cam to kiss . ||| Es gab eine Facebook-Petition für Mitchell und Cam , um sich zu küssen .
+
+Polozov Polosow | w_freq: 1 - 1 | wiki_freq: 36 - 7 | sentence_idx: 865779 | align_1: 13-12 | align_2: 14-18 | ner_entity: Nikolai Polozov-Nikolaj Polosow |    And when these letters were brought to me , I even asked Nikolai Polozov to come and I gave him to read these 5 - 6 letters . ||| Und als mir diese Briefe gebracht wurden , habe ich sogar Nikolaj Polosow ( Anwalt ) gebeten , zu kommen , ich gab ihm diese 5 - 6 Briefe zu lesen .
+
+Politik IsraelPolitik | w_freq: 1 - 3 | wiki_freq: 403 - 0 | sentence_idx: 866721 | align_1: 9-7 | align_2: 10-12 | ner_entity: Israel Politik-IsraelPolitik |    The questions and answers were later posted on Israel Politik , the country ’s official political blog . ||| Die Fragen und Antworten wurden später auf IsraelPolitik ( Israel Politik ) , der offizielle politische blog des Landes angeschlagen .
+
+Iblis Gleicke | w_freq: 11 - 2 | wiki_freq: 539 - 21 | sentence_idx: 876889 | align_1: 0-2 | align_2: 1-6 | ner_entity: Iblis-Iris Gleicke |    Iblis : It is the voice of truth . ||| ( Iris Gleicke [ SPD ] : Das ist wohl wahr ! )
+
+Bwin Bwin | w_freq: 2 - 2 | wiki_freq: 61 - 12 | sentence_idx: 879875 | align_1: 10-10 | align_2: 11-15 | ner_entity: Bwin-Bwin |    The biggest complaint we seem to come across online with Bwin is their support . ||| Die größte Beanstandung , die wir scheinen , online mit Bwin zufällig zu stoßen , ist ihre Unterstützung .
+
+Völkers Völkers | w_freq: 3 - 3 | wiki_freq: 34 - 124 | sentence_idx: 882085 | align_1: 6-5 | align_2: 7-10 | ner_entity: Engel & Völkers-Engel & Völkers |    I have developed at Engel & Völkers because I never forgot to listen to my needs and goals . ||| Ich habe bei Engel & Völkers eine Entwicklung durchgemacht , da ich nie vergessen habe , auf meine Bedürfnisse und Ziele zu hören .
+
+4.1 4.1 | w_freq: 50 - 42 | wiki_freq: 8676 - 385 | sentence_idx: 890625 | align_1: 10-11 | align_2: 11-18 | ner_entity: QuarkXPress 4.1-none |    “ I just upgraded from my 1998 license of QuarkXPress 4.1 because QuarkXPress 2018 is such a strong product . ” ||| “ Ich habe gerade das Upgrade von meiner Lizenz von QuarkXPress 4.1 aus dem Jahr 1998 vorgenommen , weil QuarkXPress 2018 solch ein leistungsstarkes Produkt ist . ”
+
+Rias Rias | w_freq: 27 - 27 | wiki_freq: 337 - 96 | sentence_idx: 898033 | align_1: 1-0 | align_2: 2-4 | ner_entity: Rias-Rias |    Saving Rias who is our club president makes us the Occult Research Club ! ||| Rias zu retten , die unsere Clubpräsidentin ist , macht uns zum okkulten Forschungsclub !
+
+IsraelPolitik IsraelPolitik | w_freq: 2 - 3 | wiki_freq: 10 - 0 | sentence_idx: 900014 | align_1: 8-7 | align_2: 9-12 | ner_entity: IsraelPolitik-IsraelPolitik |    The questions and answers were later posted on IsraelPolitik , the country ’s official political blog . ||| Die Fragen und Antworten wurden später auf IsraelPolitik ( Israel Politik ) , der offizielle politische blog des Landes angeschlagen .
+
+God,(3 God | w_freq: 1 - 86 | wiki_freq: 0 - 5392 | sentence_idx: 916009 | align_1: 7-7 | align_2: 8-15 | ner_entity: The Man Who Is God,(3-The Man Who Is God |    The third , The Man Who Is God,(3 ) was published in 1977 , the year in which these events were occurring . ||| Das dritte , The Man Who Is God ( Der Mensch , der Gott ist ) , erschien 1977 , in dem Jahr , in dem diese Ereignisse stattfanden .
+
+iPhone iPhone | w_freq: 348 - 297 | wiki_freq: 11135 - 2222 | sentence_idx: 916081 | align_1: 13-12 | align_2: 14-17 | ner_entity: iPhone-iPhone |    That begs the question : Is it worth it to sell your old iPhone before everyone else does it ? ||| Da stellt sich die Frage : Lohnt es sich , sein altes iPhone schon zu verkaufen , bevor alle anderen es tun ?
+
+al-Sisi Al-Sisi | w_freq: 9 - 5 | wiki_freq: 135 - 7 | sentence_idx: 925931 | align_1: 15-18 | align_2: 16-22 | ner_entity: al-Sisi-Al-Sisi |    Let me start with a very special greeting for the President of Egypt , Mr al-Sisi , who is not only the Chairperson of the African Union this year , but is also celebrating his 65th birthday here in Germany today . ||| lassen Sie mich damit beginnen , dass ich einen besonderen Gruß an den Präsidenten Ägyptens , an Herrn Al-Sisi , senden darf , der nicht nur Vorsitzender der Afrikanischen Union in diesem Jahr ist , sondern heute seinen 65. Geburtstag in Deutschland feiert .
+
+Chaz Chaz | w_freq: 2 - 2 | wiki_freq: 1118 - 106 | sentence_idx: 928327 | align_1: 11-11 | align_2: 12-15 | ner_entity: Chaz-Chaz |    So it does n't matter what we do , he and Chaz are always the riders who stand out in this championship . ||| Es ist also egal , was wir machen , er und Chaz ( Davies ) sind immer die Fahrer , die in dieser Meisterschaft herausragen .
+
+MHB MHB | w_freq: 1 - 1 | wiki_freq: 106 - 37 | sentence_idx: 935136 | align_1: 5-6 | align_2: 6-10 | ner_entity: MHB-MHB |    Continuous focus on innovation makes MHB what it is today . ||| Der kontinuierliche Fokus auf Innovation macht MHB zu dem , was es heute ist .
+
+Allah Allah | w_freq: 1378 - 1180 | wiki_freq: 12189 - 1130 | sentence_idx: 936750 | align_1: 5-4 | align_2: 6-10 | ner_entity: Allah-Allah |    " We swear by almighty Allah we will never stop fighting you . " ||| „ Wir schwören bei Allah , dem Allmächtigen , dass wir nie aufhören werden , euch zu bekämpfen .
+
+IMF IWF | w_freq: 282 - 226 | wiki_freq: 7216 - 1696 | sentence_idx: 947212 | align_1: 11-8 | align_2: 12-13 | ner_entity: IMF-IWF |    Obviously nobody is going to accept any such role for the IMF unless voting rights are redrawn in line with global economic and demographic reality . ||| Offensichtlich will niemand eine solche Rolle für den IWF akzeptieren , es sei denn , die Stimmrechte werden in Einklang gebracht mit der globalen wirtschaftlichen und demographischen Wirklichkeit .
+
+komin Komin | w_freq: 1 - 1 | wiki_freq: 12 - 6 | sentence_idx: 948858 | align_1: 9-11 | align_2: 10-16 | ner_entity: none-Komin |    Fatma : “ It ’s been 20 months since komin was created , and I ’m working here . ||| Fatma : » Es ist 20 Monate her , seit die Komin ( Gemeinde ) gegründet wurde , und ich arbeite hier .
+
+Volkswagen Volkswagen | w_freq: 168 - 167 | wiki_freq: 13240 - 5124 | sentence_idx: 965891 | align_1: 15-18 | align_2: 16-25 | ner_entity: Volkswagen-Volkswagen |    And what about a ‘ city ’ full of Bugattis or one dedicated to everything Volkswagen ? ||| Und was halten Sie von einer ‘ Stadt ’ voller Bugattis oder einer die allem , was mit Volkswagen zu tun hat , gewidmet ist ?
+
+MCL MCL | w_freq: 6 - 6 | wiki_freq: 1528 - 136 | sentence_idx: 976941 | align_1: 6-6 | align_2: 7-10 | ner_entity: MCL-MCL |    Josh missed seven weeks with an MCL . ||| Josh verpasste sieben Wochen mit einem MCL [ Verstauchung ] .
+
+Maryam Maryam | w_freq: 64 - 45 | wiki_freq: 2582 - 575 | sentence_idx: 996829 | align_1: 20-17 | align_2: 21-21 | ner_entity: Maryam-Maryam |    In the Qur'an , ' Isa , peace be upon him , is referred to as the " Son of Maryam . " ||| Und ( der Iemaan an ) das Herabsteigen von ‚ Iesaa – ‚ alaihi-s-salaam , Sohn der Maryam ( Maria ) .
+
+Ovda Ovda | w_freq: 1 - 1 | wiki_freq: 84 - 17 | sentence_idx: 999518 | align_1: 8-8 | align_2: 9-14 | ner_entity: Ovda-Ovda |    I recommend you check flights to Eilat or Ovda if : ||| Ich empfehle euch , Flüge nach Eilat oder Ovda in Betracht zu ziehen , wenn :
+

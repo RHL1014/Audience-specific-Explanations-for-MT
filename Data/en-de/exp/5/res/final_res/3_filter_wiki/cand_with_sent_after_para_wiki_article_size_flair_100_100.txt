@@ -1,0 +1,8 @@
+Cuju Cuju | w_freq: 1 - 1 | wiki_freq: 87 - 13 | sentence_idx: 34776 | align_1: 0-0 | align_2: 1-4 | entity: Cuju - Cuju |    Cuju is a very old football game : ||| Cuju ( cuju ) ist ein sehr altes Fußballspiel : 
+
+penn penn | w_freq: 2 - 10 | wiki_freq: 60 - 4 | sentence_idx: 267410 | align_1: 36-36 | align_2: 37-42 | entity: kal penn - kal penn |    It ’s time to keep working toward creating a more representative culture in our country for people of all backgrounds , and we ’re so excited to do that with amazing , super-smart people like kal penn helping to lead the way . ||| Es ist zeit , weiter daran zu arbeiten , eine repräsentativere kultur in unserem land für menschen aller herkunft zu schaffen , und wir sind so aufgeregt , dies mit erstaunlichen , superklugen leuten wie kal penn zu tun , die dabei helfen , den weg zu weisen . 
+
+Acquia Acquia | w_freq: 12 - 10 | wiki_freq: 51 - 15 | sentence_idx: 518746 | align_1: 8-8 | align_2: 9-13 | entity: Acquia - Acquia |    Learn how state and local governments partner with Acquia to a build an interactive and mobile experience . ||| Erfahren Sie , wie Landes- und Lokalregierungen mit Acquia eine Partnerschaft eingehen , um ein interaktives und mobiles Erlebnis zu entwickeln . 
+
+chèvre chèvre | w_freq: 1 - 4 | wiki_freq: 35 - 12 | sentence_idx: 878302 | align_1: 10-10 | align_2: 11-17 | entity: Danse de la chèvre - Danse de la chèvre |    During this time period he also wrote Danse de la chèvre ( 1921 ) , an essential piece of flute repertoire . ||| Während dieser Zeit schrieb Periode er auch Danse de la chèvre ( Danse de la chèvre ) ( 1921 ) , wesentliches Stück Flöte-Repertoire . 
+

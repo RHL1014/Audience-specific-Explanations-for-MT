@@ -1,0 +1,4 @@
+LiSEC LiSEC | w_freq: 5 - 5 | wiki_freq: 0 - 11 | sentence_idx: 542748 | align_1: 7-7 | align_2: 8-11 | entity: LiSEC - LiSEC |    They invested in a complete system from LiSEC in two phases , 1999 and 2000 . ||| Sie investierten in ein komplettes System von LiSEC , und zwar in zwei Phasen , 1999 und 2000. 
+
+Inpex Inpex | w_freq: 1 - 1 | wiki_freq: 37 - 3 | sentence_idx: 849378 | align_1: 9-9 | align_2: 10-14 | entity: Inpex - Inpex |    That same year he competed in a show called Inpex ( recognized worldwide ) and won Best Innovation in Safety / Security . ||| Im selben Jahr konkurrierte er in einer Show namens Inpex < / Em > ( weltweit anerkannt ) und gewann beste Innovation in Sicherheit / Sicherheit . 
+

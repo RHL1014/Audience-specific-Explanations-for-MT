@@ -1,0 +1,4 @@
+Googlebot Googlebot | w_freq: 4 - 4 | wiki_freq: 33 - 17 | sentence_idx: 476004 | align_1: 7-6 | align_2: 8-11 | entity: Googlebot - Googlebot |    We are now ready to welcome Mr. Googlebot but he seems to be a little shy ... ||| Wir sind nun bereit , Mr. Googlebot willkommen zu heißen , doch er scheint ein wenig schüchtern zu sein ... 
+
+WooCommerce WooCommerce | w_freq: 25 - 25 | wiki_freq: 46 - 9 | sentence_idx: 685086 | align_1: 7-9 | align_2: 8-14 | entity: WooCommerce - WooCommerce |    If you ’re interested in contributing to WooCommerce we ’ve got more than 350 contributors , and there ’s always room for more . ||| Wenn Sie daran interessiert sind , einen Beitrag zu WooCommerce zu leisten , haben wir mehr als 350 Mitwirkende , und es gibt immer Platz für mehr . 
+

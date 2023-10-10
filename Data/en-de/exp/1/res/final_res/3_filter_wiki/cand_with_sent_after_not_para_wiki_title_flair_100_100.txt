@@ -1,0 +1,34 @@
+Riddhis Riddhis | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 5637 | align_1: 8-10 | align_2: 9-18 | entity: Riddhis - Riddhis |    The Vibhutis of the Lord , Siddhis and Riddhis are theirs though they do not want them . ||| Die Vibhutis ( Gnade ) des Herrn , Siddhis und Riddhis ( acht / vier okkulte Kräfte ) gehören ihnen , obwohl sie sie nicht begehren . 
+
+Allaah Allaah | w_freq: 34 - 17 | wiki_freq: 28 - 0 | sentence_idx: 8059 | align_1: 6-0 | align_2: 7-5 | entity: Allaah - Allaah |    If he were to swear by Allaah , Allaah would fulfill his oath . ||| Allaah ( ta ’ aala ) schwört auf Seine Geschöpfe nach Belieben . 
+
+Allaah Allaah | w_freq: 34 - 17 | wiki_freq: 28 - 0 | sentence_idx: 8059 | align_1: 8-0 | align_2: 9-6 | entity: Allaah - Allaah |    If he were to swear by Allaah , Allaah would fulfill his oath . ||| Allaah ( ta ’ aala ) schwört auf Seine Geschöpfe nach Belieben . 
+
+Mleccha mleccha | w_freq: 1 - 1 | wiki_freq: 45 - 1 | sentence_idx: 20985 | align_1: 8-6 | align_2: 9-10 | entity: Mleccha - none |    And , O lord of men , numerous Mleccha kings then rule over the earth ! ||| O Herr der Menschen , zahllose mleccha [ Fleischesser ] Könige herrschen dann über die Erde ! 
+
+Allaah Allaah | w_freq: 34 - 17 | wiki_freq: 28 - 0 | sentence_idx: 31780 | align_1: 3-0 | align_2: 4-5 | entity: Allaah - Allaah |    I swear by Allaah , they have shown their betrayal . ||| Allaah ( ta ’ aala ) schwört auf Seine Geschöpfe nach Belieben . 
+
+IsraelPolitik IsraelPolitik | w_freq: 2 - 3 | wiki_freq: 10 - 0 | sentence_idx: 129722 | align_1: 8-7 | align_2: 9-12 | entity: IsraelPolitik - IsraelPolitik |    The questions and answers were later posted on IsraelPolitik , the country 's official political blog . ||| Die Fragen und Antworten wurden später auf IsraelPolitik ( Israel Politik ) , der offizielle politische blog des Landes angeschlagen . 
+
+Qaroun Qarun | w_freq: 2 - 12 | wiki_freq: 11 - 11 | sentence_idx: 159057 | align_1: 1-2 | align_2: 2-6 | entity: Qaroun - Qarun |    Surely Qaroun was of the people of Musa , but he rebelled against ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging 
+
+Qarun Qarun | w_freq: 16 - 12 | wiki_freq: 78 - 11 | sentence_idx: 197919 | align_1: 3-2 | align_2: 4-6 | entity: Qarun - Qarun |    “ Indeed , Qarun was from the people of Moses , but he tyrannized them . ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging 
+
+Qaroun Qarun | w_freq: 2 - 12 | wiki_freq: 11 - 11 | sentence_idx: 206130 | align_1: 3-2 | align_2: 4-6 | entity: Qaroun - Qarun |    S : Surely Qaroun was of the people of Musa , but he rebelled against ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging 
+
+Qarun Qarun | w_freq: 16 - 12 | wiki_freq: 78 - 11 | sentence_idx: 218842 | align_1: 2-2 | align_2: 3-6 | entity: Qarun - Qarun |    Indeed , Qarun was from the people of Moses , but he tyrannized them . ||| Siehe , Qarun ( Korah ) war vom Volke Moses , doch verging 
+
+Katibin Katibin | w_freq: 1 - 2 | wiki_freq: 27 - 3 | sentence_idx: 478948 | align_1: 1-1 | align_2: 2-6 | entity: Kiraman Katibin - Kiraman Katibin |    Kiraman Katibin : the two angels who record a person ’s good and bad deeds . ||| Kiraman Katibin ( Kiraman Katibin ) - zwei Engel , die die guten und schlechten Akte der Person registrieren . 
+
+Canadian-Americans Canadian-Americans | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 609233 | align_1: 5-5 | align_2: 6-11 | entity: Canadian-Americans - none |    You can say things like Canadian-Americans – like Jim Carrey who has dual citizenship . ||| Man kann Sachen sagen wie Canadian-Americans ( Amerikaner kanadischer Herkunft ) - wie Jim Carrey , der eine doppelte Staatsbürgerschaft besitzt . 
+
+Semicha Semicha | w_freq: 1 - 1 | wiki_freq: 74 - 87 | sentence_idx: 673903 | align_1: 5-4 | align_2: 6-10 | entity: Semicha - Semicha |    And I am giving you Semicha and now you are a Rabbi . ||| Und ich gebe dir Semicha ( Rabbiner-Diplom bzw. Ordination ) und du bist von jetzt an ein Rabbiner . 
+
+Palodes Palodes | w_freq: 1 - 1 | wiki_freq: 11 - 2 | sentence_idx: 680482 | align_1: 3-2 | align_2: 4-7 | entity: Palodes - Palodes |    When you reach Palodes , take care to proclaim that the great god Pan is dead . " ||| Wenn Sie Palodes ( Pelodes ) erreichen , darauf achten öffentlich zu verkündigen , dass die große Gott-Pfanne tot ist . " 
+
+Bwin Bwin | w_freq: 2 - 2 | wiki_freq: 61 - 12 | sentence_idx: 879875 | align_1: 10-10 | align_2: 11-15 | entity: Bwin - Bwin |    The biggest complaint we seem to come across online with Bwin is their support . ||| Die größte Beanstandung , die wir scheinen , online mit Bwin zufällig zu stoßen , ist ihre Unterstützung . 
+
+IsraelPolitik IsraelPolitik | w_freq: 2 - 3 | wiki_freq: 10 - 0 | sentence_idx: 900014 | align_1: 8-7 | align_2: 9-12 | entity: IsraelPolitik - IsraelPolitik |    The questions and answers were later posted on IsraelPolitik , the country ’s official political blog . ||| Die Fragen und Antworten wurden später auf IsraelPolitik ( Israel Politik ) , der offizielle politische blog des Landes angeschlagen . 
+
+Ovda Ovda | w_freq: 1 - 1 | wiki_freq: 84 - 17 | sentence_idx: 999518 | align_1: 8-8 | align_2: 9-14 | entity: Ovda - Ovda |    I recommend you check flights to Eilat or Ovda if : ||| Ich empfehle euch , Flüge nach Eilat oder Ovda in Betracht zu ziehen , wenn : 
+
