@@ -1,0 +1,112 @@
+1file
+
+Riddhis Riddhis | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 5637 | align_1: 8-10 | align_2: 9-18 | entity: Riddhis - Riddhis |    The Vibhutis of the Lord , Siddhis and Riddhis are theirs though they do not want them . ||| Die Vibhutis ( Gnade ) des Herrn , Siddhis und Riddhis ( acht / vier okkulte Kräfte ) gehören ihnen , obwohl sie sie nicht begehren . 
+
+Mleccha mleccha | w_freq: 1 - 1 | wiki_freq: 45 - 1 | sentence_idx: 20985 | align_1: 8-6 | align_2: 9-10 | entity: Mleccha - none |    And , O lord of men , numerous Mleccha kings then rule over the earth ! ||| O Herr der Menschen , zahllose mleccha [ Fleischesser ] Könige herrschen dann über die Erde ! 
+
+Mazen Mazen | w_freq: 17 - 17 | wiki_freq: 294 - 69 | sentence_idx: 194165 | align_1: 2-2 | align_2: 3-6 | entity: Abu Mazen - Abu Mazen |    " Abu Mazen and all these evil people should perish from this world . ||| " Abu Mazen ( Abbas ) und all diese Bösen sollen von der Erde verschwinden . 
+
+Canadian-Americans Canadian-Americans | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 609233 | align_1: 5-5 | align_2: 6-11 | entity: Canadian-Americans - none |    You can say things like Canadian-Americans – like Jim Carrey who has dual citizenship . ||| Man kann Sachen sagen wie Canadian-Americans ( Amerikaner kanadischer Herkunft ) - wie Jim Carrey , der eine doppelte Staatsbürgerschaft besitzt . 
+
+Semicha Semicha | w_freq: 1 - 1 | wiki_freq: 74 - 87 | sentence_idx: 673903 | align_1: 5-4 | align_2: 6-10 | entity: Semicha - Semicha |    And I am giving you Semicha and now you are a Rabbi . ||| Und ich gebe dir Semicha ( Rabbiner-Diplom bzw. Ordination ) und du bist von jetzt an ein Rabbiner . 
+
+Nanay Nanay | w_freq: 1 - 1 | wiki_freq: 149 - 72 | sentence_idx: 776992 | align_1: 2-2 | align_2: 3-8 | entity: Nanay - Nanay |    “ When Nanay and Tatay adopted me , it was n’t a good life . ||| " Als Nanay [ philippinisch für Mama ] und Tatay [ Papa ] mich adoptiert haben , war es kein gutes Leben . 
+
+Tatay Tatay | w_freq: 1 - 1 | wiki_freq: 108 - 9 | sentence_idx: 776992 | align_1: 4-9 | align_2: 5-14 | entity: Tatay - Tatay |    “ When Nanay and Tatay adopted me , it was n’t a good life . ||| " Als Nanay [ philippinisch für Mama ] und Tatay [ Papa ] mich adoptiert haben , war es kein gutes Leben . 
+
+
+
+Bunyan Bunyan | w_freq: 5 - 5 | wiki_freq: 1841 - 159 | sentence_idx: 183528 | align_1: 1-1 | align_2: 2-11 | entity: John Bunyan - John Bunyan |    John Bunyan said , “ He who runs from God in the morning will scarcely find Him the rest of the day . ” ||| John Bunyan , der Autor der bekannten Pilgerreise , hat einmal gesagt : „ Wer morgens vor Gott wegläuft , wird Ihn den Rest des Tages kaum noch finden . “ 
+
+2file
+
+Yisrael Jisrael | w_freq: 7 - 2 | wiki_freq: 3014 - 222 | sentence_idx: 427213 | align_1: 9-8 | align_2: 10-17 | entity: Klal Yisrael - Jisrael |    They are rejected from having any connection with Klal Yisrael because they did something far worse than attack us – they made us sin . ||| Sie werden abgelehnt , jegliche Verbindung mit Klal Jisrael ( dem Volk Israel ) zu haben , weil sie etwas viel schlimmeres getan haben , als uns anzugreifen – sie haben uns zur Sünde verleitet . 
+
+TheOnion.com TheOnion.com | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 610280 | align_1: 3-3 | align_2: 4-8 | entity: TheOnion.com - TheOnion.com |    “ Who needs TheOnion.com when reality is now 10 times more surreal . ||| " Wer braucht TheOnion.com ( Amerikanische Finanznewsseite ) wenn die Realität nun 10-mal mehr surrealer scheint . 
+
+IntercontinentalExchange IntercontinentalExchange | w_freq: 1 - 1 | wiki_freq: 44 - 7 | sentence_idx: 675021 | align_1: 4-2 | align_2: 5-7 | entity: IntercontinentalExchange - IntercontinentalExchange |    Jeff Sprecher ' 's IntercontinentalExchange , or ICE , was another example . ||| Jeff Sprecher IntercontinentalExchange ( Interkontinentaler Austausch ) , oder EIS , war ein anderes Beispiel . 
+
+S.G. S.G. | w_freq: 1 - 1 | wiki_freq: 506 - 35 | sentence_idx: 687941 | align_1: 0-0 | align_2: 1-5 | entity: S.G. - S.G. |    S.G. who participated in our international seminar in Greece this summer told us , “ I am so glad to see you again ! ||| S.G. , eine Sozialarbeiterin , die auch in unseren internationalen Seminar in Griechenland teilgenommen diesem Sommer erzählte uns , " Ich bin so froh , dass Sie wieder zu sehen ! 
+
+FPSG FPSG | w_freq: 1 - 1 | wiki_freq: 5 - 1 | sentence_idx: 752390 | align_1: 17-17 | align_2: 18-22 | entity: FPSG - FPSG |    In short , they are not ' Israeli NGOs ' , but Foreign Political Subversion Groups ( FPSG ) . " ||| Kurz gesagt : Sie sind keine ' israelischen NGOs ' , sondern Foreign Political Subversion Groups ( FPSG - ausländische politische Zersetzungsgruppen ) . " 
+
+FP7 7RP | w_freq: 11 - 1 | wiki_freq: 279 - 0 | sentence_idx: 786656 | align_1: 1-1 | align_2: 2-5 | entity: FP7 - 7RP |    The FP7 project STADIUM ( Smart Transport Applications Designed for large events with Impacts on Urban Mobility ) recently finished . ||| Das 7RP ( Rahmenprogramm ) Projekt STADIUM , ( Smart Transport Applications Designed for large events with Impacts on Urban Mobility ) ist erst kürzlich ausgelaufen . 
+
+
+
+Hajj Hajj | w_freq: 6 - 3 | wiki_freq: 4290 - 64 | sentence_idx: 37181 | align_1: 10-10 | align_2: 11-14 | entity: Hajj - Hajj |    Millions visit Saudi Arabia every year as part of their Hajj , but religion and faith are just one reason to explore all that can be found here . ||| Jedes Jahr besuchen Millionen von Menschen Saudi-Arabien als Teil ihres Hajj ( Pilgerschaft ) , aber Religion und Glaube sind nur ein Grund , alles zu erforschen , was hier zu finden ist . 
+
+Baloch Baloch | w_freq: 3 - 3 | wiki_freq: 3425 - 30 | sentence_idx: 107098 | align_1: 11-10 | align_2: 12-15 | entity: Baloch - Baloch |    It is forbidden to teach the customs and language of the Baloch , an ethnic minority . ||| Es wird verboten , den Zoll und die Sprache des Baloch ( Baloch Leute ) , eine ethnische Minderheit zu unterrichten . 
+
+Salome Salome | w_freq: 5 - 5 | wiki_freq: 3219 - 2327 | sentence_idx: 243158 | align_1: 13-15 | align_2: 14-25 | entity: Salome - Salome |    And the sister of the youth whom Jesus loved and his mother and Salome were there , and Jesus did not receive them.[19 ] ||| " Und die Schwester des Jünglings , den Jesus liebte , und seine Mutter und Salome [ Frau des Zebedäus und Mutter des Johannes ] waren dort , und Jesus empfing sie nicht " . 
+
+
+3file
+
+DOW DOW | w_freq: 2 - 3 | wiki_freq: 153 - 24 | sentence_idx: 406700 | align_1: 3-3 | align_2: 4-11 | entity: DOW - DOW |    Died of Wounds DOW , or " killed in action " . ||| Died of Wounds DOW ( " Tote durch Verletzung " ) , oder " killed in action " ( " getötet in Aktion " ) . 
+
+Indriyas Indriyas | w_freq: 2 - 2 | wiki_freq: 6 - 0 | sentence_idx: 580581 | align_1: 18-16 | align_2: 19-20 | entity: Indriyas - none |    How long do you want to be a slave of the world , a slave of passions and Indriyas ? ||| Wie lange willst du noch ein Sklave der Welt sein , ein Sklave von Leidenschaften und Indriyas ( Sinneseindrücke ) ? 
+
+Chaldeans Chaldeans | w_freq: 4 - 2 | wiki_freq: 745 - 1 | sentence_idx: 816142 | align_1: 10-15 | align_2: 11-20 | entity: Chaldeans - none |    Since the Iraq War , many Christians ( Assyrians / Chaldeans ) from Iraq have settled permanently or temporarily in Jordan . ||| Krieg von Since the Iraq ( Krieg von Irak ) viele Christen ( Assyrians / Chaldeans ( Assyrische Leute ) ) vom Irak ( Der Irak ) hat sich dauerhaft oder provisorisch im Jordan niedergelassen . 
+
+O.T.C. O.T.C. | w_freq: 1 - 1 | wiki_freq: 22 - 0 | sentence_idx: 950475 | align_1: 3-1 | align_2: 4-7 | entity: O.T.C. - none |    Any public school O.T.C. in England is far more like a modern army than we were . ||| Jedes O.T.C. ( Offiziersausbildungskorps ) einer Internatsschule in England ähnelt eher einer modernen Armee , als wir es taten . 
+
+
+
+BLS BLS | w_freq: 11 - 9 | wiki_freq: 1130 - 1120 | sentence_idx: 337747 | align_1: 9-10 | align_2: 10-16 | entity: BLS - BLS |    Why is every economic indicator flashing red while the BLS says the employment situation has never been better ? ||| Warum leuchten alle ökonomischen Indikatoren rot auf , während das BLS ( Agentur für Arbeit ) sagt , dass die Beschäftigungssituation nie besser war ? 
+
+Jaisalmer Jaisalmer | w_freq: 1 - 2 | wiki_freq: 842 - 88 | sentence_idx: 541174 | align_1: 8-8 | align_2: 9-13 | entity: Jaisalmer - Jaisalmer |    There are two other airports in Kota and Jaisalmer , but are not open for commercial / civilian flights yet . ||| Es gibt zwei andere Flughäfen in Kota und Jaisalmer ( Jaisalmer Flughafen ) , aber ist für kommerzielle / zivile Flüge noch nicht offen . 
+
+Hades Hades | w_freq: 8 - 8 | wiki_freq: 3363 - 992 | sentence_idx: 674911 | align_1: 1-2 | align_2: 2-10 | entity: Hades - Hades |    And Hades followed him . ||| Und der Hades [ das allgemeine Grab der Menschheit ] folgte dicht hinter ihm . 
+
+
+4 file
+
+UNEP UNEP | w_freq: 15 - 15 | wiki_freq: 1386 - 456 | sentence_idx: 333210 | align_1: 8-8 | align_2: 9-14 | entity: UNEP - UNEP |    According to the United Nations Environment Program ( UNEP ) , 127 State members have some kind of plastic bag legislation . ||| Nach Angaben des United Nations Environment Program ( UNEP = Umweltprogramm der Vereinten Nationen ) haben 127 Mitgliedsstaaten irgendeine Form von Plastiktütengesetz . 
+
+NFPA NFPA | w_freq: 2 - 2 | wiki_freq: 619 - 37 | sentence_idx: 346488 | align_1: 12-14 | align_2: 13-19 | entity: NFPA 1901 - NFPA |    As a result of this experience we also offer the assurance of NFPA 1901 compliance when and where this additional level of performance is required . ||| Als Ergebnis dieser Erfahrung bieten wir Ihnen auch die Zusicherung für die Einhaltung des NFPA ( Amerikanischer Brandschutzverband ) 1901 , wann und wo immer ein solches zusätzliches Leistungsniveau erforderlich ist . 
+
+Chaldeans Chaldeans | w_freq: 4 - 1 | wiki_freq: 745 - 1 | sentence_idx: 386976 | align_1: 9-15 | align_2: 10-20 | entity: Chaldeans - none |    Since the Iraq War many Christians ( Assyrians and Chaldeans ) from Iraq have settled permanently or temporarily in Jordan . ||| Krieg von Since the Iraq ( Krieg von Irak ) viele Christen ( Assyrians / Chaldeans ( Assyrische Leute ) ) vom Irak ( Der Irak ) hat sich dauerhaft oder provisorisch im Jordan niedergelassen . 
+
+Trafficking Trafficking | w_freq: 25 - 5 | wiki_freq: 3274 - 70 | sentence_idx: 660117 | align_1: 13-12 | align_2: 14-18 | entity: End Child Prostitution and Trafficking - End Child Prostitution and Trafficking |    We are an active participant of the ECPAT ( End Child Prostitution and Trafficking ) initiative , for which we regularly provide logistics support . ||| Wir beteiligen uns aktiv an der ECPAT [ End Child Prostitution and Trafficking ( Beendigung von Kinderprostitution und Menschenhandel)]-Initiative , bezüglich derer wir regelmäßig logistische Unterstützung erbringen . 
+
+Democracies Democracies | w_freq: 10 - 3 | wiki_freq: 478 - 43 | sentence_idx: 668796 | align_1: 14-14 | align_2: 15-22 | entity: Foundation for the Defense of Democracies - Foundation for the Defense of Democracies |    To say that Clifford May , founder of the Foundation for the Defense of Democracies , loves war would be an understatement . ||| Zu sagen , dass Clifford May , Gründer der Foundation for the Defense of Democracies ( Stiftung zur Verteidigung der Demokratien ) , den Krieg liebt , wäre eine Untertreibung . 
+
+MRAs MRAs | w_freq: 2 - 2 | wiki_freq: 48 - 3 | sentence_idx: 737913 | align_1: 8-9 | align_2: 9-16 | entity: MRAs - MRAs |    “ Men ’s right ’s activists ” ( MRAs ) claim that family law and social institutions discriminate against men . ||| Die " Men ’s Right ’s Activists " ( MRAs , auf Deutsch " Männerrecht-Aktivisten " ) behaupten , dass Familienrecht und soziale Institutionen Männer diskriminieren . 
+
+Alamin Alamin | w_freq: 1 - 1 | wiki_freq: 41 - 0 | sentence_idx: 751464 | align_1: 15-11 | align_2: 16-17 | entity: Alamin - none |    We recite them to you in truth , and Allah wills no injustice to the Alamin . ||| Sie umfassen die Wahrheit und Allah will keine Ungerechtigkeit für die Alamin ( Menschheit und Dschinn ) .
+
+Mi’kmaq Mi'kmaq | w_freq: 1 - 2 | wiki_freq: 377 - 206 | sentence_idx: 766279 | align_1: 5-5 | align_2: 6-10 | entity: Mi’kmaq - none |    Their allies , the native Mi’kmaq nation , kept careful watch over their possessions , though . ||| Ihre Verbündeten , der Eingeborene Mi'kmaq ( Mi'kmaq Leute ) Nation , behielten sorgfältige Bewachung über ihre Besitzungen , dennoch . 
+
+Medicare+Choice Medicare+Choice | w_freq: 1 - 1 | wiki_freq: 8 - 0 | sentence_idx: 807474 | align_1: 6-5 | align_2: 7-11 | entity: Medicare+Choice - Medicare+Choice |    These programs were known as “ Medicare+Choice ” or “ Part C ” plans . ||| Diese Programme waren als " Medicare+Choice ( Gesundheitsfürsorge + Wahl ) " oder Pläne " des Teils C " bekannt . 
+
+Pantocrator Pantokrator | w_freq: 1 - 1 | wiki_freq: 263 - 258 | sentence_idx: 892670 | align_1: 12-15 | align_2: 13-19 | entity: Pantocrator - none |    The Son , who made himself Servant , is Lord , the Pantocrator . ||| Der Sohn , der sich zum Diener gemacht hat , ist der Herr , der Pantokrator ( Allherrscher ) . 
+
+
+
+Jaisalmer Jaisalmer | w_freq: 2 - 3 | wiki_freq: 842 - 88 | sentence_idx: 935922 | align_1: 8-8 | align_2: 9-13 | entity: Jaisalmer - Jaisalmer |    There are two other airports in Kota and Jaisalmer , but are not open for commercial / civilian flights . ||| Es gibt zwei andere Flughäfen in Kota und Jaisalmer ( Jaisalmer Flughafen ) , aber ist für kommerzielle / zivile Flüge noch nicht offen . 
+
+
+5 file
+Alamin Alamin | w_freq: 1 - 1 | wiki_freq: 41 - 0 | sentence_idx: 116149 | align_1: 15-11 | align_2: 16-17 | entity: Alamin - none |    We recite them to you in truth ' and Allah wills no injustice to the Alamin . ||| Sie umfassen die Wahrheit und Allah will keine Ungerechtigkeit für die Alamin ( Menschheit und Dschinn ) . 
+
+BusinessWeek BusinessWeek | w_freq: 2 - 1 | wiki_freq: 704 - 31 | sentence_idx: 173424 | align_1: 9-8 | align_2: 10-12 | entity: BusinessWeek - BusinessWeek |    In 2008 , Owen was ranked # 30 by BusinessWeek . ||| 2008 , Owen war aufgereihter # 30 durch BusinessWeek ( Geschäftswoche ) . 
+
+Sirri Sirri | w_freq: 1 - 2 | wiki_freq: 154 - 36 | sentence_idx: 288208 | align_1: 26-18 | align_2: 27-23 | entity: Sirri - Sirri |    The company also signed a total of five new production sharing contracts ( PSCs ) in 1998 and 1999 , and began oil production in the Sirri field in Iran . ||| Gesellschaft unterzeichnete auch insgesamt fünf neue Produktionsteilen-Verträge ( PSCs ) 1998 und 1999 , und begann Erdölgewinnung in Sirri ( Sirri Insel ) Feld im Iran . 
+
+IDAHOT IDAHOT | w_freq: 1 - 1 | wiki_freq: 23 - 6 | sentence_idx: 363602 | align_1: 14-15 | align_2: 15-22 | entity: IDAHOT - IDAHOT |    It also supports external events such as National Student Pride , our own annual IDAHOT event , and of course – London Pride . ||| Das Komitee unterstützt auch externe Veranstaltungen wie den National Student Pride , unsere eigene jährliche IDAHOT ( Internationaler Tag gegen Homophobie ) Veranstaltung und natürlich – London Pride . 
+
+Azel Azel | w_freq: 1 - 1 | wiki_freq: 102 - 8 | sentence_idx: 566316 | align_1: 19-18 | align_2: 20-32 | entity: Azel - Azel |    You will flee by the valley of My mountains , for the valley of the mountains will reach to Azel . . . ||| Und ihr werdet gewiß zum Tal meiner Berge fliehen ; denn das Tal der Berge wird bis nach Azel [ [ ein Wadi , das zum Ölberg gehört und im Kidrontal endet ] ] hin reichen . 
+
+ECIU ECIU | w_freq: 1 - 1 | wiki_freq: 20 - 3 | sentence_idx: 667297 | align_1: 26-28 | align_2: 27-35 | entity: ECIU - ECIU |    [ 18 ] An example of an emerging positive interrelation between universities and their " hinterland " is the so-called European Consortium of Innovative Universities ( ECIU ) . ||| [ 18 ] Ein Beispiel für den Aufbau eines guten Zusammenspiels zwischen Hochschulen und ihrem , Hinterland " ist das sogenannte , European Consortium of Innovative Universities ( ECIU ) " ( Konsortium innovativer Universitäten ) . 
+
+UdK UdK | w_freq: 2 - 2 | wiki_freq: 66 - 383 | sentence_idx: 899207 | align_1: 21-16 | align_2: 22-23 | entity: UdK - UdK |    … That ’s true , but I want to say to young artists : When I was still studying at the UdK , many thought that I was a very talented painter . ||| Das ist wahr , aber ich möchte jungen Künstlern sagen : Als ich noch an der UdK ( Universität der Künste ) studierte , dachten viele , dass ich eine sehr talentierte Malerin sei . 
+
+
+
+
+SSG SSG | w_freq: 4 - 4 | wiki_freq: 1136 - 755 | sentence_idx: 29068 | align_1: 6-6 | align_2: 7-10 | entity: SSG - SSG |    Has the Secret Shadow Government ( SSG ) been hijacked by the Dracos and is it now serving their evil , anti-human Agenda ? ||| Wurde das Secret Shadow Government ( SSG , geheime Schattenregierung ) von den Dracos übernommen und dient sie nun ihrer bösen , menschenfeindlichen Agenda ? 
+
+Seveso Seveso | w_freq: 4 - 4 | wiki_freq: 250 - 100 | sentence_idx: 315721 | align_1: 14-10 | align_2: 15-16 | entity: Seveso - Seveso |    In 1976 , large amounts of dioxins were released in an industrial accident at Seveso , although no immediate human fatalities or birth defects occurred . ||| 1976 wurden große Beträge von Dioxinen bei einem Industrieunfall an Seveso ( Seveso Katastrophe ) veröffentlicht , obwohl keine unmittelbaren menschlichen Schicksalsschläge oder Geburtsdefekte vorkamen . 
+
+Agni Agni | w_freq: 6 - 8 | wiki_freq: 2349 - 241 | sentence_idx: 985418 | align_1: 8-4 | align_2: 9-15 | entity: Agni - Agni |    When Sita plunges into the sacrificial fire , Agni the lord of fire raises Sita , unharmed , to the throne , attesting to her purity . ||| Wenn Sita-Eintauchen ins Opferfeuer Agni ( * Hindu Gottheiten [ [ 50 ] ] ) der Herr des Feuers Sita , unversehrt zum Thron erhebt , für ihre Reinheit zeugend . 

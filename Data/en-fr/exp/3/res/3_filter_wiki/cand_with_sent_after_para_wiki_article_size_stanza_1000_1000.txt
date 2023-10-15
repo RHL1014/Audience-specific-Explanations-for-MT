@@ -1,0 +1,20 @@
+Cayce Cayce | w_freq: 12 - 12 | wiki_freq: 616 - 94 | sentence_idx: 82261 | align_1: 11-11 | align_2: 12-16 | entity: Edgar Cayce - Edgar Cayce |    Imagine having the ability to predict your own death – Edgar Cayce did . ||| Imaginez avoir la capacité de prévoir votre propre mort – Edgar Cayce lui , l’ a fait . 
+
+Saint-Urbain Saint-Urbain | w_freq: 1 - 1 | wiki_freq: 97 - 401 | sentence_idx: 199196 | align_1: 7-7 | align_2: 8-12 | entity: Saint-Urbain - Saint-Urbain |    Unfortunately , it does not work in Saint-Urbain because we are between two mountains . ||| Malheureusement , cela ne fonctionne pas à Saint-Urbain , et c' est parce qu' on est entre deux monts . 
+
+Ernman Ernman | w_freq: 2 - 2 | wiki_freq: 100 - 36 | sentence_idx: 227553 | align_1: 2-1 | align_2: 3-6 | entity: Malena Ernman - Malena Ernman |    Did Malena Ernman not publish a book with her husband just a few days before the start of Greta 's strike ? ||| Malena Ernman n’ a -t -elle pas publié un livre , avec son conjoint , quelques jours à peine avant le début de la grève de Greta ? 
+
+Oriflame Oriflame | w_freq: 5 - 5 | wiki_freq: 57 - 6 | sentence_idx: 240383 | align_1: 6-6 | align_2: 7-10 | entity: Oriflame - Oriflame |    It turns out that the company Oriflame except cosmetics produces good vitamins ! . ||| Il s' avère que la société Oriflame , à l' exception des cosmétiques , produit de bonnes vitamines ! . 
+
+Twyfelfontein Twyfelfontein | w_freq: 1 - 1 | wiki_freq: 33 - 16 | sentence_idx: 252476 | align_1: 3-3 | align_2: 4-8 | entity: Twyfelfontein - Twyfelfontein |    The elephants at Twyfelfontein two days ago must have been one group . ||| Les éléphants de Twyfelfontein , il y a deux jours a doivent être un groupe . 
+
+Lampedusa Lampedusa | w_freq: 20 - 20 | wiki_freq: 524 - 449 | sentence_idx: 534123 | align_1: 4-5 | align_2: 5-10 | entity: Lampedusa - Lampedusa |    When I went to Lampedusa three years ago , this phenomenon had already started . ||| Quand je suis allé à Lampedusa , il y a trois ans , ce phénomène commençait déjà . 
+
+KAIST KAIST | w_freq: 6 - 6 | wiki_freq: 361 - 38 | sentence_idx: 562821 | align_1: 2-3 | align_2: 3-8 | entity: KAIST - KAIST |    L’X and KAIST already identified fields of cooperation : ||| L’ X et KAIST ont d’ ores et déjà identifié des domaines de collaboration : 
+
+Badoer Badoer | w_freq: 1 - 1 | wiki_freq: 452 - 236 | sentence_idx: 592121 | align_1: 10-11 | align_2: 11-16 | entity: Luca Badoer - Luca Badoer |    “ For sure it is an important race for Luca Badoer next weekend . ||| « Bien sûr , c' est une course importante pour Luca Badoer le week - end prochain . 
+
+Felpham Felpham | w_freq: 1 - 1 | wiki_freq: 109 - 5 | sentence_idx: 720641 | align_1: 6-6 | align_2: 7-10 | entity: Felpham - Felpham |    " [ The town of ] Felpham is a sweet place for Study , because it is more spiritual than London . ||| « [ La ville de ] Felpham ( en ) est une douce place pour étudier car elle est plus spirituelle que Londres . 
+
+Paraty Paraty | w_freq: 2 - 2 | wiki_freq: 169 - 86 | sentence_idx: 787364 | align_1: 5-5 | align_2: 6-13 | entity: Paraty - Paraty |    In Angra dos Reis and Paraty credit card use is more difficult , especially in Ilha Grande . ||| Dans Angra dos Reis et Paraty , l’ utilisation de la carte de crédit est plus difficile , en particulier dans Ilha Grande . 
+

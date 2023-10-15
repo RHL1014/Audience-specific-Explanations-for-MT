@@ -1,0 +1,150 @@
+Painthall painthall | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 2491 | align_1: 9-8 | align_2: 10-13 | entity: Operation Painthall - operation painthall |    They have set up a task force called Operation Painthall and are believed to be focusing the investigation on seven or eight crimes . ||| Sie haben eine task force namens " operation painthall " ins leben gerufen und sollen die ermittlungen auf sieben oder acht verbrechen konzentrieren . 
+
+MondayMotivation MondayMotivation | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 23418 | align_1: 8-8 | align_2: 9-12 | entity: none - MondayMotivation |    Our Ultimate Guy Search Finalists Are the # MondayMotivation You Did n't Know You Needed ||| Unsere Ultimate Guy Search Finalisten sind die # MondayMotivation , von der Sie nicht wussten , dass Sie sie brauchen 
+
+Hertogstraat Hertogstraat | w_freq: 1 - 1 | wiki_freq: 2 - 4 | sentence_idx: 59489 | align_1: 1-2 | align_2: 2-8 | entity: Hertogstraat - De Hertogstraat |    The Hertogstraat is one of the streets that completely or partially went up in flames in September 1944 . ||| “ De Hertogstraat ” ( die Herzogstraße ) ist eine der Straßen , die im September 1944 ganz oder teilweise in Flammen aufging . 
+
+Jehu Jehu | w_freq: 10 - 8 | wiki_freq: 766 - 165 | sentence_idx: 80313 | align_1: 6-4 | align_2: 7-8 | entity: Jehu - Jehu |    The driving is like that of Jehu son of Nimshi–he drives like a madman . ” ||| Da fährt einer wie Jehu fährt , der Sohn von Nimschi , er fährt wie ein Rasender ! 
+
+Bajoran Bajoraner | w_freq: 3 - 2 | wiki_freq: 308 - 33 | sentence_idx: 84950 | align_1: 14-13 | align_2: 15-17 | entity: Bajoran - none |    If you do not surrender immediately , I will be forced to kill every Bajoran on this station . ||| Wenn ihr euch nicht sofort ergebt , werde ich gezwungen sein , alle Bajoraner , die sich auf der Station befinden , zu töten . 
+
+Pans Pans | w_freq: 1 - 1 | wiki_freq: 339 - 214 | sentence_idx: 93104 | align_1: 5-5 | align_2: 6-9 | entity: Peter Pans - Peter Pans |    We ’re all just Peter Pans refusing to be “ adults . ” ||| Wir sind alle nur Peter Pans , die sich weigern , „ Erwachsene “ zu sein . 
+
+John-Boy John-Boy | w_freq: 1 - 1 | wiki_freq: 70 - 14 | sentence_idx: 95344 | align_1: 11-10 | align_2: 12-14 | entity: John-Boy - John-Boy |    But to be honest , who does not even today remember John-Boy when he looks into the still youthful looking face of Richard Thomas ? ||| Doch mal ehrlich , wer sieht nicht auch heute noch John-Boy vor sich , wenn er in das immer noch jugendlich wirkende Gesicht von Richard Thomas blickt ? ! 
+
+3210 3210 | w_freq: 2 - 2 | wiki_freq: 106 - 73 | sentence_idx: 96430 | align_1: 7-5 | align_2: 8-10 | entity: 3210 - none |    And in 1999 , they launched the 3210 that made mobile telephony affordable for young people . ||| Und 1999 brachten sie das 3210 auf den Markt , das die Mobiltelefonie für junge Leute erschwinglich machte . 
+
+9GAG 9GAG | w_freq: 1 - 1 | wiki_freq: 47 - 24 | sentence_idx: 106106 | align_1: 0-0 | align_2: 1-6 | entity: 9GAG - 9GAG |    9GAG is your best source of fun . ||| 9GAG ( 9gag . com ) ist Ihre beste Quelle für Spaß . 
+
+Sekhmet Sekhmet | w_freq: 5 - 4 | wiki_freq: 317 - 15 | sentence_idx: 141105 | align_1: 3-3 | align_2: 4-8 | entity: Sekhmet - Sekhmet |    The statue of Sekhmet herself - there is so much spirit in there . ||| Die Statue der Sekhmet , als auch sie selbst ~ es gibt so viel Spirit darin . 
+
+Indo-Caribbean Indo-karibisch | w_freq: 1 - 1 | wiki_freq: 211 - 0 | sentence_idx: 170837 | align_1: 22-21 | align_2: 23-26 | entity: Indo-Caribbean - none |    " Caribbean " is itself not one ethnic or political identity ; for example , some of this wave of immigrants were Indo-Caribbean . ||| " Karibisch " ist sich selbst nicht eine ethnische oder politische Identität ; zum Beispiel , einige diese Welle Einwanderer waren Indo-karibisch ( Karibischer Indo- ) . 
+
+Koneko-chan Koneko-chan | w_freq: 16 - 16 | wiki_freq: 1 - 0 | sentence_idx: 175643 | align_1: 4-4 | align_2: 5-8 | entity: Koneko-chan - Koneko-chan |    Everyone seemed puzzled at Koneko-chan who did n’t react at all . ||| Jeder schien verwirrt über Koneko-chan zu sein , die überhaupt nicht reagierte . 
+
+Kelis Kelis | w_freq: 1 - 1 | wiki_freq: 903 - 119 | sentence_idx: 205798 | align_1: 4-2 | align_2: 5-7 | entity: Kelis - Kelis |    It was thanks to Kelis I discovered a life outside of monograms . " ||| Es ist Kelis zu verdanken , dass ich ein Leben außerhalb von Monogrammen entdeckte . " 
+
+Shu’ayb ayb | w_freq: 2 - 2 | wiki_freq: 4 - 2 | sentence_idx: 208716 | align_1: 19-22 | align_2: 20-26 | entity: People of Shu’ayb - Shu ’ ayb |    Taking more than one ’s due right and giving what is less is a legacy of the People of Shu’ayb . ||| Das Nehmen von mehr als der eigentliche Anteil und das Geben von weniger , ist eine Hinterlassenschaft der Leute von Shu ’ ayb ( as ) . 
+
+Németh Németh | w_freq: 1 - 1 | wiki_freq: 684 - 426 | sentence_idx: 218013 | align_1: 7-7 | align_2: 8-11 | entity: Zsolt Németh - Zsolt Németh |    Every year I ask my friend Zsolt Németh what he thinks I should talk about . ||| Jedes Jahr pflege ich meinen Freund Zsolt Németh zu fragen , worüber ich seiner Ansicht nach reden müsste . 
+
+Ilyin Iljin | w_freq: 5 - 1 | wiki_freq: 554 - 230 | sentence_idx: 223641 | align_1: 16-19 | align_2: 17-24 | entity: Ivan Ilyin - Ivan Iljin |    No , of course she is still quite ill ; but here we must recall Ivan Ilyin : ‘ Yes , our country is still sick , but we did not flee from the bed of our sick mother . ’ ” ||| Nein , natürlich ist Russland noch immer ziemlich krank ; aber an dieser Stelle müssen wir uns an Ivan Iljin erinnern , der sagte : ‚ Ja , unser Land ist noch immer krank , aber wir sind nicht vom Bett unserer kranken Mutter geflohen . ‘ “ 
+
+AWDis AWDis | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 244590 | align_1: 4-4 | align_2: 5-9 | entity: Écologie by AWDis - Ecology by AWDis |    We launched Écologie by AWDis by planting 200 trees globally through Carbon Footprint , and it is our goal to keep doing so . ||| Wir haben Ecology by AWDis ins Leben gerufen , indem wir weltweit 200 Bäume durch Carbon Footprint pflanzten , und unser Ziel ist es , dies auch weiterhin zu tun . 
+
+FSFE FSFE | w_freq: 14 - 12 | wiki_freq: 47 - 20 | sentence_idx: 245097 | align_1: 23-22 | align_2: 24-28 | entity: FSFE - FSFE |    " As we look back on a decade of hard work , we would like to thank everyone who has helped to make FSFE what it is today . ||| „ Wenn wir auf ein Jahrzehnt harte Arbeit zurückblicken , möchten wir uns bei allen bedanken , die mitgeholfen haben , die FSFE zu dem zu machen , was sie heute ist . 
+
+Lambrinidis Lambrinidis | w_freq: 1 - 1 | wiki_freq: 34 - 20 | sentence_idx: 265029 | align_1: 3-13 | align_2: 4-18 | entity: Lambrinidis - Stavros Lambrinidis |    26/03/2009 - Rapport Lambrinidis on strengthening security and fundamental freedoms on the Internet 62.5/100 ||| – in Kenntnis des Vorschlags für eine Empfehlung an den Rat von Stavros Lambrinidis im Namen der PSE-Fraktion zur Stärkung der Sicherheit und der Grundfreiheiten im Internet ( B6 - 0302 / 2008 ) , 
+
+Novorossiya Noworossija | w_freq: 2 - 3 | wiki_freq: 336 - 8 | sentence_idx: 280903 | align_1: 11-9 | align_2: 12-17 | entity: Novorossiya - Noworossija |    Do you really think that Russia is n’t giving the so-called Novorossiya military and financial help ? ” ||| Glauben Sie wirklich , dass Russland dem sogenannten ‘ Noworossija ’ ( ‘ Neurussland ’ ) keine militärische und finanzielle Hilfe gibt ? ” 
+
+Lakaien Lakaien | w_freq: 5 - 12 | wiki_freq: 71 - 296 | sentence_idx: 325124 | align_1: 14-13 | align_2: 15-18 | entity: Deine Lakaien - none |    ( As a short remark : Carl Erling was the first to contract Deine Lakaien and they continued to work with him for more than a decade . ) ||| ( Als kurze Anmerkung : Carl Erling war der erste , der Deine Lakaien unter Vertrag nahm , und sie arbeiteten mehr als ein Jahrzehnt lang mit ihm zusammen . ) 
+
+DAVID DAVID | w_freq: 15 - 9 | wiki_freq: 134 - 22 | sentence_idx: 338229 | align_1: 1-0 | align_2: 2-4 | entity: DAVID - DAVID |    KING DAVID of ancient Israel knew how heavy the burden of a guilty conscience could be . ||| DAVID , der König des alten Israel , wußte , wie schwer die Last eines schuldbeladenen Gewissens sein kann . 
+
+Cebus Cebus | w_freq: 1 - 1 | wiki_freq: 220 - 167 | sentence_idx: 341367 | align_1: 10-11 | align_2: 11-16 | entity: Cebus - Cebus |    They succeeded : The Filipinos , especially the inhabitants of Cebus , are said to be very proud of their new airport . ||| Das ist gelungen : Die Filipinos , vor allem die Bewohner Cebus , so hört man , sind sehr stolz auf ihren neuen Flughafen . 
+
+PvdA PvdA | w_freq: 2 - 2 | wiki_freq: 997 - 682 | sentence_idx: 349123 | align_1: 12-7 | align_2: 13-13 | entity: PvdA - PvdA |    Yet , neither the unions nor the social democratic Labour Party ( PvdA ) has an answer to the social crisis . ||| Aber weder die Gewerkschaften noch die sozialdemokratische PvdA ( Partij van de Arbeid ) haben eine Antwort auf die soziale Krise . 
+
+Goliaths Goliats | w_freq: 6 - 1 | wiki_freq: 59 - 24 | sentence_idx: 352174 | align_1: 7-10 | align_2: 8-15 | entity: Goliaths - Goliats |    How has the Lord helped you overcome Goliaths that you have encountered ? ||| Wie hat der Herr Ihnen dabei geholfen , die „ Goliats “ zu besiegen , die Ihnen begegnet sind ? 
+
+Śyāmasundara Śyāmasundara | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 355037 | align_1: 0-0 | align_2: 1-6 | entity: Śyāmasundara - Śyāmasundara |    Śyāmasundara : He can come and stay with you in Bombay . ||| Śyāmasundara : ( Śrīla Prabhupādas Sekretär ): Er kann kommen und mit dir in Bombay bleiben . 
+
+Manonasa Manonasa | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 356600 | align_1: 7-6 | align_2: 8-13 | entity: Manonasa - Manonasa |    By this practice you will soon attain Manonasa . ’ ||| Mit dieser Praxis wirst du bald Manonasa ( Aufhören des Geistes ) erreichen . “ 
+
+Deny ZEIT | w_freq: 27 - 64 | wiki_freq: 667 - 641 | sentence_idx: 365022 | align_1: 0-0 | align_2: 1-4 | entity: none - ZEIT DER LÜGEN |    Deny the passing of time , ||| ZEIT DER LÜGEN ( Die Herrschaft der Lüge . 
+
+Greif C*DU | w_freq: 2 - 1 | wiki_freq: 877 - 0 | sentence_idx: 390742 | align_1: 9-5 | align_2: 10-11 | entity: Greif - C*DU |    ' To whom do you owe the truth , Greif ? ||| Wem dient Merkel , die C*DU , SPD die Grünen wirklich ? 
+
+O’Reilly o'reilly | w_freq: 20 - 1 | wiki_freq: 616 - 0 | sentence_idx: 399045 | align_1: 17-12 | align_2: 18-17 | entity: Bill O’Reilly - bill o'reilly |    Some of the people on the Factor staff have been here from the very beginning helping Bill O’Reilly create something that had never been done before . ||| Einige mitarbeiter von factor waren von anfang an hier und halfen bill o'reilly dabei , etwas zu erschaffen , was noch nie zuvor gemacht worden war . 
+
+33:9 33:9 | w_freq: 1 - 1 | wiki_freq: 9 - 3 | sentence_idx: 409098 | align_1: 1-6 | align_2: 2-12 | entity: Psalm 33:9 - Psalm 33:9 |    Psalm 33:9 says , ‘ For He spoke , and it was done ; He commanded , and it stood fast ’ . ||| Ich hatte ja schon den Psalm 33:9 > angeführt , wo gesagt wird " Denn er selbst sprach , und es wurde ; Er selbst gebot , und es stand dann da . " 
+
+Pantercon Pantercon | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 413385 | align_1: 7-8 | align_2: 8-13 | entity: Pantercon - Pantercon |    2.9 Only the Smart Contract associated with Pantercon will issue PANX Tokens during the Contribution Period . ||| 2.9 Nur der Smart Contract , der mit Pantercon in Verbindung steht , wird während des Beitragszeitraums PANX-Token ausstellen . 
+
+C-Class C-Klasse | w_freq: 9 - 9 | wiki_freq: 411 - 620 | sentence_idx: 419324 | align_1: 12-8 | align_2: 13-14 | entity: C-Class - C-Klasse |    I would like to thank all of the employees for making the C-Class what it is today : one of the most popular automobiles in the upper mid-range segment . " ||| Mein Dank gilt allen Mitarbeitern , die die C-Klasse zu dem gemacht haben , was sie heute ist : Eines der beliebtesten Automobile in dem Segment der oberen Mittelklasse . “ 
+
+bubbys Bubbys | w_freq: 1 - 1 | wiki_freq: 0 - 2 | sentence_idx: 430248 | align_1: 7-6 | align_2: 8-10 | entity: none - Bubbys |    One of the beautiful things about the bubbys – and this is one of the reasons they were first used – is that they were , they were given to patients in the health care system in France . ||| Eines der schönen Dinge über die Bubbys ( ? ) - und das ist einer der Zwecke , zu denen sie zuerst genutzt worden sind - ist , dass sie , dass sie Patienten im Gesundheitssystem von Frankreich gegeben wurden . 
+
+Satanists Satanisten | w_freq: 11 - 19 | wiki_freq: 407 - 140 | sentence_idx: 437520 | align_1: 14-13 | align_2: 15-18 | entity: Satanists - none |    The true Christians within the Vatican have also made a move to isolate the Satanists meaning the end game is truly near . ||| Die wahren Christen innerhalb des Vatikan haben sich auch bewegt , um die Satanisten zu isolieren , das bedeutet , dass das Endspiel wirklich sehr nah ist . 
+
+INSURANCES VERSICHERUNGEN | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 450582 | align_1: 11-13 | align_2: 12-18 | entity: none - PROGRESSIVE FAMILY OF VERSICHERUNGEN |    My advice to anyone considering insurance with the PROGRESSIVE FAMILY OF INSURANCES is to look elsewhere . ||| Mein Rat an alle , die eine Versicherung mit der PROGRESSIVE FAMILY OF VERSICHERUNGEN in Erwägung ziehen , ist , sich woanders umzusehen . 
+
+Rec(2007)2 Rec(2007)2 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 468102 | align_1: 5-6 | align_2: 6-10 | entity: Recommendation Rec(2007)2 - Rec(2007)2 |    Agrees with the above-mentioned Recommendation Rec(2007)2 that fair access by content providers to electronic communication networks should be ensured ; ||| 45. stimmt der oben genannten Empfehlung Rec(2007)2 zu , der zufolge ein fairer Zugang für Inhaltsanbieter zu elektronischen Kommunikationsnetzen gewährleistet werden sollte ; 
+
+Qur’ân baschar | w_freq: 4 - 1 | wiki_freq: 1 - 0 | sentence_idx: 470586 | align_1: 22-22 | align_2: 23-31 | entity: Qur’ân - none |    16 / An-Nahl-103 : And certainly We know that they say : “ only a human being teaches him that ( the Qur’ân ) . ” ||| Sure 16:103 " Wir wissen wohl , dass sie sagen : " " Es lehrt ihn ( ja ) ein Mensch ( baschar ) ( was er als göttliche Offenbarung vorträgt ) . " " 
+
+Mammon Mammon | w_freq: 4 - 9 | wiki_freq: 421 - 149 | sentence_idx: 504430 | align_1: 10-11 | align_2: 11-16 | entity: Mammon - Mammon |    " Those who set out to serve both God and Mammon soon discover that there is n't a God " ||| „ Die , die sich daran machen , Gott und dem Mammon zu dienen , werden bald entdecken , dass es keinen Gott gibt “ 
+
+Commandments2:83 2:83 | w_freq: 1 - 1 | wiki_freq: 0 - 3 | sentence_idx: 511213 | align_1: 1-0 | align_2: 2-7 | entity: Commandments2:83 - none |    The Commandments2:83 We made a covenant with the Children of Israel : " You shall not worship except GOD . ||| 2:83 „ Und ( damals ) als wir die Verpflichtung der Kinder Israels ( auf folgende Gebote ) entgegennahmen : Ihr sollt nur ( dem alleinigen ) Gott dienen . 
+
+SOTT.net Sott.net | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 528605 | align_1: 22-18 | align_2: 23-23 | entity: SOTT.net - Sott.net |    Thus , the reason for our inclusion of complete articles from other authors is rather specific , and is essential to make SOTT.net what it is ! ||| Daher ist der Grund für unsere Verwendung vollständiger Artikel anderer Autoren ziemlich spezifisch und essenziell dafür , aus Sott.net das zu machen , was es ist ! 
+
+LiSEC LiSEC | w_freq: 5 - 5 | wiki_freq: 0 - 11 | sentence_idx: 542748 | align_1: 7-7 | align_2: 8-11 | entity: LiSEC - LiSEC |    They invested in a complete system from LiSEC in two phases , 1999 and 2000 . ||| Sie investierten in ein komplettes System von LiSEC , und zwar in zwei Phasen , 1999 und 2000. 
+
+goo Goo | w_freq: 1 - 7 | wiki_freq: 501 - 197 | sentence_idx: 558215 | align_1: 3-4 | align_2: 4-10 | entity: none - Black Goo |    This so-called black goo might only be a problem in certain very deep secret negative military programs at the moment and not anywhere else on the planet . ||| Dieses sogenannte „ Black Goo “ ( schwarze Schmiere ) ist vielleicht nur in bestimmten sehr tiefen geheimen negativen Militärprogrammen im Moment ein Problem und nirgendwo sonst auf der Welt . 
+
+Tunisians Tunesier | w_freq: 23 - 22 | wiki_freq: 797 - 288 | sentence_idx: 564763 | align_1: 13-15 | align_2: 14-20 | entity: Tunisians - none |    ‘ He used to send us small sums of money regularly like most Tunisians working abroad . ||| „ Er schickte uns ab und zu kleine Geldbeträge , wie auch die Mehrheit der Tunesier , die im Ausland arbeiten . 
+
+Avians Avians | w_freq: 8 - 5 | wiki_freq: 27 - 5 | sentence_idx: 588234 | align_1: 7-9 | align_2: 8-14 | entity: Blue Avians - Blue Avians |    We noted your surprise when the Blue Avians joined you to offer help and support . ||| Wir bemerkten deine Überraschung , als die " Blue Avians " sich mit dir verbanden , um Hilfe und Unterstützung anzubieten . 
+
+Spectacle Schauspiels | w_freq: 2 - 4 | wiki_freq: 999 - 762 | sentence_idx: 588430 | align_1: 8-8 | align_2: 9-15 | entity: The Society of the Spectacle - des Schauspiels |    Some consider his book The Society of the Spectacle ( 1967 ) to be a catalyst for the uprising . ||| Einige betrachten sein Buch Als die Gesellschaft des Schauspiels ( Die Gesellschaft des Schauspiels ) ( 1967 ) , um ein Katalysator für den Aufstand zu sein . 
+
+Levites Leviten | w_freq: 26 - 23 | wiki_freq: 872 - 349 | sentence_idx: 588864 | align_1: 19-18 | align_2: 20-23 | entity: Levites - none |    49 And Moses took the ransom-money from them that were over and above those who were ransomed by the Levites ; ||| 49 Und Mose nahm das Geld des Loskaufs von denen , die überzählig waren über die durch die Leviten Losgekauften [ hinaus ] ; 
+
+Sott.net Sott.net | w_freq: 1 - 2 | wiki_freq: 0 - 0 | sentence_idx: 599102 | align_1: 22-18 | align_2: 23-23 | entity: Sott.net - Sott.net |    Thus , the reason for our inclusion of complete articles from other authors is rather specific , and is essential to make Sott.net what it is ! ||| Daher ist der Grund für unsere Verwendung vollständiger Artikel anderer Autoren ziemlich spezifisch und essenziell dafür , aus Sott.net das zu machen , was es ist ! 
+
+TheOnion.com TheOnion.com | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 610280 | align_1: 3-3 | align_2: 4-8 | entity: TheOnion.com - TheOnion.com |    “ Who needs TheOnion.com when reality is now 10 times more surreal . ||| " Wer braucht TheOnion.com ( Amerikanische Finanznewsseite ) wenn die Realität nun 10-mal mehr surrealer scheint . 
+
+Tasers taser | w_freq: 1 - 1 | wiki_freq: 193 - 0 | sentence_idx: 642698 | align_1: 17-17 | align_2: 18-22 | entity: Tasers - none |    Why the police opted to shoot Riley rather than zap a 100-pound woman with one of the Tasers they were carrying is unclear . ||| Warum sich die polizei dafür entschied , riley zu erschießen , anstatt eine 100-pfund-frau mit einem der taser zu zappen , die sie trugen , ist unklar . 
+
+Jarzembowski Torstensson | w_freq: 3 - 1 | wiki_freq: 25 - 351 | sentence_idx: 650307 | align_1: 1-1 | align_2: 2-8 | entity: Georg Jarzembowski - Åsa Torstensson |    Georg Jarzembowski introduced the recommendation for second reading ( A6 - 0475/2006 ) . ||| Åsa Torstensson ( amtierende Präsidentin des Rates ) beantwortet die Anfrage ( B7 - 0220 / 2009 ) . 
+
+SINN-i SINN-i | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 664244 | align_1: 9-10 | align_2: 10-14 | entity: SINN-i - SINN-i |    One of the projects in and by our network SINN-i is " Active City Innovation " . ||| Eines der Projekte , die im und mit unserem Netzwerk SINN-i entstanden sind , ist " Active City Innovation " . 
+
+Hacohen Mosaiten | w_freq: 1 - 1 | wiki_freq: 134 - 0 | sentence_idx: 670702 | align_1: 5-1 | align_2: 6-12 | entity: Moses Hacohen - none |    The later rabbis were Moses Hacohen and Moses Sewid . ||| Die Mosaiten ( das sind Juden ) folgen den Richtlinien von Musa also Moses . 
+
+IntercontinentalExchange IntercontinentalExchange | w_freq: 1 - 1 | wiki_freq: 44 - 7 | sentence_idx: 675021 | align_1: 4-2 | align_2: 5-7 | entity: IntercontinentalExchange - IntercontinentalExchange |    Jeff Sprecher ' 's IntercontinentalExchange , or ICE , was another example . ||| Jeff Sprecher IntercontinentalExchange ( Interkontinentaler Austausch ) , oder EIS , war ein anderes Beispiel . 
+
+3.3.5 3.3.5 | w_freq: 2 - 2 | wiki_freq: 5 - 2 | sentence_idx: 684227 | align_1: 8-7 | align_2: 9-12 | entity: 3.3.5 - none |    CIG has proven with the release of Update 3.3.5 that they are trustworthy and are working hard to deliver on their promises . ||| CIG hat mit der Veröffentlichung von Update 3.3.5 unter Beweis gestellt , dass sie vertrauenswürdig sind und hart daran arbeiten ihre Versprechungen einzulösen . 
+
+Thamud Thamud | w_freq: 20 - 11 | wiki_freq: 111 - 25 | sentence_idx: 686055 | align_1: 5-4 | align_2: 6-9 | entity: Thamud - Thamud |    18 Of Pharaoh and the Thamud ? ||| 18. Pharaos und der Thamud ( zu Ohren ) ? 
+
+Sedna Sedna | w_freq: 7 - 6 | wiki_freq: 486 - 131 | sentence_idx: 686494 | align_1: 7-6 | align_2: 8-11 | entity: Sedna - Sedna |    " There 's no way to put Sedna where it is . ||| " Es gibt keine Möglichkeit , Sedna dorthin zu bringen , wo es ist . 
+
+S.G. S.G. | w_freq: 1 - 1 | wiki_freq: 506 - 35 | sentence_idx: 687941 | align_1: 0-0 | align_2: 1-5 | entity: S.G. - S.G. |    S.G. who participated in our international seminar in Greece this summer told us , “ I am so glad to see you again ! ||| S.G. , eine Sozialarbeiterin , die auch in unseren internationalen Seminar in Griechenland teilgenommen diesem Sommer erzählte uns , " Ich bin so froh , dass Sie wieder zu sehen ! 
+
+Digit Digit | w_freq: 3 - 3 | wiki_freq: 484 - 88 | sentence_idx: 720485 | align_1: 9-6 | align_2: 10-11 | entity: Digit - Digit |    I would n’t have connected my bank account to Digit unless I was 100 % positive . 🙂 ||| Ich hätte mein Bankkonto nicht mit Digit verbunden , es sei denn , ich wäre zu 100 % positiv . 
+
+Mix93.3 Mix93.3 | w_freq: 1 - 2 | wiki_freq: 0 - 0 | sentence_idx: 730040 | align_1: 8-10 | align_2: 9-15 | entity: Mix93.3 - Mix93.3 |    He apologizes to his fans in KC and Mix93.3 . " ||| Er entschuldigt sich bei seinen Fans in KC und bei Mix93.3 ( sic ) “ . 
+
+FPSG FPSG | w_freq: 1 - 1 | wiki_freq: 5 - 1 | sentence_idx: 752390 | align_1: 17-17 | align_2: 18-22 | entity: FPSG - FPSG |    In short , they are not ' Israeli NGOs ' , but Foreign Political Subversion Groups ( FPSG ) . " ||| Kurz gesagt : Sie sind keine ' israelischen NGOs ' , sondern Foreign Political Subversion Groups ( FPSG - ausländische politische Zersetzungsgruppen ) . " 
+
+FP7 7RP | w_freq: 11 - 1 | wiki_freq: 279 - 0 | sentence_idx: 786656 | align_1: 1-1 | align_2: 2-5 | entity: FP7 - 7RP |    The FP7 project STADIUM ( Smart Transport Applications Designed for large events with Impacts on Urban Mobility ) recently finished . ||| Das 7RP ( Rahmenprogramm ) Projekt STADIUM , ( Smart Transport Applications Designed for large events with Impacts on Urban Mobility ) ist erst kürzlich ausgelaufen . 
+
+Inpex Inpex | w_freq: 1 - 1 | wiki_freq: 37 - 3 | sentence_idx: 849378 | align_1: 9-9 | align_2: 10-14 | entity: Inpex - Inpex |    That same year he competed in a show called Inpex ( recognized worldwide ) and won Best Innovation in Safety / Security . ||| Im selben Jahr konkurrierte er in einer Show namens Inpex < / Em > ( weltweit anerkannt ) und gewann beste Innovation in Sicherheit / Sicherheit . 
+
+Qadr Leugner | w_freq: 1 - 33 | wiki_freq: 102 - 157 | sentence_idx: 856648 | align_1: 5-4 | align_2: 6-9 | entity: Qadr Qadriyyah - none |    We call those who deny Qadr Qadriyyah . ||| Um die Hälse der Leugner haben wir Ringe ( Ketten ) gelegt . 
+
+Z28 Z28 | w_freq: 1 - 1 | wiki_freq: 174 - 81 | sentence_idx: 862703 | align_1: 6-9 | align_2: 7-14 | entity: Z28 - Z28 |    I told you I bought the Z28 because it was a practical car ! " ||| Ich hab ' doch gesagt , dass ich den Z28 gekauft hab ' , weil er praktisch ist ! ” 
+
+YORK YORK | w_freq: 16 - 16 | wiki_freq: 199 - 23 | sentence_idx: 870987 | align_1: 1-4 | align_2: 2-8 | entity: NEW YORK - NEW YORK |    NEW YORK — The last time Mark Stella went to the dentist , he did n’t need an insurance card . ||| ( AP-Grafik ) NEW YORK ( AP ) - Als Mark Stella das letzte Mal zum Zahnarzt ging , brauchte er keine Versicherungskarte . 
+
+PPIHC PPIHC | w_freq: 1 - 1 | wiki_freq: 24 - 6 | sentence_idx: 873047 | align_1: 2-2 | align_2: 3-6 | entity: PPIHC - PPIHC |    The first PPIHC you attended was 37 years ago . ||| Das erste PPIHC , an dem Sie teilgenommen haben , liegt 37 Jahre zurück . 
+
+Asian-Pacific Asien-Pazifik-Partnerschaft | w_freq: 5 - 1 | wiki_freq: 259 - 0 | sentence_idx: 882298 | align_1: 14-16 | align_2: 15-22 | entity: Asian-Pacific Partnership on Clean Development - Asien-Pazifik-Partnerschaft für saubere Entwicklung |    This summer , we took an important step toward these goals by forming the Asian-Pacific Partnership on Clean Development . ||| Diesen Sommer unternahmen wir einen wichtigen Schritt hin zur Umsetzung dieser Ziele , indem wir die Asien-Pazifik-Partnerschaft für saubere Entwicklung ( Asian-Pacific Partnership on Clean Development ) ins Leben riefen . 
+
+Al-Baqarah/286 al-Baqara | w_freq: 1 - 1 | wiki_freq: 0 - 12 | sentence_idx: 884552 | align_1: 19-23 | align_2: 19-29 | entity: Al-Baqarah/286 - al-Baqara |    “ Our Lord , do not take us to account if we forget or make a mistake ” – Al-Baqarah/286 ||| “ Unser Herr , bestrafe uns nicht , wenn wir ( etwas ) vergessen oder einen Fehler begehen ” [ … ] ( al-Baqara , die Kuh 2 / 286 ) 
+
+Thirty-three Dreiunddreißig | w_freq: 3 - 4 | wiki_freq: 577 - 35 | sentence_idx: 907645 | align_1: 10-8 | align_2: 11-13 | entity: Thirty-three - none |    Can King Pasenadi of Kosala topple the gods of the Thirty-three or banish them from that place ? ” ||| Kann König Pasenadi von Kosala die Götter der Dreiunddreißig zum Absturz bringen , oder kann er sie von jenem Ort verbannen ? " 
+
+KSB-system KSB-System | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 911503 | align_1: 3-2 | align_2: 4-7 | entity: KSB-system - none |    Whoever questions the KSB-system is threatened with God ’s curse . ||| Wer das KSB-System in Frage stellt , wird mit dem Fluch Gottes bedroht . 
+
+Oriaco Oriaco | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 919200 | align_1: 11-12 | align_2: 12-16 | entity: Oriaco - Oriaco |    « If I had fled to Mira , when I reached Oriaco , I would have saved myself . ||| « Wenn ich nach Mira geflohen wäre , als ich erreicht habe Oriaco , erreicht hätte , hätte ich mich gerettet . 
+
+BDD BDD | w_freq: 10 - 9 | wiki_freq: 296 - 48 | sentence_idx: 948001 | align_1: 6-5 | align_2: 7-10 | entity: BDD - BDD |    " What happens with people with BDD is that they look in the mirror hoping they will get a positive boost . ||| " Was bei Menschen mit BDD der Fall ist , ist , dass sie in den Spiegel schauen und hoffen , dass sie einen positiven Schub erhalten . 
+
+WHIT3 WHIT3 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 956866 | align_1: 1-1 | align_2: 2-5 | entity: WHIT3 Label Boot - WHIT3 |    The WHIT3 Label Boot maximizes the minimums . ||| Der WHIT3 ( White ) Label Boot maximiert die Minimums . 
+
+Politiques Politiques | w_freq: 1 - 1 | wiki_freq: 704 - 136 | sentence_idx: 977681 | align_1: 11-10 | align_2: 12-14 | entity: Politiques - none |    The Catholic League also saw moderate French Catholics , known as Politiques , as a serious threat . ||| Katholische Liga sah auch gemäßigte französische Katholiken , bekannt als Politiques ( politiques ) , als ernste Drohung . 
+

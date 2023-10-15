@@ -1,0 +1,222 @@
+EFG EFG | w_freq: 6 - 3 | wiki_freq: 314 - 9 | sentence_idx: 105 | align_1: 4-0 | align_2: 5-4 | entity: EFG International - EFG 国际 （ EFG International |    Founded in 1995 , EFG International is a subsidiary of EFG Bank European Financial Group . ||| EFG 国际 （ EFG International ） 成立 于 1995年 ， 是 EFG Bank European Financial 
+
+Generosity ill-Allah | w_freq: 3 - 3 | wiki_freq: 148 - 0 | sentence_idx: 603 | align_1: 4-2 | align_2: 5-10 | entity: Generosity - none |    This is from the Generosity of Allah ( SWT ) , Al Kareem . ||| La ilaaha ill-Allah （ 除 安拉外绝 无 应 受 崇拜 的 主 ） 
+
+EGF 雪峰 | w_freq: 195 - 4 | wiki_freq: 539 - 235 | sentence_idx: 778 | align_1: 0-1 | align_2: 1-41 | entity: EGF - 雪峰 |    EGF was so helpful in facilitating the whole process . ||| 5. 雪峰 文集 —— 警世 篇 ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ ¯¯ 你们 还 傻乎乎 的 。 
+
+Amaziah 撒王 | w_freq: 1 - 1 | wiki_freq: 138 - 11 | sentence_idx: 891 | align_1: 6-2 | align_2: 7-10 | entity: Amaziah - 撒王 |    In other words , so far Amaziah did what was right in God ’s eyes . ||| 因此 当亚 撒王 一 兴起 时 ， 他 决定 要 做 上帝 眼中 看 为 对 的 事 。 
+
+Amaziah 当亚 | w_freq: 1 - 4 | wiki_freq: 138 - 16 | sentence_idx: 891 | align_1: 6-1 | align_2: 7-10 | entity: Amaziah - none |    In other words , so far Amaziah did what was right in God ’s eyes . ||| 因此 当亚 撒王 一 兴起 时 ， 他 决定 要 做 上帝 眼中 看 为 对 的 事 。 
+
+Ailes 汀道尔 | w_freq: 16 - 5 | wiki_freq: 665 - 0 | sentence_idx: 6358 | align_1: 0-1 | align_2: 1-6 | entity: Ailes - 汀道尔 |    Ailes denied any wrongdoing . ||| 而 汀道尔 本人 ， 则 一概 否认 所有 的 指控 。 
+
+Kev Kev | w_freq: 13 - 9 | wiki_freq: 921 - 13 | sentence_idx: 11715 | align_1: 4-3 | align_2: 5-8 | entity: Kev - none |    “ Without people like Kev you do not have a club . ||| “ 没有 像 Kev 这样 的 人 ， 您 就 没有 俱乐部 。 
+
+EGF MAMA | w_freq: 195 - 3 | wiki_freq: 539 - 381 | sentence_idx: 13988 | align_1: 4-41 | align_2: 5-52 | entity: EGF - none |    The aim of the EGF is to help workers who are victims of the relocation of businesses , and it is crucial in facilitating access to new employment in the future . ||| ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ 参加 活动 ， 上传 你 的 照片 请 至 LOVE PHOTO MAMA 脸 书 [ LOVE PHOTO MAMA 联展 ] 主题 三 ： 天使 的 大笑 以 拍摄 小孩 的 大笑 ， 狂笑 ， 歇斯底里 的 笑 为主 期限 : 11/1-11/30 　 张数 ： 无限 欢迎 大家 一起 来 分享 哦 ！ ！ ﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ 
+
+EGF PHOTO | w_freq: 195 - 2 | wiki_freq: 539 - 30 | sentence_idx: 13988 | align_1: 4-40 | align_2: 5-52 | entity: EGF - none |    The aim of the EGF is to help workers who are victims of the relocation of businesses , and it is crucial in facilitating access to new employment in the future . ||| ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ 参加 活动 ， 上传 你 的 照片 请 至 LOVE PHOTO MAMA 脸 书 [ LOVE PHOTO MAMA 联展 ] 主题 三 ： 天使 的 大笑 以 拍摄 小孩 的 大笑 ， 狂笑 ， 歇斯底里 的 笑 为主 期限 : 11/1-11/30 　 张数 ： 无限 欢迎 大家 一起 来 分享 哦 ！ ！ ﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ ﹣﹣ 
+
+Ailes 汀道尔 | w_freq: 16 - 5 | wiki_freq: 665 - 0 | sentence_idx: 23511 | align_1: 1-1 | align_2: 2-6 | entity: Ailes - 汀道尔 |    ( Ailes denied all the allegations against him . ) ||| 而 汀道尔 本人 ， 则 一概 否认 所有 的 指控 。 
+
+Jabir 李德明 | w_freq: 31 - 1 | wiki_freq: 750 - 163 | sentence_idx: 28450 | align_1: 4-1 | align_2: 5-6 | entity: Jabir - 李德明 |    Narrated ' Ata : Jabir said , " The Prophet ordered ' Ali to keep the state of Ihram . " ||| ” 李德明 上前 ， 将 他 挤开 ： “ 劣 ， 一目了然 。 
+
+Mensans Mensans | w_freq: 2 - 2 | wiki_freq: 10 - 0 | sentence_idx: 38501 | align_1: 9-6 | align_2: 10-11 | entity: Mensans - none |    It is said that in a room with 12 Mensans you will find at least 13 differing opinions on any given subject ! ||| 据说 在 一个 有 12 个 Mensans 的 房间 里 ， 你 会 发现 至少 13 个 不同 的 意见 在 任何 给定 的 主题 ！ 
+
+Verdoorn 有始有卒者 | w_freq: 1 - 106 | wiki_freq: 56 - 0 | sentence_idx: 47741 | align_1: 4-9 | align_2: 5-15 | entity: Verdoorn - none |    This is known as Verdoorn ’s law [ 40,41 ] . ||| 君子 之 道 ， 焉 可 诬 也 ？ 有始有卒者 ， 其 惟圣 人乎 ！ ” ， 13.14 冉子 退朝 。 
+
+Ailes 阿里巴巴 | w_freq: 16 - 33 | wiki_freq: 665 - 936 | sentence_idx: 56611 | align_1: 6-5 | align_2: 7-11 | entity: Ailes - 阿里巴巴 |    ( It should be noted that Ailes has denied the allegations against him . ) ||| 对于 这项 指称 ， 「 阿里巴巴 」 随即 发表 声明 ， 予以 否认 。 
+
+Achor 亚割谷[ | w_freq: 2 - 1 | wiki_freq: 96 - 0 | sentence_idx: 56671 | align_1: 12-5 | align_2: 13-13 | entity: Achor - 亚割谷[ |    Therefore the name of that place has been called the valley of Achor to this day . " ||| ” 因此 那 地方 名叫 亚割谷[ 就是 连 累 的 意思 ] ， 直到 今日 。 
+
+MIPIM MIPI | w_freq: 3 - 1 | wiki_freq: 96 - 14 | sentence_idx: 63303 | align_1: 5-4 | align_2: 6-9 | entity: MIPIM - none |    “ For this year ’s MIPIM we are preparing a surprise . ||| “ 对于 今年 的 MIPI M   , 我们 正在 准备 一个 惊喜      。 
+
+O’Shea Shea | w_freq: 3 - 11 | wiki_freq: 182 - 70 | sentence_idx: 82982 | align_1: 11-13 | align_2: 12-17 | entity: O’Shea - none |    But before our story can go further , we must revisit O’Shea ’s past . ||| 不过 ， 在 继续 讲述 故事 前 ， 我们 得 重温 O ’ Shea （ 奥谢 ） 的 过去 。 
+
+Hamdani 人乎 | w_freq: 1 - 104 | wiki_freq: 304 - 17 | sentence_idx: 102709 | align_1: 17-13 | align_2: 18-20 | entity: Hamdani - none |    Among them , some tribes with strains of repute , such as the Al Kathir and their Hamdani . ||| 君子 之 道 ， 焉 可 诬 也 ？ 有始有卒者 ， 其 惟圣 人乎 ！ ” ， 13.14 冉子 退朝 。 
+
+Hamdani 惟圣 | w_freq: 1 - 104 | wiki_freq: 304 - 5 | sentence_idx: 102709 | align_1: 17-12 | align_2: 18-20 | entity: Hamdani - none |    Among them , some tribes with strains of repute , such as the Al Kathir and their Hamdani . ||| 君子 之 道 ， 焉 可 诬 也 ？ 有始有卒者 ， 其 惟圣 人乎 ！ ” ， 13.14 冉子 退朝 。 
+
+POTUS POTUS | w_freq: 14 - 24 | wiki_freq: 177 - 8 | sentence_idx: 117861 | align_1: 2-3 | align_2: 3-7 | entity: POTUS - none |    A # POTUS who ’s name alone creates division and anger . ||| 「 一个 # POTUS ( 白痴 ) 他 的 名字 独自 造成 分裂 和 愤怒 。 
+
+POTUS POTUS | w_freq: 14 - 24 | wiki_freq: 177 - 8 | sentence_idx: 125401 | align_1: 2-3 | align_2: 3-7 | entity: POTUS - none |    A # POTUS who 's name alone creates division and anger . ||| 「 一个 # POTUS ( 白痴 ) 他 的 名字 独自 造成 分裂 和 愤怒 。 
+
+Marylin 麦尔彦 | w_freq: 1 - 357 | wiki_freq: 180 - 23 | sentence_idx: 134199 | align_1: 6-15 | align_2: 7-24 | entity: Marylin - 麦尔彦 |    Thanks to replies from Marysia and Marylin . ||| 古兰经 轻而易举 地 误称 之 为 安拉 （ 万有之主 ， 太 一 神 ） ， 麦尔彦 （ 圣母 ） 和 尔撒 （ 圣子 ） 。 
+
+Marylin 尔撒 | w_freq: 1 - 54 | wiki_freq: 180 - 92 | sentence_idx: 134199 | align_1: 6-20 | align_2: 7-24 | entity: Marylin - 尔撒 |    Thanks to replies from Marysia and Marylin . ||| 古兰经 轻而易举 地 误称 之 为 安拉 （ 万有之主 ， 太 一 神 ） ， 麦尔彦 （ 圣母 ） 和 尔撒 （ 圣子 ） 。 
+
+Lut 李霖 | w_freq: 36 - 1 | wiki_freq: 248 - 8 | sentence_idx: 151917 | align_1: 8-10 | align_2: 9-14 | entity: Lut - 李霖 |    Upon reaching the door they said “ O Lut ! ||| 他们 大咧咧 地 踹门 进来 ， 叫 道 ： “ 李霖 ， 出来 说话 。 
+
+DACA DACA | w_freq: 65 - 62 | wiki_freq: 788 - 69 | sentence_idx: 156508 | align_1: 10-6 | align_2: 11-11 | entity: DACA - none |    So he ’s been willing to negotiate with them on DACA in exchange for a border wall . ||| 所以 他 愿意 与 他们 就 DACA 问题 进行 谈判 ， 以 换取 一 堵 边境 墙 。 
+
+AMERICAN 美国式 | w_freq: 3 - 16 | wiki_freq: 172 - 141 | sentence_idx: 163985 | align_1: 1-1 | align_2: 2-14 | entity: AMERICAN - 美国式 |    THE AMERICAN WAY OF POVERTY : How the Other Half Still Lives . ||| 《 美国式 贫困 ： 另 一半 人 仍旧 怎样 生活 》 ( The American Way of Poverty : How the Other Half Still Lives ) 。 
+
+PERLMAN 艾席蒙 | w_freq: 1 - 3 | wiki_freq: 0 - 28 | sentence_idx: 173471 | align_1: 2-3 | align_2: 3-22 | entity: PERLMAN - 艾席蒙 |    MR . PERLMAN : No , no , no . What you two had had everything and nothing to do with intelligence . ||| 这 又 是 艾席蒙 喜欢 使用 的 一个 表达 ， 还 记得 CMBYN 的 最后 ， 艾利欧 的 爸爸 那段 经典 独白 ： what you two had , had everything and nothing to do with intelligence 。 
+
+PERLMAN CMBYN | w_freq: 1 - 3 | wiki_freq: 0 - 0 | sentence_idx: 173471 | align_1: 2-12 | align_2: 3-22 | entity: PERLMAN - none |    MR . PERLMAN : No , no , no . What you two had had everything and nothing to do with intelligence . ||| 这 又 是 艾席蒙 喜欢 使用 的 一个 表达 ， 还 记得 CMBYN 的 最后 ， 艾利欧 的 爸爸 那段 经典 独白 ： what you two had , had everything and nothing to do with intelligence 。 
+
+Mutakabbir 穆吉布 | w_freq: 1 - 1 | wiki_freq: 4 - 5 | sentence_idx: 175694 | align_1: 3-3 | align_2: 4-9 | entity: Mutakabbir - 穆吉布 |    Allah is al Mutakabbir . ||| 真主 是 “ 穆吉布 ” （ 有求必应 的 ） 。 
+
+Ja‘far 庄稼 | w_freq: 8 - 59 | wiki_freq: 75 - 417 | sentence_idx: 189746 | align_1: 0-3 | align_2: 1-11 | entity: Ja‘far - none |    Ja‘far then recited a passage from Surah Maryam ( Chapter of Mary ) . ||| 从 食物 引入 庄稼 ， 这 事工 的 果实 就是 即 将来 就 祂 的 撒玛利亚人 （ Samaritans ） 。 
+
+Utterance 典命 | w_freq: 2 - 4 | wiki_freq: 76 - 1 | sentence_idx: 192371 | align_1: 6-3 | align_2: 7-11 | entity: Utterance - none |    I swear by the Daystar of Utterance which shineth upon the world in its meridian glory ! ||| 《 周礼·春官 · 典命 》 ： 「 凡 诸侯 之 适子 ， 誓于 天子 摄其君 。 
+
+Supercow Supercow | w_freq: 1 - 1 | wiki_freq: 19 - 0 | sentence_idx: 193333 | align_1: 2-1 | align_2: 3-6 | entity: Supercow - none |    And only Supercow can stop him ! ||| 只有 Supercow ( 超级 奶牛 ) 能够 阻止 他 ! 
+
+GWTF GWTF | w_freq: 12 - 14 | wiki_freq: 1 - 0 | sentence_idx: 227875 | align_1: 14-12 | align_2: 15-16 | entity: GWTF - none |    Shaukat , I agree with everything you said – even where you agree with GWTF that what is considered physically attractive can be heavily influenced by culture . ||| Shaukat 我 同意 你 所 说 的 一切 —— 即使 你 同意 GWTF 的 观点 ， 认为 身体 上 有 吸引力 的 东西 也 会 受到 文化 的 严重 影响 。 
+
+Ailes 汀道尔 | w_freq: 16 - 5 | wiki_freq: 665 - 0 | sentence_idx: 235376 | align_1: 1-1 | align_2: 2-5 | entity: Ailes - 汀道尔 |    ( Ailes steadfastly denied allegations against him . ||| 而 汀道尔 本人 ， 则 一概 否认 所有 的 指控 。 
+
+Lucado Lucado | w_freq: 1 - 1 | wiki_freq: 60 - 0 | sentence_idx: 235566 | align_1: 1-5 | align_2: 2-13 | entity: Max Lucado - none |    Max Lucado ( when God whispers your name ) ||| 选 了 路卡杜 ( Max Lucado ) 的 「 上帝 的 悄悄话 」 ( When God whispers your name ) 。 
+
+DK1 DK1 | w_freq: 2 - 2 | wiki_freq: 41 - 21 | sentence_idx: 243873 | align_1: 6-9 | align_2: 7-13 | entity: DK1 - none |    This second experience also involved a DK1 and a bunch of people laughing at me , but this time for a whole different reason . ||| 这 第二 次 体验 也 是 用 一 台 DK1 进行 的 ， 还是 有 一 堆 人 笑话 我 ， 不过 这 一 次 是 出于 一个 完全 不同 的 原因 。 
+
+Gargan Gargan | w_freq: 2 - 2 | wiki_freq: 739 - 3 | sentence_idx: 256337 | align_1: 1-3 | align_2: 2-10 | entity: William Gargan - none |    William Gargan ( They Knew What They Wanted ) ||| 威廉·格根 （ William Gargan ） 《 知 已 知彼 》 （ They Knew What They Wanted ） 
+
+Mensans Mensans | w_freq: 2 - 2 | wiki_freq: 10 - 0 | sentence_idx: 259055 | align_1: 9-6 | align_2: 10-11 | entity: Mensans - none |    It is said that in a room with 12 Mensans you will find at least 13 differing opinions on any given subject . ||| 据说 在 一个 有 12 个 Mensans 的 房间 里 ， 你 会 发现 至少 13 个 不同 的 意见 在 任何 给定 的 主题 ！ 
+
+Ojuland 他妈比 | w_freq: 3 - 1 | wiki_freq: 16 - 0 | sentence_idx: 274509 | align_1: 17-16 | align_2: 18-28 | entity: Kristiina Ojuland - none |    – having regard to the proposal for a recommendation to the Council by Guy Verhofstadt and Kristiina Ojuland , on behalf of the ALDE Group ( B7 - 0196/2012 ) , ||| 作为 父亲 ， 我 是 有 责任 的 ！ 🐶🐼 🐷 我 决定 把 他 牵回 他妈比 里 重造 ！ 大家 等 着 吧 ， 不久 的 将来 ， 会 有 一 条 全新 的 亮狗 出现 在 你们 面前 ！ 谢谢 大家 ！ 🍵☕ 🍶🍹 🍷🍻 🍴🍨 🍧🍦 🍩🍰 🍪🍔 🍳🍯 🍮🍭 🍬🍫 🍟🍝 🍕🍖 🍗🍤 🍣🍲 🍛🍚 🍙🍜 🍞🍱 🍥🍢 🍡🍘 🍠🍌 🍎🍇 🍆🍅 🍄🍋 🍊🍏 🍈🍉 🍐🍑 🍒🍓 🍍🌷 🌵🌴 🌳🌲 🌱🌰 🌸🌹 🍀🍁 🍂🍃 🌺🌈 ☀🌿 🌾🌽 🌼 🌻⛅ ☁🌁 🌂☔ 
+
+al-Nasa’i 词根Jina | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 309270 | align_1: 5-4 | align_2: 6-8 | entity: al-Nasa’i - none |    [ 36 ] Narrated by al-Nasa’i . ||| [ 36 ] 来源于 词根Jina （ 胜利 ） 。 
+
+A'ad 阿德族人 | w_freq: 2 - 4 | wiki_freq: 1 - 0 | sentence_idx: 322827 | align_1: 2-1 | align_2: 3-10 | entity: A'ad - none |    And in A'ad when we sent the fatal wind against them . ||| 在 阿德族人 中 ( 也 有 一个 迹象 ) ， 那时 我 降 给 他们 毁灭性 的 风 。 
+
+Gargan Gargan | w_freq: 2 - 2 | wiki_freq: 739 - 3 | sentence_idx: 353459 | align_1: 1-3 | align_2: 2-10 | entity: William Gargan - none |    William Gargan ( They Knew What They Wanted ) ||| 威廉·格根 （ William Gargan ） 《 知 已 知彼 》 （ They Knew What They Wanted ） 
+
+LORD 主, | w_freq: 412 - 4 | wiki_freq: 627 - 0 | sentence_idx: 366242 | align_1: 1-0 | align_2: 2-9 | entity: LORD - none |    The LORD saved His people from the hand of their oppressors . ||| 主, 因为 祂 眷顾 了 祂 的 子民 , 拯救 了 祂 的 民族 。 
+
+Apalachee 阿帕拉契 | w_freq: 3 - 3 | wiki_freq: 819 - 146 | sentence_idx: 387677 | align_1: 9-13 | align_2: 10-17 | entity: Apalachee - 阿帕拉契 |    Keep on robbers and traitors : in Acuera and Apalachee we will treat you as you deserve . ||| ... 继续   ， 强盗 和 叛徒  ： 在 阿奎拉 和 阿帕拉契   ， 我们 将 按照 你 应得 的 对待 你   。 
+
+UAYEB UAYEB | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 402249 | align_1: 2-1 | align_2: 3-9 | entity: UAYEB - none |    Nothing in UAYEB will be shown with a big arrow . ||| 《 UAYEB 》 中 的 任何 东西 都 不 会 用 大箭头 显示 。 
+
+CER CER | w_freq: 2 - 4 | wiki_freq: 509 - 25 | sentence_idx: 418063 | align_1: 5-5 | align_2: 6-9 | entity: CER - none |    This would foster and encourage CER and ensure its initiatives do n’t have to compete for funding with projects designed to develop new knowledge . ||| 这 将 促进 和 鼓励 CER   ， 并 确保 其 倡议 不必 与 旨在 开发 新 知识 的 项目 竞争 资金  。 
+
+Qur’an 在心 | w_freq: 273 - 21 | wiki_freq: 541 - 164 | sentence_idx: 430270 | align_1: 4-8 | align_2: 5-14 | entity: Qur’an - none |    Apply teachings of the Qur’an . ||| 文 中 应用 “ 忘怀 （ 不 放 在心 上 ， 忘记 ） ” 。 
+
+MLCC MLCC | w_freq: 2 - 3 | wiki_freq: 71 - 11 | sentence_idx: 444827 | align_1: 9-12 | align_2: 10-27 | entity: MLCC - none |    Similarly , Kemet has produced a whitepaper — “ MLCC Shortage : When You Ca n’t Find the Cap You Need . ” ||| 同样 地 ， Kemet 也 制作 了 一 份 白皮书 —— “ MLCC 短缺 ： 当 你 找 不 到 需要 的 电容器 时 ” ( MLCC Shortage : When You Can ’ t Find the Cap You Need ) 。 
+
+Caemlyn Caemlyn | w_freq: 8 - 6 | wiki_freq: 16 - 0 | sentence_idx: 452395 | align_1: 16-15 | align_2: 17-19 | entity: Caemlyn - none |    “ I do not know how things are done in the Two Rivers , but in Caemlyn you do n’t wait until you are betrothed before kissing a girl . ||| “ 我 不 知道 这 两 条 河 怎么办    ， 但 在 Caemlyn   ， 你 不要 等到 你 订婚 前 亲吻 一个 女孩  。 
+
+YORK YORK | w_freq: 40 - 14 | wiki_freq: 199 - 16 | sentence_idx: 486644 | align_1: 1-2 | align_2: 2-6 | entity: NEW YORK - none |    NEW YORK -- If you like your company 's 401(k ) match , you can keep it . ||| N EW YORK （ 美联社 ） - 如果 你 喜欢 你 公司 的 401 （ k ） 比赛 ， 你 可以 保留 它 。 
+
+Allâh 经者 | w_freq: 75 - 4 | wiki_freq: 36 - 47 | sentence_idx: 495696 | align_1: 5-5 | align_2: 6-9 | entity: Allâh - none |    And whosoever holds fast to Allâh is indeed guided on to the exact right path . ||| 又 有 一个 意思 ， 经者 径 也 ， 就是 修行 的 一 条 径路 。 
+
+Frommer Frommer | w_freq: 4 - 4 | wiki_freq: 460 - 5 | sentence_idx: 498013 | align_1: 0-1 | align_2: 1-10 | entity: Frommer - none |    Frommer 's 500 Places to Take Your Kids Before They Grow Up ||| （ Frommer 与 孩子 一同 旅游 500 地 ） FROM MER'S 500 PLACES TO TAKE YOUR KIDS BEFORE THEY GROW UP 
+
+EMK 埃姆克 | w_freq: 87 - 14 | wiki_freq: 76 - 0 | sentence_idx: 501435 | align_1: 19-19 | align_2: 20-24 | entity: EMK - 埃姆克 |    The ones who are being more different than most average men can handle are still writing into people like EMK trying to learn to how to adapt to get and keep a man . ||| 那些 比 大多数 普通人 都 能 应付 的 更 不 一样 的 人 ， 仍然 在 写信 给 像 埃姆克 这样 的 人 ， 试图 学会 如何 适应 和 留住 一个 男人 。 
+
+Semeni 萨曼莎 | w_freq: 3 - 20 | wiki_freq: 12 - 113 | sentence_idx: 525324 | align_1: 0-1 | align_2: 1-5 | entity: Semeni - ” 萨曼莎 |    Semeni is Maryam ’s twin sister . ||| ” 萨曼莎 （ Samantha ） 是 梅根 的 同 父 异母 姐姐 。 
+
+LIE sā | w_freq: 54 - 7 | wiki_freq: 129 - 8 | sentence_idx: 533560 | align_1: 2-8 | align_2: 3-13 | entity: LIE - none |    Then BOLDLY LIE and deny saying anything of the sort . ||| B . 不禁 （ jìn ） 撒谎 （ sā ） 沉寂 （ jī ） 絮絮叨叨 （ d āo ） 
+
+Ropeik Ropeik | w_freq: 1 - 1 | wiki_freq: 9 - 0 | sentence_idx: 560423 | align_1: 1-4 | align_2: 2-10 | entity: David Ropeik - David Ropeik |    David Ropeik , How Risky Is It Really ? ||| 作者 简介 ： David Ropeik ， 哈佛 进修 学校 讲师 ， 《 How Risky Is It , Really ? 
+
+Eurodad Eurodad | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 563267 | align_1: 15-11 | align_2: 16-19 | entity: Eurodad - none |    [ 11 ] We are not in the habit of engaging in lobbying – unlike Eurodad , another organisation that is mobilised around the issue of debt . ||| [ 11 ] 我们 不 习惯 搞 游说 　 ── 不 像 Eurodad （ 债务 和 发展 欧洲 网络 ） ， 它 是 围绕 债务 问题 动员 起来 的 另 一个 组织 。 
+
+Rightmove 出差 | w_freq: 3 - 28 | wiki_freq: 39 - 590 | sentence_idx: 580127 | align_1: 8-11 | align_2: 9-26 | entity: Rightmove - none |    Be the first to start a discussion about Rightmove in our forums ! ||| Be the first to start a discussion about 《 在 日本 出差 的 日子 里 ， 我 和 10 各 日本 女人 出 了 轨 》 in our forums ! 
+
+Manchild 幼不学 | w_freq: 3 - 2 | wiki_freq: 141 - 0 | sentence_idx: 586573 | align_1: 3-8 | align_2: 4-20 | entity: Manchild - none |    A Prophet , Manchild , Overcomer , which they ( the Testimony ) did n’t or could n’t know . ||| 子 不 学 ， 非 所 宜 ， 幼不学 ， 老何 为 玉不琢 ， 不 成器 ， 人 不 学 ， 不 知义 。 
+
+Manchild 成器 | w_freq: 3 - 3 | wiki_freq: 141 - 90 | sentence_idx: 586573 | align_1: 3-15 | align_2: 4-20 | entity: Manchild - none |    A Prophet , Manchild , Overcomer , which they ( the Testimony ) did n’t or could n’t know . ||| 子 不 学 ， 非 所 宜 ， 幼不学 ， 老何 为 玉不琢 ， 不 成器 ， 人 不 学 ， 不 知义 。 
+
+Manchild 幼不学 | w_freq: 3 - 2 | wiki_freq: 141 - 0 | sentence_idx: 586574 | align_1: 3-8 | align_2: 4-22 | entity: Manchild - none |    A Prophet , Manchild , Overcomer , which they ( the Testimony ) did n’t or could n’t know . ||| 子 不 学 ， 非 所 宜 ， 幼不学 ， 老何 为 玉 不 琢 ， 不 成器 ， 人 不 学 ， 不 知义 。 
+
+Manchild 成器 | w_freq: 3 - 3 | wiki_freq: 141 - 90 | sentence_idx: 586574 | align_1: 3-17 | align_2: 4-22 | entity: Manchild - none |    A Prophet , Manchild , Overcomer , which they ( the Testimony ) did n’t or could n’t know . ||| 子 不 学 ， 非 所 宜 ， 幼不学 ， 老何 为 玉 不 琢 ， 不 成器 ， 人 不 学 ， 不 知义 。 
+
+Pepa Pepa | w_freq: 8 - 4 | wiki_freq: 608 - 4 | sentence_idx: 603587 | align_1: 11-18 | align_2: 12-27 | entity: Pepa - none |    " None of Your Business " - Salt ' N ' Pepa ( 3:34 ) ||| " None of Your Business （ 英语 ： None of Your Business ） " - Salt ' N' Pepa （ 英语 ： Salt ' N' Pepa ） ( 3:34 ) 
+
+Shi’ahs 什叶 | w_freq: 1 - 1 | wiki_freq: 1 - 15 | sentence_idx: 612297 | align_1: 15-12 | align_2: 16-21 | entity: Shi’ahs - none |    The Prophet ( S ) said : O ‘ Ali , it you and your Shi’ahs . ||| 先知 说 ： “ 阿里 呀 ！ 你 和 你 的 ‘ 什叶 ’ ( 支持者 、 伙伴 ) 是 成功者 。 
+
+Keiss Keiss | w_freq: 1 - 1 | wiki_freq: 71 - 0 | sentence_idx: 615936 | align_1: 9-7 | align_2: 10-11 | entity: Keiss - none |    " I can not in any case agree with Keiss that my whole conception of the external world has been derived from impressions . ||| “ 无论如何 ， 我 不 能 同意 Keiss 的 观点 ， 即 我 对外部 世界 的 整个 概念 都 源于 感知 。 
+
+OKC OKC | w_freq: 16 - 15 | wiki_freq: 522 - 1 | sentence_idx: 617963 | align_1: 4-3 | align_2: 5-7 | entity: OKC - none |    While I was on OKC I filtered the search results for women who were between 43 and 60 . ||| 当 我 在 OKC 的 时候 ， 我 过滤 了 43 岁 到 60 岁 之间 的 女性 的 搜索 结果 。 
+
+Thankful 恩人 | w_freq: 42 - 40 | wiki_freq: 616 - 307 | sentence_idx: 630514 | align_1: 8-5 | align_2: 9-10 | entity: Thankful - none |    He also spoke of ( his wife ) Thankful . ||| ” 说 起 自己 的 恩人 ， 钟淑清 满眼 感激 。 
+
+POTUS POTUS | w_freq: 14 - 24 | wiki_freq: 177 - 8 | sentence_idx: 644974 | align_1: 2-3 | align_2: 3-7 | entity: POTUS - none |    A # POTUS whose name alone creates division and anger . ||| 「 一个 # POTUS ( 白痴 ) 他 的 名字 独自 造成 分裂 和 愤怒 。 
+
+johansson Johansson | w_freq: 1 - 5 | wiki_freq: 4 - 44 | sentence_idx: 647838 | align_1: 3-1 | align_2: 4-6 | entity: johansson - Scarlett Johansson |    Name : Scarlett johansson anywhere i lay my head ||| Scarlett Johansson 于 2008年 发行 《 Anywhere I Lay My Head 》 
+
+Cavie 相思花 | w_freq: 1 - 1 | wiki_freq: 9 - 3 | sentence_idx: 652385 | align_1: 7-6 | align_2: 8-11 | entity: Cavie - none |    Except the girls called him , ‘ Cavie . ’ ||| 姑娘 们 管 它 叫 “ 相思花 ” 〔 21 〕 。 
+
+Frommer Frommer | w_freq: 4 - 4 | wiki_freq: 460 - 5 | sentence_idx: 653260 | align_1: 0-1 | align_2: 1-10 | entity: Frommer - none |    Frommer ’s 500 Places to Take Your Kids Before They Grow Up ||| （ Frommer 与 孩子 一同 旅游 500 地 ） FROM MER'S 500 PLACES TO TAKE YOUR KIDS BEFORE THEY GROW UP 
+
+Centcom Centcom | w_freq: 4 - 6 | wiki_freq: 5 - 0 | sentence_idx: 668500 | align_1: 0-0 | align_2: 1-4 | entity: Centcom - none |    Centcom will restore service to its Twitter and YouTube accounts as quickly as possible . ||| Centcom 表示 ， 它 将 “ 尽快 ” 恢复 其 Twitter 和 YouTube 帐户 的 服务 。 
+
+A'ad 阿德 | w_freq: 2 - 10 | wiki_freq: 1 - 244 | sentence_idx: 676583 | align_1: 2-2 | align_2: 3-8 | entity: A'ad - 阿德 中 |    And in A'ad when we sent the fatal wind against them . ||| 和 在 阿德 中 [注 1 ] ， 当时 我 把 灾风 [注 2 ] 差 至 他们 。 
+
+FFXV FFXV | w_freq: 3 - 3 | wiki_freq: 4 - 3 | sentence_idx: 696708 | align_1: 11-13 | align_2: 12-18 | entity: FFXV - none |    “ I can not talk about the details , but like FFXV , I will create a game based on a new world drawn with high quality , high end . ||| “ 我 不 能 谈论 细节   ， 但 就 像 《 FFXV 》 一样   ， 我 将 创造 一 款 基于 全新 世界 的 高 质量 高端 游戏   。 
+
+DXM DXM | w_freq: 1 - 1 | wiki_freq: 68 - 5 | sentence_idx: 721226 | align_1: 4-3 | align_2: 5-11 | entity: DXM - none |    " My experience with DXM : I started peeing blood . ||| 「 我 使用 DXM （ 右 美 沙芬 ） 的 经验 ： 我 开始 有 血尿 。 
+
+LIE 犹有甚者 | w_freq: 54 - 2 | wiki_freq: 129 - 0 | sentence_idx: 730486 | align_1: 2-0 | align_2: 3-6 | entity: LIE - none |    Then BOLDLY LIE and deny saying anything of the sort . ||| 犹有甚者 ， 过去 或许 遭到 否认 ， 因而 不得不 提到 否认 这 回 事 。 
+
+ENIAC ENIAC | w_freq: 4 - 5 | wiki_freq: 664 - 137 | sentence_idx: 737604 | align_1: 8-11 | align_2: 9-16 | entity: ENIAC Girls - “ ENIAC 女团 |    The most representative of these is the “ ENIAC Girls ” mentioned earlier . ||| 其中 最 具 代表性 的 是 前文 所 提到 的 “ ENIAC 女团 ” （ ENIAC Girls ） 。 
+
+LIE 撒谎 | w_freq: 54 - 901 | wiki_freq: 129 - 461 | sentence_idx: 740688 | align_1: 2-4 | align_2: 3-10 | entity: LIE - none |    Then BOLDLY LIE and deny saying anything of the sort . ||| 认为 说 假话 就是 撒谎 ， 人 要 讲 诚信 ， 不 能 撒谎 。 
+
+JOE 乔·科克尔 | w_freq: 3 - 3 | wiki_freq: 114 - 18 | sentence_idx: 746896 | align_1: 0-0 | align_2: 1-7 | entity: JOE - 乔·科克尔 |    JOE COCKER Mad Dog with Soul ||| 乔·科克尔 ： 灵魂 疯狗 原名 : Joe Cocker : Mad Dog with Soul 
+
+O.W.L.s 盎司 | w_freq: 3 - 45 | wiki_freq: 6 - 733 | sentence_idx: 748975 | align_1: 5-6 | align_2: 6-10 | entity: O.W.L.s - none |    “ Maybe he got thirty O.W.L.s or saved a teacher from the giant squid . ||| “ 也许 他 得到 了 三十 盎司   ， 或 救 了 一个 老师 从 巨型 鱿鱼  。 
+
+Alleluia 伊甸园 | w_freq: 2 - 29 | wiki_freq: 635 - 345 | sentence_idx: 758668 | align_1: 8-11 | align_2: 9-17 | entity: Alleluia - 伊甸园 |    Yet He loves the earth He leaves , Alleluia ! ||| 神 显然 喜欢 陆地 ， 因为 祂 在 地上 造 了 伊甸园 （ Garden of Eden ） 。 
+
+NAMBLA NAMBLA | w_freq: 1 - 1 | wiki_freq: 186 - 62 | sentence_idx: 781612 | align_1: 9-14 | align_2: 10-18 | entity: NAMBLA - none |    There is a whole section of Financial Tyranny about NAMBLA to help prepare you for this type of an announcement -- if it does indeed occur . ||| 在 《 金融 暴政 》 里 有 一 整 章 都 是 讲 关于 NAMBLA 的 东西 ， 以 帮助 你 为 这 类 宣布 而 做 准备 —— 如果 它 真的 发生 。 
+
+RPG.net rpg.net | w_freq: 1 - 1 | wiki_freq: 11 - 0 | sentence_idx: 798507 | align_1: 5-4 | align_2: 6-9 | entity: RPG.net - none |    You can still post on RPG.net even if you do in fact support the administration — you just ca n't talk about it here . ||| 你 仍然 可以 在 rpg.net 上 发表 文章 ， 即使 你 确实 支持 管理 —— 你 不 能 在 这里 谈论 它 。 
+
+Indian-Americans 印度裔 | w_freq: 1 - 3 | wiki_freq: 70 - 432 | sentence_idx: 812509 | align_1: 19-21 | align_2: 20-26 | entity: Indian-Americans - 印度裔 |    My dad and mom told my brother and me that we came to America to be Americans — not Indian-Americans . ||| 我 的 父亲 和 母亲 对 我 哥哥 和 我 说 ， 我们 来 美国 是 为了 当 美国人 ， 不是 印度裔 美国人 ， 就是 美国人 。 
+
+Veloce Veloce | w_freq: 2 - 2 | wiki_freq: 366 - 2 | sentence_idx: 813998 | align_1: 13-11 | align_2: 14-15 | entity: Veloce - none |    Spending money for something you believe is a 1960 Alfa Romeo Giulietta Spider Veloce only to learn that it is a fake can be a very costly mistake . ||| 花钱 买 一些 您 认为 是 1960 Alfa Romeo Giulietta Spider Veloce 的 东西 ， 只是 要 知道 这是 假货 可能 是 一个 非常 昂贵 的 错误 。 
+
+Alaskans 阿拉斯加人 | w_freq: 3 - 3 | wiki_freq: 602 - 15 | sentence_idx: 820568 | align_1: 7-5 | align_2: 8-10 | entity: Alaskans - 阿拉斯加人 |    This week I have talked to many Alaskans to determine whether I or Mark Begich had a better chance of running a competitive race against Mike Dunleavy . ||| “ 本周 我 与 许多 阿拉斯加人 进行 了 交谈 ， 以 确定 我 或 Mark Begich 是否 有 更 好的 机会 参加 与 Mike Dunleavy 的 竞争 。 
+
+Abu-Bakr 福安 | w_freq: 3 - 15 | wiki_freq: 71 - 609 | sentence_idx: 822176 | align_1: 5-7 | align_2: 6-14 | entity: Abu-Bakr - none |    However , the prophet told Abu-Bakr “ Grieve not ; surely Allah is with us . ” ||| ” 但是 真主 的 使者 （ 祈主 福安 之 ） 安静 地 说 ： ” 不要 忧愁 ， 真 主确 是 与 我们 同 在 的 。 
+
+Abu-Bakr 福安 | w_freq: 3 - 15 | wiki_freq: 71 - 609 | sentence_idx: 822177 | align_1: 5-7 | align_2: 6-14 | entity: Abu-Bakr - none |    However , the prophet told Abu-Bakr “ Grieve not ; surely Allah is with us . ” ||| ” 但是 真主 的 使者 （ 祈主 福安 之 ） 安静 地 说 ： “ 不要 忧愁 ， 真 主确 是 与 我们 同 在 的 。 
+
+Soroush Soroush | w_freq: 2 - 2 | wiki_freq: 227 - 0 | sentence_idx: 830959 | align_1: 4-5 | align_2: 5-9 | entity: Abdolkarim Soroush - none |    According to philosopher Abdolkarim Soroush , this distinction between religious beliefs and civil rights should be obvious . ||| 据 哲学家 索罗什 （ Abdolkarim Soroush ） 的 观点 ， 宗教 信仰 与 公民 权利 的 这 一 区别 应该 是 显而易见 的 。 
+
+Marcal 马卡 | w_freq: 5 - 6 | wiki_freq: 62 - 136 | sentence_idx: 837039 | align_1: 16-14 | align_2: 17-20 | entity: Marcal - 马卡 |    Our top priority in the coming days and weeks will be to support our associates at Marcal whose lives will be directly impacted by this disaster . ||| 我们 未来 几 天 和 几周 的 首要 任务 将 是 支持 我们 在 马卡 的 同事   ， 他们 的 生活 将 直接 受到 这 场 灾难 的 影响   。 
+
+Marcal 马卡 | w_freq: 5 - 6 | wiki_freq: 62 - 136 | sentence_idx: 837040 | align_1: 16-14 | align_2: 17-21 | entity: Marcal - 马卡 |    Our top priority in the coming days and weeks will be to support our associates at Marcal whose lives will be directly impacted by this disaster . ||| 我们 未来 几 天 和 几周 的 首要 任务 将 是 支持 我们 在 马卡 的 同事    ， 他们 的 生活 将 直接 受到 这 场 灾难 的 影响   。 
+
+Marcal 马卡 | w_freq: 5 - 6 | wiki_freq: 62 - 136 | sentence_idx: 837041 | align_1: 16-14 | align_2: 17-19 | entity: Marcal - 马卡 |    Our top priority in the coming days and weeks will be to support our associates at Marcal whose lives will be directly impacted by this disaster . ||| 我们 未来 几 天 和 几周 的 首要 任务 将 是 支持 我们 在 马卡 的 同事  ， 他们 的 生活 将 直接 受到 这 场 灾难 的 影响   。 
+
+AO3 AO3 | w_freq: 2 - 3 | wiki_freq: 24 - 68 | sentence_idx: 845713 | align_1: 9-7 | align_2: 10-12 | entity: AO3 - Archive Of Our Own – AO3 （ AO3 作品 库 ） |    It works with the Archive of Our Own ( AO3 ) to protect your old favorites from other places around the web . ||| 它 与 Archive Of Our Own – AO3 （ AO3 作品 库 ） 合作 ， 保护 您 在 整个 网路 上 其他 地方 所 喜爱 的 同人 作品 。 
+
+Moïse 哈哈 | w_freq: 1 - 147 | wiki_freq: 932 - 166 | sentence_idx: 846187 | align_1: 0-1 | align_2: 1-6 | entity: Moïse - none |    Moïse has denied any wrongdoing . ||| “ 哈哈 ， 阿穆希 ， 教义 是 用来 骗人 的 。 
+
+Shallows Shallows | w_freq: 1 - 1 | wiki_freq: 152 - 2 | sentence_idx: 876797 | align_1: 6-7 | align_2: 7-15 | entity: Shallows - The Shallows |    As Nicholas Carr explains in The Shallows : ||| 就 像 Nicholas Carr 在 《 The Shallows 》 一 书 中 解释 的 那样 ： 
+
+Zahavi Zahavi | w_freq: 3 - 1 | wiki_freq: 352 - 4 | sentence_idx: 877296 | align_1: 2-1 | align_2: 3-5 | entity: Zahavi - none |    According to Zahavi costly signals are harder to fake and are therefore , more believable . ||| 根据 Zahavi 的 说法 ， 昂贵 的 信号 更 难 伪造 ， 因此 更 可信 。 
+
+Qur’an 可兰经 | w_freq: 273 - 3 | wiki_freq: 541 - 62 | sentence_idx: 880199 | align_1: 7-4 | align_2: 8-11 | entity: Qur’an - 可兰经 |    Muslims have also be warned in the Qur’an that fitna is worse than murder . ||| 爱莎 也 引述 《 可兰经 》 的 一 句 经文 表示 ， 在 伊斯兰教 ， 诬蔑 比起 杀人 更 恶劣 。 
+
+Apalachee 阿帕拉契 | w_freq: 3 - 3 | wiki_freq: 819 - 146 | sentence_idx: 898746 | align_1: 9-15 | align_2: 10-19 | entity: Apalachee - 阿帕拉契 |    Keep on robbers and traitors : in Acuera and Apalachee we will treat you as you deserve . ||| ... 继续    ， 强盗 和 叛徒   ： 在 阿奎拉 和 阿帕拉契   ， 我们 将 按照 你 应得 的 对待 你   。 
+
+Kufah 公之于众 | w_freq: 1 - 23 | wiki_freq: 41 - 191 | sentence_idx: 901412 | align_1: 8-7 | align_2: 9-13 | entity: Kufah - none |    I fear he has commenced his journey towards Kufah . " ||| 怕 我 将 她 的 此番 行径 公之于众 ， 于是 ， 她 先下手为强 。 
+
+Ricardel 卡德尔 | w_freq: 1 - 1 | wiki_freq: 53 - 35 | sentence_idx: 904978 | align_1: 1-7 | align_2: 2-19 | entity: Ricardel - 卡德尔 |    " Ricardel no longer deserves the honor of serving in this White House . " ||| 以 十分 强硬 的 语气 说道 ， 卡德尔 “ 已 配 不 上 为 白宫 服务 的 殊荣 （ no longer deserves the honor of serving in this White House ） ” 。 
+
+Marium 弥赛亚 | w_freq: 17 - 96 | wiki_freq: 87 - 648 | sentence_idx: 905601 | align_1: 16-12 | align_2: 17-18 | entity: Marium - 弥赛亚 |    ' Who then can do anything against Allah if He desires to destroy Messiah son of Marium and his mother and ||| 谁 能够 做 任何 事情 反对 安拉 ， 如果 他 想要 消灭 弥赛亚 ， 马利亚 的 儿子 ， 和 他 的 母亲 ， 和 任何 地上 的 人 ？ 」 （ 苏拉．阿尔．麦达 特 １７ ） 
+
+Claimant 被告间 | w_freq: 1 - 1 | wiki_freq: 296 - 2 | sentence_idx: 915019 | align_1: 7-2 | align_2: 8-10 | entity: Claimant - none |    Disputes arose between the Defendant and the Claimant . ||| 原告 与 被告间 ， 究竟 有着 怎样 的 爱恨 恩怨 ? 
+
+Moed Moed | w_freq: 1 - 1 | wiki_freq: 167 - 0 | sentence_idx: 917612 | align_1: 14-13 | align_2: 15-19 | entity: Moed - none |    14:31 were regarded as suggesting that these prohibitions applied only to priests ; ( Moed . ||| 14:31 被 视为 表明 ， 这些 禁令 只 适用 于 牧师 ; （ Moed . K 5A型 ） Ezek 。 
+
+Marium 弥赛亚 | w_freq: 17 - 96 | wiki_freq: 87 - 648 | sentence_idx: 936983 | align_1: 16-12 | align_2: 17-18 | entity: Marium - 弥赛亚 |    ' Who then can do anything against Allah if He desires to destroy Messiah son of Marium and his mother and ||| 谁 能够 做 任何 事情 反对 安拉 ， 如果 他 想要 消灭 弥赛亚 ， 马利亚 的 儿子 ， 和 他 的 母亲 ， 和 任何 地上 的 人 ？ 」 （ 苏拉．阿尔．麦达 特 １７ ） 
+
+YORK YORK | w_freq: 40 - 14 | wiki_freq: 199 - 16 | sentence_idx: 944203 | align_1: 1-2 | align_2: 2-6 | entity: NEW YORK - none |    NEW YORK — Maybe the middle child really should be the favorite . ||| N EW YORK （ 美联社 ） - 也许 中间 孩子 真的 应该 是 最 喜欢 的 。 
+
+Eastasia Eastasia | w_freq: 2 - 2 | wiki_freq: 39 - 0 | sentence_idx: 961397 | align_1: 6-7 | align_2: 7-14 | entity: Eastasia - none |    Hence if for instance Eurasia or Eastasia is the enemy today , then that country must always have been the enemy . ||| 如果 , 例如 , 欧亚 大陆 或 Eastasia ( 无论 它 可能 ) 今天 是 敌人 , 那么 那个 国家 必须 一直 都 是 敌人 。 
+
+EB-5 EB-5 | w_freq: 89 - 82 | wiki_freq: 322 - 12 | sentence_idx: 962794 | align_1: 9-11 | align_2: 10-15 | entity: EB-5 - none |    We welcome all qualified investors to Live In America EB-5 and look forward to the opportunity to assist you . ||| 我们 欢迎 所有 符合 条件 的 投资人 投资 Live In America EB-5 的 项目 ， 并 期待 可以 服务 您 的 机会 。 
+
+NFLPA CXA | w_freq: 5 - 2 | wiki_freq: 734 - 1 | sentence_idx: 974687 | align_1: 1-0 | align_2: 2-5 | entity: NFLPA - none |    The NFLPA ( ||| CXA : 厦门 航空 公司 （ 
+
+Sproul R·C·斯布罗（R·C·Sproul | w_freq: 1 - 1 | wiki_freq: 840 - 0 | sentence_idx: 978353 | align_1: 0-0 | align_2: 1-7 | entity: Sproul - R·C·斯布罗（R·C·Sproul |    Sproul says , " We need an Augustine or a Luther to speak to us anew lest the light of God 's grace be not only overshadowed but be obliterated in our time . " ||| R·C·斯布罗（R·C·Sproul ） 说 得 对 ， 他 说 ： “ 我们 需要 一个 奥古斯丁 或 路德 来 重新 教导 我们 ， 免得 上帝 的 恩典 之 光 在 我们 这个 时代 不仅 被 遮蔽 ， 甚至 被 消没 。 
+
+Brejcha Brejcha | w_freq: 1 - 1 | wiki_freq: 21 - 0 | sentence_idx: 982008 | align_1: 2-1 | align_2: 3-5 | entity: Brejcha - none |    According to Brejcha people will be able to buy the tomatoes in ordinary shops . ||| 根据 Brejcha 的 说法 ， 人们 可以 在 普通 商店 购买 这些 番茄 。 
+
+Hottie Hottie | w_freq: 1 - 1 | wiki_freq: 155 - 2 | sentence_idx: 990658 | align_1: 22-24 | align_2: 23-33 | entity: Hottie - none |    Very soon after at 2:16 , he says , “ Have any of you enjoyed this special pizza here tonight called the Hottie ? … If you have n’t had it , you should try it , it ’s delicious . ” ||| 之后 不久 ， 在 2:16 ， 他 说 ： “ 你们 有 没有 人 享受 过 今晚 这里 的 这个 特别 的 披萨 叫 Hottie （ 字面 上 是 辣妹 的 意思 ） ？ …… 如果 你 还 没有 ， 你 应该 试 一下 ， 它 很 美味 。 
+

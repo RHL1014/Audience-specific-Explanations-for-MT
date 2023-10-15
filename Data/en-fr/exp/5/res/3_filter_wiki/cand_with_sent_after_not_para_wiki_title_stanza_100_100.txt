@@ -1,0 +1,30 @@
+IFEA IFEA | w_freq: 1 - 1 | wiki_freq: 24 - 55 | sentence_idx: 26003 | align_1: 16-19 | align_2: 17-23 | entity: IFEA - IFEA |    Inaccuracies and technical errors of the so-called “ experts ” prove that no specialist of the IFEA really addressed the issue . ||| Les imprécisions et les erreurs techniques des soi - disant « experts » prouvent qu’ aucun spécialiste de l’ IFEA ne s’ est réellement penché sur le dossier . 
+
+KIK KiK | w_freq: 1 - 1 | wiki_freq: 81 - 2 | sentence_idx: 35763 | align_1: 15-20 | align_2: 16-24 | entity: KIK - KiK |    We can not build a sustainable supply chain in the garment industry if companies like KIK do not commit . ||| Nous ne pouvons pas construire une chaîne d’ approvisionnement durable dans l’ industrie de la confection si des entreprises comme KiK ne s’ y engagent pas . 
+
+An-148 An-148 | w_freq: 1 - 1 | wiki_freq: 75 - 12 | sentence_idx: 63147 | align_1: 5-6 | align_2: 6-10 | entity: An-148 - An-148 |    It is worth noting that An-148 is not a modification of An-74 , but an entirely new passenger aircraft . ||| Il convient de noter que le An-148 - ce n' est pas une modification de l' An-74 , et un avion de passagers complètement nouveau . 
+
+Achor Acor | w_freq: 3 - 3 | wiki_freq: 96 - 5 | sentence_idx: 99547 | align_1: 12-15 | align_2: 13-19 | entity: Achor - Acor |    Therefore the name of that place has been called the valley of Achor to this day . " ||| C’ est pourquoi on a appelé le nom de ce lieu - làla vallée d’ Acor * , jusqu’ à ce jour . 
+
+ICOR ICOR | w_freq: 7 - 7 | wiki_freq: 65 - 38 | sentence_idx: 202402 | align_1: 15-16 | align_2: 16-21 | entity: ICOR - ICOR |    That is why spreading the truth about the EU is a worldwide important task of ICOR . ||| Pour cette raison , diffuser la vérité sur l’ UE est une tâche importante de l’ ICOR à l’ échelle mondiale . 
+
+BIEN BIEN | w_freq: 1 - 7 | wiki_freq: 44 - 61 | sentence_idx: 233608 | align_1: 9-12 | align_2: 10-22 | entity: BIEN - BIEN |    That is what also Basic Income Earth Network ( BIEN ) Finland would like to see . ||| C’ est aussi ce que souhaiterait le Basic Income Earth Network ( BIEN , le Réseau mondial pour le revenu de base ) en Finlande . 
+
+Avrocar Avrocar | w_freq: 2 - 2 | wiki_freq: 80 - 11 | sentence_idx: 353038 | align_1: 1-1 | align_2: 2-5 | entity: Avrocar - Avrocar |    The Avrocar never got more than three feet off the ground , suffered all kinds of instability problems and such . ||| L’ Avrocar ne s’ est jamais élevé à plus de trois pieds du sol , a connu toutes sortes de problèmes d’ instabilité et ainsi de suite . 
+
+BREF BREF | w_freq: 1 - 4 | wiki_freq: 11 - 9 | sentence_idx: 420407 | align_1: 10-8 | align_2: 11-15 | entity: BREF - BREF |    In order to focus and accelerate the review of the BREF , the comments submitted on the first draft ( or on a first and second draft , see Section 1.2.4 ) will be divided into two groups : ||| Afin de se concentrer sur la révision du BREF et d’ en accélérer le déroulement , les observations fournies concernant le premier projet ( ou le premier et le deuxième projet , voir la section 1.2.4 ) seront divisées en deux groupes : 
+
+Mesiti Mesiti | w_freq: 1 - 1 | wiki_freq: 22 - 3 | sentence_idx: 501416 | align_1: 1-1 | align_2: 2-8 | entity: Angelica Mesiti - Angelica Mesiti |    Angelica Mesiti for several years has been developing research into non-verbal communication . ||| Angelica Mesiti , quant à elle , développe depuis plusieurs années une recherche sur la communication non-verbale . 
+
+KWPA KPWA | w_freq: 1 - 1 | wiki_freq: 13 - 0 | sentence_idx: 631865 | align_1: 8-8 | align_2: 9-13 | entity: KWPA - KPWA |    Like their African sisters , the women of KWPA strategically oppose these actions through the Via Campesina . ||| Comme leurs sœurs africaines , les femmes de KPWA s’ opposent de manière stratégique à ces actions à travers La Via Campesina . 
+
+Aadam Âdam | w_freq: 1 - 1 | wiki_freq: 36 - 2 | sentence_idx: 676727 | align_1: 3-6 | align_2: 4-12 | entity: Aadam - Âdam |    Whenever Allaah created Aadam , He made him and his wife live in Paradise . ||| Chaque fois qu' Allâh a créé Âdam ( ' Alayhi Salâm ) , Il l' a fait et sa femme résident dans le Paradis . 
+
+Cision Cision | w_freq: 2 - 2 | wiki_freq: 86 - 12 | sentence_idx: 775490 | align_1: 2-2 | align_2: 3-6 | entity: Cision - Q : Cision |    Q : Cision bought Bulletin Intelligence last year . ||| Q : Cision a fait l’ acquisition de Bulletin Intelligence l’ an dernier . 
+
+Cerretti Cerretti | w_freq: 1 - 1 | wiki_freq: 42 - 13 | sentence_idx: 816639 | align_1: 9-7 | align_2: 10-12 | entity: Cerretti - Monsignor Cerretti |    That same day , in the morning , Monsignor Cerretti surprised us with a good visit . ||| Ce même jour le matin , Monsignor Cerretti m’ a fait la surprise d’ une bonne visite . 
+
+Morija Morija | w_freq: 3 - 3 | wiki_freq: 52 - 19 | sentence_idx: 817852 | align_1: 8-11 | align_2: 9-16 | entity: Morija - Morija |    In December 2013 we hold another ceremony with Morija where we handed over a cheque of 20’000 dollars . ||| En décembre 2013 , nous avons organisé une autre cérémonie avec Morija , au cours de laquelle nous leur avons remis un chèque de 20 000 dollars . 
+
+NVSH NVSH | w_freq: 1 - 1 | wiki_freq: 13 - 17 | sentence_idx: 907066 | align_1: 18-21 | align_2: 19-27 | entity: NVSH - NVSH |    We have used the self-help method for many years in some of the Dutch local workgroups of the NVSH ( not in all groups ; some of them do n’t offer much support at all ) . ||| Nous recourons à la méthode d' auto-assistance depuis de nombreuses années , dans quelques-uns des groupes de travail région de la NVSH , aux Pays - Bas ( pas dans tous les groupes ; certains n' offrent pas de soutien du tout ) . 
+

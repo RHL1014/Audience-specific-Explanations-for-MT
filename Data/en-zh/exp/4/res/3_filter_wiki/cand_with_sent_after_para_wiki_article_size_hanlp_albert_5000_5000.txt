@@ -1,0 +1,12 @@
+Nasdaq 纳斯达克 | w_freq: 30 - 45 | wiki_freq: 1734 - 506 | sentence_idx: 229589 | align_1: 17-15 | align_2: 18-20 | entity: Nasdaq - 纳斯达克 |    Tyler said that their main purpose of starting the cryptocurrency exchange was creating something like NYSE or Nasdaq but for the digital currency . ||| 泰勒 说 , 他们 开始 cryptocurrency 交换 的 主要 目的 是 创造 像 纽交所 或 纳斯达克 这样 的 东西 , 但 对于 数字 货币 。 
+
+Morena 莫雷纳 | w_freq: 4 - 2 | wiki_freq: 1986 - 22 | sentence_idx: 671737 | align_1: 26-19 | align_2: 27-23 | entity: Morena - 莫雷纳 |    In 2015 , sectors of the movement in the fight against neoliberal power and the structural reforms of the Pact for Mexico did not vote for Morena , but called for abstention or boycott , like the teachers . ||| 2015年 ， 打击 新 自由主义 势力 的 运动 和 墨西哥 公约 结构性 改革 的 部门 并 没有 投票 给 莫雷纳 （ Morena ） ， 而是 呼吁 像 教师们 一样 弃权 或 抵制 。 
+
+Skywalker 卢克·天行者 | w_freq: 6 - 3 | wiki_freq: 2146 - 41 | sentence_idx: 699039 | align_1: 9-6 | align_2: 10-11 | entity: Luke Skywalker - 卢克·天行者 |    My friends and I all wanted to be Luke Skywalker and defeat the Death Star and build C-3PO . ’ ||| 我 和 朋友 都 想 变成 卢克·天行者 （ luke skywalker ） ， 击败 死星 ， 制造 c-3po 。 
+
+Brazilians 巴西人 | w_freq: 61 - 72 | wiki_freq: 3654 - 291 | sentence_idx: 861834 | align_1: 11-8 | align_2: 12-12 | entity: Brazilians - 巴西人 |    The Japanese as well as French and the Egyptians and the Brazilians are as much our collaborators in the global economy as they are our rivalry . ||| 日本人 和 法国 人 、 埃及 人 与 巴西人 一样 ， 既 是 我们 的 竞争 对手 ， 又 是 我们 在 世界 经济 中 的 伙伴 。 
+
+Catan 卡坦岛 | w_freq: 4 - 2 | wiki_freq: 568 - 15 | sentence_idx: 912922 | align_1: 10-8 | align_2: 11-14 | entity: Catan - 卡坦岛 |    There ’s so many ways , like in Settlers of Catan , in these games that we actually get to know each other better . ||| 还有 许多 其他 的 方式 ， 比如 《 卡坦岛 》 这 类 的 游戏 ， 我们 其实 在 这些 游戏 中 才能 更加 了解 彼此 。 
+
+Bild 图片报 | w_freq: 10 - 3 | wiki_freq: 1114 - 70 | sentence_idx: 967303 | align_1: 19-15 | align_2: 20-19 | entity: Bild - 图片报 |    " 2019 is the year of the new start for the German national football team , " he told Bild . ||| “ 2019年 是 德国 国家 足球队 的 新 起点  ， ” 他 告诉 《 图片报 》   。 
+

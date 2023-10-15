@@ -1,0 +1,30 @@
+Israelites 以色列人 | w_freq: 980 - 1628 | wiki_freq: 6428 - 1452 | sentence_idx: 463 | align_1: 14-10 | align_2: 15-17 | entity: Israelites - 以色列人 |    That he would accomplish the task and fulfill what he had destined for the Israelites . ||| 又 要 看守 会幕 的 器具 ， 并 守所 吩咐 以色列人 的 ， 办理 帐幕 的 事 。 
+
+Israelites 以色列人 | w_freq: 980 - 1628 | wiki_freq: 6428 - 1452 | sentence_idx: 507 | align_1: 14-11 | align_2: 15-18 | entity: Israelites - 以色列人 |    That he would accomplish the task and fulfill what he had destined for the Israelites . ||| 「 又 要 看守 会幕 的 器具 ， 并 守所 吩咐 以色列人 的 ， 办理 帐幕 的 事 。 
+
+Israelites 以色列人 | w_freq: 980 - 1628 | wiki_freq: 6428 - 1452 | sentence_idx: 537 | align_1: 14-10 | align_2: 15-17 | entity: Israelites - 以色列人 |    That he would accomplish the task and fulfill what he had destined for the Israelites . ||| 又 要 看守 会幕 的 器具 ， 并 守所 吩咐 以色列人 的 ， 办理 帐幕 的 事 。 
+
+Israelites 以色列人 | w_freq: 980 - 1628 | wiki_freq: 6428 - 1452 | sentence_idx: 653 | align_1: 14-10 | align_2: 15-17 | entity: Israelites - 以色列人 |    That he would accomplish the task and fulfill what he had destined for the Israelites . ||| 又 要 看守 会幕 的 器具 ， 并 守所 吩咐 以色列人 的 ， 办理 帐幕 的 事 。 
+
+Israelites 以色列人 | w_freq: 980 - 1628 | wiki_freq: 6428 - 1452 | sentence_idx: 92296 | align_1: 3-2 | align_2: 4-7 | entity: Israelites - 以色列人 |    He told the Israelites they had sinned against the LORD . ||| 又 说 以色列人 悖 逆主 ， 使 他 的 圣灵 担忧 。 
+
+Werbach 韦尔巴赫 | w_freq: 1 - 1 | wiki_freq: 100 - 2 | sentence_idx: 377483 | align_1: 3-1 | align_2: 4-6 | entity: Werbach - 韦尔巴赫 |    According to Professor Werbach these issues of trust will take many years to be resolved . ||| 根据 韦尔巴赫 教授 的 说法 ， 这些 信任 问题 需要 很多 年 才能 得到 解决 。 
+
+Israelites 以色列人 | w_freq: 980 - 1628 | wiki_freq: 6428 - 1452 | sentence_idx: 453588 | align_1: 16-19 | align_2: 17-24 | entity: Israelites - 以色列人 |    Yet , Balaam was blinded by greed and impatient to reap his reward in cursing the Israelites . ||| [ 办理 ] 帐幕 的 事 ， 又 要 看守 会幕 的 器具 ， 并 [守 ] 所 吩咐 以色列人 的 ， [ 办理 ] 
+
+Parkinson 帕金森 | w_freq: 50 - 27 | wiki_freq: 13003 - 163 | sentence_idx: 486830 | align_1: 0-0 | align_2: 1-14 | entity: Parkinson - 帕金森 |    Parkinson 's Law , and Other Studies in Administration ||| 帕金森 法则 ： 管理课 上 教 不 到 的 人性 工作 学 Parkinson ’ s Law and Other Studies in Administration 
+
+Starbucks 星巴克 | w_freq: 107 - 105 | wiki_freq: 3880 - 653 | sentence_idx: 493753 | align_1: 15-10 | align_2: 16-14 | entity: Starbucks - 星巴克 |    People went and go to Starbucks , because they trust that when they go to Starbucks they ’re going to have a certain experience and get a certain quality coffee . ||| 人们 去 星巴克 ， 因为 他们 相信 当 他们 去 星巴克 的 时候 ， 他们 会 有 一定 的 经验 ， 得到 一定 质量 的 咖啡 。 
+
+Jijiga 吉吉加 | w_freq: 1 - 1 | wiki_freq: 217 - 5 | sentence_idx: 543741 | align_1: 4-2 | align_2: 5-7 | entity: Jijiga - 吉吉加 |    On the flight to Jijiga I suddenly realised that everyone around me was speaking Somali . ||| 在 飞往 吉吉加 的 航班 上 ， 我 突然 意识 到 我 周围 的 每个 人 都 在 说 索马里 。 
+
+Israelites 以色列人 | w_freq: 980 - 1628 | wiki_freq: 6428 - 1452 | sentence_idx: 602822 | align_1: 5-5 | align_2: 6-12 | entity: Israelites - 以色列人 |    You have indeed saved the Israelites from punishment by the Lord . ” ||| 因此 ， 你们 救 了 以色列人 ， 使 他们 不至 受 上主 的 惩罚 。 
+
+Parkinson 帕金森 | w_freq: 50 - 27 | wiki_freq: 13003 - 163 | sentence_idx: 640292 | align_1: 0-0 | align_2: 1-14 | entity: Parkinson - 帕金森 |    Parkinson 's Law and Other Studies in Administration ||| 帕金森 法则 ： 管理课 上 教 不 到 的 人性 工作 学 Parkinson ’ s Law and Other Studies in Administration 
+
+Parkinson 帕金森 | w_freq: 50 - 27 | wiki_freq: 13003 - 163 | sentence_idx: 924209 | align_1: 0-0 | align_2: 1-14 | entity: Parkinson - 帕金森 |    Parkinson 's law , and other studies in administration ||| 帕金森 法则 ： 管理课 上 教 不 到 的 人性 工作 学 Parkinson ’ s Law and Other Studies in Administration 
+
+Eritrea 厄立特里亚 | w_freq: 40 - 49 | wiki_freq: 9179 - 941 | sentence_idx: 926122 | align_1: 13-15 | align_2: 14-19 | entity: Eritrea - 厄立特里亚 |    For many people , these two countries are distant and unfamiliar , especially Eritrea . ||| 对 很多 人 来说 ， 这 两 个 国家 遥远 而 陌生 ， 尤其 是 厄立特里亚 ， 几乎 闻所未闻 。 
+
+Lear 李尔王 | w_freq: 8 - 1 | wiki_freq: 6518 - 109 | sentence_idx: 927877 | align_1: 21-26 | align_2: 22-31 | entity: King Lear - 李尔王 |    Yes , but if it were not for some lives , penicillin would not have been discovered so soon and King Lear would never have been written . ||| 是 ， 但 如果 不是 因为 某些 （ 人 的 ） 生活 的话 ， 那么 青霉素 就 不 会 这么 早 被 发现 ， 而 《 李尔王 》 也 永远 不 会 被 写 出来 了 。 
+

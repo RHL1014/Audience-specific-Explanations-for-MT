@@ -1,0 +1,26 @@
+Israelites 以色列人 | w_freq: 374 - 796 | wiki_freq: 6428 - 1452 | sentence_idx: 30046 | align_1: 1-2 | align_2: 2-9 | entity: Israelites - 以色列人 |    The Israelites enter the promised land . ||| 旧约 的 以色列人 ， 承受 应许 之 地 ， 进入 迦南 地 。 
+
+Israelites 以色列人 | w_freq: 374 - 796 | wiki_freq: 6428 - 1452 | sentence_idx: 36592 | align_1: 12-6 | align_2: 13-10 | entity: Israelites - 以色列人 |    God had appointed judgement for the idolatry of Canaan , and the Israelites were his appointed instruments for carrying out that judgement . ||| 神以 绝对 的 主权 拣选 了 以色列人 ， 称 他们 为 自己 的 子民 ， 幷 与 他们 立约 。 
+
+Aalto 阿尔托 | w_freq: 4 - 2 | wiki_freq: 2134 - 159 | sentence_idx: 74439 | align_1: 1-1 | align_2: 2-6 | entity: Aalto - 阿尔托 |    At Aalto we make two wines : ||| 在 阿尔托 （ AALTO ） ， 我们 酿造 两 种 葡萄酒 ： 
+
+Israelites 以色列人 | w_freq: 374 - 796 | wiki_freq: 6428 - 1452 | sentence_idx: 184333 | align_1: 4-0 | align_2: 5-5 | entity: Israelites - 以色列人 |    This is what the Israelites were commanded as they anticipate entering the promised land . ||| 以色列人 在 旧约 时代 ， 得到 无条件 的 应许 ( 约 ) ， 这些 应许 都 要 在 千禧年 国度 中 实现 。 
+
+Kiribati 基里巴斯 | w_freq: 14 - 13 | wiki_freq: 3668 - 472 | sentence_idx: 302986 | align_1: 19-16 | align_2: 20-21 | entity: Kiribati - 基里巴斯 |    As a result of this , around 1,500 residents left the island in 2006 to return to Tuvalu and Kiribati as part of a repatriation program of immigrant workers . ||| 因此    ， 2006年 约 有 1,500 名 居民 离开 该岛 返回 图瓦卢 和 基里巴斯    ， 作为 移民 工人 遣返 计划    的 一部分    。 
+
+Ukrainians 乌克兰人 | w_freq: 56 - 49 | wiki_freq: 7153 - 871 | sentence_idx: 321971 | align_1: 15-13 | align_2: 16-22 | entity: Ukrainians - 乌克兰人 |    Not just the 73 percent who voted for me , but all 100 percent of Ukrainians . ||| 不是 那 73% 给 我 投票 的 人   ， 而是 100% 乌克兰人   ， 都 是 总统   。 
+
+Nussbaum 玛莎·努斯鲍姆 | w_freq: 5 - 1 | wiki_freq: 1290 - 9 | sentence_idx: 337479 | align_1: 3-2 | align_2: 4-16 | entity: Martha Nussbaum - 玛莎·努斯鲍姆 |    ( See Martha Nussbaum , From Disgust to Humanity : Sexual Orientation and Constitutional Law ) . ||| （ 详见 玛莎·努斯鲍姆 所 著 《 从 厌恶 到 人性 ： 性 倾向 与 宪法 》 ， From Disgust to Humanity : Sexual Orientation and Constitutional Law ） 。 
+
+Kimberley 金伯利 | w_freq: 13 - 18 | wiki_freq: 8594 - 183 | sentence_idx: 510921 | align_1: 2-1 | align_2: 3-7 | entity: Kimberley - 金伯利 |    Before leaving Kimberley she sent telegrams to me and to Race . ||| 离开 金伯利 之前    ， 她 给 我 和 赛跑 都 发 了 电报   。 
+
+Marxism 马克思主义 | w_freq: 35 - 73 | wiki_freq: 6808 - 4738 | sentence_idx: 609202 | align_1: 2-1 | align_2: 3-6 | entity: Marxism - 马克思主义 |    Within historical Marxism only Maoism did understand the size of the challenge . ||| 在 马克思主义 的 传统 中 ， 只有 毛主义 理解 这 一 挑战 的 严重性 。 
+
+Buffett 沃伦·巴菲特 | w_freq: 113 - 8 | wiki_freq: 3208 - 49 | sentence_idx: 816066 | align_1: 4-4 | align_2: 5-8 | entity: Warren Buffett - 沃伦·巴菲特 |    He also said Warren Buffett and his first wife Susan once sang it to the couple . ||| 他 还 说 ， 沃伦·巴菲特 （ WarrenBuffett ） 和 他 第一 任 妻子 苏珊 还 曾 为 他们 夫妇 唱 过 这 首 歌 。 
+
+Gareth 加雷斯 | w_freq: 23 - 5 | wiki_freq: 7451 - 9 | sentence_idx: 831977 | align_1: 14-11 | align_2: 15-15 | entity: Gareth - 加雷斯 |    ' I 'm back to my old self and that 's what Ole and Gareth want to see . ||| “ 我 回到 了 过去 的 自己 ， 这是 奥立 和 加雷斯 ( 索斯盖特 ) 想要 看到 的 。 
+
+Israelites 以色列人 | w_freq: 374 - 796 | wiki_freq: 6428 - 1452 | sentence_idx: 925605 | align_1: 3-1 | align_2: 4-8 | entity: Israelites - 以色列人 |    He asks the Israelites why they are testing the Lord and why they are complaining against God . ||| 对于 以色列人 来说 ， 主 的 工作 是 什么 呢 ？主 的 工作 就是说 明神 的 国临 到 他们 。 
+
+Jehovah 耶和华 | w_freq: 84 - 753 | wiki_freq: 5053 - 2835 | sentence_idx: 927674 | align_1: 2-0 | align_2: 3-6 | entity: Jehovah - 耶和华 |    Help , Jehovah , for the godly man ceases ; for the faithful fail from among the sons of men . ||| 耶和华 啊 ， 求 你 帮助 ， 因 虔诚人 断绝 了 ； 世人 中间 的 忠信人 没有 了 。 
+

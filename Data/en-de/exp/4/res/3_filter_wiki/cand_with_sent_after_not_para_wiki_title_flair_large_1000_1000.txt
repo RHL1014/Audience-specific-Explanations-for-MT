@@ -1,0 +1,62 @@
+Joacim Joacim | w_freq: 1 - 1 | wiki_freq: 177 - 76 | sentence_idx: 58719 | align_1: 5-8 | align_2: 6-12 | entity: Joacim - Joacim |    “ It all started with Joacim suggesting we should try to write a song together with our long time producer James Michael . ||| " Es fing alles damit an , dass Joacim ( v. ) vorschlug , wir sollten mal versuchen , einen Song mit unserem langjährigen Produzenten James Michael zusammen zu schreiben . 
+
+ICEP ICEP | w_freq: 1 - 1 | wiki_freq: 10 - 16 | sentence_idx: 75557 | align_1: 2-2 | align_2: 3-7 | entity: ICEP - ICEP |    We created ICEP to do something useful and lasting for people in developing countries . ||| Wir haben ICEP ins Leben gerufen , um etwas Sinnvolles und Dauerhaftes für die Menschen in Entwicklungsländern zu leisten . 
+
+Goreans Online-Goreaner | w_freq: 8 - 1 | wiki_freq: 7 - 0 | sentence_idx: 131112 | align_1: 5-3 | align_2: 6-8 | entity: Goreans - none |    I have met many online Goreans unwilling to fully embrace this precept despite its importance to Gorean philosophy . ||| Ich habe viele Online-Goreaner getroffen , die nicht gewillt waren , diesen Grundsatz völlig zu akzeptieren , trotz seiner Wichtigkeit für die goreanische Philosophie . 
+
+Abolitionist Abolitionniste | w_freq: 4 - 1 | wiki_freq: 609 - 0 | sentence_idx: 134396 | align_1: 24-21 | align_2: 25-29 | entity: Initiative for the Resurgence of the Abolitionist Movement - Initiative pour la Résurgence du Mouvement Abolitionniste |    One of these human rights organizations we are in close contact with is the anti-slavery organization IRA ( Initiative for the Resurgence of the Abolitionist Movement ) . ||| Eine dieser Menschenrechtsorganisationen , mit denen wir eng zusammenarbeiten , ist die Anti-Sklaverei-Organisation IRA ( Initiative pour la Résurgence du Mouvement Abolitionniste , deutsch : Initiative zur Wiederbelebung der Abschaffungsbewegung ) . 
+
+Portugués Portuguéss | w_freq: 1 - 1 | wiki_freq: 283 - 0 | sentence_idx: 158298 | align_1: 13-11 | align_2: 14-16 | entity: Rio Portugués - Rio Portuguéss |    For security reasons , these families moved to the banks of the Rio Portugués , then called Baramaya . ||| Für Sicherheitsgründe bewegten sich diese Familien zu den Banken des Rio Portuguéss ( Rio Portugués ) , dann genannt Baramaya . 
+
+Khloe khloe | w_freq: 11 - 3 | wiki_freq: 137 - 0 | sentence_idx: 265294 | align_1: 3-3 | align_2: 4-8 | entity: Khloe - khloe |    Those closest to Khloe fear that her desire for a family will make her ultimately stay with Tristan . ||| Diejenigen , die khloe am nächsten sind , befürchten , dass ihr wunsch nach einer familie sie letztendlich dazu bringen wird , bei tristan zu bleiben . 
+
+NFPA NFPA | w_freq: 2 - 2 | wiki_freq: 619 - 37 | sentence_idx: 346488 | align_1: 12-14 | align_2: 13-19 | entity: NFPA 1901 - NFPA |    As a result of this experience we also offer the assurance of NFPA 1901 compliance when and where this additional level of performance is required . ||| Als Ergebnis dieser Erfahrung bieten wir Ihnen auch die Zusicherung für die Einhaltung des NFPA ( Amerikanischer Brandschutzverband ) 1901 , wann und wo immer ein solches zusätzliches Leistungsniveau erforderlich ist . 
+
+Chaldeans Chaldeans | w_freq: 4 - 1 | wiki_freq: 745 - 1 | sentence_idx: 386976 | align_1: 9-15 | align_2: 10-20 | entity: Chaldeans - none |    Since the Iraq War many Christians ( Assyrians and Chaldeans ) from Iraq have settled permanently or temporarily in Jordan . ||| Krieg von Since the Iraq ( Krieg von Irak ) viele Christen ( Assyrians / Chaldeans ( Assyrische Leute ) ) vom Irak ( Der Irak ) hat sich dauerhaft oder provisorisch im Jordan niedergelassen . 
+
+Dianna Dianna | w_freq: 4 - 4 | wiki_freq: 606 - 48 | sentence_idx: 396857 | align_1: 3-2 | align_2: 4-6 | entity: Dianna - Dianna |    I would cast Dianna as Cinderella , because Dianna ’s beautiful . ||| Ich würde Dianna [ Agron ] als Cinderella casten , weil Dianna schön ist . 
+
+Chagai-II Chagai-II | w_freq: 1 - 1 | wiki_freq: 62 - 3 | sentence_idx: 431288 | align_1: 6-5 | align_2: 7-10 | entity: Chagai-II - Chagai-II |    The second nuclear test — Codename Chagai-II — was conducted and supervised by the Pakistan Atomic Energy Commission ( PAEC ) in May 30 , 1998 . ||| Der zweite Kerntest - Codename Chagai-II ( Chagai-I ich ) - wurde geführt und von der Atomenergie-Kommission von Pakistan ( Atomenergie-Kommission von Pakistan ) ( PAEC ) im Mai 30 , 1998 beaufsichtigt . 
+
+DAESH DAESH | w_freq: 3 - 2 | wiki_freq: 10 - 1 | sentence_idx: 442170 | align_1: 12-13 | align_2: 13-18 | entity: DAESH - DAESH |    We strongly condemn treating a terrorist organization as a partner in fighting DAESH . ||| Dabei verurteilen wir die Behandlung einer Terrororganisation als einen Partner im Kampf gegen DAESH , auf das Schärfste . 
+
+PS5 PS5 | w_freq: 8 - 6 | wiki_freq: 148 - 20 | sentence_idx: 466815 | align_1: 19-19 | align_2: 20-24 | entity: PS5 - PS5 |    The PS4 was revealed during a special event in February 2013 , and a similar approach to announce the PS5 would make sense . ||| Die PS4 wurde enthüllt während einer besonderen Veranstaltung im Februar 2013 , und eine ähnliche Vorgehensweise , um die PS5 bekannt zu geben , würde Sinn machen . 
+
+d’Or d'Or | w_freq: 6 - 4 | wiki_freq: 405 - 491 | sentence_idx: 476809 | align_1: 6-6 | align_2: 7-13 | entity: Ballon d’Or - Ballon d'Or |    We are talking about the Ballon d’Or as if we were talking about politics . ||| Sprechen wir heute über den Ballon d'Or , dann ist es so , als würden wir über Politik sprechen . 
+
+Myrtha Myrtha | w_freq: 1 - 1 | wiki_freq: 61 - 27 | sentence_idx: 512558 | align_1: 9-10 | align_2: 10-16 | entity: Myrtha - Myrtha |    But you are already a woman ... " says Myrtha approaching her and taking her by the hand . ||| Aber du bist ja schon eine Frau ... » sagt Myrtha , indem sie sich ihr nähert und sie bei der Hand nimmt . 
+
+Valposchiavo Valposchiavo | w_freq: 1 - 1 | wiki_freq: 8 - 8 | sentence_idx: 666226 | align_1: 23-21 | align_2: 24-25 | entity: Valposchiavo - Valposchiavo |    One of the most beautiful places in Europe ( yes , that is right ) is a place that hardly anyone knows : Valposchiavo . ||| Einer der schönsten Orte in Europa ( ja , das stimmt ) ist ein Ort , den kaum jemand kennt : Valposchiavo ( Puschlav ) . 
+
+Democracies Democracies | w_freq: 10 - 3 | wiki_freq: 478 - 43 | sentence_idx: 668796 | align_1: 14-14 | align_2: 15-22 | entity: Foundation for the Defense of Democracies - Foundation for the Defense of Democracies |    To say that Clifford May , founder of the Foundation for the Defense of Democracies , loves war would be an understatement . ||| Zu sagen , dass Clifford May , Gründer der Foundation for the Defense of Democracies ( Stiftung zur Verteidigung der Demokratien ) , den Krieg liebt , wäre eine Untertreibung . 
+
+Firon Fir | w_freq: 12 - 20 | wiki_freq: 15 - 125 | sentence_idx: 697164 | align_1: 9-8 | align_2: 10-14 | entity: Firon - none |    And certainly We tried before them the people of Firon , and there ||| Und Wir setzten bereits vor ihnen das Volk Fir ’ auns der Versuchung aus . 
+
+Trefeglwys Neundorf | w_freq: 1 - 1 | wiki_freq: 30 - 579 | sentence_idx: 713578 | align_1: 3-3 | align_2: 4-8 | entity: Trefeglwys - Neundorf |    11 am in Trefeglwys : The sky is likely to stay clear . ||| 11 Uhr in Neundorf ( bei schleiz ) : Der Himmel ist bedeckt . 
+
+Belzec Belzec | w_freq: 4 - 4 | wiki_freq: 381 - 375 | sentence_idx: 730355 | align_1: 18-17 | align_2: 19-25 | entity: Belzec - Belzec |    This fact is amply sufficient to shatter the official version according to which less than ten Jews survived Belzec . ||| Diese Tatsache reicht bereits völlig aus , um der offiziellen Version , wonach weniger als zehn Juden Belzec überlebt haben , den Todesstoss zu versetzen . 
+
+MRAs MRAs | w_freq: 2 - 2 | wiki_freq: 48 - 3 | sentence_idx: 737913 | align_1: 8-9 | align_2: 9-16 | entity: MRAs - MRAs |    “ Men ’s right ’s activists ” ( MRAs ) claim that family law and social institutions discriminate against men . ||| Die " Men ’s Right ’s Activists " ( MRAs , auf Deutsch " Männerrecht-Aktivisten " ) behaupten , dass Familienrecht und soziale Institutionen Männer diskriminieren . 
+
+Alamin Alamin | w_freq: 1 - 1 | wiki_freq: 41 - 0 | sentence_idx: 751464 | align_1: 15-11 | align_2: 16-17 | entity: Alamin - none |    We recite them to you in truth , and Allah wills no injustice to the Alamin . ||| Sie umfassen die Wahrheit und Allah will keine Ungerechtigkeit für die Alamin ( Menschheit und Dschinn ) . 
+
+Mi’kmaq Mi'kmaq | w_freq: 1 - 2 | wiki_freq: 377 - 206 | sentence_idx: 766279 | align_1: 5-5 | align_2: 6-10 | entity: Mi’kmaq - none |    Their allies , the native Mi’kmaq nation , kept careful watch over their possessions , though . ||| Ihre Verbündeten , der Eingeborene Mi'kmaq ( Mi'kmaq Leute ) Nation , behielten sorgfältige Bewachung über ihre Besitzungen , dennoch . 
+
+Medicare+Choice Medicare+Choice | w_freq: 1 - 1 | wiki_freq: 8 - 0 | sentence_idx: 807474 | align_1: 6-5 | align_2: 7-11 | entity: Medicare+Choice - Medicare+Choice |    These programs were known as “ Medicare+Choice ” or “ Part C ” plans . ||| Diese Programme waren als " Medicare+Choice ( Gesundheitsfürsorge + Wahl ) " oder Pläne " des Teils C " bekannt . 
+
+AfDB AfDB | w_freq: 4 - 3 | wiki_freq: 308 - 20 | sentence_idx: 818606 | align_1: 6-5 | align_2: 7-10 | entity: AfDB - AfDB |    Although the African Development Bank ( AfDB ) hopes to create 25 million new jobswithin a decade through its Jobs for Youth in Africa initiative , it is not immediately clear where those opportunities will come from . ||| Obwohl die Afrikanische Entwicklungsbank ( AfDB , African Development Bank ) hofft , mit ihrer Initiative zur Schaffung von Arbeitsplätzen für Jugendliche innerhalb eines Jahrzehnts 25 Millionen neue Jobs zu schaffen , ist nicht wirklich klar , woher diese Möglichkeiten kommen sollen . 
+
+ISRAEL21c Israel21c | w_freq: 2 - 2 | wiki_freq: 8 - 0 | sentence_idx: 821545 | align_1: 2-2 | align_2: 3-7 | entity: ISRAEL21c - Israel21c |    Jangzapali tells ISRAEL21c he is deeply grateful for the Abraham family ’s generosity . ||| Jangzapali erklärte Israel21c gegenüber , wie dankbar er für die Großzügigkeit der Familie von Abraham sei . 
+
+Pallant Pallant | w_freq: 1 - 1 | wiki_freq: 159 - 45 | sentence_idx: 855073 | align_1: 0-0 | align_2: 1-4 | entity: Pallant - Pallant |    Pallant sees five basic ingredients of a conclusion as follows , though these will not always be used in the same conclusion . : ||| Pallant ( 2009 ) sieht fünf grundlegende Zutaten einer Schlussfolgerung wie folgt , obwohl diese nicht immer in der gleichen Schlussfolgerung verwendet werden : 
+
+Verdonk Verdonk | w_freq: 1 - 1 | wiki_freq: 280 - 112 | sentence_idx: 878596 | align_1: 8-5 | align_2: 9-10 | entity: Verdonk - Verdonk |    All of the methods of correction disclosed by Verdonk can be adapted for the present invention . ||| Alle Korrekturverfahren , die von Verdonk offenbart worden sind , können für die vorliegende Erfindung angepaßt werden . 
+
+Pantocrator Pantokrator | w_freq: 1 - 1 | wiki_freq: 263 - 258 | sentence_idx: 892670 | align_1: 12-15 | align_2: 13-19 | entity: Pantocrator - none |    The Son , who made himself Servant , is Lord , the Pantocrator . ||| Der Sohn , der sich zum Diener gemacht hat , ist der Herr , der Pantokrator ( Allherrscher ) . 
+
+Sondland Sondland | w_freq: 1 - 1 | wiki_freq: 245 - 86 | sentence_idx: 907971 | align_1: 7-8 | align_2: 8-13 | entity: Sondland - Sondland |    " This alleged discussion recalled by Ambassador Sondland never happened . " ||| " Diese angebliche Diskussion , die von Botschafter Sondland angeführt wurde , fand nie statt " . 
+
+Kristof Kristof | w_freq: 5 - 6 | wiki_freq: 793 - 293 | sentence_idx: 923549 | align_1: 5-6 | align_2: 6-12 | entity: Kristof - Kristof |    In another essay by Mr. Kristof called “ Do You Care More About a Dog Than a Refugee ? ” ||| In einem anderen Essay von Herrn Kristof , der sich mit dem Titel " Kümmertest du dich mehr um einen Hund als ein Flüchtling ? " 
+
+Infront Infront | w_freq: 2 - 2 | wiki_freq: 57 - 79 | sentence_idx: 946717 | align_1: 9-8 | align_2: 10-12 | entity: Infront - Infront |    Financial professionals across Europe and South Africa rely on Infront for flexible financial market solutions . ||| Finanzfachleute in ganz Europa und Südafrika vertrauen auf Infront , wenn es um flexible Finanzmarktlösungen geht . 
+

@@ -1,0 +1,2 @@
+Alanya 阿拉尼亚 | w_freq: 3 - 2 | wiki_freq: 532 - 54 | sentence_idx: 203720 | align_1: 14-10 | align_2: 15-18 | entity: Alanya - 阿拉尼亚 |    You may want to spend couple of months of the year or none in Alanya . ||| 你 可能 想 每年 花 几 个 月 时间 在 阿拉尼亚 生活 ， 或者 什么 都 不 想 。 
+

@@ -1,0 +1,464 @@
+Golang Golang | w_freq: 2 - 2 | wiki_freq: 21 - 11 | sentence_idx: 2076 | align_1: 4-3 | align_2: 5-8 | entity: Golang - none |    IronFunctions is written on Golang and really supports functions in any language . ||| IronFunctions 是 在 Golang 上 编写 的 ， 并且 真正 支持 任何 语言 的 函数 。 
+
+Grascals Grascals | w_freq: 1 - 2 | wiki_freq: 38 - 0 | sentence_idx: 4533 | align_1: 6-8 | align_2: 6-13 | entity: Grascals - none |    Life Finds A Way – The Grascals ||| 《 Life Finds a Way 》 － The Grascals （ 英语 ： The Grascals ） 
+
+O.W.L.s 盎司 | w_freq: 1 - 64 | wiki_freq: 6 - 733 | sentence_idx: 12413 | align_1: 5-6 | align_2: 6-10 | entity: O.W.L.s - none |    " Maybe he got thirty O.W.L.s or saved a teacher from the giant squid . ||| “ 也许 他 得到 了 三十 盎司   ， 或 救 了 一个 老师 从 巨型 鱿鱼  。 
+
+satan 撒旦 | w_freq: 46 - 312 | wiki_freq: 155 - 998 | sentence_idx: 17165 | align_1: 6-6 | align_2: 7-14 | entity: none - 撒旦 |    Adam and Eve became servants of satan . ||| 但 亚当 及 夏娃 因 被 撒旦 ( 蛇 ) 的 试探 而 犯罪 。 
+
+X-51A X-51A | w_freq: 2 - 2 | wiki_freq: 21 - 12 | sentence_idx: 17488 | align_1: 5-2 | align_2: 6-7 | entity: X-51A - none |    This is similar to the X-51A Waverider project that was halted in 2013 but not forgotten . ||| 这 与 X-51A “ 乘波者 ” （ Waverider ） 项目 类似 ， 该 项目 于 2013年 停止 ， 但 却 未 被 人们 遗忘 。 
+
+El-Isa 安拉 | w_freq: 1 - 167 | wiki_freq: 0 - 280 | sentence_idx: 21771 | align_1: 16-7 | align_2: 17-15 | entity: El-Isa - 安拉 |    “ There has [ always been ] lots of support from day one , ” said El-Isa . ||| 安拉 以 这些 日子 发誓 ， 正如 安拉 所 说 ： “ 誓 以 黎明 ， 
+
+25hours 维斯 | w_freq: 1 - 1 | wiki_freq: 3 - 133 | sentence_idx: 32613 | align_1: 0-1 | align_2: 1-8 | entity: none - 里 维斯 25 小时 酒店 |    25hours hotel by levi 's ||| 里 维斯 25 小时 酒店 ( 25 Hours Hotel By Levi'S ) 
+
+HAWKINS 柯曼霍金斯 | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 34840 | align_1: 1-0 | align_2: 2-11 | entity: none - 柯曼霍金斯 |    COLEMAN HAWKINS : The Hawk Flies High ||| 柯曼霍金斯 : 老鹰 高飞 ( 180 克 LP ) Coleman Hawkins : The Hawk Flies High 
+
+Finne Finne | w_freq: 2 - 2 | wiki_freq: 166 - 0 | sentence_idx: 37597 | align_1: 19-20 | align_2: 20-25 | entity: Eva Finne - none |    In Sweden I am not charged , I have already been previously cleared by the Senior Stockholm Prosecutor Eva Finne . ||| 在 瑞典 ， 我 没有 被 正式 起诉 ， 我 之前 已经 被 ［ 斯德哥尔摩 高级 检察官 夏娃·芬尼 （ Eva Finne ） ］ 消除 嫌疑 。 
+
+Dylos Dylos | w_freq: 1 - 2 | wiki_freq: 0 - 0 | sentence_idx: 44564 | align_1: 6-5 | align_2: 7-11 | entity: Dylos - none |    The most famous one is the Dylos Air Particule counter : ||| 其中 最 有名 的 是 Dylos 空气 微粒 计数器 ( Dylos Air Particule counter ) ： 
+
+Imbabura 因巴布拉 | w_freq: 2 - 2 | wiki_freq: 282 - 5 | sentence_idx: 53794 | align_1: 13-8 | align_2: 14-13 | entity: Imbabura - none |    The missionary organization FEDEPI , on the other hand , estimated one million Imbabura speakers ( published 2006 ) . ||| 另一方面 ， 传教 组织 FEDEPI 估计 有 100万 因巴布拉 （ Imbabura ） 方言 使用者 （ 2006年 发布 ） 。 
+
+Trautwein：Three Traut | w_freq: 1 - 1 | wiki_freq: 0 - 4 | sentence_idx: 55193 | align_1: 2-2 | align_2: 3-7 | entity: Hans Michael Trautwein：Three - none |    Hans Michael Trautwein：Three big questions – and no simple answers , at least not to the first two of them . ||| Hans Michael Traut we in ： 这 三大 问题 没有 简单 的 答案 ， 至少 前 两 个 没有 。 
+
+RabbitMQ rabbit | w_freq: 7 - 3 | wiki_freq: 31 - 31 | sentence_idx: 59129 | align_1: 0-0 | align_2: 1-12 | entity: none - rabbit |    RabbitMQ : Who Creates the Queues and Exchanges ? ||| rabbit mq 生产者 创建 队列 还是 消费者 创建 队列 --- RABB ITMQ : WHO CREATES THE QU EUES AND EXCHANGES ? 
+
+AAPL AAPL | w_freq: 6 - 4 | wiki_freq: 71 - 3 | sentence_idx: 86409 | align_1: 3-3 | align_2: 4-7 | entity: AAPL - AAPL - Get Report |    Apple Inc. ( AAPL ) had also expressed interest in the company , but he added that the discussions never got particularly serious . ||| Apple Inc. （ AAPL - Get Report ） 也 对 该 公司 表示 了 兴趣 ， 但 他 补充 说 ， 讨论 从未 如此 严重 。 
+
+Ake Ake | w_freq: 2 - 1 | wiki_freq: 546 - 9 | sentence_idx: 103725 | align_1: 1-1 | align_2: 2-5 | entity: Ake - none |    To Ake : I am waiting for you in front of the cave . ||| To Ake （ 教练 ） ： 我 在 山洞 前 等 你 。 
+
+Houston- Houston | w_freq: 1 - 14 | wiki_freq: 3 - 182 | sentence_idx: 103993 | align_1: 1-6 | align_2: 2-11 | entity: Whitney Houston- - none |    Whitney Houston- Why Does It Hurt so Bad ||| 牧羊人 --西洋 女 歌手 / Whitney Houston 惠妮 休斯顿 单曲 -- Why Does It Hurt So Bad 
+
+R$E R$E | w_freq: 1 - 2 | wiki_freq: 0 - 0 | sentence_idx: 105979 | align_1: 9-9 | align_2: 10-22 | entity: R$E - none |    The Pope has a SHOCKING plan for 2018 ( R$E ) ||| The Pope has a SHOCKING plan for 2016 ( R$E ) 教皇 2016年 有 一个 令 人 震惊 的 计划 （ R$E ） 
+
+ganas gana | w_freq: 1 - 1 | wiki_freq: 103 - 0 | sentence_idx: 112588 | align_1: 3-4 | align_2: 4-11 | entity: none - gana |    Shiva sent two ganas to the city to see how to get rid of this king . ||| Shiva派 了 两 个 gana （ 他 的 怪物 朋友 ） 到 城里 ， 看看 如何 摆脱 这个 国王 。 
+
+Colorcon 卡乐康 | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 126336 | align_1: 5-3 | align_2: 6-11 | entity: Colorcon - 卡乐康 |    As you learn more about Colorcon you will begin to see the impact these have on our culture . ||| 当 您 对 卡乐康 有 了 更 多 了解 后 ， 您 将 会 看到 这些 原则 对 我们 的 企业 文化 所 产生 的 影响 。 
+
+Finne Finne | w_freq: 2 - 2 | wiki_freq: 166 - 0 | sentence_idx: 128531 | align_1: 19-21 | align_2: 20-26 | entity: Eva Finne - none |    In Sweden I am not charged , I have already been previously cleared by the Senior Stockholm Prosecutor Eva Finne . ||| 在 瑞典 ， 我 没有 被 正式 起诉 ， 我 之前 已经 被 ［ 斯德哥尔摩 高级 检察官 夏娃‧ 芬尼 （ Eva Finne ） ］ 消除 嫌疑 。 
+
+YORK YORK | w_freq: 50 - 7 | wiki_freq: 199 - 16 | sentence_idx: 128657 | align_1: 1-2 | align_2: 2-6 | entity: NEW YORK - N EW YORK |    NEW YORK — It happens a few times a year : A customer refuses to work with Dave Greenbaum because he 's gay . ||| N EW YORK （ 美联社 ） - 它 每年 发生 几 次 ： 客户 拒绝 与 Dave Greenbaum 合作 ， 因为 他 是 同性恋 。 
+
+Sadhguru Sadhguru | w_freq: 17 - 11 | wiki_freq: 43 - 0 | sentence_idx: 132316 | align_1: 9-8 | align_2: 10-13 | entity: Sadhguru - none |    Transformation and leadership can not be separated , says Sadhguru , as every action of a leader has the power to directly or indirectly transform the lives of many people . ||| 转化 和 领导力 是 无法 分开 的 ， Sadhguru （ 萨古鲁 ） 说 ， 因为 一个 领导者 的 每个 行动 都 具有 直接 或 间接 转化 他人 生命 的 力量 。 
+
+alif 艾列弗 | w_freq: 1 - 2 | wiki_freq: 173 - 0 | sentence_idx: 136905 | align_1: 2-1 | align_2: 3-7 | entity: none - 艾列弗 |    Alif by alif , ||| . 艾列弗 ， 俩 目 ， 米目 。 
+
+Buys Buys | w_freq: 3 - 2 | wiki_freq: 490 - 4 | sentence_idx: 142673 | align_1: 0-0 | align_2: 1-4 | entity: Buys - none |    Buys and her partner successfully operated their store for nearly 20 years , but when they sold it in 2000 she was ready for a change . ||| Buys （ 拜斯 ） 和 合作 伙伴 将 他们 的 店 成功 地 经营 了 近 20 年 ， 但是 ， 当 他们 在 2000 年 把 它 卖掉 时 ， 她 已经 准备 做 一番 改变 了 。 
+
+Gomorrah 醋 | w_freq: 1 - 66 | wiki_freq: 731 - 687 | sentence_idx: 163661 | align_1: 29-199 | align_2: 30-208 | entity: Gomorrah - none |    Abraham , no doubt cognizant of Lot ( his righteous relative ) living in Sodom ( see 2Peter 2:6 - 8) , attempts to barter to have it and Gomorrah spared ( Genesis 18:23 ) . ||| ） （ 叮 ） （ 触 ） （ 发 ） （ 技 ） （ 能 ） （ 妻 ） （ 子 ） （ 的 ） （ 吻 ） （ ， ） （ 妻 ） （ 子 ） （ 的 ） （ 吻 ） （ 1 ） （ 生 ） （ 命 ） （ 值 ） （ 翻 ） （ 倍 ） （ ， ） （ 获 ） （ 得 ） （ 额 ） （ 外 ） （ 生 ） （ 命 ） （ 值 ） （ 2 ） （ 分 ） （ 钟 ） （ 于 ） （ 萌 ） （ 声 ） （ 色 ） （ 严 ） （ 厉 ） （ 的 ） （ 斥 ） （ 责 ） （ 他 ） （ 们 ） （ ： ） （ 你 ） （ 们 ） （ 不 ） （ 要 ） （ 命 ） （ ， ） （ 你 ） （ 们 ） （ 父 ） （ 母 ） （ 也 ） （ 不 ） （ 要 ） （ 命 ） （ 了 ） （ 吗 ） （ 第 ） （ 1 ） （ 8 ） （ 8 ） （ 章 ） （ ） （ 吃 ） （ 醋 ） （ 求 ） （ 推 ） （ 荐 ） （ 票 ） 
+
+Eastenders 东区人 | w_freq: 1 - 1 | wiki_freq: 121 - 5 | sentence_idx: 168412 | align_1: 32-26 | align_2: 33-30 | entity: Eastenders - 东区人 |    For the other three actions participants were asked to carry out a task in response to a cue ( for example , “ When you come to a quiz question about ‘ Eastenders ’ I would like you to give me this book ” ) . ||| 对于 其他 三 个 行动 的 参与者 被 要求 对 进行 一个 任务 做出 响应 （ 例如 ， “ 当 你 来到 一个 提问 关于 “ 东区人 ” 时 ， “ 我 想 你 给 我 这 本书 ” ） 。 
+
+Madiba 马迪巴 | w_freq: 6 - 3 | wiki_freq: 108 - 4 | sentence_idx: 175546 | align_1: 6-5 | align_2: 7-9 | entity: Madiba - 马迪巴 |    “ Over the past 24 years Madiba taught us how to come together and to believe in ourselves and each other . ||| “ 过去 24年 来 ， 马迪巴 （ 曼德拉 ） 教会 我们 如何 团结 ， 如何 相信 自己 和 彼此 。 
+
+PwC PwC | w_freq: 6 - 3 | wiki_freq: 771 - 14 | sentence_idx: 181794 | align_1: 4-3 | align_2: 5-7 | entity: PwC - none |    When people arrive at PwC they may already be experiencing a range of emotions . ||| 当 人们 来到 PwC 的 时候 ， 他们 可能 已经 经历 了 一 系列 的 各种 情绪 。 
+
+Goyim-cattle cattle | w_freq: 2 - 2 | wiki_freq: 0 - 12 | sentence_idx: 182880 | align_1: 16-16 | align_2: 17-20 | entity: Goyim-cattle - none |    This is because , contrary to what Rabbi Finkelstein says in the interview , the „ Goyim-cattle “ is not made up of stupid people and cowards . ||| 这是 因为 ， 与 Rabbi Finkelstein 在 采访 中 说 的 相反 ， “ goyim – cattle （ 牧群 ） ” 不是 由 愚蠢 的 人和 懦夫 组成 的 。 
+
+Goyim-cattle goyim | w_freq: 2 - 3 | wiki_freq: 0 - 0 | sentence_idx: 182880 | align_1: 16-14 | align_2: 17-20 | entity: Goyim-cattle - none |    This is because , contrary to what Rabbi Finkelstein says in the interview , the „ Goyim-cattle “ is not made up of stupid people and cowards . ||| 这是 因为 ， 与 Rabbi Finkelstein 在 采访 中 说 的 相反 ， “ goyim – cattle （ 牧群 ） ” 不是 由 愚蠢 的 人和 懦夫 组成 的 。 
+
+TOW 比尔·坦普尔 | w_freq: 1 - 1 | wiki_freq: 700 - 0 | sentence_idx: 186035 | align_1: 9-4 | align_2: 10-13 | entity: none - 比尔·坦普尔 |    ‘ For just as Bill Temple ’s yarn in TOW will long be remembered as the cat story … ’ ||| “ 因为 就 像 比尔·坦普尔 的 故事 一样 ， 它 的 故事 也 将 被 长久 地 铭记 为 猫 的 故事 …… ” 
+
+Belmonts Belmonts | w_freq: 3 - 4 | wiki_freq: 257 - 0 | sentence_idx: 188247 | align_1: 3-3 | align_2: 4-12 | entity: Belmonts - none |    Dion and The Belmonts – “ I Wonder Why ” ||| Dion and the Belmonts （ 英语 ： Dion and the Belmonts ） （ " I Wonder Why （ 英语 ： I Wonder Why ） " ） 
+
+SR-71 SR-71 | w_freq: 4 - 4 | wiki_freq: 775 - 160 | sentence_idx: 192484 | align_1: 7-5 | align_2: 8-10 | entity: SR-71 - none |    Since it was built to intercept the SR-71 it was required to have an extreme speed , hence its Mach 3.2 top capability . ||| 由于 它 是 为了 拦截 SR-71 而 建造 的 ， 因此 需要 具有 极 高 的 速度 ， 因此 它 具有 Mach 3.2 的 顶级 能力 。 
+
+Florentino 弗洛伦蒂诺 | w_freq: 9 - 4 | wiki_freq: 1000 - 12 | sentence_idx: 192925 | align_1: 3-2 | align_2: 4-6 | entity: Florentino - 弗洛伦蒂诺 |    Of course , Florentino can get him , nothing is impossible in life . ||| “ 当然 弗洛伦蒂诺 [ 佩雷斯 ] 可以 得到 他 ， 生活 中 没有 什么 是 不 可能 的 。 
+
+Amitabha Amitabha | w_freq: 3 - 2 | wiki_freq: 578 - 1 | sentence_idx: 193156 | align_1: 18-16 | align_2: 19-24 | entity: Amitabha - none |    But , for example , if I want to teach this to westerners , I just say " Amitabha , " just the name part—to simplify it . ||| 但是 ， 比如 ， 如果 我 要 对 西方人 教授 这个 ， 我 只 说 " Amitabha " （ 「 阿弥 他 巴 」 ， 只是 名号 部分 —— 来 简化 之 。 
+
+Burberry Burberry | w_freq: 15 - 14 | wiki_freq: 909 - 89 | sentence_idx: 194090 | align_1: 10-17 | align_2: 11-22 | entity: Burberry - none |    Unexpectedly , 90 years later , the British luxury brand Burberry is still repeating a similar story . ||| 没 想到  , 在 90 年后 的 今天   , 英国 奢侈 品牌 巴宝莉 ( Burberry ) 竟 然 还 在 重复 着 类似 的 故事 。 
+
+Zealandia Zealandia | w_freq: 2 - 1 | wiki_freq: 525 - 1 | sentence_idx: 196729 | align_1: 1-3 | align_2: 2-7 | entity: Zealandia - Zealandia |    Why Zealandia is a new continent ? ||| 为什么 齐兰迪亚 ( Zealandia ) 几乎 肯定 是 一个 新 的 大陆 ？ 
+
+SR-71 SR-71 | w_freq: 4 - 4 | wiki_freq: 775 - 160 | sentence_idx: 207591 | align_1: 7-5 | align_2: 8-10 | entity: SR-71 - none |    Since it was built to intercept the SR-71 it was required to have an extreme speed , hence its mach 3.2 top capability . ||| 由于 它 是 为了 拦截 SR-71 而 建造 的 ， 因此 需要 具有 极 高 的 速度 ， 因此 它 具有 Mach 3.2 的 顶级 能力 。 
+
+Jadalem Jadalem | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 209707 | align_1: 16-19 | align_2: 17-24 | entity: Jadalem - none |    He saw God for the first time during his second trip , on a planet called Jadalem that ’s mostly covered in water and ice . ||| 他 首次 见到 耶稣 是 在 第二 次 天堂 之 旅 中 ， 当时 他 在 一 颗 名叫 Jadalem 的 星球 上 ， 那 颗 星球 主要 被 水 和 冰所 覆盖 。 
+
+Foodette 召嘉 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 222889 | align_1: 3-3 | align_2: 4-9 | entity: Foodette - none |    And grievously hath Foodette answer’d it . ||| 上 大怒 ， 召嘉 诣尚书 ， 以 他 事 责问 。 
+
+DOLLAR 沃尔玛 | w_freq: 2 - 75 | wiki_freq: 19 - 435 | sentence_idx: 223549 | align_1: 3-11 | align_2: 4-27 | entity: none - 沃尔玛 |    Title : ALMIGHTY DOLLAR : Follow the Incredible Journey of a Single Dollar to See How the Global Economy Really Works ||| . 一 美元 的 全球 经济 之 旅 ： 从 美国 沃尔玛 、 中国 央行 到 奈及利亚 铁路 ， 洞悉 世界 的 运作 真相 The Almighty Dollar : Follow the Incredible Journey of a Single Dollar to See How the Global Economy Really Works . 
+
+Eurodad Eurodad | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 228391 | align_1: 15-11 | align_2: 16-19 | entity: Eurodad - none |    [ 12 ] We are not in the habit of engaging in lobbying – unlike Eurodad , another organisation that is mobilised around the issue of debt . ||| [ 11 ] 我们 不 习惯 搞 游说 　 ── 不 像 Eurodad （ 债务 和 发展 欧洲 网络 ） ， 它 是 围绕 债务 问题 动员 起来 的 另 一个 组织 。 
+
+Amitabha Amitabha | w_freq: 3 - 2 | wiki_freq: 578 - 1 | sentence_idx: 230304 | align_1: 18-16 | align_2: 19-24 | entity: Amitabha - none |    But , for example , if I want to teach this to westerners , I just say " Amitabha , " just the name part—to simplify it . ||| 但是 ， 比如 ， 如果 我 要 对 西方人 教授 这个 ， 我 只 说 " Amitabha " （ 「 阿弥 他 巴 」 ， 只是 名号 部分 ―― 来 简化 之 。 
+
+FAHISH 下流 | w_freq: 1 - 12 | wiki_freq: 0 - 472 | sentence_idx: 230400 | align_1: 11-12 | align_2: 12-20 | entity: FAHISH - none |    17:32 And go not near the zina : surely it is FAHISH . ||| 17 : 32 你们 不要 接近 私通 ， 因为 私通 确 是 下流 的 事 ， 这 行径 真 恶劣 ！ 
+
+taqlid 麦道卫 | w_freq: 1 - 1 | wiki_freq: 157 - 0 | sentence_idx: 237443 | align_1: 7-7 | align_2: 8-11 | entity: none - 麦道卫 |    Rather they are people of imitation ( taqlid ) . ||| 他们 必定 是 虚构 的 ” （ 麦道卫 ， 11 页 ） 。 
+
+Samay Samay | w_freq: 3 - 6 | wiki_freq: 299 - 0 | sentence_idx: 246644 | align_1: 4-5 | align_2: 5-12 | entity: Soluna Samay - none |    15 Denmark English Soluna Samay " Should 've Known Better " — 23 21 ||| 15 丹麦 英语 6 Soluna Samay （ 英语 ： Soluna Samay ） " Should've Known Better （ 英语 ： Should've Known Better ） " — 23 21 
+
+Pryda 主悔改 | w_freq: 1 - 1 | wiki_freq: 44 - 0 | sentence_idx: 247280 | align_1: 10-7 | align_2: 11-15 | entity: Pryda - none |    If not called upon , the provision would revert to Pryda . ” ||| 如果 不是 这样 ， 就 应当 向 主悔改 、 祈求 ， 才 有 复兴 临到 。 
+
+Hottie Hottie | w_freq: 2 - 2 | wiki_freq: 155 - 2 | sentence_idx: 252617 | align_1: 22-26 | align_2: 23-35 | entity: Hottie - none |    Very soon after at 2:16 , he says , “ Have any of you enjoyed this special pizza here tonight called the Hottie ? … If you have n’t had it , you should try it , it ’s delicious . ” ||| 之后 不久 ， 在 2:16 ， 他 说 ： “ 你们 有 没有 人 品尝 / 享受 过 今晚 这里 的 这个 特别 的 披萨 叫 Hottie （ 字面 上 是 辣妹 的 意思 ） ？ …… 如果 你 还 没有 ， 你 应该 试 一下 ， 它 很 美味 。 
+
+Glassley Glassley | w_freq: 1 - 1 | wiki_freq: 4 - 0 | sentence_idx: 259907 | align_1: 12-9 | align_2: 13-15 | entity: William E. Glassley - none |    “ Very few people have spent as much time as William E. Glassley in such deep wilderness . ||| “ 很少 有人 像 威廉·E·格拉斯利 （ William E . Glassley ） 一样 如此 深入 地 在 荒野 中 度过 这么 长 时间 。 
+
+Hud 沿袭寨 | w_freq: 6 - 1 | wiki_freq: 635 - 0 | sentence_idx: 261009 | align_1: 7-2 | align_2: 8-7 | entity: Hud - none |    Gone are Aad , the people of Hud . ||| 佤族人 至今 沿袭寨 主制 ， 寨主 世袭 。 
+
+ISHL ISHL | w_freq: 1 - 1 | wiki_freq: 9 - 0 | sentence_idx: 265708 | align_1: 17-25 | align_2: 18-32 | entity: ISHL - none |    Japan Existing and New Chemical Substances Inventory ( ENCS ) and Industrial Safety and Health Law ( ISHL ) ||| 日本 Existing and New Chemical Substances Inventory ( ENCS ) （ 现有 和 新 化学 物质 名录 ） 和 Industrial Safety and Health Law ( ISHL ) （ 工业 安全 和 健康法 ） 
+
+HotOrNot hotor | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 265998 | align_1: 9-9 | align_2: 10-13 | entity: HotOrNot - none |    Sure , you can put your face up on HotOrNot or buy one of those Ugly iPhone apps to gauge your “ scientific ” attractiveness rating . ||| 当然 ， 你 可以 把 你 的 脸贴 在 hotor not 上 ， 或者 买 一个 丑陋 的 iPhone 应用 来 衡量 你 的 “ 科学 ” 吸引力 。 
+
+All-Care 天起誓 | w_freq: 1 - 2 | wiki_freq: 1 - 0 | sentence_idx: 267117 | align_1: 5-7 | align_2: 6-12 | entity: All-Care - none |    Many pet owners swear by All-Care . ||| 所以 很多 毒誓 ， 都 是 对 天起誓 ， 真的 会 灵验 。 
+
+Veyne Veyne | w_freq: 1 - 1 | wiki_freq: 46 - 0 | sentence_idx: 268564 | align_1: 1-5 | align_2: 2-10 | entity: Paul Veyne - none |    Paul Veyne , Did the Greeks Believe in Their Myths ? ||| 保罗 ． 韦纳 （ Paul Veyne ） 著 ， 张 竝译︰ 《 古希腊人 是否 相信 他们 的 神话 ︰论 构建 的 想像 》 （ Did the Greeks Believe in Their Myths ? 
+
+mage 项瑾 | w_freq: 2 - 1 | wiki_freq: 912 - 1 | sentence_idx: 279342 | align_1: 1-0 | align_2: 2-5 | entity: none - 项瑾 |    The mage said he would meet us here , so here we shall wait . ” ||| 项瑾 回答 ： “ 他 说 他 过来 找 我们 ， 我们 就 在 这 等等 吧 。 
+
+Goyim-cattle cattle | w_freq: 2 - 2 | wiki_freq: 0 - 12 | sentence_idx: 285071 | align_1: 16-16 | align_2: 17-20 | entity: Goyim-cattle - none |    This is because , contrary to what Rabbi Finkelstein says in the interview , the „ Goyim-cattle “ is not made up of stupid people and cowards . ||| 这是 因为 ， 与 Rabbi Finkelstein 在 采访 中 说 的 相反 ， “ goyim – cattle （ 牧群 ） ” 不是 由 愚蠢 的 人和 懦夫 组成 的 。 
+
+Goyim-cattle goyim | w_freq: 2 - 3 | wiki_freq: 0 - 0 | sentence_idx: 285071 | align_1: 16-14 | align_2: 17-20 | entity: Goyim-cattle - none |    This is because , contrary to what Rabbi Finkelstein says in the interview , the „ Goyim-cattle “ is not made up of stupid people and cowards . ||| 这是 因为 ， 与 Rabbi Finkelstein 在 采访 中 说 的 相反 ， “ goyim – cattle （ 牧群 ） ” 不是 由 愚蠢 的 人和 懦夫 组成 的 。 
+
+Matplotlib Matplotlib | w_freq: 3 - 1 | wiki_freq: 32 - 0 | sentence_idx: 286285 | align_1: 4-2 | align_2: 5-6 | entity: Matplotlib - none |    Seaborn is based on Matplotlib and highly dependent on that . ||| Seaborn 基于 Matplotlib   , 并 高度 依赖 于 此      。 
+
+NACE NACE | w_freq: 5 - 4 | wiki_freq: 148 - 1 | sentence_idx: 286445 | align_1: 3-3 | align_2: 4-12 | entity: NACE - none |    Brooks : In NACE we have 81 member institutions . ||| Brooks ： 在 NACE （ 国家 电子 顾问 委员会 ） 中 ， 我们 有 81 个 成员 机构 。 
+
+Chirag Chirag | w_freq: 3 - 3 | wiki_freq: 625 - 5 | sentence_idx: 294309 | align_1: 4-2 | align_2: 5-6 | entity: Chirag - none |    The production started from Chirag and it continues successfully . ||| 生产 始于 Chirag 部分 领域 ， 并 继续 成功 。 
+
+RTM RTM | w_freq: 10 - 10 | wiki_freq: 888 - 145 | sentence_idx: 297684 | align_1: 6-6 | align_2: 7-11 | entity: RTM - none |    Our original plan was to hold RTM until all the billing infrastructure is in place . ||| 我们 最初 的 计划 是 搁置 RTM 版本 的 发布 ， 直到 所有 的 计费 基础 设施 到位 。 
+
+TMCs TMC | w_freq: 1 - 5 | wiki_freq: 10 - 31 | sentence_idx: 323930 | align_1: 5-4 | align_2: 6-9 | entity: TMCs - none |    We ’re different from other TMCs because our standard level of service includes customer-friendly software and expert corporate travel service . ||| 我们 与 其他 的 TMC 并 不 相同 ， 因为 我们 的 标准 服务 水平 包含 服务 于 客户 的 软件 以及 专业 的 商务 差旅 服务 。 
+
+FAB 佛家 | w_freq: 7 - 1 | wiki_freq: 816 - 251 | sentence_idx: 328160 | align_1: 3-1 | align_2: 4-6 | entity: FAB - none |    We hope at FAB to provide a space for God 's people to gather together in worship of the living God . ||| 就 佛家 的 角度 ， 绝对 是 个 乘愿 到 娑婆 世界 接引 众生 的 菩萨 。 
+
+Mar-a-Lago Mar-a-Lago | w_freq: 8 - 8 | wiki_freq: 451 - 5 | sentence_idx: 328812 | align_1: 10-8 | align_2: 11-13 | entity: Mar-a-Lago - none |    ‘ I was recruited at a very young age from Mar-a-Lago and entrapped in a world that I did n’t understand . ||| “ 我 很 小 的 时候 就 从 Mar-a-Lago 招募 来 的 ， 并且 陷入 了 一个 我 不 了解 的 世界 。 
+
+Northup Northup | w_freq: 2 - 4 | wiki_freq: 792 - 3 | sentence_idx: 335149 | align_1: 1-1 | align_2: 2-8 | entity: Harry Northup - Harry Northup |    Harry Northup as Joe & Jim 's bartender ||| Harry Northup （ 英语 ： Harry Northup ） 饰 Joe & Jim's bartender 
+
+Autoweek Autoweek | w_freq: 4 - 4 | wiki_freq: 92 - 3 | sentence_idx: 335232 | align_1: 7-14 | align_2: 8-18 | entity: Autoweek - none |    I feel ready , " he told Autoweek . ||| 我 感觉 已经 准备 好 了    ， ” 他 告诉 《 Autoweek 》   。 
+
+YORK YORK | w_freq: 50 - 7 | wiki_freq: 199 - 16 | sentence_idx: 338401 | align_1: 1-2 | align_2: 2-6 | entity: NEW YORK - N EW YORK |    NEW YORK – Apple wants the plastic credit card to become as rare as the paper check . ||| N EW YORK （ 美联社 ） - Apple 希望 塑料 信用卡 变 得 像 纸质 支票 一样 罕见 。 
+
+Ibiolab Ibiolab | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 341164 | align_1: 8-11 | align_2: 9-16 | entity: Ibiolab - none |    In 2007 , MotulTech joined the European project Ibiolab grouping 22 partners from 7 European countries . ||| 2007年 ， 摩特 科技 （ MotulTech ） 加入 了 欧洲 欧洲 Ibiolab 项目 ， 该 项目 设计 22 个 来自 7 个 欧洲 国家 的 合作 伙伴 。 
+
+JENKINS Jenkins | w_freq: 1 - 34 | wiki_freq: 7 - 159 | sentence_idx: 341528 | align_1: 0-7 | align_2: 1-15 | entity: none - Lee Jenkins |    JENKINS : Mother 's Day holds special place in NBA 's heart ||| 以上 资料 主要 来自 SI.com 作者 Lee Jenkins 的 Look At Me Now , Mom : Mother's Day holds a special place in NBA 's heart 一 文 
+
+WILD 首页 | w_freq: 4 - 845 | wiki_freq: 318 - 770 | sentence_idx: 343671 | align_1: 1-0 | align_2: 2-9 | entity: WILD - none |    Previous WILD – 75 Freshwater Tropical Fish of the World ||| 首页 〉外 文书 〉 生活 〉动 植物 〉 Wild : 75 Freshwater Tropical Fish of the World 
+
+Robinhood Robinhood | w_freq: 8 - 7 | wiki_freq: 665 - 24 | sentence_idx: 349649 | align_1: 4-6 | align_2: 5-11 | entity: Robinhood - Robinhood |    We want to make Robinhood a tantalizing target for researchers and it 's important that , as a researcher , you know your time wo n't be wasted finding potential bugs in our software . " ||| ” 我们 想 让 罗宾汉 ( Robinhood ) 成为 研究 人员 的 诱人 目标 ， 作为 一 名 研究 人员 ， 重要 的 是 ， 你 知道 你 的 时间 不 会 浪费 在 寻找 我们 软件 中 的 潜在 漏洞 上 。 
+
+Saqar 赛盖尔 | w_freq: 5 - 2 | wiki_freq: 30 - 0 | sentence_idx: 356161 | align_1: 7-4 | align_2: 8-16 | entity: Saqar - 赛盖尔 |    And what can let you know What Saqar is ? ||| 什么 使 你 知道 赛盖尔 是 什么 ？ 你 怎 能 知道 火狱 [ 究竟 ] 是 什么 ？ 
+
+CHLT-TV CHLT-TV | w_freq: 1 - 2 | wiki_freq: 10 - 0 | sentence_idx: 356740 | align_1: 0-0 | align_2: 1-8 | entity: CHLT-TV - none |    CHLT-TV , 50 years of looking at it our way ||| CHLT-TV ， 50年 的 发展 历程 （ CHLT-TV , 50 Years of Looking at It Our Way ） 
+
+Moorehead Moorehead | w_freq: 3 - 3 | wiki_freq: 811 - 3 | sentence_idx: 363410 | align_1: 3-5 | align_2: 4-10 | entity: Moorehead - none |    Finally , says Moorehead “ The best way to get more distributors is to get more customers . ||| 最后    ， Moorehead 表示   ： “ 获得 更 多 分销商 的 最佳 途径 是 获取 更 多 客户    。 
+
+MSRESIN MSRESIN | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 363424 | align_1: 4-3 | align_2: 5-7 | entity: MSRESIN ATRATE - none |    18 , I ask MSRESIN ATRATE , the TYPE is what type of plastic , what is the name , the price is the number of production ? ||| 18 、 请问 MSRESIN   , ATRATE   , TYPE 是 什么 类型 的 塑料    , 名称 是 什么    , 价格 是 多少    , 有 什么 产 的    ? 
+
+YORK YORK | w_freq: 50 - 7 | wiki_freq: 199 - 16 | sentence_idx: 382774 | align_1: 1-2 | align_2: 2-6 | entity: NEW YORK - N EW YORK |    NEW YORK - Barbara Corcoran expects entrepreneurs to listen to what she says , and then do what they want . ||| N EW YORK （ 美联社 ） - Barbara Corcoran 希望 企业家 能 听取 她 的 意见 ， 然后 做 他们 想 做 的 事 。 
+
+Soaga Soaga | w_freq: 1 - 1 | wiki_freq: 36 - 0 | sentence_idx: 384634 | align_1: 11-13 | align_2: 12-18 | entity: Lupe Ole Soaga - none |    Like AS , Marist just need to win against Lupe Ole Soaga and hope the first game ’s result on Friday goes their way . ||| 像 AS 一样   ， Marist 只 需要 赢得 对阵 Lupe Ole Soaga 的 比赛  ， 并 希望 周五 的 第一 场 比赛 结果 能够 顺利 进行   。 
+
+Putinfarce Putinfarce | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 386221 | align_1: 12-12 | align_2: 13-17 | entity: Putinfarce - none |    By Monday , it should have its own Twitter hashtag : # Putinfarce . ||| 在 周一 ， 它 应该 拥有 自己 的 Twitter 标签 ： # Putinfarce （ 普京 闹剧 ） 。 
+
+Lauster Lauster | w_freq: 2 - 1 | wiki_freq: 47 - 0 | sentence_idx: 387545 | align_1: 4-7 | align_2: 5-11 | entity: Emily Lauster - Emily Lauster |    According to 22-year-old Emily Lauster , “ You can always hear that the girl is not very interested , or tell the boy that she is tired , but the boy does not give her a space story . ||| 根据 22 岁 的 艾米丽·劳斯特 ( Emily Lauster ) 所 说 ， “ 你 总是 能 听到 女孩 不是 很 感 兴趣 ， 或者 告诉 男生 她 累 了 ， 而 男生 却 不 给 她 空间 的 故事 。 
+
+Allaah 安拉 | w_freq: 62 - 167 | wiki_freq: 28 - 280 | sentence_idx: 390386 | align_1: 1-1 | align_2: 2-6 | entity: Allaah - 安拉 |    And Allaah is the Guide to the Straight Path . ||| “ 安拉 的 引导 ， 才 是 正导 。 
+
+Belmonts Belmonts | w_freq: 3 - 4 | wiki_freq: 257 - 0 | sentence_idx: 394762 | align_1: 5-3 | align_2: 6-12 | entity: The Belmonts - none |    11 ) Dion and The Belmonts , " I Wonder Why " ||| Dion and the Belmonts （ 英语 ： Dion and the Belmonts ） （ " I Wonder Why （ 英语 ： I Wonder Why ） " ） 
+
+Systemantics systemfunny | w_freq: 1 - 1 | wiki_freq: 9 - 0 | sentence_idx: 395297 | align_1: 7-7 | align_2: 8-14 | entity: Systemantics - none |    As John Gall argues in his book Systemantics , every successful large system was grown from smaller systems that already worked . ||| 正如 John Gall 在 其 著作 《 systemfunny 》 中 所 指出 的 那样 ， 每 一个 成功 的 大型 系统 都 是 从 已经 运行 的 小型 系统 发展 而 来 的 。 
+
+eBook 成全 | w_freq: 16 - 64 | wiki_freq: 657 - 294 | sentence_idx: 396777 | align_1: 9-7 | align_2: 10-12 | entity: eBook - none |    Do you know what it takes to create an eBook ( and a cover , like the one above ) ? ||| 你们 知道 怎样 才 是 一个 「 成全 的 人 」 ？ （ 一个 成全 的 人 ， 怀有 一 颗 慈悲 的 心 ， 并 懂得 去 「 爱 」 人 ） 
+
+L.S. LS | w_freq: 1 - 17 | wiki_freq: 405 - 198 | sentence_idx: 397462 | align_1: 2-2 | align_2: 3-7 | entity: L.S. - none |    6 ) L.S. When and above all why did you decide to disclose these information about classified space missions and is there anybody who is protecting you ? ||| 6 、 LS ： 你 是 什么 时候 ， 最 主要 的 是 你 为什么 要 决定 揭露 这些 绝密 太空 任务 的 信息 ， 是否 有人 在 保护 你 呢 ？ 
+
+RIP RIP鲍 | w_freq: 23 - 1 | wiki_freq: 851 - 0 | sentence_idx: 400582 | align_1: 0-0 | align_2: 1-4 | entity: RIP - none |    RIP Bob Venturi , so many of our lives would not have been the same without you . ||| RIP鲍 勃·文图 里 ( Bob Venturi ) ， 没有 你 ， 我们 的 许多 生活 将 是 不 一样 的 。 
+
+Verily 誓 | w_freq: 128 - 241 | wiki_freq: 279 - 535 | sentence_idx: 405012 | align_1: 8-7 | align_2: 9-15 | entity: Verily - none |    Inna can also be translated to be “ Verily ” . ||| 宝贝 ， 听 我 说 ： " 誓 " 本来 就是 " 拆开 的 语言 " 。 
+
+oseph UF | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 409506 | align_1: 2-2 | align_2: 3-6 | entity: none - Europe UF  |    of J oseph ( ||| 澳大利亚 Europe UF  - ' (  
+
+YORK YORK | w_freq: 50 - 7 | wiki_freq: 199 - 16 | sentence_idx: 414034 | align_1: 1-2 | align_2: 2-6 | entity: NEW YORK - none |    NEW YORK — Maybe the middle child really should be the favorite . ||| N EW YORK （ 美联社 ） - 也许 中间 孩子 真的 应该 是 最 喜欢 的 ... 
+
+CENTCOM Centcom | w_freq: 4 - 1 | wiki_freq: 480 - 0 | sentence_idx: 414435 | align_1: 0-0 | align_2: 1-4 | entity: CENTCOM - none |    CENTCOM will restore service to its Twitter and YouTube accounts as quickly as possible . ||| Centcom 表示 ， 它 将 “ 尽快 ” 恢复 其 Twitter 和 YouTube 帐户 的 服务 。 
+
+HL7 HL | w_freq: 5 - 8 | wiki_freq: 275 - 103 | sentence_idx: 424194 | align_1: 5-3 | align_2: 6-8 | entity: HL7 International - none |    For example , at the HL7 International level , there are 10 different CMETs for the concept of " Patient " . ||| 例如 ， 在 HL 7 国际 （ HL7 International ） 层面 上 ， 对于 “ 患者 ” 这 一 概念 ， 就 有 10 个 不同 的 CMET 。 
+
+Civaux Civaux | w_freq: 2 - 2 | wiki_freq: 17 - 0 | sentence_idx: 424235 | align_1: 5-4 | align_2: 6-12 | entity: Civaux - Civaux ) |    Everybody I spoke to in Civaux loves the fact their region was chosen . ||| 我 在 西沃 ( Civaux ) 所 交谈 的 每个 人 都 喜欢 他们 所在 地区 的 选择 。 
+
+Infosys Infosys | w_freq: 6 - 5 | wiki_freq: 979 - 6 | sentence_idx: 424738 | align_1: 8-6 | align_2: 9-11 | entity: Infosys - none |    He asked them to build a company like Infosys and lift people out of poverty . ||| 他 让 他们 成立 一个 像 Infosys 那样 的 公司 ， 和 帮助 人民 脱贫 。 
+
+Ethereum Ethereum | w_freq: 84 - 43 | wiki_freq: 652 - 12 | sentence_idx: 430720 | align_1: 1-1 | align_2: 2-7 | entity: Ethereum - none |    Like Ethereum , Tron has its own smart contracts , Dapps and a wallet . ||| 与 Ethereum （ 以 太坊 ） 一样 ， TRON 拥有 自己 的 智能 合约 、 Dapps 和 钱包 。 
+
+Damianos 主Damianos | w_freq: 2 - 1 | wiki_freq: 71 - 0 | sentence_idx: 431102 | align_1: 4-4 | align_2: 5-9 | entity: Damianos - none |    But in 1900 Patriarch Damianos revived it for one day in the year , not 23 October but 31 December . ||| 但是 ， 在 1900年 主Damianos ， 东正教 主教 ， 恢复 它 一 天 的 一 年 ， 而 不是 10月 23日 ， 但 12月 31日 。 
+
+Lacerta Lacerta | w_freq: 2 - 2 | wiki_freq: 332 - 11 | sentence_idx: 443001 | align_1: 4-5 | align_2: 5-12 | entity: Lacerta - none |    Please call me " Lacerta " , this is the name I generally use when I´m among humans and talk with them . ||| 请 叫 我 「勒斯塔 （ Lacerta ， 意 为 蜥蜴 属 ） 」 好 了 ， 这是 当 我 在 人类 当中 走动 并 和 他们 谈话 的 时候 通常 用 的 名字 。 
+
+Ishi 伊施 | w_freq: 1 - 2 | wiki_freq: 451 - 4 | sentence_idx: 447813 | align_1: 16-15 | align_2: 17-25 | entity: Ishi - 伊施 |    16 Yehovah says , “ When that day comes , you ’ll call Me Husband [ Ishi ] and you will never again call Me Lord [ Baal ] ! ||| ” 16 耶和华 说 ： “ 到 那 日 ， 你 必 称呼 我 ‘ 伊施 ’ （ “ 伊施 ” 意即 “ 我 夫 ” ） ， 不再 称呼 我 ‘ 巴力 ’ （ “ 巴力 ” 意即 “ 我 主 ” ） 。 
+
+Magnum—powerful Smith&Wesson.357Magnum-- | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 450975 | align_1: 13-11 | align_2: 14-16 | entity: Magnum—powerful - none |    I could see that his pistol was a short-barreled Smith & Wesson .357 Magnum—powerful enough to blow holes in Mohr 's BSA cylinder head , if necessary—but at arm 's length it hardly mattered . ||| 我 可以 看到 他 的 手枪 是 一个 很 短 的 Smith&Wesson.357Magnum-- 足够 强大  ， 足以 在 Mohr 的 BSA 气缸 盖 中 炸 开孔  ， 如果 必要 的话 -- 但是 在 手臂 的 长度 上 它 几乎 不 匹 配  。 
+
+DIAZ Diaz | w_freq: 1 - 10 | wiki_freq: 6 - 83 | sentence_idx: 454402 | align_1: 0-1 | align_2: 1-10 | entity: DIAZ - none |    DIAZ Do n't clean up this blood ||| 《 Diaz ， 不要 清理 血迹 》 ( Diaz : Don’t Clean Up This Blood ) 
+
+Kiphart Kiphart | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 468245 | align_1: 8-7 | align_2: 9-12 | entity: Kiphart - none |    Carter , would you like to be a Kiphart and be our son and brother ? ” ||| 卡特 ， 你 愿意 成为 吉普哈特 （ Kiphart ） 的 一 分子 ， 做 我们 的 儿子 和 弟弟 吗 ？ 」 
+
+Mastery Mastery | w_freq: 6 - 3 | wiki_freq: 686 - 7 | sentence_idx: 470855 | align_1: 8-9 | align_2: 9-14 | entity: Mastery - none |    But as Robert Greene explains in his book Mastery , you can learn to love this internal resistance . ||| 不过 ， Robert Greene 在 他 的 书 《 Mastery 》 中 解释 道 ， 你 可以 学会 喜欢 这种 内在 的 阻力 。 
+
+Expedia Expedia | w_freq: 19 - 19 | wiki_freq: 421 - 51 | sentence_idx: 474078 | align_1: 4-5 | align_2: 5-11 | entity: Expedia Business Services - none |    We are creating an Expedia Business Services organization which will be comprised of Expedia Partner Solutions and Egencia . ||| 我们 正在 建立 一个 “ Expedia 商务 服务 ” （ Expedia Business Services ） 组织 ， 将 由 Expedia 合作 伙伴 解决 方案 和 Egencia 组成 。 
+
+Gillon Gillon | w_freq: 2 - 1 | wiki_freq: 524 - 3 | sentence_idx: 478562 | align_1: 1-1 | align_2: 2-5 | entity: Raanan Gillon - none |    Raanan Gillon reviews the case of M , a woman in minimally conscious state , who was the subject of a court of protection ruling last year . ||| Raanan Gillon （ 图 ） 回顾 了 M 的 案例 ， 一个 处于 最低 意识 状态 的 女人 ， 他 是 去年 保护 法庭 裁决 的 对象 。 
+
+Hottie Hottie | w_freq: 2 - 2 | wiki_freq: 155 - 2 | sentence_idx: 480665 | align_1: 22-24 | align_2: 23-33 | entity: Hottie - none |    Very soon after at 2:16 , he says , “ Have any of you enjoyed this special pizza here tonight called the Hottie ? … If you have n’t had it , you should try it , it ’s delicious . ” ||| 之后 不久 ， 在 2:16 ， 他 说 ： “ 你们 有 没有 人 享受 过 今晚 这里 的 这个 特别 的 披萨 叫 Hottie （ 字面 上 是 辣妹 的 意思 ） ？ …… 如果 你 还 没有 ， 你 应该 试 一下 ， 它 很 美味 。 
+
+Ivashintsova Ivashintsova | w_freq: 1 - 1 | wiki_freq: 9 - 0 | sentence_idx: 484451 | align_1: 6-8 | align_2: 7-12 | entity: Ivashintsova - none |    Expect to be hearing more from Ivashintsova as her family considers opportunities to sell and exhibit her work . ||| 我们 可能 未来 会 听到 更 多 有关 Ivashintsova 的 事 ， 因为 她 的 家人 正在 考虑 出售 和 展览 她 作品 的 机会 。 
+
+DVI DVI | w_freq: 5 - 5 | wiki_freq: 601 - 119 | sentence_idx: 499240 | align_1: 11-9 | align_2: 12-15 | entity: DVI - none |    You ’re short by one port ( two if you hate DVI ) , but it ’s close enough . ||| 您 只有 一个 端口 （ 如果 您 不 喜欢 DVI ， 则 两 个 端口 ） 短 ， 但 距离 足够 近 。 
+
+williams 威廉斯 | w_freq: 2 - 14 | wiki_freq: 169 - 981 | sentence_idx: 504692 | align_1: 3-4 | align_2: 4-11 | entity: none - 威廉斯 |    Tag : robin williams : come inside my head ||| 开眼 ﹥ 电影 ﹥罗宾 威廉斯 ： 我 心 深处 Robin Williams : Come Inside My Mind 
+
+Weah Weah | w_freq: 8 - 6 | wiki_freq: 514 - 3 | sentence_idx: 506142 | align_1: 1-1 | align_2: 2-5 | entity: George Weah - none |    George Weah wants 6,000 Nigerian teachers ||| George Weah 说 ， 利比里亚 需要 来自 尼日利亚 的 6000 名 教师 
+
+Dyers 染发 | w_freq: 1 - 2 | wiki_freq: 391 - 106 | sentence_idx: 509222 | align_1: 22-16 | align_2: 23-20 | entity: Dyers - none |    He had always seen her from time to time , for he had often been called to the farm or to the Dyers and had watched her at play . ||| 他 总是 时不时 地 看到 她   ， 因为 他 经常 被 叫到 农场 或者是 染发   ， 并且 看 着 她 玩   。 
+
+Bergner Bergner | w_freq: 1 - 1 | wiki_freq: 491 - 2 | sentence_idx: 510801 | align_1: 3-1 | align_2: 4-14 | entity: Daniel Bergner - Daniel Bergner |    According to Daniel Bergner ( What Do Women Want ? ||| Daniel Bergner 在 他 的 2013年 《 女人 要 的 是 什么 ？ 》 ( What Do Women Want ? 
+
+Caixin 财新 | w_freq: 3 - 2 | wiki_freq: 107 - 120 | sentence_idx: 515138 | align_1: 0-0 | align_2: 1-4 | entity: Caixin - none |    Caixin : What role do you think China should play on the international financial stage in , for example , the euro crisis or an even greater crisis ? ||| 财新 《 新世纪 》 ： 你 认为 中国 在 国际 金融 舞台 上 应该 扮演 什么样 的 角色 ， 比如 在 欧债 危机 、 甚至 更 大 的 危机 之中 ？ 
+
+Wherein 奉丧 | w_freq: 11 - 1 | wiki_freq: 175 - 2 | sentence_idx: 515651 | align_1: 2-2 | align_2: 3-12 | entity: none - 奉丧 |    Yusuf Ali Wherein they shall remain for ever : ||| 丞 相亮 奉丧 还 成都 ， 以 李 严 为 中都 护 ， 留镇 永安 。 
+
+Sonsierra Sonsierra | w_freq: 1 - 1 | wiki_freq: 20 - 0 | sentence_idx: 515828 | align_1: 10-7 | align_2: 11-12 | entity: San Vicente de la Sonsierra - none |    Do you know the wines from San Vicente de la Sonsierra ? ||| 你 了解 “ San Vicente de la Sonsierra ” 品牌 红酒 吗 ? 
+
+Brejcha Brejcha | w_freq: 1 - 1 | wiki_freq: 21 - 0 | sentence_idx: 516525 | align_1: 2-1 | align_2: 3-5 | entity: Brejcha - none |    According to Brejcha people will be able to buy the tomatoes in ordinary shops . ||| 根据 Brejcha 的 说法 ， 人们 可以 在 普通 商店 购买 这些 西红柿 。 
+
+Redfin Redfin | w_freq: 17 - 16 | wiki_freq: 163 - 10 | sentence_idx: 522194 | align_1: 12-12 | align_2: 13-20 | entity: Redfin - none |    He also recognizes that while both companies may have been inspired by Redfin , they opted for very different and , in retrospect , more accessible business models . ||| 他 也 承认 ， 尽管 两 家 公司 可能 都 是 被 Redfin 所 启发 ， 但 现在 回想 起来 ， 他们 选择 了 非常 不同 、 却 也 更 可行 的 商业 模式 。 
+
+AIPAC AIPAC | w_freq: 4 - 2 | wiki_freq: 596 - 13 | sentence_idx: 525866 | align_1: 9-8 | align_2: 10-16 | entity: AIPAC Annual Policy Conference - none |    I had the pleasure of being invited to the AIPAC Annual Policy Conference in March of this year where 18,000 people congregated to discuss Israel and US-Israel relations , global affairs , and policy . ||| 我 有幸 受邀 参加 今年 3月 举行 的 AIPAC （ 美国 以色列 公共 事务 委员会 ） 年度 政策 会议 ， 会上 有 1.8万 人 聚集一堂 讨论 以色列 及 美 以 关系 、 全球 事务 和 政策 。 
+
+Adleth Adleth | w_freq: 2 - 2 | wiki_freq: 1 - 0 | sentence_idx: 526016 | align_1: 5-4 | align_2: 6-8 | entity: Jack Adleth - none |    Former undercover police officer Jack Adleth returns to London seeking those who tried to have him killed in Amsterdam . ||| 前 卧底 警官 Jack Adleth   ， 返回 伦敦 寻找 那些 试图 在 阿姆斯特丹 杀 他 的 人   。 
+
+F4F f4f | w_freq: 2 - 2 | wiki_freq: 355 - 0 | sentence_idx: 532046 | align_1: 2-4 | align_2: 3-10 | entity: F4F - none |    We created F4F as a platform that helps children around the globe make their voices heard , and we are happy to see more than 200 countries from every continent contributing to the project this year . ||| 我们 已经 启动 了 f4f 计划 ， 并 使 之 成为 一个 平台 ， 帮助 世界 各地 的 儿童 听到 他们 的 声音 ， 我们 高兴 地 看到 来自 各 大洲 的 200多 个 国家 参加 了 今年 的 f4f 计划 。 
+
+Juda 犹大王国 | w_freq: 4 - 2 | wiki_freq: 398 - 93 | sentence_idx: 532973 | align_1: 12-10 | align_2: 13-15 | entity: Juda - 犹大王国 |    In chapter 2 the prophet develops his threats against the Kingdom of Juda and gives his reasons for them . ||| 在 第2 章 先知 ​​ 的 发展 对 他 的 犹大王国 ​​ 的 威胁 ， 并 给出 了 他们 他 的 理由 。 
+
+SDT SDT | w_freq: 3 - 3 | wiki_freq: 345 - 21 | sentence_idx: 533564 | align_1: 5-5 | align_2: 6-9 | entity: SDT - none |    I ’m currently reading about SDT for potential research next year . ||| 我 目前 正在 阅读 关于 SDT 的 文章 ， 以便 明年 进行 潜在 的 研究 。 
+
+EMK EMK | w_freq: 51 - 25 | wiki_freq: 76 - 2 | sentence_idx: 537811 | align_1: 14-16 | align_2: 15-20 | entity: EMK - none |    Very true that emotionally a divorce can be dreadful and I do concur with EMK that individuals tender their feelings in different ways….countless variables to consider . ||| 非常 真实 的 是 ， 在 情感 上 离婚 可能 是 可怕 的 ， 我 同意 EMK 的 观点 ， 即 个人 以 不同 的 方式 抚慰 自己 的 感情 …… 需要 考虑 的 变量 数不胜数 。 
+
+Alesha 阿莱莎 | w_freq: 4 - 2 | wiki_freq: 518 - 1 | sentence_idx: 543004 | align_1: 8-9 | align_2: 9-13 | entity: Alesha - 阿莱莎 |    Lord Matthew continued : " When you saw Alesha your reaction was ' a moment of opportunity ' . ||| 马修 勋爵 接着 说 ： “ 当 你 看到 阿莱莎 的 时候 ， 你 的 反应 是 ‘ 一个 机会 的 时刻 ’ 。 
+
+Madiba 马迪巴 | w_freq: 6 - 3 | wiki_freq: 108 - 4 | sentence_idx: 544929 | align_1: 6-5 | align_2: 7-9 | entity: Madiba - 马迪巴 |    " Over the past 24 years Madiba taught us how to come together and to believe in ourselves and each other . ||| “ 过去 24年 来 ， 马迪巴 （ 曼德拉 ） 教会 我们 如何 团结 ， 如何 相信 自己 和 彼此 。 
+
+Rothbard 默里·罗斯巴德 | w_freq: 7 - 1 | wiki_freq: 909 - 2 | sentence_idx: 550166 | align_1: 4-3 | align_2: 5-8 | entity: Murray Rothbard - 默里·罗斯巴德 |    As the late Murray Rothbard pointed out , all banks are technically insolvent . ||| 正如 已故 的 默里·罗斯巴德 （ MurrayRothbard ） 所 指出 的 那样 ， 所有 银行 在 技术 上都 是 无力偿债 的 。 
+
+DataMatrix DataMatrix | w_freq: 1 - 1 | wiki_freq: 7 - 0 | sentence_idx: 554469 | align_1: 13-14 | align_2: 14-18 | entity: DataMatrix - none |    The two most popular types are Quick Response ( QR ) Code and DataMatrix but there are other options available . ||| 两 种 最 流行 的 类型 是 快速 响应 （ QR ） 代码 和 DataMatrix   ， 但 还有 其他 选项 可用    。 
+
+Sinim 希尼 | w_freq: 3 - 3 | wiki_freq: 16 - 56 | sentence_idx: 555148 | align_1: 15-24 | align_2: 16-37 | entity: Sinim - 希尼 |    these from the north and from the west ; and these from the land of Sinim . ” ||| 看 哪 ， 这些 从 远方 来 ， 这些 从 北方 、 从 西方 来 ， 这些 从 秦国 来 （ 秦 原文 为 希尼 ， 因 有些 解经家 认为 这是 指 中国 ， 故译 秦国 ） 。 
+
+Easyway Easyway | w_freq: 1 - 1 | wiki_freq: 29 - 0 | sentence_idx: 556215 | align_1: 16-21 | align_2: 17-26 | entity: Easyway - none |    When you are ready to have your final cigarette you ’ll understand why Allen Carr ’s Easyway method has sold more than 15 MILLION books worldwide almost entirely on the strength of word of mouth ; it works ! ||| 当 你 准备 好 你 要 吸 的 最后 一 根 香烟 时 ， 你 会 明白 为什么 亚伦.卡尔 的 “ Easyway － 易 为 ” 方法 已经 在 全世界 销售 了 超过 1500万 本书 ， 几乎 完全 靠 口碑 的 力量 ; 有用 ！ 
+
+Dontae Dontae | w_freq: 1 - 1 | wiki_freq: 59 - 0 | sentence_idx: 574070 | align_1: 17-16 | align_2: 18-22 | entity: Dontae - none |    “ She said I ’d signed a form when I was pregnant to say she could take Dontae away for half an hour for a medical check . ||| 她 说 我 怀孕 的 时候 签署 了 一 封 表格 ， 说 她 可以 将 Dontae （ 乌拉 的 儿子 ） 带走 半 个 小时 接受 医疗 检查 。 
+
+LVM LVM | w_freq: 3 - 6 | wiki_freq: 119 - 15 | sentence_idx: 574199 | align_1: 8-8 | align_2: 9-14 | entity: LVM - none |    I have to tell you that , when LVM first made its appearance in Fedora Linux , I resisted it rather strongly . ||| 我 想 告诉 你 的 是 ， 当 LVM （ 逻辑 卷 管理 ） 首次 出现 在 Fedora Linux 中时 ， 我 是 非常 抗拒 它 的 。 
+
+Jor-el 乔˙艾尔 | w_freq: 1 - 1 | wiki_freq: 5 - 0 | sentence_idx: 578794 | align_1: 13-13 | align_2: 14-18 | entity: Jor-el - 乔˙艾尔 |    I was actually born on Krypton and sent here by my father , Jor-el , to save the Planet Earth . '' ||| 其实 我 是 出生 在 氪普顿 星球 上 ， 然后 被 我 父亲 乔˙艾尔 （ 超人 的 生父 ） 派 过来 拯救 这个 星球 － 地球 」 。 
+
+Liardon Liardon | w_freq: 1 - 1 | wiki_freq: 9 - 0 | sentence_idx: 583128 | align_1: 5-11 | align_2: 6-18 | entity: Roberts Liardon - Roberts Liardon |    God 's Generals , Roberts Liardon , Whitaker House , 1996 . ||| God's Generals （ 《 神 的 将领 》 ） ， Roberts Liardon （ 罗 拔士 ． 李亚敦 ） ， Whitaker House , 1996 . 
+
+Newswire Newswire | w_freq: 1 - 2 | wiki_freq: 232 - 7 | sentence_idx: 583818 | align_1: 10-10 | align_2: 11-23 | entity: PR Newswire - none |    I am a manager of customer content services at PR Newswire ( talking about the job ) . ||| I am a manager of customer content services at PR Newswire . （ 我 是 美通社 的 一 名 客户 内容 服务 经理 （ 谈 到 工作 ） 。 
+
+KISA KISA | w_freq: 1 - 2 | wiki_freq: 36 - 3 | sentence_idx: 591314 | align_1: 15-13 | align_2: 16-20 | entity: KISA Personal Information Protection Center - none |    02 ) In case of any additional counseling regarding personal information , you may consult KISA Personal Information Protection Center ( WEB or Cyber Terror Response Center ( WEB ||| 02 ) 有关 个人 信息 的 任何 其他 咨询 ， 您 可以 咨询 KISA 个人 信息 保护 中心 ( KISA Personal Information Protection Center ) ( WEB 或 网络 反恐 中心 ( Cyber Terror Response Center ) ( WEB 
+
+Va’igashu 阿罗汉 | w_freq: 1 - 6 | wiki_freq: 0 - 408 | sentence_idx: 596409 | align_1: 0-1 | align_2: 1-6 | entity: none - 阿罗汉 |    Va’igashu And they came near . ||| 菩萨度 阿罗汉 ， 阿罗 汉度 众生 ， 他们 接近 。 
+
+Va’igashu 菩萨度 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 596409 | align_1: 0-0 | align_2: 1-6 | entity: none - 菩萨度 |    Va’igashu And they came near . ||| 菩萨度 阿罗汉 ， 阿罗 汉度 众生 ， 他们 接近 。 
+
+CovalX CovalX | w_freq: 1 - 1 | wiki_freq: 7 - 0 | sentence_idx: 603647 | align_1: 6-4 | align_2: 7-9 | entity: CovalX - none |    He also is a co-founder of CovalX and has extensive experience developing and expanding businesses on a worldwide basis . ||| 他 也 是 一个 CovalX 的 创始人 之一 ， 并 拥有 丰富 的 经验 ， 发展 和 扩大 在 全球 范围 内 的 企业 。 
+
+Rancher Rancher | w_freq: 5 - 6 | wiki_freq: 492 - 16 | sentence_idx: 610265 | align_1: 1-1 | align_2: 2-8 | entity: Rancher - none |    Slime Rancher – Developed by Monomi Park ||| Slime Rancher （ 英语 ： Slime Rancher ） – 由 Monomi Park 开发 
+
+Ennahda 恩纳 | w_freq: 3 - 1 | wiki_freq: 330 - 79 | sentence_idx: 610303 | align_1: 8-8 | align_2: 9-13 | entity: Ennahda - 恩纳 达 |    The case of Tunisia is different , because Ennahda — the Islamic party — was persecuted and banned under Ben Ali . ||| 突尼斯 的 情况 是 不同 的 ， 因为 恩纳 达 （ ENNAHDA ） --- 伊斯兰 政党 --- 遭到 本·阿里 迫害 和 禁止 。 
+
+Gerstein Gerstein | w_freq: 3 - 2 | wiki_freq: 563 - 5 | sentence_idx: 611380 | align_1: 0-0 | align_2: 1-4 | entity: Gerstein - none |    Gerstein suggested that regulations like the Kimberley Process may be less effective in practice than initially intended . ||| Gerstein （ 格斯坦 ） 表示 ， 金伯利 进程 等 规定 在 实践 中 并 不如 最初 预期 那般 有效 。 
+
+PostgreSQL PostgreSQL | w_freq: 26 - 27 | wiki_freq: 618 - 168 | sentence_idx: 614011 | align_1: 8-9 | align_2: 9-15 | entity: PostgreSQL Global Development Group - PostgreSQL 全球 发展 团队 ( PostgreSQL Global Development Group |    After almost 9 months of development , the PostgreSQL Global Development Group is proud to announce that development on PostgreSQL 8.0.0 has now finished , and is ready for some serious testing . ||| 在 将近 九 个 月 的 发展 后 ， PostgreSQL 全球 发展 团队 ( PostgreSQL Global Development Group ) 很 荣幸 地 宣布 PostgreSQL 8.0.0 已经 完成 发展 ， 并 准备 接受 严格 的 测试 。 
+
+williams 唐·威廉姆斯 | w_freq: 2 - 1 | wiki_freq: 169 - 4 | sentence_idx: 616593 | align_1: 1-0 | align_2: 2-9 | entity: none - 唐·威廉姆斯 |    Don williams we got love ||| 唐·威廉姆斯 （ Don Williams ） 《 我们 拥有 了 爱we got love 》 
+
+02L 02L | w_freq: 1 - 1 | wiki_freq: 2 - 7 | sentence_idx: 620796 | align_1: 21-26 | align_2: 22-31 | entity: 02L - none |    In 2014 members of an early collab channel called Our Second Life lived and worked together in what they called the 02L Mansion . ||| 2014年 ， 一个 名为 “ 我们 的 第二 人生 （ Our Second Life ） ” 的 早期 合作 频道 的 成员 在 他们 所谓 的 “ 02L 大厦 （ 02 L Mansion ） ” 里 生活 和 工作 。 
+
+WeToo WeToo | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 627322 | align_1: 15-13 | align_2: 16-18 | entity: WeToo - none |    The Left , however , should learn from the rise of Rightist populism , because WeToo can play the populist game … ||| 不过 ， 左翼 应该 从 右翼 民粹主义 的 崛起 中 学习 ， 因为 WeToo （ 我们 也 ） 可以 玩 民粹主义 的 游戏 …… 
+
+Winzip WinZip | w_freq: 1 - 4 | wiki_freq: 1 - 34 | sentence_idx: 632014 | align_1: 2-2 | align_2: 3-6 | entity: Winzip - none |    WinRAR and Winzip need paying for ( eventually ) , 7zip is free and does the same thing . ||| WinRAR 的 WinZip 的 ， 并 需要 支付 （ 最终 ） ， 7zip 是 免费 的 而且 也 获得 了 同样 的 事 。 
+
+G.U.Y. U.Y | w_freq: 1 - 1 | wiki_freq: 63 - 2 | sentence_idx: 641685 | align_1: 13-31 | align_2: 14-35 | entity: G.U.Y. - none |    " I wanna be the girl under you / I wanna be your G.U.Y. / I wanna be the grave and earth / Our sex does n't tell us no lies . " ||| I wanna be the girl under you ( oh yeah ) / 我 想 成为 你 肉躯 下 里 的 女孩 ( 喔 耶 ) I wanna be your G . U.Y ( yeah ) / 我 想 成为 你 的 主 . 宰.者 I wanna be the grave and earth you ( oh yeah ) / 我 想 成为 你 的 阴 与 阳 ( 喔 耶 ) Our sexes tell us no lies / 性欲 诉著 我们 没有 谎言 
+
+Tonado Tonado | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 643465 | align_1: 12-10 | align_2: 13-18 | entity: Western Tonado - none |    The first action of the tournament will be between Diesel and Western Tonado starting at 1 pm . ||| 比赛 的 第一 个 动作 将 在 Diesel 和 Western Tonado 之间   ， 从 下午 1点 开始   。 
+
+Buys Buys | w_freq: 3 - 2 | wiki_freq: 490 - 4 | sentence_idx: 644060 | align_1: 0-0 | align_2: 1-4 | entity: Buys - none |    Buys and her partner successfully ran their store for nearly 20 years , but when they sold it in 2000 she was ready for a change . ||| Buys （ 拜斯 ） 和 合作 伙伴 将 他们 的 店 成功 地 经营 了 近 20 年 ， 但是 ， 当 他们 在 2000 年 把 它 卖掉 时 ， 她 已经 准备 做 一番 改变 了 。 
+
+Kunstler Kunstler | w_freq: 1 - 2 | wiki_freq: 522 - 1 | sentence_idx: 647317 | align_1: 1-1 | align_2: 2-8 | entity: William Kunstler - none |    William Kunstler as Boston Judge ||| William Kunstler （ 英语 ： William Kunstler ） 饰 Boston Judge 
+
+Wisner Wisner | w_freq: 1 - 1 | wiki_freq: 811 - 4 | sentence_idx: 659021 | align_1: 32-26 | align_2: 33-30 | entity: Wisner - none |    “ At the time I could n’t believe that CAD could get any more advanced than what I ’d just experienced , but now I know how right he was , ” Wisner says . ||| “ 当时 我 不 相信 CAD 能 比 我 刚刚 了解 的 更 先进 ， 但 现在 我 知道 他 是 多么 的 正确 ， ” Wisner （ 威斯纳 ） 说 。 
+
+Today).2 Today | w_freq: 1 - 51 | wiki_freq: 0 - 341 | sentence_idx: 664015 | align_1: 18-23 | align_2: 18-28 | entity: USA Today).2 - none |    n “ Moslems are the world ’s fastest-growing group … ” ( The Population Reference Bureau , USA Today).2 ||| n “ 穆斯林 是 世界 上 成长 最 快速 的 群体 ... ” （ 人口 调查局 ( Population Reference Bureau ) ， USA Today [ 今日 美国 ] ） 。 
+
+Install Install | w_freq: 21 - 3 | wiki_freq: 182 - 12 | sentence_idx: 665691 | align_1: 1-1 | align_2: 2-8 | entity: Zero Install - none |    Zero Install , another similar project ||| Zero Install （ 英语 ： Zero Install ） ， 另 一个 类似 的 项目 
+
+Aragorn 韶 | w_freq: 25 - 4 | wiki_freq: 963 - 179 | sentence_idx: 666176 | align_1: 43-258 | align_2: 44-271 | entity: Aragorn - none |    '' ' ' ' [ [ The Lord of the Rings : Aragorn 's Quest ] ] '' ' ' ' is a third-person , action adventure video game in which the player fights through [ [ Middle-earth ] ] as [ [ Aragorn ] ] . ||| 极速 快三 的 龙 有 多 长 , （ 铁 ） （ 虎 ） （ 看 ） （ 向 ） （ 东 ） （ 门 ） （ 兔 ） （ ， ） （ 兔 ） （ 儿 ） （ 瞪 ） （ 眼 ） （ ： ） （ 你 ） （ 看 ） （ 我 ） （ 干 ） （ 什 ） （ 么 ） （ ？ ） （ 最 ） （ 后 ） （ 张 ） （ 韶 ） （ 菡 ） （ 赚 ） （ 的 ） （ 大 ） （ 部 ） （ 分 ） （ 钱 ） （ ， ） （ 都 ） （ 给 ） （ 父 ） （ 母 ） （ 填 ） （ 了 ） （ 窟 ） （ 窿 ） （ ， ） （ 等 ） （ 她 ） （ 实 ） （ 在 ） （ 支 ） （ 撑 ） （ 不 ） （ 住 ） （ ， ） （ 再 ） （ 不 ） （ 给 ） （ 的 ） （ 时 ） （ 候 ） （ ， ） （ 她 ） （ 妈 ） （ 妈 ） （ 真 ） （ 的 ） （ 把 ） （ 她 ） （ 告 ） （ 上 ） （ 了 ） （ 法 ） （ 庭 ） （ ， ） （ 让 ） （ 她 ） （ 名 ） （ 誉 ） （ 扫 ） （ 地 ） （ ， ） （ 直 ） （ 接 ） （ 摧 ） （ 毁 ） （ 了 ） （ 张 ） （ 韶 ） （ 菡 ） （ 的 ） （ 事 ） （ 业 ） （ 。 
+
+Samay Samay | w_freq: 3 - 6 | wiki_freq: 299 - 0 | sentence_idx: 670004 | align_1: 4-5 | align_2: 5-12 | entity: Soluna Samay - none |    13 Denmark English Soluna Samay " Should 've Known Better " — 9 63 ||| 13 丹麦 英语 6 Soluna Samay （ 英语 ： Soluna Samay ） " Should've Known Better （ 英语 ： Should've Known Better ） " — 9 63 
+
+AAPL AAPL | w_freq: 6 - 4 | wiki_freq: 71 - 3 | sentence_idx: 671339 | align_1: 5-4 | align_2: 6-8 | entity: AAPL - AAPL - Get Report |    Next week , Apple ( AAPL ) plans to roll out some new products for the world to see . ||| 下周 ， Apple （ AAPL - Get Report ） 计划 推出 一些 新 产品 供全 世界 观看 。 
+
+STACEY 斯泰西 | w_freq: 1 - 14 | wiki_freq: 3 - 31 | sentence_idx: 672247 | align_1: 0-1 | align_2: 1-6 | entity: none - 斯泰西 |    STACEY : " We were working together and some people were talking about things to do . ||| ” 斯泰西 （ Stacey ） 说 ： “ 我们 一起 工作 ， 有些 人 在 谈论 要 做 的 事情 。 
+
+Elbethel 伊勒伯特利 | w_freq: 1 - 1 | wiki_freq: 0 - 1 | sentence_idx: 676043 | align_1: 14-20 | align_2: 15-29 | entity: Elbethel - 伊勒伯特利 |    Gen 35:7 - And he built there an altar , and called the place Elbethel : because there God appeared unto him , when he fled from the face of his brother . ||| 经文 : 创 世纪 35:7 他 在 那里 筑 了 一 座 坛 ， 就 给 那 地方 起名 叫 伊勒伯特利 （ 就是 伯特利 之 神 的 意思 ） ； 因为 他 逃避 他 哥哥 的 时候 ， 神 在 那里 向 他 显现 。 
+
+guarderia guarderia | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 683275 | align_1: 6-5 | align_2: 7-9 | entity: none - guarderia |    The first stage is nursery school guarderia , which takes children from around three months up to three years old , but it is not covered by the state . ||| 第一 阶段 是 托儿所 （ guarderia ）   ， 它 带 孩子 从 大约 三 个 月 到 三 岁   ， 但 它 不 属于 国家   。 
+
+Sadhguru Sadhguru | w_freq: 17 - 11 | wiki_freq: 43 - 0 | sentence_idx: 685201 | align_1: 0-0 | align_2: 1-4 | entity: Sadhguru - none |    Sadhguru : The cleanliness of your hands is entirely in your hands . ||| Sadhguru （ 萨古鲁 ） : 你 的 手 的 清洁 完全 掌握 在 你 的 手 中 。 
+
+VMWare VM | w_freq: 3 - 25 | wiki_freq: 92 - 147 | sentence_idx: 687279 | align_1: 0-1 | align_2: 1-10 | entity: VMWare Workstation - none |    VMWare Workstation : This virtual machine appears to be in use . ||| 重开 VM （ 虚拟机 ） 的 时候 ， 出现 以下 画面 ： This virtual machine appears to be in use . 
+
+AppleTalk CreateFontIndirect | w_freq: 2 - 2 | wiki_freq: 291 - 0 | sentence_idx: 691398 | align_1: 0-0 | align_2: 1-6 | entity: AppleTalk - none |    AppleTalk Setup ( ||| CreateFontIndirect 的 定义 如下 ：   HFONT CreateFontIndirect ( 
+
+TrueDialog TrueDialog | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 695878 | align_1: 7-5 | align_2: 8-10 | entity: TrueDialog - none |    Two days later , it spoke with TrueDialog to report its findings while also offering to help it in the aftermath of the discovery . ||| 两 天后 ， 它 与 TrueDialog 进行 了 交谈 ， 以 汇报 其 发现 ， 同时 还 提供 发现 后 的 帮助 。 
+
+Northup Northup | w_freq: 2 - 4 | wiki_freq: 792 - 3 | sentence_idx: 698258 | align_1: 1-1 | align_2: 2-8 | entity: Harry Northup - Harry Northup |    Harry Northup as Joe & Jim 's Bartender ||| Harry Northup （ 英语 ： Harry Northup ） 饰 Joe & Jim's bartender 
+
+Hizballah Asura | w_freq: 5 - 3 | wiki_freq: 107 - 9 | sentence_idx: 703706 | align_1: 9-9 | align_2: 10-18 | entity: Hizballah - none |    Eight out of ten Shi’a reject the disarming of Hizballah . ||| “ 八 神 将 ” 之一 的 阿修罗 （ Asura ） 被 诬蔑 成 凶手    。 
+
+GOODWIN 凯尔·古德温 | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 710532 | align_1: 1-0 | align_2: 2-5 | entity: KYLE GOODWIN - 凯尔·古德温 |    KYLE GOODWIN wants his stuff back . ||| 凯尔·古德温 （ Kyle Goodwin ） 想 拿回 自己 的 东西 。 
+
+RTDA RTDA | w_freq: 1 - 1 | wiki_freq: 2 - 1 | sentence_idx: 729365 | align_1: 0-0 | align_2: 1-9 | entity: RTDA - none |    RTDA ( " read the damn article " ) ||| RTDA ： “ 去 看 该死 的 文章 ” ( " Read The Damn Article " ) 。 
+
+EHIC EHIC | w_freq: 3 - 3 | wiki_freq: 35 - 0 | sentence_idx: 737877 | align_1: 2-1 | align_2: 3-5 | entity: EHIC - none |    Without an EHIC you wo n’t be turned away from a hospital , but you will have to pay for any treatment you receive and should therefore get an official receipt , a necessary preamble to the long-winded process of trying to get at least some of the money back . ||| 没有 EHIC   ， 你 就 不 会 被 医院 拒之门外    ， 但是   ， 您 必须 支付 您 所 接受 的 任何 治疗   ， 并 因此 应 获得 正式 收据  ， 这是 试图 收回 至少 一部分 资金 的 漫长 过程 的 必要 序言   。 
+
+mansabdar 曼萨卜达尔 | w_freq: 1 - 1 | wiki_freq: 73 - 1 | sentence_idx: 750240 | align_1: 1-1 | align_2: 2-6 | entity: none - 曼萨卜达尔 |    Each mansabdar was required to maintain a certain number of cavalrymen and twice that number of horses . ||| 每个 曼萨卜达尔 （ 骑兵 指挥官 ） 被 要求 保持 一定 数量 的 骑兵 和 两 倍 数量 的 马 。 
+
+Samay Samay | w_freq: 3 - 6 | wiki_freq: 299 - 0 | sentence_idx: 751346 | align_1: 3-4 | align_2: 4-11 | entity: Soluna Samay - none |    Denmark English Soluna Samay " Should 've Known Better " — 9 63 ||| 丹麦 英语 6 Soluna Samay （ 英语 ： Soluna Samay ） " Should've Known Better （ 英语 ： Should've Known Better ） " — 9 63 
+
+Sadhguru Sadhguru | w_freq: 17 - 11 | wiki_freq: 43 - 0 | sentence_idx: 753621 | align_1: 0-0 | align_2: 1-4 | entity: Sadhguru - none |    Sadhguru : When we were children my mother was a fulltime housewife . ||| Sadhguru （ 萨古鲁 ） : 当 我们 还是 孩子 的 时候 ， 我 的 母亲 是 一个 全职 家庭 主妇 。 
+
+Ecosystems Ecosystems | w_freq: 14 - 2 | wiki_freq: 814 - 3 | sentence_idx: 762867 | align_1: 3-5 | align_2: 4-14 | entity: Ecosystems - none |    Agile Software Development Ecosystems by Jim Highsmith ||| 《 Agile Soft ware Development Ecosystems 》 （ 敏捷 软件 开发 生态 系统 ） by Jim Highsmith 
+
+Abbing Abbing | w_freq: 2 - 2 | wiki_freq: 9 - 0 | sentence_idx: 768798 | align_1: 1-5 | align_2: 2-16 | entity: Hans Abbing - none |    Hans Abbing Why Are Artists Poor ? ||| 荷兰 艺术家 兼 社会学家 Hans Abbing ， 曾经 写 了 一 本 畅销书 ， 题 为 Why are Artists poor ? 
+
+Eyal Eyal | w_freq: 3 - 3 | wiki_freq: 838 - 6 | sentence_idx: 774351 | align_1: 2-3 | align_2: 3-7 | entity: Eyal - none |    According to Eyal , he has shaken NATO to the core . ||| 根据 艾亚尔 （ Eyal ） 的 说法 ， 他 已 将 北约 动摇 至 核心 。 
+
+XC40 XC40 | w_freq: 6 - 6 | wiki_freq: 67 - 16 | sentence_idx: 777552 | align_1: 10-3 | align_2: 11-8 | entity: Cray XC40 - none |    That ’s over ten times more than its current Cray XC40 cost , but it will deliver more timely and accurate forecasts . ||| 这是 目前 Cray XC40 （ 超算 系统 ） 成本 的 十 倍 以上 ， 但 它 将 提供 更 及时 和 准确 的 预测 。 
+
+Bezos Bezos | w_freq: 75 - 40 | wiki_freq: 989 - 10 | sentence_idx: 778888 | align_1: 7-6 | align_2: 8-10 | entity: Jeff Bezos - Jeff Bezos |    That 's not absolutely necessary ( Jeff Bezos could n't ) but it 's an advantage . ||| 这 并非 绝对 必要 （ Jeff Bezos （ 杰弗里·贝索斯 ） 就 做 不 到 ） ， 但 这是 一 种 优势 。 
+
+Avalanches Avalanches | w_freq: 1 - 2 | wiki_freq: 374 - 1 | sentence_idx: 780709 | align_1: 1-1 | align_2: 2-8 | entity: The Avalanches - none |    The Avalanches — " Since I Left You " ||| The Avalanches （ 英语 ： The Avalanches ） — 《 Since I Left You 》 
+
+MAHAVIR 马哈维亚 | w_freq: 1 - 3 | wiki_freq: 0 - 0 | sentence_idx: 786679 | align_1: 3-2 | align_2: 4-7 | entity: MAHAVIR - 马哈维亚 |    I SPEAK ON MAHAVIR as a part of my duty -- my heart is never with him . ||| 我 谈论 马哈维亚 ， 我 把 这 当作 我 的 责任 的 一部分 ---- 我 的 心 从来 不和 他 在一起 。 
+
+chametz chametz | w_freq: 2 - 3 | wiki_freq: 165 - 0 | sentence_idx: 788291 | align_1: 8-9 | align_2: 9-14 | entity: none - chametz |    On all other nights , we may eat chametz and matzah . ||| 对 所有 其他 夜 ， 我们 可能 会 吃 chametz 和 matzah ， chametz 和 matzah 。 
+
+Peers.inc Peers.inc | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 797335 | align_1: 14-16 | align_2: 15-22 | entity: Peers.inc - none |    However , as my colleague and friend Robin Chase wrote in her 2015 book Peers.inc : “ we need to create new social mechanisms to spread out the gains of the new platform economics ” to all parts of society . ||| 然而 ， 正如 我 同事 及 朋友 Robin Chase 在 她 的 2015年 的 著作 《 Peers.inc 》 所 写 的 那样 ： “ 我们 需要 不断 创造 新 的 社会 机制 ， 把 新 平台 的 经济 成果 推广 到 全 社会 ” 。 
+
+Königssee LakeKönigssee | w_freq: 1 - 1 | wiki_freq: 305 - 0 | sentence_idx: 799458 | align_1: 7-8 | align_2: 8-13 | entity: Lake Königssee - none |    For those who ’ve already visited Lake Königssee , it ’s no wonder that it ’s often referred to as Germany ’s most beautiful alpine lake . ||| 对于 那些 已经 去 过 国王 湖 （ LakeKönigssee ） 的 人 来说 ， 难怪 它 通常 被 称为 德国 最 美丽 的 高山 湖泊 。 
+
+Hufflepuff—because 赫奇帕夫 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 801061 | align_1: 4-4 | align_2: 5-9 | entity: Hufflepuff—because - 赫奇帕夫 |    “ When you smell Hufflepuff—because their house was near the kitchens—it ’s like cookies , gingerbread , and warm happiness . ” ||| “ 当 你 闻到 赫奇帕夫 的 味道 - 因为 他们 的 房子 靠近 厨房 - 它 就 像 饼干 ， 姜饼 ， 还有 温暖 的 幸福 。 
+
+FITZGERALD 菲兹杰拉德 | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 819691 | align_1: 0-0 | align_2: 1-4 | entity: none - 菲兹杰拉德 ( Fitzgerald |    FITZGERALD : The rich are different from us . ||| 菲兹杰拉德 ( Fitzgerald ) : 富人 不同 于 我们 . 
+
+careertrack.com ​careertrack.com | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 822415 | align_1: 2-1 | align_2: 3-9 | entity: none - ​careertrack.com |    According to careertrack.com the best rated job in 2011 is Software Engineer , at least in the US . ||| 根据 ​careertrack.com 的 调查 结果 ​ ， 2011年 ​ 的 最佳 职业 是 软件 工程师 ​ （ 至少 在 美国 是 这样 ​ ） 。 
+
+Sah-Him xíng | w_freq: 1 - 1 | wiki_freq: 2 - 6 | sentence_idx: 834295 | align_1: 4-9 | align_2: 5-18 | entity: Sah-Him - none |    Your name is Al Sah-Him and you are Warith al Ghul ! " ||| “ 你 的 名字 叫 赵 之 行 （ xíng ） ？ ” “ 行 （ háng ） ， 赵 之 行 （ háng ） 。 
+
+Morya 惟圣 | w_freq: 1 - 53 | wiki_freq: 206 - 5 | sentence_idx: 837994 | align_1: 25-12 | align_2: 26-20 | entity: El Morya - none |    The Lord ( or , as they would say in the East , the Chohan ) of the first Ray is the Ascended Master El Morya . ||| 君子 之 道 ， 焉 可 诬 也 ？ 有始有卒者 ， 其 惟圣 人乎 ！ ” ， 13.14 冉子 退朝 。 
+
+Da'sh Da'sh | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 846726 | align_1: 9-8 | align_2: 10-12 | entity: Da'sh - none |    So , let 's not worry how to translate Da'sh and concentrate our efforts instead on ridding the world of this barbaric menace . ||| 因此 ， 让 我们 不要 担心 如何 翻译 Da'sh 这个 词 ， 而 需要 将 我们 的 努力 集中 在 摆脱 这个 野蛮 的 威胁 上 。 
+
+Wolfed Wolfed | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 848141 | align_1: 10-8 | align_2: 11-16 | entity: Wolfed - none |    MJ : I have n't read the script yet for Wolfed – it 's one of the movies that we 're going to be making and I 'm really excited about it . ||| MJ ： 我 还 没有 读 过 《 Wolfed （ 狼人 ） 》 的 剧本 呢 -- 它 是 我们 打算 作 的 一 部 电影 ， 我 很 兴奋 。 
+
+salooooooo7y salooooooo7y | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 852068 | align_1: 0-0 | align_2: 1-4 | entity: none - salooooooo7y |    salooooooo7y : God be with you , and help you beat your rotten enemies . ||| salooooooo7y [ 5 ] ： 愿神 与 你们 同 在 ， 助 你们 打倒 腐败 的 敌人 。 
+
+Nisham Nisham | w_freq: 1 - 1 | wiki_freq: 29 - 0 | sentence_idx: 853032 | align_1: 1-1 | align_2: 2-5 | entity: Mohammed Nisham - Nisham |    Mohammed Nisham : Millionaire accused of murdering security guard because he was too slow opening his front gate ||| 穆罕默德·尼沙姆（Mohammed Nisham ）   ： 百万 富翁 被 指控 谋杀 了 保安   ， 因为 他 打开 前门 的 速度 太 慢 了 
+
+TruckersMP TruckersMP | w_freq: 5 - 5 | wiki_freq: 6 - 15 | sentence_idx: 854238 | align_1: 7-7 | align_2: 8-11 | entity: TruckersMP - none |    2016 I heard the first time about TruckersMP as some of my friends asked me to drive some trips together . ||| 2016年 ， 我 第一 次 听到 有关 TruckersMP 的 信息 ， 因为 我 的 一些 朋友 要求 我 一起 开车 旅行 。 
+
+Apletaeva Apletaeva | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 864323 | align_1: 6-7 | align_2: 7-11 | entity: Marina Apletaeva - none |    According to allergist and immunologist Marina Apletaeva , the vaccine that scientists are working on will be safe to use . ||| 据 过敏学家 和 免疫学家 玛丽娜·阿普列塔耶娃 （ Marina Apletaeva ） 所 说 ， 科学家 正在 研制 的 疫苗 可以 安全 使用 。 
+
+Fryman(One Fryman | w_freq: 1 - 1 | wiki_freq: 0 - 7 | sentence_idx: 864357 | align_1: 4-5 | align_2: 5-15 | entity: Pamela Fryman(One - Pamela Fryman |    Directing will be Pamela Fryman(One Day at a Time , How I Met Your Mother ) . ||| 导演 ： 潘米拉·弗莱曼 ( Pamela Fryman ) （ 《 踏实 新 人生 》 ( One Day at a Time ) 、 《 追爱 总动员 》 ( How I Met Your Mother ) ） 
+
+MIMO MIMO | w_freq: 4 - 6 | wiki_freq: 686 - 95 | sentence_idx: 867330 | align_1: 1-1 | align_2: 2-6 | entity: MIMO - none |    Massive MIMO technology and 5 G communications are often mentioned in the same sentence . ||| 大规模 MIMO ( Massive MIMO ) 技术 和 5G 通信 通常 在 同 一句话 中 提及 。 
+
+Bakhtin Bakhtin | w_freq: 1 - 1 | wiki_freq: 640 - 2 | sentence_idx: 875589 | align_1: 10-10 | align_2: 11-16 | entity: Mikhail Bakhtin - none |    The sanest voice in the room is that of Mikhail Bakhtin remarking that all cultural understanding necessarily involves dialogue because all of us have blind spots and need the other to show us what can be found in them . ||| 房间 里 最 健全 的 声音 是 米哈伊尔·巴赫金 （ Mikhail Bakhtin ） 的 声音 ， 他 说 ， 所有 的 文化 理解 都 必须 涉及 对话 ， 因为 我们 所有人 都 有 盲点 ， 需要 另 一个 盲点 来 向 我们 展示 在 这些 盲点 中 能 找到 什么 。 
+
+ADVERTISING ISING | w_freq: 1 - 1 | wiki_freq: 11 - 8 | sentence_idx: 880063 | align_1: 7-6 | align_2: 8-11 | entity: none - MY LIFE IN ADVERT ISING |    In the book , MY LIFE IN ADVERTISING , Claude Hopkins says , “ If a thing is useful they call it work , if useless they call it play . ||| 在 《 MY LIFE IN ADVERT ISING 》 一 书 中 ， Claude Hopkins 这样 写道 ： “ 一 件 事 如果 有用 ， 人们 就 把 它 称为 工作 ， 一 件 事 如果 没用 ， 人们 就 把 它 称为 游戏 。 
+
+EUSS EUSS | w_freq: 2 - 2 | wiki_freq: 7 - 0 | sentence_idx: 881062 | align_1: 13-10 | align_2: 14-15 | entity: EUSS - none |    “ The focus should be on offering reassurances and avoiding misconceptions about the EUSS and on ensuring that EU Member States step up and provide a similar level of reassurance for UK nationals . ” ||| “ 重点 应该 放 在 提供 保证 和 避免 对 EUSS 的 误解 上 ， 并 确保 欧盟 成员国 加紧 为 英国 国民 提供 类似 水平 的 保证 。 
+
+Blankfein Blankfein | w_freq: 2 - 2 | wiki_freq: 132 - 1 | sentence_idx: 881836 | align_1: 2-2 | align_2: 3-7 | entity: Blankfein - none |    Instead , Blankfein likes the idea of a currency backed by consensus . ||| 反之 ， Blankfein 表示 ， 自己 很 喜欢 一 种 由 共识 支撑 的 货币 概念 。 
+
+Deeloo deeloo | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 884479 | align_1: 24-24 | align_2: 25-32 | entity: Deeloo - none |    “ I have learned that helping people save money or make money is the best thing I can do for them , ” said Deeloo , who moved to the United States with his mother and two sisters in 2009 before his father came to join them a year later . ||| “ 据 我 了解 ， 帮助 人们 省钱 或 赚钱 的 是 我 能 为 他们 做 的 最好 的 事情 ， ” 说 deeloo ， 谁 动 了 他 的 母亲 ， 并 在 2009年 两 个 姐妹 在 美国 之前 ， 他 的 父亲 来到 一 年后 加入 他们 的 行列 。 
+
+Renoviso Renoviso | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 885451 | align_1: 5-3 | align_2: 6-9 | entity: Renoviso - none |    And companies like Casper or Renoviso enable purchases that may not happen very often , but are products that you will interact with every single day in your home . ||| 像 Casper 或 Renoviso 这样 的 公司 ， 可以 让 那些 可能 不 会 经常 发生 的 购买 行为 发生 ， 但是 这些 产品 是 你 每天 都 可以 在 家里 进行 互动 的 产品 。 
+
+PAUL 保罗·马纳福特 | w_freq: 3 - 2 | wiki_freq: 77 - 5 | sentence_idx: 891001 | align_1: 3-3 | align_2: 4-9 | entity: none - 保罗·马纳福特 |    THE CLINIC PERMITTED PAUL MANAFORT one 10-minute call each day . ||| 诊疗 所 允许 保罗·马纳福特 （ Paul Manafort ） 每天 打 十 分钟 的 电话 。 
+
+Parfumeur Parfumeur | w_freq: 1 - 2 | wiki_freq: 30 - 0 | sentence_idx: 891347 | align_1: 13-28 | align_2: 13-43 | entity: Parfumeur - none |    The Diary of a Nose : A Year in the Life of a Parfumeur ||| 作品 ： 调香师 日记 : 爱马仕 香水 大师 艾连纳 的 创作 生活 与 哲学 、 The Diary of a Nose : A Year in the Life of a Parfumeur 、 The Diary of a Nose : A Year in the Life of a Parfumeur 
+
+ICMS ICMS | w_freq: 2 - 2 | wiki_freq: 70 - 3 | sentence_idx: 897901 | align_1: 1-1 | align_2: 2-5 | entity: ICMS - none |    At ICMS you will experience our next generation education . ||| 在 ICMS 学习 期间 ， 你 将 体验 我们 的 “ 新一代 教育 ” 。 
+
+AK-47s AK-47 | w_freq: 3 - 13 | wiki_freq: 449 - 194 | sentence_idx: 898090 | align_1: 16-14 | align_2: 17-19 | entity: AK-47s - AK-47 |    It is unusual . and no one in this country , including owners of AR-15s and AK-47s think that what is happening right now is okay . ” ||| 他 说 ： “ 在 这个 国家 ， 没有 人 ， 包括 AR-15 和 AK-47 的 拥有者 ， 都 认为 现在 正在 发生 的 事情 是 可以 的 。 
+
+Unlock Unlock | w_freq: 10 - 3 | wiki_freq: 315 - 9 | sentence_idx: 899587 | align_1: 3-2 | align_2: 4-7 | entity: Unlock - none |    U is for Unlock : " I did n't know this team could do this ! " ||| U 即 Unlock （ 释放 潜能 ） ： “ 我 没 想到 这 团队 还 能 办到 这些 ！ ” 
+
+Scene- Scene | w_freq: 2 - 13 | wiki_freq: 0 - 127 | sentence_idx: 901036 | align_1: 2-2 | align_2: 3-13 | entity: Broken Social Scene- - none |    Broken Social Scene- You Forgot It in People ||| Broken Social Scene 的 店 内 演出 ， 那时 ， 他们 刚 发行 You Forgot It In People 。 
+
+Andreasen 纳塔莉·德希 | w_freq: 2 - 2 | wiki_freq: 441 - 9 | sentence_idx: 915382 | align_1: 4-3 | align_2: 5-8 | entity: Heidi Andreasen - 纳塔莉·德希 |    NED Wheelchair tennis Heidi Andreasen ( ||| 2007 美网 硬地 纳塔莉·德希 ( Nathalie Dechy ) ( 
+
+tudayyi'i'l-thawb 安拉降下 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 919185 | align_1: 11-6 | align_2: 12-12 | entity: none - 安拉降下 |    And , moreover , the Apostle said to A'isha : La tudayyi'i'l-thawb hatta turaqqi'ihi . ||| 安拉 的 使者 说 ： “ 安拉降下 一 种 病 ， 就 降下 与 之 匹配 的 药物 ” 。 
+
+6A. 6A | w_freq: 1 - 7 | wiki_freq: 134 - 80 | sentence_idx: 920133 | align_1: 10-10 | align_2: 10-17 | entity: none - Level 6A |    ( Please park your car at Red Zone , Level 6A. ||| （ 请 将 车 停泊 于 Red Zone , Level 6A , 我们 就 靠近 粉红色 墙处 ) 
+
+Renaudel 雷诺德尔 | w_freq: 1 - 1 | wiki_freq: 23 - 0 | sentence_idx: 925773 | align_1: 4-7 | align_2: 5-12 | entity: Renaudel - 雷诺德尔 |    Only political invalids like Renaudel can speak of a peaceful , constitutional road to socialism . ||| 只有 政治 上 的 残障者 ， 比如 雷诺德尔 之 流 ， 才 会 大 谈 什么 和平 、 合宪 的 走向 社会主义 的 道路 。 
+
+Clouds- Clouds | w_freq: 1 - 5 | wiki_freq: 0 - 44 | sentence_idx: 926693 | align_1: 1-2 | align_2: 2-9 | entity: Blue Clouds- - none |    Blue Clouds- Elizabeth Mitchell and You Are My Flower ||| 《 Blue Clouds 》 – 伊丽莎白·米切尔 （ 英语 ： Elizabeth Mitchell ( musician ) ） & You Are My Flower 
+
+Fellaini Fellaini | w_freq: 12 - 9 | wiki_freq: 171 - 0 | sentence_idx: 930410 | align_1: 4-2 | align_2: 5-7 | entity: Fellaini - none |    If ( Marouane ) Fellaini gets through the session today , it 's more or less a full squad . ||| 如果 [Maraoune] Fellaini 今天 （ 周五 ） 参加 会议 ， 那 或多或少 是 一个 完整 的 阵容 。 
+
+Islam-Savvy 圣杯 | w_freq: 1 - 33 | wiki_freq: 0 - 505 | sentence_idx: 932315 | align_1: 2-2 | align_2: 3-6 | entity: Islam-Savvy - none |    Call it Islam-Savvy if you wish . ||| 《 响应 圣杯 之 召唤 ， 若 愿 顺应 此 意 ， 便 回应 吧 。 
+
+Reversal 回潮 | w_freq: 1 - 4 | wiki_freq: 614 - 53 | sentence_idx: 934272 | align_1: 29-24 | align_2: 30-28 | entity: The Great Reversal - none |    He served as an agricultural consultant , and some of his reports and proposals ( such as a UN-funded model collective villages project ) are included in The Great Reversal . ||| 他 担任 农业 顾问 ， 他 的 一些 报告 和 计划 （ 比方说 联合国 资助 的 模范 集体村 计划 ） 收入 了 《 大 回潮 》 一 书 。 
+
+Qi’da Qi'da | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 936431 | align_1: 8-6 | align_2: 9-11 | entity: Zhil Qi’da - none |    Thus Sunday will be the 30th of Zhil Qi’da and Monday the first day of Zhil Hijjah . ||| 因此 ， 星期天 将 是 Zhil Qi'da 的 第30 天 ， 而 星期一 是 Zhil Hijjah 的 第一 天 。 
+
+HEMMINGWAY 海明威 | w_freq: 3 - 14 | wiki_freq: 0 - 688 | sentence_idx: 936769 | align_1: 0-0 | align_2: 1-4 | entity: none - 海明威 |    HEMMINGWAY : Yes , they have more money . ||| 海明威 （ Hemingway ） ： 是的 ， 他们 有 更 多 的 钱 。 
+
+Smurfy Smurfy | w_freq: 1 - 1 | wiki_freq: 19 - 1 | sentence_idx: 939817 | align_1: 4-4 | align_2: 5-11 | entity: Smurfy - none |    " I 'm Too Smurfy " Right Said Fred 2:46 ||| 10 . I'm Too Smurfy （ 英语 ： I'm Too Sexy ） Right Said Fred （ 英语 ： Right Said Fred ） 2:46 
+
+EC2 EC2 | w_freq: 18 - 17 | wiki_freq: 292 - 48 | sentence_idx: 942779 | align_1: 13-9 | align_2: 14-14 | entity: Amazon EC2 - none |    In the future , the program hopes to expand its use of Amazon EC2 to include other remote sensing applications . ||| 今后 ， 该 计划 希望 扩展 其 对 Amazon EC2 的 使用 范围 ， 以 包含 其他 遥感 应用 程序 。 
+
+Kovach 科瓦奇 | w_freq: 2 - 4 | wiki_freq: 205 - 63 | sentence_idx: 946310 | align_1: 13-14 | align_2: 14-18 | entity: Kovach - 科瓦奇 |    Although she has seen a lot of tactical growth in her squad , Kovach believes the most valuable training was the time she spent building trust with her troops . ||| 虽然 她 在 班组 中 看到 了 很多 战术 上 的 成长 ， 但 科瓦奇 说 ， 她 认为 最 有 价值 的 训练 是 她 与 部队 建立 信任 的 时间 。 
+
+Birkmayer Birkmayer | w_freq: 2 - 2 | wiki_freq: 6 - 0 | sentence_idx: 949469 | align_1: 3-1 | align_2: 4-6 | entity: Birkmayer - none |    To quote Dr. Birkmayer “ NADH is the biological Rocket Fuel . ||| 引用 Birkmayer 博士 的话 ， 就是 “ NADH 是 生物 火箭 燃料 。 
+
+Benadict 伊丽莎白·本尼迪克特 | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 951593 | align_1: 1-1 | align_2: 2-8 | entity: Elizabeth Benadict - 伊丽莎白·本尼迪克特 |    Elizabeth Benadict , Me , My Hair and I : Twenty-Seven Women Untable an Obsession ||| ---- 伊丽莎白·本尼迪克特 （ Elizabeth Benedict ） ， 编辑 ， 《 我 的 头发 与 我 ： 解开 二十七 位 女性 的 困扰 》 （ Me,My Hair and I:Twenty-seven Women Untangle an Obsession ） 
+
+Keiss Keiss | w_freq: 1 - 1 | wiki_freq: 71 - 0 | sentence_idx: 953699 | align_1: 9-7 | align_2: 10-11 | entity: Keiss - none |    " I can not in any case agree with Keiss that my whole conception of the external world has been derived from perceptions . ||| “ 无论如何 ， 我 不 能 同意 Keiss 的 观点 ， 即 我 对外部 世界 的 整个 概念 都 源于 感知 。 
+
+Macalester 马卡莱斯特 | w_freq: 2 - 1 | wiki_freq: 741 - 0 | sentence_idx: 955724 | align_1: 15-13 | align_2: 16-18 | entity: Macalester - 马卡莱斯特 |    If I do n’t have any additional questions , why should I get on the Macalester mailing list ? ||| 问 ： 如果 我 没有 其他 问题 了 ， 为什么 我 还要 加入 马卡莱斯特 的 邮件 列表 ( mailing list ) ？ 
+
+Neoliberalism 自由主义史 | w_freq: 4 - 1 | wiki_freq: 172 - 0 | sentence_idx: 956778 | align_1: 8-7 | align_2: 9-13 | entity: History of Neoliberalism - none |    As David Harvey described in his History of Neoliberalism , ||| 正如 大卫·哈维 在 他 的 《 新 自由主义史 》 中 所 描述 的 ： 
+
+EUSS EUSS | w_freq: 2 - 2 | wiki_freq: 7 - 0 | sentence_idx: 959618 | align_1: 13-10 | align_2: 14-15 | entity: EUSS - none |    “ The focus should be on offering reassurances and avoiding misconceptions about the EUSS and on ensuring that EU member states step up and provide a similar level of reassurance for UK nationals . ” ||| “ 重点 应该 放 在 提供 保证 和 避免 对 EUSS 的 误解 上 ， 并 确保 欧盟 成员国 加紧 为 英国 国民 提供 类似 水平 的 保证 。 
+
+Kodoma Kodoma | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 960326 | align_1: 4-4 | align_2: 5-13 | entity: Kodoma - none |    Forcing herself to forget Kodoma 's embarrassing remark , she returned her attention on the couple . ||| 强迫 自己 忘记 和 Kodoma （ 小 玉姐 ） 那 令 人 尴尬 的 对话 ， 她 把 自己 的 注意力 移回 那 一对 夫妇 那里 。 
+
+Fishburne Fishburne | w_freq: 2 - 1 | wiki_freq: 695 - 5 | sentence_idx: 961432 | align_1: 1-3 | align_2: 2-11 | entity: Laurence Fishburne - none |    Laurence Fishburne What 's Love Got to Do with It ‡ ||| 劳伦斯·菲什伯恩 （ Laurence Fishburne ） 《 与 爱 何干 》 （ What's Love Got to Do with It ） 
+
+Hosanna 散那 | w_freq: 3 - 6 | wiki_freq: 427 - 3 | sentence_idx: 962115 | align_1: 7-11 | align_2: 8-25 | entity: Hosanna - none |    The people began to shout , “ Hosanna to the Son of David ! ” ||| 前行 后 随 的 众人 喊 着 说 : “ 和 散那 ( 原有 求救 的 意思 , 在 此 是 称 颂 的话 ) 归于 大卫 的 子孙 ! 
+
+EARTH 末宗 | w_freq: 8 - 1 | wiki_freq: 148 - 4 | sentence_idx: 962446 | align_1: 6-2 | align_2: 7-13 | entity: EARTH - 何以 末宗 |    Why would it say let the EARTH bring forth ? ||| 然 何以 末宗 说 「 亦 有 中 有 」 ， 「 大地 劫住 。 
+
+kkk 3K | w_freq: 1 - 7 | wiki_freq: 2 - 124 | sentence_idx: 967869 | align_1: 1-4 | align_2: 2-20 | entity: none - 3K 党 |    the kkk took my baby away » ||| 我 第一 次 知道 3K 党 ， 是 因为 雷蒙斯 有 一 首 歌 名字 就 叫 “ The KKK Took My Baby Away ” 。 
+
+L’Espadon Espadon | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 971080 | align_1: 15-19 | align_2: 16-24 | entity: L’Espadon - none |    When he opened the hotel 's new restaurant , in 1956 , Charles named it L’Espadon . ||| 正 因为 如此 ， 在 1956年 酒店 新 餐厅 开业 时 ， 查尔斯 将 其 命名 为 L ’ Espadon （ 剑 鱼 ） 。 
+
+Amazoned 亚马逊化 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 976574 | align_1: 5-3 | align_2: 6-8 | entity: none - 亚马逊化 |    With fears of being “ Amazoned , ” some retailers have even adopted a non-AWS Cloud policy . ||| 由于 担心 “ 亚马逊化 ” 的 供应商 锁定 ， 一些 零售商 甚至 采用 了 非AWS云 策略 。 
+
+Lacerta Lacerta | w_freq: 2 - 2 | wiki_freq: 332 - 11 | sentence_idx: 981735 | align_1: 4-5 | align_2: 5-12 | entity: Lacerta - none |    Please call me “ Lacerta ” , this is the name I generally use when I ’m among humans and talk with them . ||| 请 叫 我 「勒斯塔 （ Lacerta ， 意 为 蜥蜴 属 ） 」 好 了 ， 这是 当 我 在 人类 当中 走动 并 和 他们 谈话 的 时候 通常 用 的 名字 。 
+
+Steinem 阿武 | w_freq: 6 - 2 | wiki_freq: 866 - 96 | sentence_idx: 997607 | align_1: 0-1 | align_2: 1-6 | entity: Steinem - 莫 阿武 |    Steinem said , “ Be thankful . ” ||| 莫 阿武 没有 推辞 ， 恭敬 说道 ： “ 多谢 老板 。 
+
+Qur’an 蔚宗论之 | w_freq: 176 - 1 | wiki_freq: 541 - 0 | sentence_idx: 998502 | align_1: 1-1 | align_2: 2-6 | entity: Qur’an - 范 蔚宗论之 |    The Qur’an mandates “ peace is a word from a merciful God . ” ||| 范 蔚宗论之 ， 以为 ： 「 所谈者 仁义 ， 所 传者 圣法 也 。 
+

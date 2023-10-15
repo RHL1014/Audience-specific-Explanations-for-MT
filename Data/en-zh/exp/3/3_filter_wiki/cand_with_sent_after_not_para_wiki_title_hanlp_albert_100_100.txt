@@ -1,0 +1,80 @@
+UITP UITP | w_freq: 1 - 1 | wiki_freq: 48 - 14 | sentence_idx: 8322 | align_1: 0-0 | align_2: 1-7 | entity: UITP - none |    UITP is the only worldwide network to bring together all public transport stakeholders and all sustainable transport modes . ||| UITP 具有 悠久 的 历史 ， 它 是 唯一 一个 将 所有 公共 交通 利益 相关者 和 所有 可 持续 交通 运输 模式 结合 在 一起 的 全球 网络 。 
+
+Trufflehunter 建辉 | w_freq: 4 - 1 | wiki_freq: 6 - 33 | sentence_idx: 14894 | align_1: 8-10 | align_2: 9-20 | entity: Trufflehunter - 曹 建辉 |    " Come on , then , " snarled Trufflehunter , but he was immediately interrupted . ||| “ 你 快 过来 ， 良辰 火锅店 ， ” 曹 建辉 说 完 这话 后 ， 发出 一 声 尖叫 ， 然后 通话 就 断 了 。 
+
+Mohenjo-Daro Mohenjo-Daro | w_freq: 1 - 1 | wiki_freq: 61 - 1 | sentence_idx: 22339 | align_1: 4-7 | align_2: 5-12 | entity: Mohenjo-Daro - Mohenjo-Daro |    Do you believe that Mohenjo-Daro was destroyed by nuclear weapons thousands of years ago ? ||| 你 相 不 相信 摩亨 卓达罗 ( Mohenjo-Daro ) 这个 古 城市 是 在 好几千年 以前 被 核子 武器 毁灭 的 ？ 
+
+Nanopore Nanopore | w_freq: 1 - 1 | wiki_freq: 96 - 1 | sentence_idx: 90153 | align_1: 13-20 | align_2: 14-24 | entity: Oxford Nanopore - Oxford Nanopore |    The new machine is also not an answer to another competitor , Oxford Nanopore . ||| 而且 ， 这 台 新 机器 也 不 能 解决 另 一个 竞争 对手 —— 牛津 纳米孔 公司 （ Oxford Nanopore ） 的 问题 。 
+
+Ludicrous Ludicrous | w_freq: 2 - 2 | wiki_freq: 47 - 1 | sentence_idx: 100631 | align_1: 7-10 | align_2: 8-16 | entity: Ludicrous - none |    “ We do n’t do Ludicrous because Ludicrous speed is stupid . ||| 「 我们 不 会 做出 什么 Ludicrous 模式 ， 因为 Ludicrous （ 见 备注 ） 的 速度 很 蠢 。 
+
+A’Dam A' | w_freq: 1 - 6 | wiki_freq: 0 - 72 | sentence_idx: 133911 | align_1: 21-19 | align_2: 22-24 | entity: A’Dam - none |    Most of these views of Amsterdam wo n’t cost you more than the price of a coffee , but to experience A’Dam Lookout you ’ll need to buy a ticket . ||| 大多数 阿姆斯特丹 的 这些 景色 不 会 花费 您 超过 一 杯 咖啡 的 价格 ， 但 要 体验 A' Dam观 景台 ( A'Dam Lookout ) ， 您 需要 买 一 张 门票 。 
+
+Delfi.lt Delfi.lt | w_freq: 1 - 1 | wiki_freq: 4 - 0 | sentence_idx: 147967 | align_1: 38-38 | align_2: 39-43 | entity: Delfi.lt - none |    That moment on the stage opened many new possibilities for me and my organization – I was invited to talk at the Lithuanian National Broadcaster at the morning show and the biggest news portal in Baltic states – Delfi.lt . ||| 在 台上 的 那 一刻 为 我 和 我 的 组织 开辟 了 许多 新 的 可能性 —— 我 受邀 在 立陶宛 国家 广播 公司 的 晨间 节目 和 波罗的海 国家 最 大 的 新闻 门户 德尔菲网 （ Delfi.lt ） 接受 了 访谈 。 
+
+CNTE CNTE | w_freq: 1 - 1 | wiki_freq: 38 - 1 | sentence_idx: 162155 | align_1: 6-5 | align_2: 7-9 | entity: CNTE - none |    He was , according to the CNTE , only one of 151 teachers murdered in the preceding decades . ||| 根据 全国 协调 委员会 （ CNTE ） 的 说法 ， 在 过去 几十 年中 ， 151 名 教师 中 只有 一 人 被 谋杀 。 
+
+FYROM FYROM | w_freq: 2 - 2 | wiki_freq: 54 - 1 | sentence_idx: 178447 | align_1: 6-3 | align_2: 7-13 | entity: FYROM - none |    However , for the inhabitants of FYROM , it also has an ethnic sense , since many ( or most ) Slavic-speaking inhabitants of FYROM consider themselves to be Macedonian in an ethnic sense . ||| 然而 ， 对于 FYROM ( 前 南斯拉夫 马其顿 共和国 ) 的 居民 而言 ， 它 也 有 种族 涵义 ， 因为 FYROM 里 许多 ( 或 大部分 )斯拉夫 语系 的 居民 在 种族 上认 为 自己 是 马其顿 人 。 
+
+Yustinus Yustinus | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 228726 | align_1: 16-15 | align_2: 17-21 | entity: Yustinus - none |    The cut will cost the government around Rp 2.5 trillion a year , which according to Yustinus should be seen as an investment , as the policy is expected to increase the tax base . ||| 这 一 削减 将 使 政府 每年 损失 约 2.5万亿 卢比   ， 根据 Yustinus 的 说法  ， 这 应该 被 视为 一 项 投资  ， 因为 该 政策 预计 将 增加 税收 基础  。 
+
+R’hllor 拉赫洛 | w_freq: 2 - 1 | wiki_freq: 0 - 12 | sentence_idx: 259168 | align_1: 0-1 | align_2: 1-9 | entity: R’hllor - 拉赫洛 |    R’hllor is the god of life and heat , opposite to him , the Great Other is the god of death and cold . ||| 真主 拉赫洛 ， 称 作光 之 王 ， 也 是 热量 和 生命 之 神 ； 他 的 死敌 ， 寒神 ， 则 是 黑暗 、 冰冷 与 死亡 之 神 。 
+
+IJLS ijls | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 333404 | align_1: 7-5 | align_2: 8-10 | entity: IJLS - none |    Her role , as chairperson of the IJLS , means that she is responsible for all the professional development of lawyers in Mauritius . ||| 她 的 角色 ， 作为 ijls ， 手段 的 主席 ， 她 是 负责 所有 律师 在 毛里求斯 的 专业 发展 。 
+
+Travelport Travelport | w_freq: 1 - 1 | wiki_freq: 70 - 0 | sentence_idx: 348204 | align_1: 2-1 | align_2: 3-5 | entity: Travelport - none |    According to Travelport this “ can lead to confusion and indecision . ” ||| 根据 Travelport 的 说法 ， 这 “ 可能 导致 混乱 和 优柔寡断 。 
+
+Ash’ath 鲍叔 | w_freq: 1 - 1 | wiki_freq: 1 - 17 | sentence_idx: 358862 | align_1: 9-8 | align_2: 10-12 | entity: Ash’ath - 鲍叔 |    He ( the narrator ) said : There came Ash’ath b. ||| 东方朔 就 曾 说 过 ： “ 廉如 鲍叔 ， 信若 尾生 。 
+
+Dusha Dusha | w_freq: 2 - 3 | wiki_freq: 39 - 0 | sentence_idx: 368098 | align_1: 9-10 | align_2: 10-18 | entity: Dusha - none |    In 2007 , he published his first book , Dusha , Russian Soul . ||| 2007年 他 出版 了 他 的 第一 本 摄影集 《 Dusha ， 俄罗斯 的 灵魂 》 ( Dusha , Russian Soul ) 。 
+
+SIGKILL SIGKILL | w_freq: 6 - 6 | wiki_freq: 14 - 15 | sentence_idx: 396618 | align_1: 4-3 | align_2: 5-7 | entity: SIGKILL - none |    For example , on SIGKILL you would see 128 + SIGKILL = 137 ( Calculating the exit codes for other deadly signals is left as an exercise to the reader . ) . ||| 例如 ， 在 SIGKILL 信号 上 ， 你 会 看到 128 + SIGKILL = 137 （ 计算 其他 致命 信号 的 退出 码 作为 读者 的 练习 ） 。 
+
+Eurodad Eurodad | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 415494 | align_1: 15-11 | align_2: 16-19 | entity: Eurodad - none |    [ 11 ] We are not in the habit of engaging in lobbying – unlike Eurodad , another organisation that is mobilised around the issue of debt . ||| [ 11 ] 我们 不 习惯 搞 游说 　 ── 不 像 Eurodad （ 债务 和 发展 欧洲 网路 ） ， 它 是 围绕 债务 问题 动员 起来 的 另 一个 组织 。 
+
+Qur’aan 显忠节 | w_freq: 11 - 1 | wiki_freq: 2 - 0 | sentence_idx: 452705 | align_1: 5-6 | align_2: 6-11 | entity: Qur’aan - none |    So , the recitation of Qur’aan has to be maintained throughout the year . ||| 然而 ， 今年 韩国 传统 的 显忠节 （ 현 충일 ） 却 发生 大事 。 
+
+Yous Yous | w_freq: 1 - 1 | wiki_freq: 36 - 2 | sentence_idx: 458538 | align_1: 15-13 | align_2: 16-19 | entity: Yous - none |    On the contrary , le mur des je t'aime ( The Wall of I love Yous ) is a link , a place of reconciliation , a mirror which reflects an image of love and peace . ' ||| 相反 ， LE MUR DES JE T'AIME ( The Wall of I love Yous ) （ 爱 之 墙 ） 是 一 条 纽带 ， 一个 和解 的 地方 ， 一面 反射 出 爱 与 和平 的 镜子 。 
+
+Carpo Carpo | w_freq: 1 - 1 | wiki_freq: 49 - 3 | sentence_idx: 480129 | align_1: 1-3 | align_2: 2-7 | entity: Mario Carpo - Mario Carpo |    Mario Carpo explores the reasons why . ||| 马里奥·卡波 （ Mario Carpo ） 带 您 探究 其中 的 原因 。 
+
+Tronc Tronc | w_freq: 3 - 3 | wiki_freq: 83 - 1 | sentence_idx: 541563 | align_1: 13-15 | align_2: 14-22 | entity: Tronc - none |    The New York Daily News was cut in half by something called a Tronc . ||| 《 纽约 每日 新闻 》 （ New York Daily News ） 因为 一个 叫做 「 Tronc 」 的 东西 而 规模 减半 。 
+
+Hooperman Hooperman | w_freq: 1 - 2 | wiki_freq: 48 - 0 | sentence_idx: 553545 | align_1: 1-2 | align_2: 2-9 | entity: Hooperman - none |    1988 Hooperman Himself Episode : " High Noon " ||| 1988 - Hooperman （ 英语 ： Hooperman ） 他 自己 集数 ： " High Noon " 
+
+Jor-el 乔˙艾尔 | w_freq: 1 - 1 | wiki_freq: 5 - 0 | sentence_idx: 592905 | align_1: 13-13 | align_2: 14-18 | entity: Jor-el - 乔˙艾尔 |    I was actually born on Krypton and sent here by my father , Jor-el , to save the Planet Earth . " ||| 其实 我 是 出生 在 氪普顿 星球 上 ， 然后 被 我 父亲 乔˙艾尔 （ 超人 的 生父 ） 派 过来 拯救 这个 星球 － 地球 」 。 
+
+Asla Asla | w_freq: 3 - 3 | wiki_freq: 40 - 1 | sentence_idx: 631978 | align_1: 2-2 | align_2: 3-8 | entity: Asla - none |    York Banks Asla , welcome to the world . " ||| York Banks Asla ( 她 的 儿子 ) ， 欢迎 来到 这个 世界 。 
+
+Ignorabimus ignorambinus | w_freq: 1 - 1 | wiki_freq: 4 - 0 | sentence_idx: 663976 | align_1: 14-13 | align_2: 15-18 | entity: Ignorabimus - none |    You can find it by pure thinking , since in mathematics there is no Ignorabimus ! ” ||| 你 能够 通过 纯 思维 找到 它 ， 因为 在 数学 中 没有 ignorambinus ( 不可 知 ) ！ ” 
+
+Poupon 灰锅 | w_freq: 2 - 1 | wiki_freq: 87 - 0 | sentence_idx: 684629 | align_1: 5-3 | align_2: 6-10 | entity: Grey Poupon - none |    It is because of Grey Poupon that the standard American supermarket today has an entire mustard section . ||| 正是 由于 “ 灰锅 ” 的 缘故    ， 今天 的 标准 美国 超市 才 拥有 完整 的 芥末 部分  。 
+
+Gatsas Gatsas | w_freq: 1 - 1 | wiki_freq: 58 - 0 | sentence_idx: 706686 | align_1: 17-17 | align_2: 18-27 | entity: Ted Gatsas - none |    Says crime is ‘ rising ’ in Manchester and has gone up 19 percent under Mayor Ted Gatsas . ||| 据称 曼彻斯特 的 犯罪率 正在 “ 上升 ”   ， 并且 在 市长 泰德·加特斯 （ Ted Gatsas ） 的 带领 下 上涨 了 19％   。 
+
+Thalians 塔利亚人 | w_freq: 1 - 1 | wiki_freq: 24 - 0 | sentence_idx: 719957 | align_1: 13-12 | align_2: 14-17 | entity: The Thalians - 塔利亚人 |    In 1955 , she and other young stars established a charity called The Thalians to fight the stigma of mental illness . ||| 1955年 ， 她 和 其他 年轻 的 明星 建立 了 一个 叫做 塔利亚人 的 慈善 机构 ， 以 对抗 精神 疾病 的 耻辱感 。 
+
+Jahilia Jahilia | w_freq: 1 - 1 | wiki_freq: 6 - 0 | sentence_idx: 721257 | align_1: 15-19 | align_2: 16-23 | entity: Jahilia - none |    But in Yathrib the women are different , you do n’t know , here in Jahilia you ’re used to ordering your females about but up there they wo n’t put up with it . ||| 但是 在 Yathrib  ， 女人 是 不同 的  ， 你 不 知道    ， 在 Jahilia   ， 你 习惯于 命令 你 的 女性   ， 但 在 那里 他们 不 会 容忍    。 
+
+HOTELS HOTELS | w_freq: 1 - 1 | wiki_freq: 28 - 1 | sentence_idx: 726592 | align_1: 7-5 | align_2: 8-9 | entity: HOTELS - HOTELS 《 酒店 》 杂志 |    In 2005 , he introduced the famous HOTELS magazine of the United States into China . ||| 2005年 引进 美国 著名 的 HOTELS 《 酒店 》 杂志 进入 中国 。 
+
+Grabar-Kitarovic 科琳达·格拉巴尔－ | w_freq: 3 - 1 | wiki_freq: 11 - 0 | sentence_idx: 786300 | align_1: 6-5 | align_2: 7-10 | entity: Kolinda Grabar-Kitarovic - 科琳达·格拉巴尔－ 基塔罗维奇 |    That ’s why Croatian President Kolinda Grabar-Kitarovic is the only national leader at the World Cup to wear the national colors and make a convincing show of supporting the team rather than carrying out a diplomatic function . ||| 这就 是 为什么 克罗地亚 总统 科琳达·格拉巴尔－ 基塔罗维奇 ( KolindaGrabar-Kitarovic ) 是 唯一 一 位 身着 国旗色 服装 观看 世界杯 比赛 ， 令人信服 地 展示 对 国家队 的 支持 ， 而 非 去 履行 外交 职能 的 国家 领导人 。 
+
+Lemo 雷莫 | w_freq: 1 - 1 | wiki_freq: 71 - 37 | sentence_idx: 802107 | align_1: 2-7 | align_2: 3-13 | entity: Lemo - 雷莫 |    Since 2005 Lemo is certified Green Partner . ||| 自 2005年 以来    ， 雷莫 （ LEMO ） 就 已经 被 认证 为 绿色 合作 伙伴 
+
+Lemo LEMO | w_freq: 1 - 1 | wiki_freq: 71 - 1 | sentence_idx: 802107 | align_1: 2-9 | align_2: 3-13 | entity: Lemo - none |    Since 2005 Lemo is certified Green Partner . ||| 自 2005年 以来    ， 雷莫 （ LEMO ） 就 已经 被 认证 为 绿色 合作 伙伴 
+
+Lipovan 黎浩 | w_freq: 1 - 1 | wiki_freq: 48 - 0 | sentence_idx: 816601 | align_1: 3-6 | align_2: 4-13 | entity: Lipovan - 黎浩 一 |    ( Except for Lipovan , which has a life of its own that is well beyond reason ;) ||| 剧 中 周 惟惟 的 男友 黎浩 一 （ 孙 其君 饰 ） ， 是 个 人生 计划 狂 。 
+
+RPG.net rpg.net | w_freq: 1 - 1 | wiki_freq: 11 - 0 | sentence_idx: 824191 | align_1: 5-4 | align_2: 6-9 | entity: RPG.net - none |    You can still post on RPG.net even if you do in fact support the administration — you just ca n’t talk about it here . ||| 你 仍然 可以 在 rpg.net 上 发表 文章 ， 即使 你 确实 支持 管理 —— 你 不 能 在 这里 谈论 它 。 
+
+BPAS BPA | w_freq: 2 - 40 | wiki_freq: 57 - 50 | sentence_idx: 829008 | align_1: 11-14 | align_2: 12-19 | entity: BPAS - none |    Not-for-profit crisis pregnancy counselling centres will be excluded because , unlike BPAS they do not receive huge tranches of tax-payers money . ||| 非 营利性 危机 怀孕 咨询 中心 将 被 排除 在外 ， 因为 ， 与 BPA 不同 的 是 ， 他们 没有 收到 大量 纳税人 的 钱 。 
+
+Usaid As-Sa'ib〕 | w_freq: 1 - 1 | wiki_freq: 23 - 0 | sentence_idx: 857926 | align_1: 13-14 | align_2: 14-30 | entity: Usaid - none |    Then the Prophet came out to us and said , “ O Abu Usaid ! ||| 先知 来看 我们 ， 我 （ 对 死者 ） 说 ： 「 阿布．萨伊卜〔A bu As-Sa'ib〕 啊 ， 愿 安拉施 恩予 你 ！ 我 见证 ， 安拉 已经 荣耀 你 了 。 
+
+GPON GPON | w_freq: 6 - 6 | wiki_freq: 95 - 14 | sentence_idx: 937542 | align_1: 8-9 | align_2: 9-15 | entity: GPON - none |    It is worth noting that both EPON and GPON are moving into the era of 10G. ||| 值得 关注 的 是  ， 无论 EPON 还是 GPON    ， 都 在 向 10G 的 时代 迈进  。 
+
+Adrenalize Adrenalize | w_freq: 1 - 1 | wiki_freq: 83 - 1 | sentence_idx: 970628 | align_1: 6-12 | align_2: 7-16 | entity: Adrenalize - none |    Def Leppard 's fifth album , Adrenalize , was finally released on 31 March 1992 . ||| DEF LEP PARD 的 第五 张 专辑    ， 《 Adrenalize 》   ， 终于 于 1992年 3月 31日 发行  。 
+
+Tevi Tevi | w_freq: 1 - 1 | wiki_freq: 84 - 0 | sentence_idx: 987972 | align_1: 9-9 | align_2: 10-14 | entity: Sam Tevi - Tevi |    Trent Scott will remain at right tackle with Sam Tevi unlikely to play Monday . ||| 特伦特·斯科特 （ Trent Scott ） 将 继续 与 山姆·特维（Sam Tevi ） 搭right ， 不大 可能 在 周一 出战 。 
+

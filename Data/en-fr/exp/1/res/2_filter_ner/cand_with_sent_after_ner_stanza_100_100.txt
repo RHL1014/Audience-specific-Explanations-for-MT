@@ -1,0 +1,150 @@
+Shu'aib aïb | w_freq: 3 - 2 | wiki_freq: 29 - 0 | sentence_idx: 9231 | align_1: 11-7 | align_2: 12-11 | ner_entity: Shu'aib-none |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 92 – Ceux qui avaient traité Chou’ aïb de menteur n’ avaient jamais été là .
+
+Shu'aib Chou’ | w_freq: 3 - 1 | wiki_freq: 29 - 0 | sentence_idx: 9231 | align_1: 11-6 | align_2: 12-11 | ner_entity: Shu'aib-Chou’ |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 92 – Ceux qui avaient traité Chou’ aïb de menteur n’ avaient jamais été là .
+
+ClimateAction ClimateAction | w_freq: 4 - 4 | wiki_freq: 0 - 0 | sentence_idx: 27788 | align_1: 13-13 | align_2: 14-21 | ner_entity: none-ClimateAction |    “ What will the Arctic look like in 10 more years ? # ClimateAction becomes more urgent every day . ||| “ De quoi aura l’ air l’ Arctique dans 10 ans ? # ClimateAction ( Des actions pour le climat ) deviennent plus urgentes chaque jour .
+
+ClimateAction ClimateAction | w_freq: 4 - 4 | wiki_freq: 0 - 0 | sentence_idx: 30365 | align_1: 12-13 | align_2: 13-21 | ner_entity: none-ClimateAction |    What will the Arctic look like in 10 more years ? # ClimateAction becomes more urgent every day . ||| “ De quoi aura l’ air l’ Arctique dans 10 ans ? # ClimateAction ( Des actions pour le climat ) deviennent plus urgentes chaque jour .
+
+Al-Imran Imrân | w_freq: 2 - 3 | wiki_freq: 19 - 38 | sentence_idx: 46234 | align_1: 3-14 | align_2: 4-18 | ner_entity: Al-Imran-Imrân |    The Qur'an mentions Al-Imran as the father of Maryam . ||| Visiblement , le terme Âl - i ‘ Imrân désigne la famille de ‘ Imrân ( as ) , le père de Maryam ( as ) .
+
+Brahmanadha naad | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 49215 | align_1: 20-24 | align_2: 21-31 | ner_entity: Brahmanadha-none |    So first He was created only as the Logos , as they call it , or we call it the Brahmanadha , Omkara . ||| Donc en premier Il fut créé seulement en tant que Logos , comme vous l’ appelez , ou bien nous l’ appelons Brahma - naad [ le son de Brahma ] – l’ Omkara .
+
+E-287 E-287 | w_freq: 6 - 7 | wiki_freq: 1 - 0 | sentence_idx: 105520 | align_1: 0-0 | align_2: 1-5 | ner_entity: none-E-287 |    E-287 Friend , I may never see you again this side of the great time . ||| E-287 ( 216 ) Mon ami , il se peut que je ne vous voie plus jamais de ce côté - ci du merveilleux temps .
+
+943.1 943.1 | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 154827 | align_1: 0-0 | align_2: 1-4 | ner_entity: 943.1-none |    943.1 Assess a region , not just a project in order to have a clear impact assessment . ||| 943.1 Il convient d’ évaluer une région , pas simplement un projet , afin d’ obtenir une évaluation claire des répercussions .
+
+E-115 E-115 | w_freq: 18 - 20 | wiki_freq: 3 - 2 | sentence_idx: 158079 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-115 |    E-115 As I said , take these old mother birds . ||| E-115 ( 44 ) Comme je l' ai dit , prenez ces vieilles mères oiseaux .
+
+E-15 E-15 | w_freq: 42 - 43 | wiki_freq: 34 - 6 | sentence_idx: 169439 | align_1: 0-0 | align_2: 1-5 | ner_entity: none-E-15 |    E-15 Not long ago , many of you read in the magazines about the little translation the Lord give me . ||| E-15 Il n’ y a pas longtemps , beaucoup parmi vous ont lu dans les magazines au sujet de la petite translation que le Seigneur m’ a donnée .
+
+Goyim goyim | w_freq: 5 - 9 | wiki_freq: 40 - 26 | sentence_idx: 223076 | align_1: 8-10 | align_2: 9-15 | ner_entity: Goyim-none |    Jews are the pride of creation , the Goyim are its scum . ” ||| Les juifs sont la fierté de la création , les goyim ( Gentils ) en sont le rebus . "
+
+YAHUSHUA YAHUSHUA | w_freq: 45 - 45 | wiki_freq: 0 - 0 | sentence_idx: 238387 | align_1: 2-2 | align_2: 3-9 | ner_entity: none-YAHUSHUA |    YAHUVEH and YAHUSHUA please have mercy on us as we go into the year of 2003 . ||| YAHUVEH et YAHUSHUA , s’ il VOUS plaît , ayez de la miséricorde sur nous alors que nous entrons dans l’ an 2003 .
+
+E-156 E-156 | w_freq: 13 - 16 | wiki_freq: 0 - 0 | sentence_idx: 240625 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-156 |    E-156 Did He promise in Malachi 4 , what He would do in this last days ? ||| E-156 A - t - Il promis dans Malachie 4 ce qu' Il ferait en ces derniers jours ?
+
+Sodas Sodas | w_freq: 4 - 3 | wiki_freq: 52 - 7 | sentence_idx: 248342 | align_1: 6-9 | align_2: 7-13 | ner_entity: none-Sodas |    Barely two years ago , 1642 Sodas was just an idea . ||| Il y a deux ans à peine , 1642 Sodas , ce n’ était qu’ une idée .
+
+L-128 E-128 | w_freq: 1 - 12 | wiki_freq: 1 - 0 | sentence_idx: 262850 | align_1: 0-0 | align_2: 1-6 | ner_entity: none-E-128 |    L-128 He could only look then and see where he could have been saved , but it was too late then . ||| E-128 A ce moment -là , il pouvait simplement regarder et voir là où il aurait pu être sauvé , mais c’ était trop tard , à ce moment -là .
+
+Goyim Goyim | w_freq: 5 - 5 | wiki_freq: 40 - 8 | sentence_idx: 270866 | align_1: 8-10 | align_2: 9-15 | ner_entity: Goyim-Goyim |    Jews are the pride of creation , the Goyim are its scum . ” ||| Les Juifs sont la fierté de la création , les Goyim ( Gentils ) en sont le rebus . »
+
+Chaturbate Chaturbate | w_freq: 9 - 5 | wiki_freq: 24 - 6 | sentence_idx: 308232 | align_1: 5-8 | align_2: 6-12 | ner_entity: Chaturbate-Chaturbate |    6 ) Has anyone from Chaturbate bought you anything ? ||| 7 ) Est -ce que quelqu’ un de Chaturbate t’ as déjà acheté quelque chose ?
+
+L-115 E-115 | w_freq: 1 - 20 | wiki_freq: 0 - 2 | sentence_idx: 313950 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-115 |    L-115 As I said , take these old mother birds . ||| E-115 ( 44 ) Comme je l' ai dit , prenez ces vieilles mères oiseaux .
+
+E-279 E-279 | w_freq: 8 - 11 | wiki_freq: 0 - 0 | sentence_idx: 319860 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-279 |    E-279 Have you all been here this week ? ||| E-279 ( 209 ) Avez -vous tous été ici cette semaine ?
+
+Valvetronic Valvetronic | w_freq: 1 - 1 | wiki_freq: 52 - 11 | sentence_idx: 319978 | align_1: 3-3 | align_2: 4-8 | ner_entity: N54 Valvetronic-N54 Valvetronic |    The series N54 Valvetronic also not included . ||| La série N54 Valvetronic n’ est pas non plus entrée .
+
+YAHUVEH YAHUVEH | w_freq: 52 - 53 | wiki_freq: 0 - 0 | sentence_idx: 321286 | align_1: 2-2 | align_2: 3-6 | ner_entity: none-YAHUVEH |    I , YAHUVEH give this new authority now . ||| MOI , YAHUVEH , JE vous donne cette nouvelle autorité maintenant .
+
+Bakas Bakas | w_freq: 1 - 1 | wiki_freq: 48 - 12 | sentence_idx: 342634 | align_1: 10-9 | align_2: 11-14 | ner_entity: Bakas-M. Bakas |    All of this leads us to ask why was Mr. Bakas never formally arrested ? ||| Tout cela nous amène à nous demander pourquoi M. Bakas n’ a -t -il jamais été formellement arrêté ?
+
+E-128 E-128 | w_freq: 14 - 12 | wiki_freq: 0 - 0 | sentence_idx: 367676 | align_1: 0-0 | align_2: 1-6 | ner_entity: none-E-128 |    E-128 He could only look then and see where he could 've been saved , but it was too late then . ||| E-128 A ce moment -là , il pouvait simplement regarder et voir là où il aurait pu être sauvé , mais c’ était trop tard , à ce moment -là .
+
+OBAMA OBAMA | w_freq: 11 - 13 | wiki_freq: 11 - 21 | sentence_idx: 367792 | align_1: 3-4 | align_2: 4-8 | ner_entity: none-OBAMA N’ A JAMAIS QUITTÉ |    Trump should know OBAMA NEVER LEFT THE WHITE HOUSE ! ||| Trump devrait savoir qu’ OBAMA N’ A JAMAIS QUITTÉ LA MAISON BLANCHE !
+
+E-263 E-263 | w_freq: 6 - 5 | wiki_freq: 0 - 0 | sentence_idx: 376577 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-263 |    E-263 What about the little lady with her hand up like this ? ||| E-263 Qu’ en est -il de la petite dame avec la main levée comme ceci ?
+
+E-156 E-156 | w_freq: 13 - 16 | wiki_freq: 0 - 0 | sentence_idx: 387146 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-156 |    E-156 Did He promise in Malachi 4 , what He would do in this last days ? ||| E-156 A - t - Il promis dans Malachie 4 ce qu' Il ferait en ces derniers jours ?
+
+QSHM QSHM | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 406919 | align_1: 3-3 | align_2: 4-8 | ner_entity: QSHM-QSHM |    The development of QSHM accelerated when we were able to offer both types of activities . ||| Le développement de QSHM s’ est d’ ailleurs accéléré lorsque nous avons été en mesure d’ offrir les deux types d’ activités .
+
+E-473 E-473 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 414429 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-473 |    E-473 Never promised to raise up a new race , as I have said , but He promised to redeem the fallen . ||| E-473 Il n’ a jamais promis de susciter une nouvelle race , comme je l’ ai dit , mais Il a promis de racheter celle qui était déchue .
+
+E-185 E-185 | w_freq: 21 - 24 | wiki_freq: 4 - 2 | sentence_idx: 422423 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-185 |    E-185 And as long as we try to bring our churches out of creeds and denominations , we 'll never do it . ||| E-185 ( 83 ) Et tant que nous essayons de faire sortir nos églises des crédos et des dénominations , nous n' y arriverons jamais .
+
+Mourouzeau Mourouzeau | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 435535 | align_1: 3-2 | align_2: 4-8 | ner_entity: M. Mourouzeau-M. Mourouzeau |    How could M. Mourouzeau not recognize it and see an inexplicable phenomenon ? ||| Comment M. Mourouzeau a -t -il pu ne pas la reconnaitre et y voir un phénomène inexplicable ?
+
+Daath Daath | w_freq: 38 - 38 | wiki_freq: 15 - 12 | sentence_idx: 449963 | align_1: 9-9 | align_2: 10-13 | ner_entity: none-Daath |    That means that our own tree , our own Daath inside , is known by the fruit that we ourselves create . ||| Cela signifie que notre propre arbre , notre propre Daath à l ’ intérieur , est connu par le fruit que nous créons nous - même .
+
+routinières COLOMBIE | w_freq: 1 - 4 | wiki_freq: 0 - 2 | sentence_idx: 469656 | align_1: 8-2 | align_2: 9-9 | ner_entity: none-EN COLOMBIE |    “ In Colombia , our daily activities are routinières , many work in the fields . ||| « EN COLOMBIE , NOS ACTIVITÉS QUOTIDIENNES SONT ROUTINIÈRES , beaucoup travaillent dans les champs .
+
+Sarayaku Sarayaku | w_freq: 3 - 3 | wiki_freq: 72 - 29 | sentence_idx: 503130 | align_1: 4-6 | align_2: 5-10 | ner_entity: Sarayaku-Sarayaku |    What I found in Sarayaku was not just a community defending its territory . ||| Ce que j’ ai découvert à Sarayaku , ce n’ est pas seulement une communauté qui défend son territoire .
+
+JPII JPII | w_freq: 1 - 1 | wiki_freq: 14 - 1 | sentence_idx: 503918 | align_1: 1-1 | align_2: 2-7 | ner_entity: JPII-JPII |    And JPII rightly realized that you stay in office . ||| Et JPII s’ est rendu compte à juste titre que vous restiez en poste .
+
+Wrongly Comments | w_freq: 291 - 6 | wiki_freq: 90 - 33 | sentence_idx: 518172 | align_1: 0-0 | align_2: 1-5 | ner_entity: none-Comments Off on “ Mal nommer les choses |    Wrongly naming a thing is to add to the misery of this world . ’ ||| Comments Off on “ Mal nommer les choses , c’ est ajouter au malheur du monde ” .
+
+L-218 E-218 | w_freq: 3 - 15 | wiki_freq: 0 - 0 | sentence_idx: 524519 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-218 |    L-218 These people come here tonight , I know there was a couple of cancers that left while we was standing here . ||| E-218 ( 217 ) Ces gens sont venus ici ce soir , je sais qu’ il y a des cancers qui ont quitté pendant que nous nous tenions ici .
+
+Cle–alls Cle | w_freq: 1 - 1 | wiki_freq: 0 - 52 | sentence_idx: 545370 | align_1: 2-2 | align_2: 3-7 | ner_entity: Cle–alls-Cle |    I use Cle–alls daily now and prefer it to my English name . ||| J’ utilise Cle - alls tous les jours maintenant , et je le préfère à mon nom anglais .
+
+E-18 E-18 | w_freq: 64 - 67 | wiki_freq: 22 - 6 | sentence_idx: 551127 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-18 |    E-18 You see a prostitute on the street , you know what she is . ||| E-18 ( 50 ) Vous voyez une prostituée dans la rue , vous savez ce qu’ elle est .
+
+L-287 E-287 | w_freq: 1 - 7 | wiki_freq: 0 - 0 | sentence_idx: 556792 | align_1: 0-0 | align_2: 1-5 | ner_entity: none-E-287 |    L-287 Friend , I may never see you again this side of the great time . ||| E-287 ( 216 ) Mon ami , il se peut que je ne vous voie plus jamais de ce côté - ci du merveilleux temps .
+
+Sheltie Sheltie | w_freq: 1 - 1 | wiki_freq: 34 - 7 | sentence_idx: 574984 | align_1: 5-5 | align_2: 6-10 | ner_entity: Sheltie-Sheltie |    A sad example is the Sheltie presented to me at an Integrated Approach seminar . ||| Un triste exemple est le Sheltie qu’ on m’ a présenté à un séminaire d’ approche intégrée .
+
+E-61 E-61 | w_freq: 36 - 35 | wiki_freq: 2 - 1 | sentence_idx: 583401 | align_1: 0-0 | align_2: 1-5 | ner_entity: none-E-61 |    E-61 Not long ago , an insurance agent was at my house . ||| E-61 Il n’ y a pas longtemps , un agent d’ assurances était chez moi .
+
+SOIL SOIL | w_freq: 1 - 1 | wiki_freq: 39 - 7 | sentence_idx: 584785 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-SOIL |    SOIL is not just a theory , since what we do with small farmers is a form of action . ||| SOIL , ce n’ est pas juste une théorie puisque ce que nous faisons avec les petits agriculteurs est bien une forme d’ action .
+
+12:08 12:08 | w_freq: 1 - 1 | wiki_freq: 63 - 0 | sentence_idx: 588169 | align_1: 3-3 | align_2: 4-7 | ner_entity: 12:08 East of Bucharest-none |    I believe that 12:08 East of Bucharest is not a political film . ||| Je crois que 12:08 , A l' est de Bucharest n' est pas un film politique .
+
+E-89 E-89 | w_freq: 41 - 46 | wiki_freq: 5 - 1 | sentence_idx: 598550 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-89 |    E-89 You never can join a Church ; you join a lodge . ||| E-89 ( 197 ) Vous ne pouvez jamais adhérer à une église ; vous adhérez à une loge .
+
+Zayta Zayta | w_freq: 1 - 1 | wiki_freq: 35 - 1 | sentence_idx: 600762 | align_1: 4-4 | align_2: 5-9 | ner_entity: Zayta-Zayta |    * The town of Zayta originally extended into what is now Israel . ||| • La ville de Zayta s’ étendait à l’ origine sur ce qui est maintenant Israël .
+
+E-284 E-284 | w_freq: 9 - 9 | wiki_freq: 0 - 0 | sentence_idx: 615373 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-284 |    E-284 How do we know , this morning , that the Governor is not standing by our cell this morning ? ||| E-284 ( 160 ) Comment savons -nous ce matin , si le Gouverneur ne se trouve pas dans notre cellule ce matin ?
+
+Sodas Sodas | w_freq: 4 - 3 | wiki_freq: 52 - 7 | sentence_idx: 626018 | align_1: 6-10 | align_2: 7-14 | ner_entity: none-Sodas |    Barely two years ago , 1642 Sodas was just an idea . ||| « Il y a deux ans à peine , 1642 Sodas , ce n’ était qu’ une idée .
+
+2209 2209 | w_freq: 4 - 4 | wiki_freq: 95 - 66 | sentence_idx: 632336 | align_1: 1-1 | align_2: 2-5 | ner_entity: 2209 only 14-none |    After 2209 only 14 more DASH will be created . ||| Après 2209 , c’ est seulement 14 DASH supplémentaires qui seront créés .
+
+Cahokians Cahokiens | w_freq: 1 - 1 | wiki_freq: 15 - 0 | sentence_idx: 659429 | align_1: 5-5 | align_2: 6-9 | ner_entity: Cahokians-Cahokiens |    No one knows what the Cahokians called their city . ) ||| Personne ne sait comment les Cahokiens eux - mêmes appelaient leur ville . )
+
+ICCAT ICCAT | w_freq: 6 - 5 | wiki_freq: 59 - 9 | sentence_idx: 667164 | align_1: 11-13 | align_2: 12-17 | ner_entity: ICCAT-ICCAT |    The good news is that the 52 governments that make up ICCAT can . ||| La bonne nouvelle , c’ est que les 52 gouvernements qui composent l’ ICCAT , eux , peuvent le faire .
+
+Premananda Premananda | w_freq: 2 - 2 | wiki_freq: 74 - 2 | sentence_idx: 667556 | align_1: 12-13 | align_2: 13-18 | ner_entity: Swami Premananda-Swami Premananda |    Yes , like 2000 years ago … How many times had Swami Premananda not mentioned the life and teachings of Christ ? ||| Comme il y a 2000 ans , oui … Combien de fois Swami Premananda n’ avait -t -il pas déjà évoqué la vie et l’ enseignement du Christ ?
+
+Muslims!"(al-Baqarah Baqara | w_freq: 1 - 6 | wiki_freq: 0 - 29 | sentence_idx: 668067 | align_1: 12-20 | align_2: 13-25 | ner_entity: none-Al - Baqara |    God has chosen for you the religion , and die only as Muslims!"(al-Baqarah , 2:132 ) . ||| Dieu a choisi pour vous la Religion ; ne mourez que soumis à lui . » ( sourate Al - Baqara ( La vache ) ; 2 : 132 ) .
+
+Soohyuk Soohyuk | w_freq: 3 - 3 | wiki_freq: 0 - 0 | sentence_idx: 676164 | align_1: 2-3 | align_2: 3-8 | ner_entity: Kim Soohyuk-Kim Soohyuk |    While Kim Soohyuk explained , other first year classes arrived . ||| Pendant que Kim Soohyuk est en train d’ expliquer , d’ autres classes de première année sont arrivées .
+
+Niran Niran | w_freq: 1 - 1 | wiki_freq: 77 - 16 | sentence_idx: 696548 | align_1: 3-3 | align_2: 4-7 | ner_entity: Niran-Niran |    The voters of Niran are quite literally voting against the future existence of their village . ||| Les électeurs de Niran , eux , votent littéralement contre l’ existence future de leur village .
+
+E-23 E-23 | w_freq: 44 - 46 | wiki_freq: 14 - 5 | sentence_idx: 735308 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-23 |    E-23 Not upon some sensation , but did you believe it ? ||| E-23 Ce n’ est pas sur base d’ une quelconque sensation , mais avez -vous cru cela ?
+
+AViSTO AViSTO | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 750742 | align_1: 1-1 | align_2: 2-6 | ner_entity: AViSTO-AViSTO |    " AViSTO first supported us in the functional coordination of the project . ||| « AViSTO nous a tout d’ abord accompagnés au niveau de la coordination fonctionnelle du projet .
+
+E-217 E-217 | w_freq: 13 - 13 | wiki_freq: 0 - 0 | sentence_idx: 775913 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-217 |    E-217 You know what " Son of man " means ? ||| E-217 ( 72 ) Vous savez ce que " Fils de l' homme " signifie ?
+
+O'kanada kanada | w_freq: 2 - 6 | wiki_freq: 0 - 4 | sentence_idx: 784353 | align_1: 3-8 | align_2: 4-12 | ner_entity: Simon O'kanada-Simon O’ kanada |    My friend Simon O'kanada wondered why his son was always sick . ||| « Un de mes amis , Simon O’ kanada , s’ est demandé pourquoi son fils était toujours malade .
+
+E-24 E-24 | w_freq: 35 - 36 | wiki_freq: 16 - 2 | sentence_idx: 795317 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-24 |    E-24 They could have their own homes . ||| E-24 ( 54 ) Ils pouvaient avoir leurs propres maisons .
+
+E-296 E-296 | w_freq: 8 - 10 | wiki_freq: 0 - 1 | sentence_idx: 795803 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-296 |    E-296 Now , lady , you and I are meeting here this morning . ||| E-296 ( 243 ) Maintenant , madame , vous et moi , nous nous rencontrons ici ce matin .
+
+Maha’ulepu mvbeli | w_freq: 7 - 1 | wiki_freq: 0 - 0 | sentence_idx: 800061 | align_1: 0-2 | align_2: 1-8 | ner_entity: Maha’ulepu-none |    Maha’ulepu was healing . ||| - tcim mvbeli { celui - remèdes } est « celui qui guérit » .
+
+SPECIALIST SPECIALISTE | w_freq: 2 - 1 | wiki_freq: 10 - 0 | sentence_idx: 806858 | align_1: 5-3 | align_2: 6-9 | ner_entity: none-SPECIALISTE |    DANIEL PIPES , US POLICY SPECIALIST : No , Jana , very far from a complete change . ||| DANIEL PIPES , SPECIALISTE DE LA POLITIQUE DES ETATS-UNIS : Non , Jana , on est très loin d' un changement complet .
+
+E-276 E-276 | w_freq: 15 - 18 | wiki_freq: 0 - 0 | sentence_idx: 817296 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-276 |    E-276 How many is sitting before me , especially ... ||| E-276 ( 234 ) Combien sont assis ici devant moi , particulièrement ...
+
+F-FACTOR FACTOR | w_freq: 1 - 5 | wiki_freq: 0 - 6 | sentence_idx: 848810 | align_1: 19-24 | align_2: 20-31 | ner_entity: none-FACTOR |    As a result , it 's never been more important for brands to make sure they too have the F-FACTOR . ||| En conséquence , il n' a jamais été plus important pour les marques de s' assurer qu' elles ont elles aussi THE F - FACTOR ( LE F - FACTEUR ) .
+
+China—look jetez | w_freq: 1 - 69 | wiki_freq: 0 - 48 | sentence_idx: 857555 | align_1: 1-4 | align_2: 2-9 | ner_entity: China—look-none |    Forget China—look at the massive multiple security organizations in the US now monitoring us—almost out of control since 9/11 . ||| Oubliez la Chine – jetez un coup d’ œil aux multiples organisations de sécurité massive aux États-Unis qui nous surveillent maintenant – presque en dehors de tout contrôle depuis le 11 septembre 2001 .
+
+04/16 04/16 | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 872390 | align_1: 8-7 | align_2: 9-12 | ner_entity: DRB Opinion No . 04/16-none |    The official text of DRB Opinion No . 04/16 is available in German only . ||| Le texte officiel de l’ avis n° 04/16 de la DRB n’ est disponible qu’ en allemand .
+
+iYammer iYammer | w_freq: 3 - 3 | wiki_freq: 0 - 0 | sentence_idx: 878245 | align_1: 4-3 | align_2: 5-7 | ner_entity: none-iYammer |    You 've got an iYammer coming , and are you really ready for it ? ||| Vous avez un iYammer qui s’ en vient , et êtes -vous vraiment prêts pour cela ?
+
+Neocon néocon | w_freq: 2 - 2 | wiki_freq: 24 - 0 | sentence_idx: 880164 | align_1: 1-1 | align_2: 2-6 | ner_entity: Neocon-none |    The Neocon is actually slightly more modest , all he wants is for Arabs to drink Coca Cola in a westernised democratic society . ||| Le néocon , de fait , est légèrement plus modeste : tout ce qu’ il veut , c’ est que les Arabes boivent du Coca-Cola dans une société démocratique occidentalisée .
+
+EURES EURES | w_freq: 10 - 10 | wiki_freq: 10 - 11 | sentence_idx: 887226 | align_1: 13-15 | align_2: 14-21 | ner_entity: the EURES Job Mobility Portal[11-EURES |    - How can the European Public Employment Services ( PES ) and the EURES Job Mobility Portal[11 ] contribute to facilitate labour migration of third country workers ? ||| - Comment les Services publics de l’ emploi européens ( SPE ) et le portail EURES sur la mobilité de l’ emploi[11 ] peuvent -ils contribuer à faciliter la migration des travailleurs ressortissants de pays tiers ?
+
+Registered_Voters Registered_Voters | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 900400 | align_1: 9-11 | align_2: 10-16 | ner_entity: Registered_Voters-Registered_Voters |    There are 20,928 observations for the variable called " Registered_Voters . " ||| Il y a 20 928 observations pour la variable appelée « Registered_Voters » ( Electeurs_Inscrits ) .
+
+Scurrilous Scurrilous | w_freq: 1 - 1 | wiki_freq: 29 - 2 | sentence_idx: 910816 | align_1: 7-11 | align_2: 8-15 | ner_entity: none-Scurrilous |    Was Volition thought as an extension of Scurrilous somehow ? ||| Est -ce que Volition a été pensé comme une extension de Scurrilous , d’ une certaine manière ?
+
+C-216 C-216 | w_freq: 5 - 5 | wiki_freq: 0 - 1 | sentence_idx: 917591 | align_1: 1-4 | align_2: 2-9 | ner_entity: Bill C-216-C-216 |    Bill C-216 before us imposes requirements that are unique for the two markets . ||| Le projet de loi C-216 , que nous avons devant nous , impose des exigences qui sont uniques pour les deux marchés .
+
+E-29 E-29 | w_freq: 59 - 58 | wiki_freq: 3 - 1 | sentence_idx: 950666 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-29 |    E-29 Little sister there from Long Beach , do n't worry . ||| E-29 Vous , la petite sœur , là , venant de Long Beach , ne vous inquiétez pas .
+
+Dhu'l-Qarnain.(83 Qarnaïn | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 960205 | align_1: 4-9 | align_2: 5-16 | ner_entity: none-Dhou al - Qarnaïn |    They ask you about Dhu'l-Qarnain.(83 ) ||| Ils t’ interrogent au sujet de Dhou al - Qarnaïn ( l’ homme aux deux cornes ) .
+
+Brahmadeva Brahmadeva | w_freq: 2 - 2 | wiki_freq: 31 - 0 | sentence_idx: 980703 | align_1: 1-1 | align_2: 2-7 | ner_entity: none-Ô Brahmadeva |    O Brahmadeva , please tell me that which is very secret and has not been told by anyone to anybody else and which protects all human beings in this world . ||| Ô Brahmadeva , s’ il vous plait , dites -moi ce qui est très secret et que nul n’ a dit à personne et qui protège tous les êtres humains en ce monde .
+

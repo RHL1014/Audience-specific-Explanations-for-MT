@@ -1,0 +1,2 @@
+HARLEM 哈莱姆 | w_freq: 1 - 11 | wiki_freq: 5 - 186 | sentence_idx: 65645 | align_1: 3-1 | align_2: 4-18 | entity: HARLEM - 哈莱姆 |    MISS ANNE IN HARLEM : The White Women of the Black Renaissance . ||| 《 哈莱姆 的 安妮 小姐 ： 黑人 文艺复兴 中 的 白人 女性 》 ( Miss Anne in Harlem : The White Women of the Black Renaissance ) 。 
+

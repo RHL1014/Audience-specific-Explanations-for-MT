@@ -1,0 +1,184 @@
+1 file
+
+Achor 亚割谷[ | w_freq: 2 - 1 | wiki_freq: 96 - 0 | sentence_idx: 56671 | align_1: 12-5 | align_2: 13-13 | entity: Achor - 亚割谷[ |    Therefore the name of that place has been called the valley of Achor to this day . " ||| ” 因此 那 地方 名叫 亚割谷[ 就是 连 累 的 意思 ] ， 直到 今日 。 
+
+POTUS POTUS | w_freq: 14 - 24 | wiki_freq: 177 - 8 | sentence_idx: 117861 | align_1: 2-3 | align_2: 3-7 | entity: POTUS - none |    A # POTUS who ’s name alone creates division and anger . ||| 「 一个 # POTUS ( 白痴 ) 他 的 名字 独自 造成 分裂 和 愤怒 。 
+
+Maryam 尔萨 | w_freq: 231 - 57 | wiki_freq: 2582 - 12 | sentence_idx: 305964 | align_1: 7-12 | align_2: 8-25 | entity: Maryam - 尔萨 |    They replied this is Messiah son of Maryam ” ( Sahih Bukhari , vol . ||| 因此 ， 古兰经 这样 评价 他 ： “ 这是 麦尔彦 的 儿子 尔萨 （ 耶稣 ） ， 这是 你们 所 争论 的 真理 之 言 ” （ 麦尔彦章 19:34 ） 。 
+
+Eichmann Eichmann | w_freq: 7 - 3 | wiki_freq: 1901 - 2 | sentence_idx: 386290 | align_1: 5-5 | align_2: 6-13 | entity: Eichmann - none |    I can even admit that Eichmann sincerely believed in his mission , but I can not say , “ OK , come back and do it again . ” ||| 我 甚至 可以 承认 ， Eichmann ( 译者 注 ： 阿道夫·艾希曼 ) 真诚 地 相信 他 的 使命 ， 但 我 不 能 说 ， “ 好 ， 回来 再 来 一 次 吧 ” 。 
+
+Gees Gees | w_freq: 6 - 7 | wiki_freq: 2850 - 29 | sentence_idx: 490053 | align_1: 1-1 | align_2: 2-6 | entity: Gees - Bee Gees |    Bee Gees - " Too much Heaven " ||| Bee Gees ( 比吉斯 合唱团 ) - Too Much Heaven ( 太 多 的 天堂 ) 
+
+Raytheon Raytheon | w_freq: 1 - 1 | wiki_freq: 2445 - 17 | sentence_idx: 562941 | align_1: 3-3 | align_2: 4-11 | entity: Raytheon - none |    I looked at Raytheon ’s annual report and they lost a lot of money in this area , but they ’re selling their own planes so maybe they do n’t care . ||| 我 看 了 Raytheon [ 美国 主要 的 军事 承包 商] 的 年报 , 它们 在 这个 领域 亏 了 很多 钱 , 但 他们 销售 自己 的 飞机 , 因此 可能 并不 在意 ｡ 
+
+Eurodad Eurodad | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 563267 | align_1: 15-11 | align_2: 16-19 | entity: Eurodad - none |    [ 11 ] We are not in the habit of engaging in lobbying – unlike Eurodad , another organisation that is mobilised around the issue of debt . ||| [ 11 ] 我们 不 习惯 搞 游说 　 ── 不 像 Eurodad （ 债务 和 发展 欧洲 网络 ） ， 它 是 围绕 债务 问题 动员 起来 的 另 一个 组织 。 
+
+Shi’ahs 什叶 | w_freq: 1 - 1 | wiki_freq: 1 - 15 | sentence_idx: 612297 | align_1: 15-12 | align_2: 16-21 | entity: Shi’ahs - none |    The Prophet ( S ) said : O ‘ Ali , it you and your Shi’ahs . ||| 先知 说 ： “ 阿里 呀 ！ 你 和 你 的 ‘ 什叶 ’ ( 支持者 、 伙伴 ) 是 成功者 。 
+
+DXM DXM | w_freq: 1 - 1 | wiki_freq: 68 - 5 | sentence_idx: 721226 | align_1: 4-3 | align_2: 5-11 | entity: DXM - none |    " My experience with DXM : I started peeing blood . ||| 「 我 使用 DXM （ 右 美 沙芬 ） 的 经验 ： 我 开始 有 血尿 。 
+
+AO3 AO3 | w_freq: 2 - 3 | wiki_freq: 24 - 68 | sentence_idx: 845713 | align_1: 9-7 | align_2: 10-12 | entity: AO3 - Archive Of Our Own – AO3 （ AO3 作品 库 ） |    It works with the Archive of Our Own ( AO3 ) to protect your old favorites from other places around the web . ||| 它 与 Archive Of Our Own – AO3 （ AO3 作品 库 ） 合作 ， 保护 您 在 整个 网路 上 其他 地方 所 喜爱 的 同人 作品 。 
+
+Hottie Hottie | w_freq: 1 - 1 | wiki_freq: 155 - 2 | sentence_idx: 990658 | align_1: 22-24 | align_2: 23-33 | entity: Hottie - none |    Very soon after at 2:16 , he says , “ Have any of you enjoyed this special pizza here tonight called the Hottie ? … If you have n’t had it , you should try it , it ’s delicious . ” ||| 之后 不久 ， 在 2:16 ， 他 说 ： “ 你们 有 没有 人 享受 过 今晚 这里 的 这个 特别 的 披萨 叫 Hottie （ 字面 上 是 辣妹 的 意思 ） ？ …… 如果 你 还 没有 ， 你 应该 试 一下 ， 它 很 美味 。 
+
+
+2 file
+
+MSF MSF | w_freq: 12 - 8 | wiki_freq: 1258 - 20 | sentence_idx: 99188 | align_1: 8-9 | align_2: 9-15 | entity: MSF - none |    Separately , the charity Doctors Without Borders ( MSF ) said its ship Dignity 1 had saved 373 people , including 62 women and 10 children . ||| 另外 ， 慈善 机构 无 国界 医生 组织 （ MSF ， 无 国界 医生 组织 ） 表示 ， 其 船舶 Dignity 1 救 了 373 人 ， 其中 包括 62 名 妇女 和 10 名 儿童 。 
+
+Ake Ake | w_freq: 2 - 1 | wiki_freq: 546 - 9 | sentence_idx: 103725 | align_1: 1-1 | align_2: 2-5 | entity: Ake - none |    To Ake : I am waiting for you in front of the cave . ||| To Ake （ 教练 ） ： 我 在 山洞 前 等 你 。 
+
+Sinim 秦国 | w_freq: 3 - 6 | wiki_freq: 16 - 3579 | sentence_idx: 168220 | align_1: 15-18 | align_2: 16-32 | entity: Sinim - none |    these from the north and from the west ; and these from the land of Sinim . ” ||| 12 看 哪 ！ 这些 从 远方 来 ﹔ 这些 从 北方 、 从 西方 来﹔ 这些 从 秦国 来 （ 注 ： " 秦 " 原音 作 " 希尼 " ） 。 
+
+Amitabha Amitabha | w_freq: 3 - 2 | wiki_freq: 578 - 1 | sentence_idx: 193156 | align_1: 18-16 | align_2: 19-24 | entity: Amitabha - none |    But , for example , if I want to teach this to westerners , I just say " Amitabha , " just the name part—to simplify it . ||| 但是 ， 比如 ， 如果 我 要 对 西方人 教授 这个 ， 我 只 说 " Amitabha " （ 「 阿弥 他 巴 」 ， 只是 名号 部分 —— 来 简化 之 。 
+
+Sinim 秦国 | w_freq: 3 - 6 | wiki_freq: 16 - 3579 | sentence_idx: 220850 | align_1: 15-18 | align_2: 16-32 | entity: Sinim - none |    these from the north and from the west ; and these from the land of Sinim . ” ||| “ 看 哪 ！ 这些 从 远方 来 ﹔ 这些 从 北方 、 从 西方 来﹔ 这些 从 秦国 来 （ 注 ： " 秦 " 原音 作 " 希尼 " ） 。 
+
+Eurodad Eurodad | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 228391 | align_1: 15-11 | align_2: 16-19 | entity: Eurodad - none |    [ 12 ] We are not in the habit of engaging in lobbying – unlike Eurodad , another organisation that is mobilised around the issue of debt . ||| [ 11 ] 我们 不 习惯 搞 游说 　 ── 不 像 Eurodad （ 债务 和 发展 欧洲 网络 ） ， 它 是 围绕 债务 问题 动员 起来 的 另 一个 组织 。 
+
+Hottie Hottie | w_freq: 2 - 2 | wiki_freq: 155 - 2 | sentence_idx: 252617 | align_1: 22-26 | align_2: 23-35 | entity: Hottie - none |    Very soon after at 2:16 , he says , “ Have any of you enjoyed this special pizza here tonight called the Hottie ? … If you have n’t had it , you should try it , it ’s delicious . ” ||| 之后 不久 ， 在 2:16 ， 他 说 ： “ 你们 有 没有 人 品尝 / 享受 过 今晚 这里 的 这个 特别 的 披萨 叫 Hottie （ 字面 上 是 辣妹 的 意思 ） ？ …… 如果 你 还 没有 ， 你 应该 试 一下 ， 它 很 美味 。 
+
+Thieves Thieves | w_freq: 17 - 6 | wiki_freq: 4177 - 32 | sentence_idx: 258753 | align_1: 2-2 | align_2: 3-9 | entity: Thieves - none |    Sea of Thieves can only be played while online . ||| Sea of Thieves （ 盗贼 之 海 ） 只 可以 在线 玩 。 
+
+Wal-Mart Wal-Mart | w_freq: 19 - 7 | wiki_freq: 2077 - 15 | sentence_idx: 260389 | align_1: 2-2 | align_2: 3-6 | entity: Wal-Mart - Wal-Mart |    But when Wal-Mart mandated that it use the Internet and AS2 standard to do business , it quickly needed new technology . ||| 但 当 Wal-Mart （ 沃尔玛 ） 规定 使用 Internet 和 AS2 标准 来 开展 业务 时 ， 它 需要 立即 使用 新 技术 。 
+
+HHS HHS | w_freq: 28 - 28 | wiki_freq: 1728 - 24 | sentence_idx: 283713 | align_1: 27-26 | align_2: 28-32 | entity: HHS - none |    Under the proposed rule , Section 1557 also applies to the Health Insurance Marketplace and health programs administered by the Department of Health and Human Services ( HHS ) . ||| 根据 拟议 规则 ， 第 1557 节 也 适用 于 Health Insurance Marketplace （ 健保 市场 ） 及 由 Department of Health and Human Services （ HHS ， 卫生 和 公共 服务部 ） 管理 的 健康 计划 。 
+
+NACE NACE | w_freq: 5 - 4 | wiki_freq: 148 - 1 | sentence_idx: 286445 | align_1: 3-3 | align_2: 4-12 | entity: NACE - none |    Brooks : In NACE we have 81 member institutions . ||| Brooks ： 在 NACE （ 国家 电子 顾问 委员会 ） 中 ， 我们 有 81 个 成员 机构 。 
+
+Sinim 希尼 | w_freq: 3 - 3 | wiki_freq: 16 - 56 | sentence_idx: 555148 | align_1: 15-24 | align_2: 16-37 | entity: Sinim - 希尼 |    these from the north and from the west ; and these from the land of Sinim . ” ||| 看 哪 ， 这些 从 远方 来 ， 这些 从 北方 、 从 西方 来 ， 这些 从 秦国 来 （ 秦 原文 为 希尼 ， 因 有些 解经家 认为 这是 指 中国 ， 故译 秦国 ） 。 
+
+LVM LVM | w_freq: 3 - 6 | wiki_freq: 119 - 15 | sentence_idx: 574199 | align_1: 8-8 | align_2: 9-14 | entity: LVM - none |    I have to tell you that , when LVM first made its appearance in Fedora Linux , I resisted it rather strongly . ||| 我 想 告诉 你 的 是 ， 当 LVM （ 逻辑 卷 管理 ） 首次 出现 在 Fedora Linux 中时 ， 我 是 非常 抗拒 它 的 。 
+
+Jor-el 乔˙艾尔 | w_freq: 1 - 1 | wiki_freq: 5 - 0 | sentence_idx: 578794 | align_1: 13-13 | align_2: 14-18 | entity: Jor-el - 乔˙艾尔 |    I was actually born on Krypton and sent here by my father , Jor-el , to save the Planet Earth . '' ||| 其实 我 是 出生 在 氪普顿 星球 上 ， 然后 被 我 父亲 乔˙艾尔 （ 超人 的 生父 ） 派 过来 拯救 这个 星球 － 地球 」 。 
+
+VMWare VM | w_freq: 3 - 25 | wiki_freq: 92 - 147 | sentence_idx: 687279 | align_1: 0-1 | align_2: 1-10 | entity: VMWare Workstation - none |    VMWare Workstation : This virtual machine appears to be in use . ||| 重开 VM （ 虚拟机 ） 的 时候 ， 出现 以下 画面 ： This virtual machine appears to be in use . 
+
+Lexus Lexus | w_freq: 9 - 4 | wiki_freq: 3226 - 91 | sentence_idx: 696562 | align_1: 14-14 | align_2: 15-18 | entity: Lexus LF-A - none |    Apart from being one of the most awesome supercars on the planet , the Lexus LF-A taught us something important about Lexus . ||| 除了 是 这个 星球 上 最 令 人 敬畏 的 超级 跑车 之一 ， Lexus （ 凌志 ） LF-A 还 让 我们 了解 了 Lexus 的 一些 重要 东西 。 
+
+® World® | w_freq: 169 - 1 | wiki_freq: 3804 - 0 | sentence_idx: 722750 | align_1: 11-8 | align_2: 12-17 | entity: ® - none |    Austin is known as the Live Music Capital of the World ® but that ’s just the beginning . ||| Austin 被 誉为 Live Music Capital of the World® （ 世界 现场 音乐 之 都 ） ， 但 这 只是 开始 。 
+
+XC40 XC40 | w_freq: 6 - 6 | wiki_freq: 67 - 16 | sentence_idx: 777552 | align_1: 10-3 | align_2: 11-8 | entity: Cray XC40 - none |    That ’s over ten times more than its current Cray XC40 cost , but it will deliver more timely and accurate forecasts . ||| 这是 目前 Cray XC40 （ 超算 系统 ） 成本 的 十 倍 以上 ， 但 它 将 提供 更 及时 和 准确 的 预测 。 
+
+
+3file
+
+Josephus Josephus | w_freq: 18 - 2 | wiki_freq: 4535 - 21 | sentence_idx: 6530 | align_1: 1-5 | align_2: 2-12 | entity: Flavius Josephus - none |    Flavius Josephus wrote , “ One may call this place the ambition of Nature . ” ||| 第 1 世纪 历史学家 Flavius Josephus 对 该 地区 印象深刻 ， 他 写道 ： “ One may call this place the ambition of Nature 。
+
+ELC ELC | w_freq: 5 - 5 | wiki_freq: 344 - 18 | sentence_idx: 12189 | align_1: 9-12 | align_2: 10-20 | entity: ELC - none |    Tell us where you want to study ; at ELC or at home / at work ? ||| 您 可以 告诉 我们 您 想 在 哪里 学习 ， 是 在 ELC （ 英语 语言 中心 ） ， 在家 还是 在 您 的 工作 场所 ？ 
+
+Gees Gees | w_freq: 5 - 6 | wiki_freq: 2850 - 29 | sentence_idx: 164532 | align_1: 2-1 | align_2: 3-6 | entity: Gees - Bee Gees |    The Bee Gees - Too much heaven ||| Bee Gees ( 比吉斯 合唱团 ) - Too Much Heaven ( 太 多 的 天堂 ) 
+
+FYROM FYROM | w_freq: 2 - 2 | wiki_freq: 54 - 1 | sentence_idx: 178447 | align_1: 6-3 | align_2: 7-13 | entity: FYROM - none |    However , for the inhabitants of FYROM , it also has an ethnic sense , since many ( or most ) Slavic-speaking inhabitants of FYROM consider themselves to be Macedonian in an ethnic sense . ||| 然而 ， 对于 FYROM ( 前 南斯拉夫 马其顿 共和国 ) 的 居民 而言 ， 它 也 有 种族 涵义 ， 因为 FYROM 里 许多 ( 或 大部分 )斯拉夫 语系 的 居民 在 种族 上认 为 自己 是 马其顿 人 。 
+
+PSG PSG | w_freq: 27 - 23 | wiki_freq: 4026 - 126 | sentence_idx: 229099 | align_1: 3-3 | align_2: 4-8 | entity: PSG - none |    “ City , PSG – they ’ve always been the global inflaters . ||| “ 城市 ， PSG [ 巴黎 圣日耳曼 ] – 他们 一直 是 全球性 的 热潮 。 
+
+Eurodad Eurodad | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 415494 | align_1: 15-11 | align_2: 16-19 | entity: Eurodad - none |    [ 11 ] We are not in the habit of engaging in lobbying – unlike Eurodad , another organisation that is mobilised around the issue of debt . ||| [ 11 ] 我们 不 习惯 搞 游说 　 ── 不 像 Eurodad （ 债务 和 发展 欧洲 网路 ） ， 它 是 围绕 债务 问题 动员 起来 的 另 一个 组织 。
+
+Eames Eames | w_freq: 9 - 8 | wiki_freq: 1685 - 6 | sentence_idx: 432574 | align_1: 10-17 | align_2: 11-23 | entity: Eames - none |    In many ways it still is – but to quote Eames , “ Toys are not really as innocent as they look . ||| 从 许多 层面 来说 ， 它 仍旧 是 个 玩具 —— 但是 引用 伊姆斯 （ 译注 ： Eames ， 设计师 ） 的话 说 ， “ 玩具 并 不 像 它们 看上去 那么 简单 无辜 。 
+
+Californian 加利福尼亚 | w_freq: 17 - 276 | wiki_freq: 4675 - 3240 | sentence_idx: 480444 | align_1: 15-15 | align_2: 16-20 | entity: Californian - 加利福尼亚 |    You are the world 's top IT expert , I ca n't make you a Californian farmer . " ||| 你 是 世界 顶尖 的 IT 专家 ， 我 不 能 让 你 成为 一个 加利福尼亚 （ 加州 ） 的 农夫 。 
+
+Apps Apps | w_freq: 44 - 17 | wiki_freq: 2010 - 124 | sentence_idx: 558734 | align_1: 5-4 | align_2: 6-10 | entity: Apps - none |    What is the PlayMemories Camera Apps Smart Remote Control ? ||| 什么 是 PlayMemories Camera Apps ( 相机 应用 程式 ) Smart Remote Control ( 智慧 遥控 ) ？ 
+
+ECOWAS 非盟 | w_freq: 11 - 20 | wiki_freq: 1371 - 206 | sentence_idx: 738525 | align_1: 19-12 | align_2: 20-18 | entity: ECOWAS - 非盟 |    Should the Guinean authorities fail to ensure such investigations and prosecutions , the Guinean government , the AU , ECOWAS , EU , and UN should fully support international investigations and prosecutions , including by the International Criminal Court ( ICC ) if the requirements of its statute are met . ||| 如果 几内亚 当局 未能 确保 调查 和 起诉 ， 几内亚 政府 ， 非盟 ， 西非 国家 经济 共同体 ， 欧盟 和 联合国 应 全力 支持 国际 调查 和 起诉 ， 包括 国际 刑事 法院 的 调查 起诉 ， 如果 符合 其 章程 要求 。 
+
+Saldana Saldana | w_freq: 2 - 2 | wiki_freq: 448 - 3 | sentence_idx: 860897 | align_1: 18-23 | align_2: 19-28 | entity: Zoe Saldana - Zoe Saldana |    But as she boldy confronts her fears in increasingly dangerous ways , her new school counselor ( Zoe Saldana ) leads her to question everything she ’s always believed to be true . ||| 但 当 她 以 越来越 危险 的 方式 勇敢 地 面对 自己 的 恐惧 时 ， 她 的 新 学校 顾问 （ Zoe Saldana ， 银河系 的 守护者 ） 引导 她 去 质疑 她 一直 认为 是 真实 的 一切 。 
+
+Olsson Olsson | w_freq: 3 - 3 | wiki_freq: 2684 - 20 | sentence_idx: 908264 | align_1: 13-13 | align_2: 14-19 | entity: Fredrik Olsson - Fredrik Olsson |    Instead they were persuaded to give it another chance by signing with Fredrik Olsson and his Swedish music publishing company Razor Boy Music Publishing in 2008 . ||| 相反 ， 他们 被 劝说 再次 给 它 一个 机会 ， 与 Fredrik Olsson （ 音乐 行政 人员 ） 和 他 的 瑞典 音乐 出版 公司 Razor Boy Music Publishing 在 2008年 签约 。 
+
+OTW OTW | w_freq: 6 - 8 | wiki_freq: 221 - 1 | sentence_idx: 933051 | align_1: 8-8 | align_2: 9-16 | entity: OTW - OTW ( OTW 再 创作 组织 |    Many of you may be new to the OTW while a few of you have been following our progress since we launched in 2007 . ||| 你们 中 的 许多 人 可能 刚刚 来到 OTW ( OTW 再 创作 组织 ) ， 而 其他 某些 人 可能 从 2007年 我们 创始 以来 就 一直 在 关注 我们 的 进展 。 
+
+4file
+Flemming Flemming | w_freq: 2 - 2 | wiki_freq: 1859 - 20 | sentence_idx: 96841 | align_1: 2-1 | align_2: 3-5 | entity: Flemming - none |    According to Flemming in 2009 , Pavlopetri is thousands of years older than most of the ancient underwater ruins that have already been discovered . ||| 根据 Flemming ( 人名 ) 2009年 的 说法 ， Pavlopetri 比 大多数 已经 被 发现 的 古代 水下 遗迹 要 早 几千 年 。 
+
+Intent Intent | w_freq: 8 - 5 | wiki_freq: 1900 - 8 | sentence_idx: 110951 | align_1: 14-16 | align_2: 15-22 | entity: Intent - none |    In 2012 , Australian Television produced the documentary , Stephen Vitiello : Listening With Intent . ||| 在 2012年 ， 澳洲 电视台 制作 了 一 部 纪录片 ， Stephen Vitiello : Listening With Intent （ 听 的 意图 ） 。 
+
+Ripper Ripper | w_freq: 22 - 9 | wiki_freq: 3962 - 33 | sentence_idx: 162439 | align_1: 14-13 | align_2: 15-20 | entity: Ripper - none |    Here we have an NTLMv2 hash that we can hand off to John the Ripper . ||| 这里 我们 有 一个 NTLMv2哈希 ， 我们 可以 将 它 交给 John the Ripper （ 快速 密码 破解 工具 ） 。 
+
+EGO EGO | w_freq: 1 - 1 | wiki_freq: 191 - 13 | sentence_idx: 298786 | align_1: 1-2 | align_2: 2-6 | entity: EGO - none |    " EGO is the only requirement to destroy any relationship . ||| ， “ EGO （ 自我 ） 是 摧毁 任何 关系 的 唯一 条件 。 
+
+Grundgesetz Grundgesetz | w_freq: 1 - 1 | wiki_freq: 138 - 4 | sentence_idx: 306813 | align_1: 20-16 | align_2: 21-20 | entity: Grundgesetz - none |    Nothing is more symbolic of the Federal Republic of Germany than its constitution , the Basic Law , or " Grundgesetz " . ||| 没有 什么 比 联邦 德国 宪法 更 有 标志性 了 ， 就是 基本法 ， 或者 “ Grundgesetz （ 宪法 ） ” 。 
+
+CND CND | w_freq: 3 - 2 | wiki_freq: 866 - 10 | sentence_idx: 323314 | align_1: 7-2 | align_2: 8-7 | entity: CND - CND （ 核裁军 运动 ） 党 |    She was an active member of the CND party , and had numerous friends in the art world . ||| 她 是 CND （ 核裁军 运动 ） 党 的 积极 成员 ， 并 在 艺术界 拥有 众多 朋友 
+
+Olsson Olsson | w_freq: 2 - 1 | wiki_freq: 2684 - 20 | sentence_idx: 350281 | align_1: 13-13 | align_2: 14-19 | entity: Fredrik Olsson - Fredrik Olsson |    Instead they were persuaded to give it another chance by signing with Fredrik Olsson and his Swedish music publishing company Razor Boy Music Publishing in 2008 . ||| 相反 ， 他们 被 劝说 再次 给 它 一个 机会 ， 与 Fredrik Olsson （ 音乐 行政 人员 ） 和 他 的 瑞典 音乐 出版 公司 Razor Boy Music Publishing 在 2008年 签约 。 
+
+Toolkit Toolkit | w_freq: 24 - 18 | wiki_freq: 1207 - 80 | sentence_idx: 373527 | align_1: 8-7 | align_2: 9-12 | entity: Translator Toolkit - none |    We hope this feature , along with Translator Toolkit and the Translate API , can provide a low cost way to expand your reach globally and help to break down language barriers . ||| 我们 希望 该 功能 ， 和 Translator Toolkit （ 译者 工具包 ） 以及 Translate API 一起 ， 能够 助 您 以 低 成本 的 方式 在 全球 范围 内 扩大 覆盖面 ， 并 打破 语言 障碍 。 
+
+USAID USAID | w_freq: 14 - 6 | wiki_freq: 3760 - 29 | sentence_idx: 514228 | align_1: 5-5 | align_2: 6-13 | entity: USAID - USAID |    And like the CIA and USAID , the NED and a number of similar organizations – including the VOA – receive funding from the US Congress . ||| ” 就 像 CIA 和 USAID （ 美国 国际 开发 总署 ） 一样 ， NED 和 若干 类似 的 组织 —— 包括 VOA —— 得到 了 美国 国会 的 资助 。 
+
+Agnelli Agnelli | w_freq: 2 - 2 | wiki_freq: 1016 - 6 | sentence_idx: 535870 | align_1: 3-9 | align_2: 4-18 | entity: Gianni Agnelli - Gianni Agnelli |    WB : Gianni Agnelli said : ‘ When you get old , you have the reputation you deserve ’ . ||| 巴菲特 ： ( 意大利 实业家 ) 詹尼•阿涅利 ( Gianni Agnelli ) 有 一 次 告诉 我 ， 他 说 ： “ 当 你 长大 时 ， 你 就 拥有 了 你 应得 的 声誉 。 
+
+CityAirbus CityAirbus | w_freq: 3 - 3 | wiki_freq: 12 - 0 | sentence_idx: 538798 | align_1: 20-21 | align_2: 21-26 | entity: CityAirbus - none |    " We have since reoriented our development efforts and come up with some revolutionary concepts such as the Vahana and CityAirbus , that are close to becoming a tangible reality . ||| “ 我们 已经 调整 了 自己 的 发展 方向 ， 并 提出 了 一些 革命性 的 概念 ， 如 Vahana 和 CityAirbus ( 城市 空客 ) ， 这些 概念 正在 接近 成为 现实 。 
+
+PIJ PIJ | w_freq: 2 - 2 | wiki_freq: 278 - 3 | sentence_idx: 586665 | align_1: 7-9 | align_2: 8-17 | entity: PIJ - none |    Transferring Iranian money to Hamas & the PIJ does n’t make you a businessman . ||| “ 将 伊朗 的 钱 转移 到 哈马斯 和 PIJ [ 巴勒斯坦 伊斯兰 圣战 组织 ] 不 会 让 你 成为 一 名 商人 。 
+
+Walkley Walkley | w_freq: 2 - 2 | wiki_freq: 1043 - 5 | sentence_idx: 695569 | align_1: 9-11 | align_2: 10-15 | entity: Walkley - none |    " John Garnaut is a careful , meticulous , Walkley award-winning journalist who is globally recognised for his China expertise . " ||| “ John Garnaut 是 一 位 细心 ， 细致 ， 荣获 Walkley （ 新闻 ） 奖 的 记者 ， 因 其 对 中国 的 专业 知识 而 享誉 全球 。 
+
+Changelings Changeling | w_freq: 1 - 1 | wiki_freq: 101 - 3 | sentence_idx: 702428 | align_1: 19-22 | align_2: 20-28 | entity: Changelings - none |    In fact , we even have a name for magickal children born to Mundy parents : we call them Changelings . ||| 实际上 ， 我们 有 一个 专门 为 出生 在 麻瓜 家庭 的 孩子 起 的 名字 ： 我们 叫 他们 为 “ Changeling （ 调包 婴儿 ） ” 。 
+
+STOs STOs | w_freq: 2 - 2 | wiki_freq: 31 - 0 | sentence_idx: 723452 | align_1: 20-23 | align_2: 21-29 | entity: STOs - none |    As a result , more people are looking for a more regulated and secure investment option – which is why STOs will begin to establish prominence as we head into 2019 . ||| 因此 ， 越来越 多 的 人 在 寻求 一 种 更 受 监管 、 更 安全 的 投资 选择 —— 这就 是 为什么 STOs ( 安全 令牌 产品 ) 将 在 我们 进入 2019年 之际 开始 崭露头角 的 原因 。 
+
+Eliezer 拉比 | w_freq: 6 - 31 | wiki_freq: 2747 - 720 | sentence_idx: 810843 | align_1: 1-3 | align_2: 2-12 | entity: Eliezer - 拉比 |    Rabbi Eliezer said , “ Repent one day before you die . ” ||| 有 一 位 拉比 （ 犹太教 的 牧者 ） 常 对 人 说 ： 「 你们 应当 在 死 前 的 一日 悔改 」 。 
+
+Zelnick Zelnick | w_freq: 6 - 6 | wiki_freq: 132 - 8 | sentence_idx: 819651 | align_1: 1-1 | align_2: 2-6 | entity: Strauss Zelnick - none |    Strauss Zelnick : Sorry , could you just repeat the third question ? ||| Strauss Zelnick （ T2 老总 ） ： 抱歉 ， 你 能 重复 下 第三 个 问题 吗 ? 
+
+AGC AGC | w_freq: 5 - 5 | wiki_freq: 814 - 47 | sentence_idx: 824741 | align_1: 22-21 | align_2: 23-27 | entity: AGC - none |    Also , the Macrovision protection system may fail to work on older VCR 's , usually due to the lack of an AGC system . ||| 另外 ， Macrovision 保护 系统 可能 对于 旧 的 VCR 并 不 起 作用 ， 这 通常 是 由于 它们 没有 AGC （ 自动 增益 调节 ） 系统 。 
+
+Rishabh Rishabh | w_freq: 1 - 1 | wiki_freq: 385 - 0 | sentence_idx: 961846 | align_1: 3-4 | align_2: 4-11 | entity: Rishabh - none |    The Jains say Rishabh lives there in the mountain . ||| 耆 那 教徒 说 Rishabh （ 耆 那 教 创建者 ） 住 在 这 座 山 中 。 
+
+Scrooge 史高治 | w_freq: 14 - 1 | wiki_freq: 4392 - 8 | sentence_idx: 971140 | align_1: 2-2 | align_2: 3-9 | entity: Scrooge - 史高治 |    Your Uncle Scrooge asks for your help , but some friendly Christmas ghosts have other plans for him … and you . ||| 你 的 史高治 叔叔 ( 又 名 吝啬鬼 ) 寻求 你 的 帮助 ， 但是 一些 友善 的 圣诞 鬼魂 却 对 他 和 你 有着 另外 的 计划 。 
+
+5file
+
+Mist Mist | w_freq: 6 - 3 | wiki_freq: 3199 - 34 | sentence_idx: 44168 | align_1: 13-13 | align_2: 14-24 | entity: Irish Mist - none |    Similarly , this unfortunate translation also caught out the Irish whiskey liqueur Irish Mist . ||| 同样 地 ， 这种 不合 国情 的 翻译 也 给 爱尔兰 威士忌 Irish Mist （ 爱尔兰 之 雾 ） 带来 了 同样 的 麻烦 。 
+
+Mahashivaratri Mahashivratri | w_freq: 1 - 1 | wiki_freq: 73 - 0 | sentence_idx: 49604 | align_1: 33-41 | align_2: 34-46 | entity: Mahashivaratri - none |    I am thinking we will run 21-day Hata Yoga programs in the ashram , maybe once in two or three months , and we will start somewhere in March 2013 , maybe after Mahashivaratri . ||| 我 在 想 我们 将 在 静修 所 举办 为期 21 天 的 哈 他 瑜伽 课程 ， 可能 是 两 到 三 个 月 一 次 ， 我们 将 在 2013年 3月 的 某个 时间 开始 ， 也许 是 在 Mahashivratri （ 大湿婆夜 ） 之后 。 
+
+NFPA NFPA | w_freq: 14 - 14 | wiki_freq: 619 - 27 | sentence_idx: 63825 | align_1: 2-2 | align_2: 3-8 | entity: NFPA - none |    Earlier today NFPA released the most recent " Home Fires Involving Cooking Equipment " report , detailing national statistics from 2007 to 2011 . ||| 近日 ， NFPA （ 美国 消防 协会 ） 发布 了 最新 一 期 “ 与 烹饪 器具 相关 的 住宅 火灾 ” 的 报告 ， 报告 中 详细 给出 了 2007年 至 2011年 间 全国 的 统计 数据 。 
+
+Stereo Stereo | w_freq: 5 - 4 | wiki_freq: 4990 - 42 | sentence_idx: 137501 | align_1: 8-6 | align_2: 9-11 | entity: Stereo - none |    In recent years , TWS ( True Wireless Stereo ) has been rapidly rising in the headset market . ||| 近年来 ， TWS （ True Wireless Stereo ， 真 无线 耳机 ） 正在 耳机 市场 中 快速 崛起 。 
+
+Scrooge 史高治 | w_freq: 6 - 1 | wiki_freq: 4392 - 8 | sentence_idx: 259355 | align_1: 2-2 | align_2: 3-9 | entity: Scrooge - 史高治 |    Your Uncle Scrooge asks for your help , but some friendly Christmas ghosts have other plans for him ... and you . ||| 你 的 史高治 叔叔 ( 又 名 吝啬鬼 ) 寻求 你 的 帮助 ， 但是 一些 友善 的 圣诞 鬼魂 却 对 他 和 你 有着 另外 的 计划 。 
+
+Norvig Norvig | w_freq: 7 - 5 | wiki_freq: 101 - 5 | sentence_idx: 327560 | align_1: 0-2 | align_2: 1-11 | entity: Norvig - none |    Norvig ’s Teach yourself programming in ten years : ||| 就 像 Norvig （ 谷歌 的 研发 总监 ） 说 的 ， Teach Yourself Programming in Ten Years 。 
+
+SPS SPS | w_freq: 11 - 14 | wiki_freq: 3048 - 57 | sentence_idx: 366828 | align_1: 17-13 | align_2: 18-19 | entity: SPS - none |    Trinidad and Tobacco 13 12 Financed by the European Union 10th European Development Fund ( EDF ) SPS project , the IPPC Trust Fund and the IPPC Secretariat . ||| 特立尼达和多巴哥 13 12 由 欧盟 第10 届 欧洲 发展 基金 ( EDF ) SPS （ 动植物 检疫 措施 ） 项目 、 IPPC 信托 基金 和 IPPC 秘书处 资助 。 
+
+Salah Salah | w_freq: 21 - 16 | wiki_freq: 4517 - 19 | sentence_idx: 390760 | align_1: 5-10 | align_2: 6-16 | entity: Mo Salah - none |    “ Mo Salah , Mo Salah , running down the wing , ||| 加油 加油 ！ 埃及 埃及 ！ Mo Salah , Mo Salah （ 埃及 球星 穆罕默德·萨拉赫 ） , flying down the wing ~ 
+
+Catalunya Catalunya | w_freq: 4 - 2 | wiki_freq: 4806 - 32 | sentence_idx: 447293 | align_1: 1-1 | align_2: 2-5 | entity: Catalunya - none |    From Catalunya you need to the Green Line Metro to Liceu . ||| 在 Catalunya （ 加泰罗尼亚 ） 您 需要 达成 地铁 绿线 到 Liceu 。 
+
+Dances Dances | w_freq: 6 - 1 | wiki_freq: 3365 - 13 | sentence_idx: 487466 | align_1: 5-3 | align_2: 6-10 | entity: Land of a Thousand Dances - none |    " Land of a Thousand Dances " ( or " Land of 1000 Dances " ) is a song written and first recorded by Chris Kenner in 1962 . ||| Land Of 1000 Dances ， 即 “ 千 人 共舞 ” （ 或 “ 土地 1000 共舞 ” ） 的 土地 是 一 首 歌 ， 并 首次 记录 于 1962年 由 克里斯·肯纳 。 
+
+TNP TNP | w_freq: 5 - 5 | wiki_freq: 116 - 5 | sentence_idx: 489005 | align_1: 10-8 | align_2: 11-12 | entity: TNP - none |    The researchers still need to figure out how to deliver TNP ’s effects only to MSCs , instead of the entire body , given that it sometimes blocks other enzymes along with IP6K1 . ||| 研究 人员 还 需要 弄 清楚 如何 将 TNP （ 苦味酸 ） 的 作用 仅仅 传递 给 MSCs ， 而 不是 整个 身体 ， 因为 它 有时 会 与 IP6K 1一 起 阻止 其他 酶 的 活性 。 
+
+EGF EGF | w_freq: 29 - 30 | wiki_freq: 539 - 26 | sentence_idx: 511402 | align_1: 0-0 | align_2: 1-8 | entity: EGF - none |    EGF stands for epidermal growth factor . ||| EGF ( 表皮 细胞 生长 因子 ) ， 是 英文 Epidermal Growth Factor 的 简称 。 
+
+EHR EHR | w_freq: 6 - 8 | wiki_freq: 554 - 13 | sentence_idx: 532958 | align_1: 14-16 | align_2: 15-22 | entity: EHR - none |    Cerner convened a team of 24 technology businesses to support its work on the EHR modernization project , which will begin at test sites in 2020 . ||| 塞纳 召集 了 一个 由 24 家 技术 企业 组成 的 团队 ， 以 支持 其 EHR （ 电子 健康 档案 ） 现代化 项目 的 工作 ， 该 项目 将 于 2020年 在 测试点 启动 。 
+
+SoCal SoCal | w_freq: 1 - 1 | wiki_freq: 758 - 3 | sentence_idx: 577619 | align_1: 2-1 | align_2: 3-5 | entity: SoCal - none |    Come to SoCal and learn the facts & help the victims . ||| 来 SoCal [南 加州 ] ， 了解 事实 并 帮助 受害者 。 
+
+Gees Gees | w_freq: 3 - 3 | wiki_freq: 2850 - 29 | sentence_idx: 590401 | align_1: 2-1 | align_2: 3-6 | entity: Gees - Bee Gees |    The Bee Gees – “ Too Much Heaven . ” ||| Bee Gees ( 比吉斯 合唱团 ) - Too Much Heaven ( 太 多 的 天堂 ) 
+
+Deathmatch Deathmatch | w_freq: 1 - 1 | wiki_freq: 927 - 13 | sentence_idx: 601279 | align_1: 4-3 | align_2: 5-9 | entity: Celebrity Deathmatch - none |    Remember that show Celebrity Deathmatch ? ||| 还 记得 Celebrity Deathmatch ( 名人 生死斗 ) 吗 ? 
+
+UNHCR HCR | w_freq: 90 - 3 | wiki_freq: 2768 - 7 | sentence_idx: 612876 | align_1: 4-4 | align_2: 5-10 | entity: UNHCR - UN HCR |    Apartment Barcelona collaborates with UNHCR to raise money for refugees ||| Apartment Barcelona 与 UN HCR ( 联合国 难民署 ) 合作 ， 为 难民 筹集 金钱 
+
+Arabians 沙特阿拉伯 | w_freq: 2 - 571 | wiki_freq: 616 - 3476 | sentence_idx: 647471 | align_1: 3-1 | align_2: 4-7 | entity: Saudi Arabians - 沙特阿拉伯 |    Even the Saudi Arabians have enough sense to recognize the evil of Pokémon and have banned it in their country . ||| 连 沙特阿拉伯 （ 回教 国家 ） 都 有 充足 的 感觉 承认 Pokemon 的 邪恶 ， 并且 在 他们 国家 内 禁止 Pokemon 。 
+
+WIPO WIPO | w_freq: 98 - 77 | wiki_freq: 1104 - 30 | sentence_idx: 798535 | align_1: 3-2 | align_2: 4-10 | entity: WIPO - WIPO |    In consultation with WIPO , the Council shall seek to establish , within one year of its first meeting , appropriate arrangements for cooperation with bodies of that Organization . ||| 经 与 WIPO （ 世界 知识 产权 组织 ） 磋商 ， 理事会 应 寻求 在 其 第一 次 会议 后 一 年内 达成 与 该 组织 各 机构 进行 合作 的 适当 安排 。 
+
+FinTech FinTech | w_freq: 17 - 10 | wiki_freq: 367 - 29 | sentence_idx: 874538 | align_1: 15-7 | align_2: 16-12 | entity: FinTech - none |    The two regions in the Baltic have recently spurred quite a bit of interest in FinTech and this new digital architecture . ||| 波罗的海 的 两 个 地区 最近 在 FinTech （ 金融 科技 ） 和 这种 新 的 数字 架构 上 显示 出 相当 多 的 兴趣 。 
+
+JCPOA JCPOA | w_freq: 28 - 18 | wiki_freq: 337 - 0 | sentence_idx: 877047 | align_1: 3-3 | align_2: 4-9 | entity: JCPOA - none |    " I believe JCPOA was an important diplomatic victory and I think it will be important to preserve it , but I also believe there are areas in which it will be very important to have a meaningful dialogue because I see the region in a very dangerous position , " he said . ||| “ 我 认为 JCPOA （ 伊朗 核 协议 ） 是 一 次 重要 的 外交 胜利 ， 我 认为 保留 它 是 很 重要 的 ， 但 我 也 相信 ， 有些 领域 对于 进行 有 意义 的 对话 非常 重要 ， 因为 我 看到 了 该 地区 在 一个 非常 危险 的 位置 ， “ 他 说 。 
+
+Regression Regression | w_freq: 15 - 2 | wiki_freq: 565 - 18 | sentence_idx: 884028 | align_1: 7-9 | align_2: 8-16 | entity: Least Angle Regression - none |    LassoLarsCV is based on the Least Angle Regression algorithm explained below . ||| LassoLars CV 是 基于 下面 解释 的 Least Angle Regression ( 最 小 角度 回归 ) 算法 。 
+
+Atatürkism Ataturkism | w_freq: 1 - 1 | wiki_freq: 7 - 0 | sentence_idx: 932631 | align_1: 18-22 | align_2: 19-26 | entity: Atatürkism - none |    The New Turkey 's ideology was , and remains , " Kemalism " , later known as " Atatürkism " . ||| 土耳其 共和国 的 意识 形态 过去 是 并且 将 永远 是 “ Kemalism （ Kemal主义 ） ” ， 后来 也 称为 “ Ataturkism （ Ataturk主义 ） ” 。 
+
+HRI HRI | w_freq: 11 - 4 | wiki_freq: 235 - 5 | sentence_idx: 978790 | align_1: 3-6 | align_2: 4-11 | entity: HRI - HRI 国际 减害 组织 |    Damon Barrett ( HRI ): " big problem " between drug enforcement and the death penalty ||| 达蒙•巴雷特 （ Damon Barrett ） （ HRI 国际 减害 组织 ） ： 毒品 走私 和 死刑 之间 存在 “ 严重 问题 ” 
+
+Pritzker Pritzker | w_freq: 6 - 5 | wiki_freq: 2529 - 12 | sentence_idx: 995895 | align_1: 20-20 | align_2: 21-24 | entity: Pritzker Prize - none |    The studio is led by 10 partners , including its founder , the architect Renzo Piano , who won the Pritzker Prize in 1998 . ||| 工作室 由 10 位 合作 伙伴 领导 ， 包括 其 创始人 ， 建筑师 Renzo Piano ， 他 于 1998年 获得 Pritzker （ 普利兹克 建筑 奖 ） 。 

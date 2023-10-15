@@ -1,0 +1,18 @@
+Painthall painthall | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 2491 | align_1: 9-8 | align_2: 10-13 | entity: Operation Painthall - operation painthall |    They have set up a task force called Operation Painthall and are believed to be focusing the investigation on seven or eight crimes . ||| Sie haben eine task force namens " operation painthall " ins leben gerufen und sollen die ermittlungen auf sieben oder acht verbrechen konzentrieren . 
+
+FSFE FSFE | w_freq: 14 - 12 | wiki_freq: 47 - 20 | sentence_idx: 245097 | align_1: 23-22 | align_2: 24-28 | entity: FSFE - FSFE |    " As we look back on a decade of hard work , we would like to thank everyone who has helped to make FSFE what it is today . ||| „ Wenn wir auf ein Jahrzehnt harte Arbeit zurückblicken , möchten wir uns bei allen bedanken , die mitgeholfen haben , die FSFE zu dem zu machen , was sie heute ist . 
+
+Lambrinidis Lambrinidis | w_freq: 1 - 1 | wiki_freq: 34 - 20 | sentence_idx: 265029 | align_1: 3-13 | align_2: 4-18 | entity: Lambrinidis - Stavros Lambrinidis |    26/03/2009 - Rapport Lambrinidis on strengthening security and fundamental freedoms on the Internet 62.5/100 ||| – in Kenntnis des Vorschlags für eine Empfehlung an den Rat von Stavros Lambrinidis im Namen der PSE-Fraktion zur Stärkung der Sicherheit und der Grundfreiheiten im Internet ( B6 - 0302 / 2008 ) , 
+
+Goliaths Goliats | w_freq: 6 - 1 | wiki_freq: 59 - 24 | sentence_idx: 352174 | align_1: 7-10 | align_2: 8-15 | entity: Goliaths - Goliats |    How has the Lord helped you overcome Goliaths that you have encountered ? ||| Wie hat der Herr Ihnen dabei geholfen , die „ Goliats “ zu besiegen , die Ihnen begegnet sind ? 
+
+Qur’ân baschar | w_freq: 4 - 1 | wiki_freq: 1 - 0 | sentence_idx: 470586 | align_1: 22-22 | align_2: 23-31 | entity: Qur’ân - none |    16 / An-Nahl-103 : And certainly We know that they say : “ only a human being teaches him that ( the Qur’ân ) . ” ||| Sure 16:103 " Wir wissen wohl , dass sie sagen : " " Es lehrt ihn ( ja ) ein Mensch ( baschar ) ( was er als göttliche Offenbarung vorträgt ) . " " 
+
+TheOnion.com TheOnion.com | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 610280 | align_1: 3-3 | align_2: 4-8 | entity: TheOnion.com - TheOnion.com |    “ Who needs TheOnion.com when reality is now 10 times more surreal . ||| " Wer braucht TheOnion.com ( Amerikanische Finanznewsseite ) wenn die Realität nun 10-mal mehr surrealer scheint . 
+
+IntercontinentalExchange IntercontinentalExchange | w_freq: 1 - 1 | wiki_freq: 44 - 7 | sentence_idx: 675021 | align_1: 4-2 | align_2: 5-7 | entity: IntercontinentalExchange - IntercontinentalExchange |    Jeff Sprecher ' 's IntercontinentalExchange , or ICE , was another example . ||| Jeff Sprecher IntercontinentalExchange ( Interkontinentaler Austausch ) , oder EIS , war ein anderes Beispiel . 
+
+FPSG FPSG | w_freq: 1 - 1 | wiki_freq: 5 - 1 | sentence_idx: 752390 | align_1: 17-17 | align_2: 18-22 | entity: FPSG - FPSG |    In short , they are not ' Israeli NGOs ' , but Foreign Political Subversion Groups ( FPSG ) . " ||| Kurz gesagt : Sie sind keine ' israelischen NGOs ' , sondern Foreign Political Subversion Groups ( FPSG - ausländische politische Zersetzungsgruppen ) . " 
+
+PPIHC PPIHC | w_freq: 1 - 1 | wiki_freq: 24 - 6 | sentence_idx: 873047 | align_1: 2-2 | align_2: 3-6 | entity: PPIHC - PPIHC |    The first PPIHC you attended was 37 years ago . ||| Das erste PPIHC , an dem Sie teilgenommen haben , liegt 37 Jahre zurück . 
+

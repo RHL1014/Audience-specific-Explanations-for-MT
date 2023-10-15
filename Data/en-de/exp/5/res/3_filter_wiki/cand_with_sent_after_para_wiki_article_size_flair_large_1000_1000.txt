@@ -1,0 +1,12 @@
+WordPress WordPress | w_freq: 155 - 77 | wiki_freq: 674 - 173 | sentence_idx: 254761 | align_1: 5-5 | align_2: 6-9 | entity: WordPress - WordPress |    Flexibility : Its scalability makes WordPress what it is ! ||| Flexibilität : Die Skalierbarkeit macht WordPress zu dem , was es ist ! 
+
+Seveso Seveso | w_freq: 4 - 4 | wiki_freq: 250 - 100 | sentence_idx: 315721 | align_1: 14-10 | align_2: 15-16 | entity: Seveso - Seveso |    In 1976 , large amounts of dioxins were released in an industrial accident at Seveso , although no immediate human fatalities or birth defects occurred . ||| 1976 wurden große Beträge von Dioxinen bei einem Industrieunfall an Seveso ( Seveso Katastrophe ) veröffentlicht , obwohl keine unmittelbaren menschlichen Schicksalsschläge oder Geburtsdefekte vorkamen . 
+
+Kundalini Kundalini | w_freq: 23 - 26 | wiki_freq: 446 - 90 | sentence_idx: 425904 | align_1: 11-10 | align_2: 12-15 | entity: Kundalini - Kundalini |    For the effects of these activities upon the transformative infusion of Kundalini flowing through and upon you . ||| Für die Effekte dieser Tätigkeiten auf die transformative Infusion der Kundalini , die durch dich hindurch und auf dir fließt . 
+
+DCO DCO | w_freq: 3 - 2 | wiki_freq: 356 - 25 | sentence_idx: 459190 | align_1: 17-11 | align_2: 18-16 | entity: DCO - DCO |    Over the past two decades , tens of thousands of Palestinians have sought the services of the DCO also to facilitate travel arrangements and overcome bureaucratic hurdles . ||| In den letzten zwei Jahrzehnten haben Zehntausende Palästinenser die Dienste des DCO in Anspruch genommen , auch um Reiseregelungen zu erleichtern und bürokratische Hürden zu überwinden . 
+
+USAA USAA | w_freq: 15 - 14 | wiki_freq: 208 - 13 | sentence_idx: 466532 | align_1: 4-6 | align_2: 5-11 | entity: USAA - USAA |    When I first joined USAA I loved the company , over the last 3 - 5 years , they have really took a turn for the worst . ||| Als ich das erste Mal bei USAA angefangen habe , habe ich die Firma geliebt , in den letzten 3 - 5 Jahren haben sie wirklich das Schlimmste erlebt . 
+
+Acquia Acquia | w_freq: 12 - 10 | wiki_freq: 51 - 15 | sentence_idx: 518746 | align_1: 8-8 | align_2: 9-13 | entity: Acquia - Acquia |    Learn how state and local governments partner with Acquia to a build an interactive and mobile experience . ||| Erfahren Sie , wie Landes- und Lokalregierungen mit Acquia eine Partnerschaft eingehen , um ein interaktives und mobiles Erlebnis zu entwickeln . 
+

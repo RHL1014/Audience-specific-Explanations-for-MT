@@ -1,0 +1,30 @@
+Parkinson 帕金森 | w_freq: 92 - 39 | wiki_freq: 13003 - 163 | sentence_idx: 66852 | align_1: 2-0 | align_2: 3-14 | entity: Parkinson - 帕金森 |    Re : Parkinson 's Law and Other Studies in Administration ||| 帕金森 法则 ： 管理课 上 教 不 到 的 人性 工作 学 Parkinson ’ s Law and Other Studies in Administration 
+
+Nasdaq 纳斯达克 | w_freq: 30 - 45 | wiki_freq: 1734 - 506 | sentence_idx: 229589 | align_1: 17-15 | align_2: 18-20 | entity: Nasdaq - 纳斯达克 |    Tyler said that their main purpose of starting the cryptocurrency exchange was creating something like NYSE or Nasdaq but for the digital currency . ||| 泰勒 说 , 他们 开始 cryptocurrency 交换 的 主要 目的 是 创造 像 纽交所 或 纳斯达克 这样 的 东西 , 但 对于 数字 货币 。 
+
+Mosul 摩苏尔 | w_freq: 60 - 57 | wiki_freq: 5998 - 440 | sentence_idx: 328140 | align_1: 19-18 | align_2: 20-28 | entity: Mosul - 摩苏尔 |    Several others told our teams that they left when they heard news of 11 reported killings of Christians in Mosul . ||| 另外 几 人 对 我们 的 评估队 说 ， 当 他们 听到 消息 据说 11 名 基督徒 在 摩苏尔 被 杀 时 ， 他们 就 离开 了 摩苏尔 。 
+
+Eritrea 厄立特里亚 | w_freq: 77 - 93 | wiki_freq: 9179 - 941 | sentence_idx: 508808 | align_1: 24-24 | align_2: 25-29 | entity: Eritrea - 厄立特里亚 |    The UN has linked North Korea to a company called Glocom , a firm that has reportedly sold military communications equipment to countries including Eritrea but is based in Malaysia . ||| 联合国 已 将 朝鲜 与 一家 名为 Glocom 的 公司 联系 起来 ， 该 公司 据说 已 将 军事 通讯 设备 出售 给 包括 厄立特里亚 在内 的 国家 ， 但 总部 设 在 马来西亚 。 
+
+Hannibal 汉尼拔 | w_freq: 21 - 14 | wiki_freq: 8453 - 716 | sentence_idx: 521677 | align_1: 12-7 | align_2: 13-12 | entity: Hannibal - 汉尼拔 |    So , it seems that in order to save the state from Hannibal it was necessary to generate the very type of individual who would ultimately destroy it . ||| 所以 ， 看来 为了 把 国家 从 汉尼拔 手中 拯救 出来 ， 有 必要 培养 出 最终 会 摧毁 这个 国家 的 那种 人 。 
+
+Ankara 安卡拉 | w_freq: 92 - 88 | wiki_freq: 11756 - 719 | sentence_idx: 626400 | align_1: 29-30 | align_2: 30-39 | entity: Ankara - 安卡拉 |    The most likely scenario for today seems to be a limited military operation by Turkey in a 30-kilometer zone agreed upon with the United States , which would satisfy Ankara . ||| 目前 看来 ， 最 有 可能 的 情况 是 ， 土耳其 将 在 与 美国 商定 的 30 公里 范围 内 采取 有限 的 军事 行动 ， 这 将 使 安卡拉 满意 ， 也 是 美国 可以 接受 的 。 
+
+Morena 莫雷纳 | w_freq: 4 - 2 | wiki_freq: 1986 - 22 | sentence_idx: 671737 | align_1: 26-19 | align_2: 27-23 | entity: Morena - 莫雷纳 |    In 2015 , sectors of the movement in the fight against neoliberal power and the structural reforms of the Pact for Mexico did not vote for Morena , but called for abstention or boycott , like the teachers . ||| 2015年 ， 打击 新 自由主义 势力 的 运动 和 墨西哥 公约 结构性 改革 的 部门 并 没有 投票 给 莫雷纳 （ Morena ） ， 而是 呼吁 像 教师们 一样 弃权 或 抵制 。 
+
+Skywalker 卢克·天行者 | w_freq: 6 - 3 | wiki_freq: 2146 - 41 | sentence_idx: 699039 | align_1: 9-6 | align_2: 10-11 | entity: Luke Skywalker - 卢克·天行者 |    My friends and I all wanted to be Luke Skywalker and defeat the Death Star and build C-3PO . ’ ||| 我 和 朋友 都 想 变成 卢克·天行者 （ luke skywalker ） ， 击败 死星 ， 制造 c-3po 。 
+
+Albans 圣奥尔本斯 | w_freq: 3 - 1 | wiki_freq: 8471 - 188 | sentence_idx: 805489 | align_1: 11-7 | align_2: 12-11 | entity: St Albans - 圣奥尔本斯 |    On 22 May , the king and Somerset arrived at St Albans with a hastily assembled and poorly equipped army of around 2,000 . ||| 5月 22日 ， 国王 和 索默塞特 到达 圣奥尔本斯 ， 只 带 着 一 支 匆忙 组建 、 装备 低劣 的 大约 2000 人 的 军队 。 
+
+Parkinson 帕金森 | w_freq: 92 - 39 | wiki_freq: 13003 - 163 | sentence_idx: 823164 | align_1: 0-0 | align_2: 1-14 | entity: Parkinson - 帕金森 |    Parkinson 's law , and other studies in administration . ||| 帕金森 法则 ： 管理课 上 教 不 到 的 人性 工作 学 Parkinson ’ s Law and Other Studies in Administration 
+
+Brazilians 巴西人 | w_freq: 61 - 72 | wiki_freq: 3654 - 291 | sentence_idx: 861834 | align_1: 11-8 | align_2: 12-12 | entity: Brazilians - 巴西人 |    The Japanese as well as French and the Egyptians and the Brazilians are as much our collaborators in the global economy as they are our rivalry . ||| 日本人 和 法国 人 、 埃及 人 与 巴西人 一样 ， 既 是 我们 的 竞争 对手 ， 又 是 我们 在 世界 经济 中 的 伙伴 。 
+
+Ukrainians 乌克兰人 | w_freq: 58 - 55 | wiki_freq: 7153 - 871 | sentence_idx: 892916 | align_1: 23-13 | align_2: 24-22 | entity: Ukrainians - 乌克兰人 |    Each one of us is a President , not the 73 per cent that voted for me but the 100 per cent of Ukrainians . ||| 不是 那 73% 给 我 投票 的 人   ， 而是 100% 乌克兰人   ， 都 是 总统   。 
+
+Catan 卡坦岛 | w_freq: 4 - 2 | wiki_freq: 568 - 15 | sentence_idx: 912922 | align_1: 10-8 | align_2: 11-14 | entity: Catan - 卡坦岛 |    There ’s so many ways , like in Settlers of Catan , in these games that we actually get to know each other better . ||| 还有 许多 其他 的 方式 ， 比如 《 卡坦岛 》 这 类 的 游戏 ， 我们 其实 在 这些 游戏 中 才能 更加 了解 彼此 。 
+
+Strasbourg 斯特拉斯堡 | w_freq: 27 - 30 | wiki_freq: 14875 - 1353 | sentence_idx: 938794 | align_1: 11-8 | align_2: 12-12 | entity: Strasbourg - 斯特拉斯堡 |    In this spirit , in 1988 at the European Parliament in Strasbourg I presented a formal proposal for negotiations that does not call for separation and independence of Tibet . ||| 本著 这个 精神 ， 1988年 欧洲 议会 在 斯特拉斯堡 举行 时 ， 我 提出 了 一 份 正式 谈判 的 提案 ， 并非 寻求 分离 和 西藏 独立 。 
+
+Bild 图片报 | w_freq: 10 - 3 | wiki_freq: 1114 - 70 | sentence_idx: 967303 | align_1: 19-15 | align_2: 20-19 | entity: Bild - 图片报 |    " 2019 is the year of the new start for the German national football team , " he told Bild . ||| “ 2019年 是 德国 国家 足球队 的 新 起点  ， ” 他 告诉 《 图片报 》   。 
+

@@ -1,0 +1,18 @@
+Novecento Novecento | w_freq: 1 - 1 | wiki_freq: 278 - 136 | sentence_idx: 36726 | align_1: 3-1 | align_2: 4-7 | entity: Novecento - Novecento |    ‘ Please , Novecento , just the normal notes , OK ? ’ ||| " Novecento , s' il te plaît , que les notes normales , d' accord ? " 
+
+Gracias Gracias | w_freq: 4 - 5 | wiki_freq: 878 - 165 | sentence_idx: 46474 | align_1: 3-2 | align_2: 4-7 | entity: Gracias - Gracias |    “ Why was Gracias allowed to speak at the papal summit ? ||| « Pourquoi Gracias a -t -il été autorisé à prendre la parole au sommet papal ? 
+
+Gracias Gracias | w_freq: 4 - 5 | wiki_freq: 878 - 165 | sentence_idx: 46475 | align_1: 3-2 | align_2: 4-7 | entity: Gracias - Gracias |    “ Why was Gracias allowed to speak at the papal summit ? ||| « Pourquoi Gracias a -t -il été autorisé à prendre la parole au sommet papal ? 
+
+Schutz Schutz | w_freq: 3 - 3 | wiki_freq: 817 - 155 | sentence_idx: 210264 | align_1: 1-0 | align_2: 2-5 | entity: Schutz - Schutz |    Was Schutz right too early with the one that is not without mentioning the future Panamera ? ||| Schutz a -t -il eu raison trop tôt avec celle qui n’ est pas sans évoquer la future Panamera ? 
+
+Chaturbate Chaturbate | w_freq: 9 - 5 | wiki_freq: 24 - 6 | sentence_idx: 308232 | align_1: 5-8 | align_2: 6-12 | entity: Chaturbate - Chaturbate |    6 ) Has anyone from Chaturbate bought you anything ? ||| 7 ) Est -ce que quelqu’ un de Chaturbate t’ as déjà acheté quelque chose ? 
+
+Crispus Crispus | w_freq: 1 - 1 | wiki_freq: 605 - 174 | sentence_idx: 346637 | align_1: 6-5 | align_2: 7-10 | entity: Crispus - Crispus |    Why , for example , was Crispus poisoned in Pola , of all places ? ||| Pourquoi , par exemple , Crispus a -t -il été empoisonné à Pola , de tous les endroits ? 
+
+Cyberpunk Cyberpunk | w_freq: 11 - 11 | wiki_freq: 662 - 138 | sentence_idx: 446979 | align_1: 13-17 | align_2: 14-22 | entity: Cyberpunk - Cyberpunk |    When asked , during a 2005 interview , " Why was your book Cyberpunk never published when you sold it to a publisher in 1989 ? " ||| Lorsqu’ on lui a demandé , lors d’ une interview en 2005 , " Pourquoi votre livre Cyberpunk n’ a -t -il jamais été publié quand vous l' avez vendu à un éditeur en 1989 ? " 
+
+Jullien Jullien | w_freq: 3 - 3 | wiki_freq: 405 - 961 | sentence_idx: 822541 | align_1: 12-12 | align_2: 13-17 | entity: François Jullien - François Jullien |    We are also beginning to talk about efficiency in France because François Jullien praised it in his Treaty on Effectiveness . ||| On commence aussi à parler de l’ efficience en France car François Jullien en a fait l’ éloge dans son Traité de l’ efficacité . 
+
+WINS WINS | w_freq: 1 - 1 | wiki_freq: 494 - 26 | sentence_idx: 974200 | align_1: 10-11 | align_2: 11-19 | entity: WINS - WINS |    eighteen guides for the World Institute for Nuclear Security ( WINS ) . ||| de dix-huit guides pour le World Institute for Nuclear Security ( WINS , Institut mondial pour la sécurité nucléaire ) . 
+

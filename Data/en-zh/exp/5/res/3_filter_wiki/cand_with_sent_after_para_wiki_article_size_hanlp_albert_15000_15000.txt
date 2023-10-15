@@ -1,0 +1,62 @@
+Allah 安拉 | w_freq: 1703 - 169 | wiki_freq: 12189 - 280 | sentence_idx: 85277 | align_1: 19-19 | align_2: 20-33 | entity: Allah - 安拉 |    Ye deemed not that they would go forth , while they deemed that their strongholds would protect them from Allah . ||| 你们 没有 猜想 到 他们 会 退 出去 ， 他们 猜想 自己 的 堡垒 能 防御 真主 ； 但 安拉 的 刑罚 ， 竟 从 他们 料 不 到 的 地方 降临 他们 。 
+
+Iraqis 伊拉克人 | w_freq: 87 - 89 | wiki_freq: 3367 - 157 | sentence_idx: 98210 | align_1: 19-16 | align_2: 20-21 | entity: Iraqis - 伊拉克人 |    It 's well known that the law was drafted in the U.S. and then consulted on by very few Iraqis all loyal to Prime Minister Noori al-Maliki , then finally pushed through the Iraqi parliament . ||| 众所周知 ， 这部 法律 是 在 美国 草拟 的 ， 期间 仅 咨询 了 极少数 的 伊拉克人 ， 而且 这些 伊拉克人 全都 效忠于 总理 马里奇 （ Noori al-Maliki ） ， 然后 就 由 议会 通过 了 。 
+
+Kaufman 考夫曼 | w_freq: 13 - 16 | wiki_freq: 8716 - 257 | sentence_idx: 131568 | align_1: 2-2 | align_2: 3-10 | entity: Kaufman - 考夫曼 |    Hart and Kaufman wrote the Broadway hits You Ca n’t Take It with You ( 1936 ) and The Man Who Came to Dinner ( 1939 ) . ||| 哈特 和 考夫曼 合作 得 非常 成功 ， 他们 曾 写 过 这样 轻快 的 喜剧 如 《 你 不 能 带著 它 走 》 ( You Can't Take It With You , 1936 ) 和 《 来 吃 晚饭 的 人 》 ( The Man Who Came to Dinner , 1939 ) 。 
+
+Israelites 以色列人 | w_freq: 228 - 589 | wiki_freq: 6428 - 1452 | sentence_idx: 163607 | align_1: 3-2 | align_2: 4-7 | entity: Israelites - 以色列人 |    God told the Israelites to sacrifice a lamb and put its blood over their doorposts . ||| 上帝 吩咐 以色列人 说 ： 「 你们 要 按 著家口 取出 羊羔 ， 把 这 逾 越节 的 羊羔 宰 了 。 
+
+Skywalker 卢克·天行者 | w_freq: 10 - 3 | wiki_freq: 2146 - 41 | sentence_idx: 164132 | align_1: 9-6 | align_2: 10-11 | entity: Luke Skywalker - 卢克·天行者 |    My friends and I all wanted to be Luke Skywalker and defeat the Death Star and build C-3PO . ” ||| 我 和 朋友 都 想 变成 卢克·天行者 （ luke skywalker ） ， 击败 死星 ， 制造 c-3po 。 
+
+Skywalker 卢克·天行者 | w_freq: 10 - 3 | wiki_freq: 2146 - 41 | sentence_idx: 164133 | align_1: 9-6 | align_2: 10-11 | entity: Luke Skywalker - 卢克·天行者 |    My friends and I all wanted to be Luke Skywalker and defeat the Death Star and build C-3PO . " ||| 我 和 朋友 都 想 变成 卢克·天行者 （ luke skywalker ） ， 击败 死星 ， 制造 c-3po 。 
+
+Alanya 阿拉尼亚 | w_freq: 3 - 2 | wiki_freq: 532 - 54 | sentence_idx: 203720 | align_1: 14-10 | align_2: 15-18 | entity: Alanya - 阿拉尼亚 |    You may want to spend couple of months of the year or none in Alanya . ||| 你 可能 想 每年 花 几 个 月 时间 在 阿拉尼亚 生活 ， 或者 什么 都 不 想 。 
+
+Parkinson 帕金森 | w_freq: 87 - 37 | wiki_freq: 13003 - 163 | sentence_idx: 224633 | align_1: 0-0 | align_2: 1-14 | entity: Parkinson - 帕金森 |    Parkinson ’s Law and Other Studies in Administration . ||| 帕金森 法则 ： 管理课 上 教 不 到 的 人性 工作 学 Parkinson ’ s Law and Other Studies in Administration 
+
+Ukrainians 乌克兰人 | w_freq: 65 - 61 | wiki_freq: 7153 - 871 | sentence_idx: 325902 | align_1: 16-13 | align_2: 17-22 | entity: Ukrainians - 乌克兰人 |    Not just the 73 % who voted for me , but the entire 100 % of Ukrainians . ||| 不是 那 73% 给 我 投票 的 人   ， 而是 100% 乌克兰人   ， 都 是 总统   。 
+
+Brazilians 巴西人 | w_freq: 31 - 34 | wiki_freq: 3654 - 291 | sentence_idx: 352061 | align_1: 11-8 | align_2: 12-12 | entity: Brazilians - 巴西人 |    The Japanese as well as French and the Egyptians and the Brazilians are as much our collaborators in the global economy as they are our rivalry . ||| 日本人 和 法国 人 、 埃及 人 与 巴西人 一样 ， 既 是 我们 的 竞争 对手 ， 又 是 我们 在 世界 经济 中 的 伙伴 。 
+
+Yokohama 横滨市 | w_freq: 13 - 2 | wiki_freq: 11662 - 1479 | sentence_idx: 353839 | align_1: 15-12 | align_2: 16-17 | entity: Yokohama - 横滨市 |    These health issues led to her death on the morning of 8 July 1937 in Yokohama . ||| 这些 健康 问题 最终 让 她 在 1937年 7月 8日 早晨 于 横滨市 过世 [ 2 ] 。 
+
+Ericsson 爱立信 | w_freq: 26 - 20 | wiki_freq: 5631 - 441 | sentence_idx: 385271 | align_1: 7-5 | align_2: 8-10 | entity: Ericsson - 爱立信 |    The agreement , signed by Telstra and Ericsson marks another important milestone in the nation ’s 5 G technology development and rollout . ||| 该 协议 由 Telstra 和 爱立信 签署   ， 标志 着 该国 5G 技术 开发 和 推广 的 另 一个 重要 里程碑   。 
+
+Hampstead 汉普斯特德 | w_freq: 9 - 6 | wiki_freq: 7144 - 121 | sentence_idx: 386452 | align_1: 4-4 | align_2: 5-8 | entity: Hampstead - 汉普斯特德 |    When I lived in Hampstead I spent a lot of time here . ||| 当 我 住 在 汉普斯特德 的 时候 ， 我 在 这里 度过 了 很多 时间 。 
+
+Parkinson 帕金森 | w_freq: 87 - 37 | wiki_freq: 13003 - 163 | sentence_idx: 395302 | align_1: 0-0 | align_2: 1-14 | entity: Parkinson - 帕金森 |    Parkinson ’s Law , and Other Studies in Administration . ||| 帕金森 法则 ： 管理课 上 教 不 到 的 人性 工作 学 Parkinson ’ s Law and Other Studies in Administration 
+
+Narnia 纳尼亚 | w_freq: 20 - 20 | wiki_freq: 1712 - 583 | sentence_idx: 407367 | align_1: 6-5 | align_2: 7-9 | entity: Narnia - 纳尼亚 |    She also does not believe in Narnia until she actually comes there . ||| 本来 也 不 相信 「 纳尼亚 」 存在 ， 直至 她 真的 到 了 那儿 。 
+
+Nussbaum 玛莎·努斯鲍姆 | w_freq: 8 - 2 | wiki_freq: 1290 - 9 | sentence_idx: 408260 | align_1: 2-2 | align_2: 3-16 | entity: Martha Nussbaum - 玛莎·努斯鲍姆 |    [ Martha Nussbaum , From Disgust to Humanity : Sexual Orientation and Constitutional Law ] ||| （ 详见 玛莎·努斯鲍姆 所 著 《 从 厌恶 到 人性 ： 性 倾向 与 宪法 》 ， From Disgust to Humanity : Sexual Orientation and Constitutional Law ） 。 
+
+Parkinson 帕金森 | w_freq: 87 - 37 | wiki_freq: 13003 - 163 | sentence_idx: 418014 | align_1: 0-5 | align_2: 1-19 | entity: Parkinson - 帕金森 |    Parkinson 's Law , and Other Studies in Administration ||| 首页 / 商业 管理 / 帕金森 法则 ： 管理课 上 教 不 到 的 人性 工作 学 Parkinson ’ s Law and Other Studies in Administration 
+
+Sahel 萨赫勒 | w_freq: 47 - 46 | wiki_freq: 3117 - 194 | sentence_idx: 423729 | align_1: 8-5 | align_2: 9-10 | entity: Sahel - 萨赫勒 |    The president commended French troops fighting in the Sahel and hailed their determination to continue their mission . ||| 总统 赞扬 法国 军队 在 萨赫勒 地区 的 战斗 ， 并 赞扬 他们 继续 执行 任务 的 决心 。 
+
+Confucius 孔子 | w_freq: 36 - 70 | wiki_freq: 4267 - 4814 | sentence_idx: 434916 | align_1: 5-3 | align_2: 6-9 | entity: Confucius - 孔子 |    In other words , following Confucius I would not hate you but following Jesus I would love you . ||| 换句话说 ， 听从 孔子 （ 的 思想 ） ， 我 不 会 恨 你 ， 但是 听从 耶稣 （ 的 真理 ） ， 我 会 爱 你 。 
+
+Oppenheim 奥彭海姆 | w_freq: 1 - 1 | wiki_freq: 2223 - 7 | sentence_idx: 436678 | align_1: 5-5 | align_2: 6-11 | entity: Oppenheim - 奥彭海姆 |    The following month he seized Oppenheim and served at Frankenthal . ||| 次月 ， 他 占领 了 奥彭海姆 （ Oppenhe im ） ， 并 在 弗兰肯塔尔 （ Frankenthal ） 服役 。 
+
+Egyptians 埃及人 | w_freq: 126 - 76 | wiki_freq: 9142 - 773 | sentence_idx: 518588 | align_1: 5-5 | align_2: 6-10 | entity: Egyptians - 埃及人 |    Neither the Chinese nor the Egyptians would have been able to make even a statue such as those which our sculptors form to-day . ||| 无论 是 中国人 也好 ， 埃及人 也好 ， 都 不 会 塑成 一 件 像 现今 我们 的 雕塑家 所 塑造 的 人像 。 
+
+Abkhazia 阿布哈兹 | w_freq: 19 - 21 | wiki_freq: 6331 - 1237 | sentence_idx: 524936 | align_1: 9-7 | align_2: 10-16 | entity: Abkhazia - 阿布哈兹 |    It hopes the west will forget ethnic cleansing in Abkhazia drove out more than three-quarters of the local population – ethnic Georgians , Greeks , Jews and others – leaving the minority Abkhaz in control . ||| 它 希望 西方 会 忘记 其 在 阿布哈兹 实施 的 种族 清洗 ， 这 场 清洗 驱逐 了 逾 四分之三 的 当地人 —— 格鲁吉亚人 、 希腊人 、 犹太人 和 其他 人种 —— 只 留下 控制 之中 、 占 少数 的 阿布哈兹人 。 
+
+Angus 安格斯 | w_freq: 19 - 7 | wiki_freq: 14848 - 122 | sentence_idx: 689673 | align_1: 0-0 | align_2: 1-6 | entity: Angus - 安格斯 |    Angus will never retire and as long as Angus never retires I wo n't f---ing retire either . " ||| 安格斯 （ 杨 ） 永远 不 会 退休 ， 只要 安格斯 不 退休 ， 我 也 不 会 退休 ， ” 他 说 。 
+
+Ukrainians 乌克兰人 | w_freq: 65 - 61 | wiki_freq: 7153 - 871 | sentence_idx: 715519 | align_1: 15-11 | align_2: 16-16 | entity: Ukrainians - 乌克兰人 |    Not just the 73 percent who voted for me , but all 100 percent of Ukrainians . ||| 不是 那 73% 给 我 投票 的 人 ， 而是 100% 乌克兰人 ， 都 是 总统 。 
+
+Palestinians 巴勒斯坦人 | w_freq: 387 - 407 | wiki_freq: 12372 - 961 | sentence_idx: 730816 | align_1: 14-7 | align_2: 15-16 | entity: Palestinians - 巴勒斯坦人 |    Four billion dollars a year to Israel four billion dollars a year to the Palestinians they can just blow each other up and leave the rest of us the hell alone . ||| 每年 去 以色列 四十亿 美元 ， 对 巴勒斯坦人 来说 ， 他们 每年 有 40亿 美元 ， 他们 只 会 互相 残杀 ， 把 我们 剩下 的 人 留 在 地狱 里 。 
+
+Latins 拉丁人 | w_freq: 10 - 16 | wiki_freq: 1481 - 256 | sentence_idx: 766869 | align_1: 5-3 | align_2: 6-8 | entity: Latins - 拉丁人 |    Since the Greeks and the Latins we have persisted in believing that our ancestors were better than us . ||| 从 希腊人 和 拉丁人 的 时代 开始 ， 我们 就 坚信 我们 的 祖先 优于 我们 。 
+
+Parkinson 帕金森 | w_freq: 87 - 37 | wiki_freq: 13003 - 163 | sentence_idx: 807382 | align_1: 0-5 | align_2: 1-19 | entity: Parkinson - 帕金森 |    Parkinson ’s Law , and Other Studies in Administration ||| 首页 / 商业 管理 / 帕金森 法则 ： 管理课 上 教 不 到 的 人性 工作 学 Parkinson ’ s Law and Other Studies in Administration 
+
+Israelites 以色列人 | w_freq: 228 - 589 | wiki_freq: 6428 - 1452 | sentence_idx: 815835 | align_1: 6-3 | align_2: 7-11 | entity: Israelites - 以色列人 |    And you shall speak to the Israelites , saying , ‘ Any man when he curses his God shall bear his sin . ||| 「 你 晓谕 以色列人 说 ： 人 还 特许 的 愿 ， 被 许 的 人 要 按 你 所 估 的 价值 归 给 耶和华 。 
+
+Adler 阿德勒 | w_freq: 28 - 14 | wiki_freq: 12310 - 169 | sentence_idx: 836922 | align_1: 2-2 | align_2: 3-10 | entity: Adler - 阿德勒 |    This is Adler 's definition of the unconscious : the unknown part of the goal . ||| 这 正是 阿德勒 对 「 潜意识 」 （ unconscious ） 的 定义 ： 目标 的 未知 部分 。 
+
+DuPont 杜邦 | w_freq: 33 - 35 | wiki_freq: 4437 - 566 | sentence_idx: 931174 | align_1: 11-9 | align_2: 12-14 | entity: DuPont - 杜邦 |    In November 1863 , the government added another half-cent tax ; DuPont raised its price to 30 cents per pound . ||| 1863年 11月 ， 政府 又 增加 了 半分税 ， 杜邦 一不做二不休 ， 把 价格 提高 到 每 磅 30 美分 。 
+
+AT&T AT&T | w_freq: 216 - 143 | wiki_freq: 12241 - 594 | sentence_idx: 954261 | align_1: 6-6 | align_2: 7-10 | entity: AT&T - AT&T |    For more than 125 years , AT&T has been known for unparalleled quality and reliability in communications . ||| 在 过去 的 125年 里 ， AT&T ( NYSE'T' ) 一直 在 电信 领域 以 无可比拟 的 质量 和 可靠性 所 著称 。 
+

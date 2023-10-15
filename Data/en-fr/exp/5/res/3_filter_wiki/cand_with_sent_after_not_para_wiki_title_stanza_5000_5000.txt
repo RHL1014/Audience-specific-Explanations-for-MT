@@ -1,0 +1,144 @@
+DMC DMC | w_freq: 6 - 6 | wiki_freq: 1622 - 501 | sentence_idx: 2562 | align_1: 2-2 | align_2: 3-7 | entity: Run DMC - Run DMC |    But Run DMC singlehandedly brought that shoe back ” . ||| Mais Run DMC a , à lui seul , ramené cette chaussure " " . 
+
+Karana Karana | w_freq: 5 - 2 | wiki_freq: 266 - 27 | sentence_idx: 16592 | align_1: 10-9 | align_2: 11-14 | entity: Karana - Karana |    The question asked here is , “ What challenges did Karana face while alone in the wilderness ? ” ||| La question posée ici est : « Quels défis Karana a -t -elle fait face tout seul dans le désert ? 
+
+Nato Otan | w_freq: 32 - 103 | wiki_freq: 489 - 431 | sentence_idx: 22522 | align_1: 14-16 | align_2: 15-20 | entity: Nato - Otan |    At the same time we are aware that accession to the European Union and Nato do not exclusively involve advantages . ||| Nous sommes en même temps conscients que l’ adhésion à l’ Union européenne et à l’ Otan , ce ne sont pas uniquement des avantages . 
+
+IFEA IFEA | w_freq: 1 - 1 | wiki_freq: 24 - 55 | sentence_idx: 26003 | align_1: 16-19 | align_2: 17-23 | entity: IFEA - IFEA |    Inaccuracies and technical errors of the so-called “ experts ” prove that no specialist of the IFEA really addressed the issue . ||| Les imprécisions et les erreurs techniques des soi - disant « experts » prouvent qu’ aucun spécialiste de l’ IFEA ne s’ est réellement penché sur le dossier . 
+
+KIK KiK | w_freq: 1 - 1 | wiki_freq: 81 - 2 | sentence_idx: 35763 | align_1: 15-20 | align_2: 16-24 | entity: KIK - KiK |    We can not build a sustainable supply chain in the garment industry if companies like KIK do not commit . ||| Nous ne pouvons pas construire une chaîne d’ approvisionnement durable dans l’ industrie de la confection si des entreprises comme KiK ne s’ y engagent pas . 
+
+An-148 An-148 | w_freq: 1 - 1 | wiki_freq: 75 - 12 | sentence_idx: 63147 | align_1: 5-6 | align_2: 6-10 | entity: An-148 - An-148 |    It is worth noting that An-148 is not a modification of An-74 , but an entirely new passenger aircraft . ||| Il convient de noter que le An-148 - ce n' est pas une modification de l' An-74 , et un avion de passagers complètement nouveau . 
+
+Limbs Limbs | w_freq: 2 - 2 | wiki_freq: 487 - 37 | sentence_idx: 91271 | align_1: 10-11 | align_2: 11-15 | entity: Life Without Limbs - Life Without Limbs |    " The biggest event that our team at Life Without Limbs has seen and maybe the largest event ever in Europe - 800,000 people in the streets of Kyiv Ukraine ! ||| « Le plus grand événement que notre équipe à Life Without Limbs ( LWL ) a vu et peut-être le plus grand événement jamais organisé en Europe – 800 000 personnes rassemblées dans les rues de Kiev en Ukraine ! 
+
+Dürer Dürer | w_freq: 3 - 3 | wiki_freq: 2336 - 1704 | sentence_idx: 95947 | align_1: 2-1 | align_2: 3-6 | entity: Dürer - Dürer |    Why did Dürer not finish the rest of the work ? ||| Pourquoi Dürer n’ a -t -il pas achevé le reste de l’ œuvre ? 
+
+PWA PWA | w_freq: 11 - 12 | wiki_freq: 926 - 77 | sentence_idx: 98660 | align_1: 6-6 | align_2: 7-13 | entity: PWA - PWA |    Support the Palestinian Water Authority ( PWA ) on institutional and governance issues ; ||| soutenir la Palestinian Water Authority ( PWA , Autorité palestinienne de l’ eau ) sur les enjeux institutionnels et de gouvernance ; 
+
+Achor Acor | w_freq: 3 - 3 | wiki_freq: 96 - 5 | sentence_idx: 99547 | align_1: 12-15 | align_2: 13-19 | entity: Achor - Acor |    Therefore the name of that place has been called the valley of Achor to this day . " ||| C’ est pourquoi on a appelé le nom de ce lieu - làla vallée d’ Acor * , jusqu’ à ce jour . 
+
+Sanur Sanur | w_freq: 2 - 2 | wiki_freq: 219 - 26 | sentence_idx: 140627 | align_1: 6-7 | align_2: 7-12 | entity: Sanur - Sanur |    Rumah Aspirasi created his own in Sanur ten years ago out of concern for the environment . ||| Rumah Aspirasi a créé la sienne à Sanur , il y a dix ans par souci pour l’ environnement . 
+
+UNHCR HCR | w_freq: 142 - 132 | wiki_freq: 2768 - 575 | sentence_idx: 153845 | align_1: 1-7 | align_2: 2-13 | entity: UNHCR - HCR |    Read UNHCR ’s latest report on refugee education , Left Behind : Refugee Education in Crisis . ||| Pour lire le tout dernier rapport du HCR ( en anglais ) sur l’ éducation des réfugiés , Left Behind : Refugee Education in Crisis . 
+
+Rhee Rhee | w_freq: 2 - 2 | wiki_freq: 1941 - 349 | sentence_idx: 171504 | align_1: 17-23 | align_2: 18-27 | entity: Jhoon Rhee - Jhoon Rhee |    Ironically , few people — in America or his native South Korea — know much about Jhoon Rhee other than the aforementioned points . ||| Ironiquement , peu de gens – en Amérique ou en Corée du Sud , son pays natal – en savent beaucoup sur Jhoon Rhee , à l’ exception des points susmentionnés . 
+
+Pentecostals pentecôtistes | w_freq: 15 - 24 | wiki_freq: 1058 - 382 | sentence_idx: 196290 | align_1: 12-26 | align_2: 13-30 | entity: Pentecostals - none |    E-60 You Methodists need it ; you Baptists need it ; you Pentecostals need it ; all of us need it . ||| E-60 Vous , les méthodistes , vous avez besoin de cela ; vous , les baptistes , vous avez besoin de cela ; vous , les pentecôtistes , vous avez besoin de cela ; nous avons tous besoin de cela . 
+
+ICOR ICOR | w_freq: 7 - 7 | wiki_freq: 65 - 38 | sentence_idx: 202402 | align_1: 15-16 | align_2: 16-21 | entity: ICOR - ICOR |    That is why spreading the truth about the EU is a worldwide important task of ICOR . ||| Pour cette raison , diffuser la vérité sur l’ UE est une tâche importante de l’ ICOR à l’ échelle mondiale . 
+
+Fuad Fuad | w_freq: 4 - 2 | wiki_freq: 1823 - 162 | sentence_idx: 230834 | align_1: 5-5 | align_2: 6-9 | entity: Fuad - Fuad |    In many conversations with him Fuad expressed his concern and commitment to the future of the country which he so loved . ” ||| « Dans plusieurs conversations avec Fuad , il a exprimé ses préoccupations et son engagement envers le futur de ce pays qu’ il aimait tant . » 
+
+BIEN BIEN | w_freq: 1 - 7 | wiki_freq: 44 - 61 | sentence_idx: 233608 | align_1: 9-12 | align_2: 10-22 | entity: BIEN - BIEN |    That is what also Basic Income Earth Network ( BIEN ) Finland would like to see . ||| C’ est aussi ce que souhaiterait le Basic Income Earth Network ( BIEN , le Réseau mondial pour le revenu de base ) en Finlande . 
+
+Magnitsky Magnitsky | w_freq: 17 - 7 | wiki_freq: 598 - 17 | sentence_idx: 246008 | align_1: 0-0 | align_2: 1-4 | entity: Magnitsky - Magnitsky |    Magnitsky mentioned in in testimony only in his October 2008 interrogation . ||| Magnitsky ne l’ a mentionné dans son témoignage que lors de son interrogatoire d’ octobre 2008 . 
+
+AfD AfD | w_freq: 15 - 15 | wiki_freq: 1198 - 357 | sentence_idx: 246494 | align_1: 13-14 | align_2: 14-18 | entity: AfD - AfD |    Insecurity caused by the ongoing conflict in Afghanistan has been well managed by AfD , but it remains an ongoing threat to all development projects in the country . ||| L’ insécurité causée par le conflit actuel en Afghanistan a été bien gérée par AfD pour l’ instant , mais reste une menace constante à tous les projets de développement du pays . 
+
+Rogovin Rogovin | w_freq: 4 - 4 | wiki_freq: 112 - 9 | sentence_idx: 262151 | align_1: 2-1 | align_2: 3-5 | entity: Rogovin - Rogovin |    How did Rogovin come to write Was There an Alternative ? ||| Comment Rogovin en est -il venu à écrire « Was There an Alternative ? » 
+
+Sahrawi sahraouis | w_freq: 21 - 19 | wiki_freq: 1795 - 147 | sentence_idx: 264874 | align_1: 2-3 | align_2: 3-10 | entity: Sahrawi - none |    " Several Sahrawi human rights groups continued to experience difficulties in carrying out their activities . ||| “ Plusieurs groupes sahraouis de défense des droits de l’ Homme ont continué à connaître des difficultés dans l’ exercice de leurs activités . 
+
+1031 1031 | w_freq: 4 - 5 | wiki_freq: 965 - 672 | sentence_idx: 331570 | align_1: 15-21 | align_2: 16-25 | entity: Section 1031 - none |    As Levin said last week , it was the White House itself that demanded Section 1031 apply to American citizens . ||| Comme l’ a dit Levin la semaine dernière , ce fut la maison blanche elle-même qui a demandé que la section 1031 du projet s’ applique aux citoyens américains . 
+
+Kabam Kabam | w_freq: 2 - 2 | wiki_freq: 108 - 5 | sentence_idx: 336134 | align_1: 0-0 | align_2: 1-4 | entity: Kabam - Kabam |    Kabam has also done some things differently . ||| Kabam , cependant , a également fait certaines choses différemment . 
+
+Avrocar Avrocar | w_freq: 2 - 2 | wiki_freq: 80 - 11 | sentence_idx: 353038 | align_1: 1-1 | align_2: 2-5 | entity: Avrocar - Avrocar |    The Avrocar never got more than three feet off the ground , suffered all kinds of instability problems and such . ||| L’ Avrocar ne s’ est jamais élevé à plus de trois pieds du sol , a connu toutes sortes de problèmes d’ instabilité et ainsi de suite . 
+
+Schroeder Schroeder | w_freq: 8 - 8 | wiki_freq: 4526 - 663 | sentence_idx: 366669 | align_1: 12-15 | align_2: 13-19 | entity: Patricia Schroeder - Patricia Schroeder |    When she prepared to testify before Congress in 1996 , then-Congresswoman Patricia Schroeder objected . ||| Lorsqu’ elle était prête à témoigner devant le congrès en 1996 , la députée Patricia Schroeder s’ y est opposée . 
+
+Corrie Corrie | w_freq: 11 - 11 | wiki_freq: 1668 - 137 | sentence_idx: 367659 | align_1: 16-20 | align_2: 17-24 | entity: Corrie - Corrie |    But if you believe that , it is n’t much of a stretch to think as Corrie did , that the Jews of Israel deserve to die , too . ||| Mais si vous croyez cela , il n’ y a pas un long chemin à faire pour penser , comme Corrie apparemment l’ a fait , que les Juifs d’ Israël méritent de mourir , aussi . 
+
+Kingsway Kingsway | w_freq: 3 - 3 | wiki_freq: 2010 - 174 | sentence_idx: 388564 | align_1: 12-16 | align_2: 13-21 | entity: Kingsway - Kingsway |    God Meant it for Good by R T Kendall was published by Kingsway 30 years ago , and is an absolute classic that could transform lives , communities and nations . ||| Dieu le voulait pour de bon , par R. T. Kendall , a été publié par Kingsway , il y a 30 ans , et est un classique absolu qui pourrait transformer des vies , des communautés et des nations . 
+
+Argentines Argentins | w_freq: 22 - 33 | wiki_freq: 1527 - 1291 | sentence_idx: 395071 | align_1: 11-15 | align_2: 12-20 | entity: Polish Argentines - Argentins |    Did you know ? … Juan Foyth ’s family are Polish Argentines meaning they are Argentine citizens of partial Polish ancestry . ||| Le saviez -vous ? … Les membres de la famille de Juan Foyth sont des Argentins polonais , ce qui signifie qu' ils sont citoyens argentins de parti Polonais ascendance . 
+
+Michał Michał | w_freq: 4 - 4 | wiki_freq: 3520 - 1309 | sentence_idx: 395480 | align_1: 0-0 | align_2: 1-4 | entity: Michał - Michał |    Michał called it “ his personal K2 ” . ||| Michał l’ a même appelé “ son K2 personnel “ . 
+
+Greys Gris | w_freq: 19 - 29 | wiki_freq: 1646 - 1850 | sentence_idx: 419804 | align_1: 2-4 | align_2: 3-8 | entity: Greys - Gris |    Perhaps the Greys felt justified in repeatedly violating our government 's secret ' treaties ' with them because ' we ' had done the exact same thing to the native Americans ? ||| Peut - être les Gris se sont -ils sentis justifiés de violer à plusieurs reprises les » traités » secrets de notre gouvernement avec eux parce que » nous » avions fait exactement la même chose aux Amérindiens ? 
+
+BREF BREF | w_freq: 1 - 4 | wiki_freq: 11 - 9 | sentence_idx: 420407 | align_1: 10-8 | align_2: 11-15 | entity: BREF - BREF |    In order to focus and accelerate the review of the BREF , the comments submitted on the first draft ( or on a first and second draft , see Section 1.2.4 ) will be divided into two groups : ||| Afin de se concentrer sur la révision du BREF et d’ en accélérer le déroulement , les observations fournies concernant le premier projet ( ou le premier et le deuxième projet , voir la section 1.2.4 ) seront divisées en deux groupes : 
+
+Youtube Youtube | w_freq: 41 - 54 | wiki_freq: 1298 - 1901 | sentence_idx: 442314 | align_1: 1-1 | align_2: 2-6 | entity: Youtube - Youtube |    On Youtube sanctions are quite logical and one that sent a video taken elsewhere is not paid : ||| Sur Youtube en effet , les sanctions sont assez logiques et celui qui a envoyé une vidéo prise ailleurs n' est pas rémunéré : 
+
+Indicators Indicators | w_freq: 22 - 1 | wiki_freq: 1221 - 18 | sentence_idx: 444561 | align_1: 12-15 | align_2: 13-23 | entity: World Development Indicators - World Development Indicators |    The World Bank in turn directed Africa Check to its World Development Indicators , a public database of 217 economies – 189 member countries and 28 “ other ” economies . ||| À son tour , la Banque mondiale a redirigé Africa Check vers ses World Development Indicators ( indicateurs de développement du monde ) , une base de données publique de 217 économies – 189 pays membres et 28 « autres » économies . 
+
+Ozer Ozer | w_freq: 1 - 1 | wiki_freq: 170 - 55 | sentence_idx: 450665 | align_1: 0-0 | align_2: 1-4 | entity: Ozer - Ozer |    Ozer praised the companies ' action but said they should have stopped such use of data earlier . ||| Ozer a fait l’ éloge de l’ action des entreprises , mais a déclaré qu’ ils auraient dû arrêter un tel usage des données plus tôt . 
+
+Mesiti Mesiti | w_freq: 1 - 1 | wiki_freq: 22 - 3 | sentence_idx: 501416 | align_1: 1-1 | align_2: 2-8 | entity: Angelica Mesiti - Angelica Mesiti |    Angelica Mesiti for several years has been developing research into non-verbal communication . ||| Angelica Mesiti , quant à elle , développe depuis plusieurs années une recherche sur la communication non-verbale . 
+
+Saracens Saracens | w_freq: 4 - 1 | wiki_freq: 4232 - 647 | sentence_idx: 511284 | align_1: 6-6 | align_2: 7-11 | entity: Saracens - Saracens |    “ They ’ve proved that at Saracens last weekend , they proved it in round one . ||| ‘ Ils ont prouvé que chez Saracens le week - end dernier , ils l’ avaient prouvé au premier tour . 
+
+Puskas Puskás | w_freq: 2 - 2 | wiki_freq: 164 - 413 | sentence_idx: 520637 | align_1: 0-0 | align_2: 1-6 | entity: Puskas - Puskás |    Puskas always saw at least 5 . ” ||| Puskás , lui , en voyait toujours au moins cinq . » 
+
+RHDP RHDP | w_freq: 1 - 1 | wiki_freq: 22 - 152 | sentence_idx: 534590 | align_1: 13-16 | align_2: 14-20 | entity: RHDP - RHDP |    “ Were you aware of crimes committed by rebels or elements of the RHDP between 28 November and 15 December 2010 ? ” ||| « Avez -vous eu connaissance de crimes commis par des rebelles ou par des éléments du RHDP ( 2 ) entre le 28 novembre et 15 décembre 2010 ? » 
+
+Rajoy Rajoy | w_freq: 13 - 13 | wiki_freq: 999 - 743 | sentence_idx: 576657 | align_1: 4-3 | align_2: 5-13 | entity: Rajoy - Rajoy |    First : how will Rajoy return Spain to higher levels of economic growth ? ||| Premièrement , comment Rajoy permettra -t -il à l’ Espagne d’ effectuer un retour vers des niveaux élevés de croissance économique ? 
+
+Rothschilds Rothschild | w_freq: 60 - 112 | wiki_freq: 485 - 4659 | sentence_idx: 591095 | align_1: 5-6 | align_2: 6-10 | entity: Rothschilds - Rothschild |    With such articles , the Rothschilds become innocent people who suffer unjust accusations in the eyes of the world . ||| Avec de tels articles , les Rothschild eux - mêmes deviennent des gens innocents qui sont victimes d’ accusations injustes aux yeux du monde . 
+
+RCMP RCMP | w_freq: 10 - 4 | wiki_freq: 4635 - 6 | sentence_idx: 630066 | align_1: 9-12 | align_2: 10-20 | entity: RCMP - RCMP |    But the strangest thing is that she claims the RCMP told her the objects were " missiles from St. Pierre-et-Miquelon . " ||| Mais le plus étrange , c’ est qu’ elle prétend que la RCMP ( la Police Montée ) lui a dit que les objets étaient des « missiles de Saint-Pierre-et-Miquelon . » 
+
+KWPA KPWA | w_freq: 1 - 1 | wiki_freq: 13 - 0 | sentence_idx: 631865 | align_1: 8-8 | align_2: 9-13 | entity: KWPA - KPWA |    Like their African sisters , the women of KWPA strategically oppose these actions through the Via Campesina . ||| Comme leurs sœurs africaines , les femmes de KPWA s’ opposent de manière stratégique à ces actions à travers La Via Campesina . 
+
+Magnitsky Magnitsky | w_freq: 17 - 7 | wiki_freq: 598 - 17 | sentence_idx: 643372 | align_1: 0-0 | align_2: 1-4 | entity: Magnitsky - Magnitsky |    Magnitsky mentioned in testimony only in his October 2008 interrogation . ||| Magnitsky ne l’ a mentionné dans son témoignage que lors de son interrogatoire d’ octobre 2008 . 
+
+Aadam Âdam | w_freq: 1 - 1 | wiki_freq: 36 - 2 | sentence_idx: 676727 | align_1: 3-6 | align_2: 4-12 | entity: Aadam - Âdam |    Whenever Allaah created Aadam , He made him and his wife live in Paradise . ||| Chaque fois qu' Allâh a créé Âdam ( ' Alayhi Salâm ) , Il l' a fait et sa femme résident dans le Paradis . 
+
+Pan-African panafricaine | w_freq: 22 - 22 | wiki_freq: 1754 - 384 | sentence_idx: 683700 | align_1: 11-16 | align_2: 12-21 | entity: Pan-African - none |    The project is an agreement between Rwanda and Africa50 , a Pan-African infrastructure investment platform . ||| Le projet est un accord entre le Rwanda et l’ Afrique50 , une plate - forme panafricaine d’ investissement dans les infrastructures . 
+
+Philippians Philippiens | w_freq: 20 - 19 | wiki_freq: 402 - 89 | sentence_idx: 686728 | align_1: 12-12 | align_2: 13-16 | entity: Philippians - Philippiens |    In your opinion , does the general public understand the message of Philippians that Jesus , who was fully God , became fully human to die in our place ? ||| À votre avis , le grand public comprend -il le message de Philippiens , à savoir que Jésus , qui était entièrement Dieu , est devenu entièrement homme pour mourir à notre place ? 
+
+Seun Seun | w_freq: 3 - 3 | wiki_freq: 197 - 46 | sentence_idx: 717894 | align_1: 6-7 | align_2: 7-11 | entity: Seun - Seun |    “ Then his sons Femi and Seun launched their international careers in France . ” ||| Ensuite , ses fils , Femi et Seun , ont aussi lancé leur carrière internationale en France . " 
+
+Hayek Hayek | w_freq: 12 - 12 | wiki_freq: 2534 - 939 | sentence_idx: 739384 | align_1: 13-14 | align_2: 14-19 | entity: Hayek - Hayek |    Competition itself plays an essential role in the discovery of information , as Hayek also explained . ||| La concurrence joue elle-même un rôle essentiel dans la découverte d’ information , comme Hayek l’ a d’ ailleurs aussi expliqué . 
+
+Dugin Douguine | w_freq: 7 - 2 | wiki_freq: 375 - 200 | sentence_idx: 745499 | align_1: 7-8 | align_2: 8-12 | entity: Alexander Dugin - Alexandre Douguine |    Maybe that explains your proximity with Alexander Dugin … Must we believe that beyond the national cultures you defend , transnational political convergences exist ? ||| Ce qui explique peut-être votre proximité avec Alexandre Douguine [ 19 ] … Faut -il croire qu’ au delà des cultures nationales que vous défendez , il existe des convergences politiques transnationales ? 
+
+Rapporteurs Rapporteurs | w_freq: 7 - 5 | wiki_freq: 103 - 15 | sentence_idx: 774821 | align_1: 21-21 | align_2: 22-26 | entity: UN Special Rapporteurs - Rapporteurs spéciaux de l’ ONU |    They also express their support for the efforts of the United Nations High Commissioner for Human Rights and of UN Special Rapporteurs in order to assess the situation in the field and they take note of the reports and recommandations of the High Commissioner for Human Rights ( E / CN/4/2001/114 ) and of the Commission of Inquiry ( E / CN/4/2001/121 ) . ||| Elles expriment également leur soutien pour les efforts du Haut Commissaire des Nations Unies aux droits de l’ homme et des Rapporteurs spéciaux de l’ ONU en vue d’ évaluer la situation sur le terrain , et elles prennent note des rapports et recommandations du Haut Commissaire aux droits de l’ homme ( E / CN/4/2001/114 ) et de la Commission d’ enquête ( E / CN/4/2001/121 ) . 
+
+Cision Cision | w_freq: 2 - 2 | wiki_freq: 86 - 12 | sentence_idx: 775490 | align_1: 2-2 | align_2: 3-6 | entity: Cision - Q : Cision |    Q : Cision bought Bulletin Intelligence last year . ||| Q : Cision a fait l’ acquisition de Bulletin Intelligence l’ an dernier . 
+
+Netanyahu Netanyahu | w_freq: 346 - 204 | wiki_freq: 4862 - 189 | sentence_idx: 785578 | align_1: 5-3 | align_2: 6-8 | entity: Netanyahu - Netanyahu |    The conversation between Putin and Netanyahu ended in total discord . ||| La conversation entre Netanyahu et Poutine s’ est terminée en totale discorde . 
+
+Atma Atma | w_freq: 7 - 8 | wiki_freq: 508 - 42 | sentence_idx: 799585 | align_1: 8-12 | align_2: 9-16 | entity: Atma - Atma |    Whatever changes your body may suffer , the Atma , the splendour of the true Wisdom remains immortal . ||| Quels que soient les changements dont votre corps peut souffrir , l’ Atma ( âme ) , la splendeur de la véritable Sagesse reste immortelle . 
+
+Vanya Vanya | w_freq: 3 - 3 | wiki_freq: 1026 - 61 | sentence_idx: 800744 | align_1: 0-0 | align_2: 1-5 | entity: Vanya - Vanya |    Vanya originally showcases no particular powers , other than an interest in music . ||| Vanya ne présente à l’ origine aucun pouvoir particulier , à part un intérêt pour la musique . 
+
+Tibetans Tibétains | w_freq: 93 - 90 | wiki_freq: 3366 - 2998 | sentence_idx: 808694 | align_1: 0-1 | align_2: 1-5 | entity: Tibetans - Tibétains |    Tibetans also face similar kind of racial discrimination today . ||| Les Tibétains sont eux - aussi , de nos jours , confrontés à un type de discrimination raciale similaire . 
+
+Trung Trung | w_freq: 1 - 1 | wiki_freq: 1768 - 308 | sentence_idx: 811450 | align_1: 2-2 | align_2: 3-6 | entity: Nguyen Tien Trung - Nguyen Tien Trung |    Nguyen Tien Trung merely expressed his desire to see these principles applied and respected . ||| Nguyen Tien Trung n’ a fait que clamer son désir de voir de tels principes appliqués et respectés . 
+
+CAP PAC | w_freq: 103 - 110 | wiki_freq: 3916 - 1256 | sentence_idx: 813590 | align_1: 6-5 | align_2: 7-10 | entity: CAP - none |    F. Lenoir : Why has the CAP not succeeded in creating high-performing agriculture in Eastern Europe ? ||| F. Lenoir : Pourquoi la PAC n' a -t -elle pas réussi à créer une agriculture performante en Europe de l' Est ? 
+
+Cerretti Cerretti | w_freq: 1 - 1 | wiki_freq: 42 - 13 | sentence_idx: 816639 | align_1: 9-7 | align_2: 10-12 | entity: Cerretti - Monsignor Cerretti |    That same day , in the morning , Monsignor Cerretti surprised us with a good visit . ||| Ce même jour le matin , Monsignor Cerretti m’ a fait la surprise d’ une bonne visite . 
+
+Morija Morija | w_freq: 3 - 3 | wiki_freq: 52 - 19 | sentence_idx: 817852 | align_1: 8-11 | align_2: 9-16 | entity: Morija - Morija |    In December 2013 we hold another ceremony with Morija where we handed over a cheque of 20’000 dollars . ||| En décembre 2013 , nous avons organisé une autre cérémonie avec Morija , au cours de laquelle nous leur avons remis un chèque de 20 000 dollars . 
+
+Klinghoffer Klinghoffer | w_freq: 3 - 3 | wiki_freq: 555 - 128 | sentence_idx: 830675 | align_1: 13-13 | align_2: 14-18 | entity: Leon Klinghoffer - Leon Klinghoffer |    He also said : " My tears were used up crying for Leon Klinghoffer . "[5 ] ||| Il déclara également : « Mes larmes ont été utilisés pour pleurer Leon Klinghoffer ( en ) [ 19]. » 
+
+UNHCR HCR | w_freq: 142 - 132 | wiki_freq: 2768 - 575 | sentence_idx: 854337 | align_1: 1-2 | align_2: 2-16 | entity: UNHCR - HCR |    “ UNHCR received only half of the funding it needed in 2014 for programmes in Iraq and Syria and is extremely concerned at the slow pace of pledges for this year . ||| “ Le HCR ( Agence des Nations Unies pour les réfugiés , ndlr ) n' a reçu que la moitié des financements dont il avait besoin en 2014 pour ses programmes en Irak et en Syrie , et il est très inquiet du rythme très lent des promesses de dons cette année . ” 
+
+Shittim Souviens | w_freq: 1 - 22 | wiki_freq: 35 - 330 | sentence_idx: 860990 | align_1: 0-0 | align_2: 1-8 | entity: Shittim - none |    Shittim to Gilgal , that you may know the righteous acts of the Lord . ” ||| Souviens - toi du passage de Shittim jusqu’ à Guilgal pour que tu reconnaisses les justes actions du Seigneur . 
+
+Qusayr Qusayr | w_freq: 2 - 2 | wiki_freq: 118 - 41 | sentence_idx: 862416 | align_1: 9-9 | align_2: 10-14 | entity: Qusayr - Qusayr |    They also fear that the fate of Christians in Qusayr could soon affect the 10,000 believers who live in other villages in the area . ||| Ils craignent aussi que le sort des chrétiens en Qusayr , mais aussi qui pourrait bientôt concerner les 10.000 croyants qui vivent dans d’ autres villages dans la région . 
+
+Haitians Haïtiens | w_freq: 65 - 53 | wiki_freq: 1742 - 556 | sentence_idx: 868265 | align_1: 17-19 | align_2: 18-23 | entity: Haitians - Haïtiens |    Today , she has three shows , and one of her missions is changing the image of Haitians internationally , one episode at a time . ||| Aujourd’hui , elle a trois spectacles , et l’ une de ses missions est de changer l’ image des Haïtiens à l’ échelle internationale , un épisode à la fois . 
+
+NVSH NVSH | w_freq: 1 - 1 | wiki_freq: 13 - 17 | sentence_idx: 907066 | align_1: 18-21 | align_2: 19-27 | entity: NVSH - NVSH |    We have used the self-help method for many years in some of the Dutch local workgroups of the NVSH ( not in all groups ; some of them do n’t offer much support at all ) . ||| Nous recourons à la méthode d' auto-assistance depuis de nombreuses années , dans quelques-uns des groupes de travail région de la NVSH , aux Pays - Bas ( pas dans tous les groupes ; certains n' offrent pas de soutien du tout ) . 
+
+Puskas Puskás | w_freq: 2 - 2 | wiki_freq: 164 - 413 | sentence_idx: 917613 | align_1: 0-0 | align_2: 1-6 | entity: Puskas - Puskás |    Puskas always saw at least five . ” ||| Puskás , lui , en voyait toujours au moins cinq . » 
+
+UNHCR HCR | w_freq: 142 - 132 | wiki_freq: 2768 - 575 | sentence_idx: 918736 | align_1: 1-2 | align_2: 2-16 | entity: UNHCR - HCR |    “ UNHCR received only half of the funding it needed in 2014 for programs in Iraq and Syria and is extremely concerned at the slow pace of pledges for this year . ||| “ Le HCR ( Agence des Nations Unies pour les réfugiés , ndlr ) n' a reçu que la moitié des financements dont il avait besoin en 2014 pour ses programmes en Irak et en Syrie , et il est très inquiet du rythme très lent des promesses de dons cette année . ” 
+
+Konstantinos Konstantinos | w_freq: 2 - 2 | wiki_freq: 2599 - 281 | sentence_idx: 920343 | align_1: 1-1 | align_2: 2-7 | entity: Konstantinos - Konstantinos |    “ Konstantinos asked those living in wealth to contribute to foundation of the School : anything that they could . ||| " Konstantinos , en particulier , a demandé à ceux vivant dans la richesse de contribuer à la fondation de l' École : de donner ce qu' ils pouvaient . 
+
+RCMP GRC | w_freq: 10 - 18 | wiki_freq: 4635 - 829 | sentence_idx: 925793 | align_1: 3-2 | align_2: 4-7 | entity: RCMP - GRC |    Why did the RCMP not arrest this man in April 1999 , two years ago ? ||| Pourquoi la GRC n' a -t -elle pas arrêté cet homme en avril 1999 , soit il y a deux ans ? 
+
+Afar Afar | w_freq: 3 - 2 | wiki_freq: 2130 - 510 | sentence_idx: 982231 | align_1: 18-20 | align_2: 19-25 | entity: Tel Afar - Tel Afar |    And , of course , today let ’s remember Lebanon and Hassan Oweydah who killed himself in Tel Afar all those years ago . ||| Et , bien sûr , souvenons -nous aujourd'hui du Liban et de Hassan Oweydah qui s' est tué à Tel Afar , il y a toutes ces années . 
+
+Frelimo Frelimo | w_freq: 3 - 2 | wiki_freq: 150 - 51 | sentence_idx: 995367 | align_1: 3-4 | align_2: 4-8 | entity: Frelimo - Frelimo |    ( 1 ) Frelimo subsequently became converts to the market economy . ||| ( 1 ) Le Frelimo s’ est , depuis , converti à l’ économie de marché . 
+
+Gifts Gifts | w_freq: 23 - 3 | wiki_freq: 1836 - 72 | sentence_idx: 997561 | align_1: 6-7 | align_2: 7-14 | entity: Spiritual Gifts - Spiritual Gifts |    He wrote a book called Spiritual Gifts which I purchased in Seattle one time and I read . ||| Il a écrit un livre intitulé Spiritual Gifts ( Les Dons Spirituels ) , que j' ai acheté à Seattle une fois et que j' ai lu . 
+

@@ -1,0 +1,72 @@
+Painthall painthall | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 2491 | align_1: 9-8 | align_2: 10-13 | entity: Operation Painthall - operation painthall |    They have set up a task force called Operation Painthall and are believed to be focusing the investigation on seven or eight crimes . ||| Sie haben eine task force namens " operation painthall " ins leben gerufen und sollen die ermittlungen auf sieben oder acht verbrechen konzentrieren . 
+
+MondayMotivation MondayMotivation | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 23418 | align_1: 8-8 | align_2: 9-12 | entity: none - MondayMotivation |    Our Ultimate Guy Search Finalists Are the # MondayMotivation You Did n't Know You Needed ||| Unsere Ultimate Guy Search Finalisten sind die # MondayMotivation , von der Sie nicht wussten , dass Sie sie brauchen 
+
+Hertogstraat Hertogstraat | w_freq: 1 - 1 | wiki_freq: 2 - 4 | sentence_idx: 59489 | align_1: 1-2 | align_2: 2-8 | entity: Hertogstraat - De Hertogstraat |    The Hertogstraat is one of the streets that completely or partially went up in flames in September 1944 . ||| “ De Hertogstraat ” ( die Herzogstraße ) ist eine der Straßen , die im September 1944 ganz oder teilweise in Flammen aufging . 
+
+John-Boy John-Boy | w_freq: 1 - 1 | wiki_freq: 70 - 14 | sentence_idx: 95344 | align_1: 11-10 | align_2: 12-14 | entity: John-Boy - John-Boy |    But to be honest , who does not even today remember John-Boy when he looks into the still youthful looking face of Richard Thomas ? ||| Doch mal ehrlich , wer sieht nicht auch heute noch John-Boy vor sich , wenn er in das immer noch jugendlich wirkende Gesicht von Richard Thomas blickt ? ! 
+
+9GAG 9GAG | w_freq: 1 - 1 | wiki_freq: 47 - 24 | sentence_idx: 106106 | align_1: 0-0 | align_2: 1-6 | entity: 9GAG - 9GAG |    9GAG is your best source of fun . ||| 9GAG ( 9gag . com ) ist Ihre beste Quelle für Spaß . 
+
+Koneko-chan Koneko-chan | w_freq: 16 - 16 | wiki_freq: 1 - 0 | sentence_idx: 175643 | align_1: 4-4 | align_2: 5-8 | entity: Koneko-chan - Koneko-chan |    Everyone seemed puzzled at Koneko-chan who did n’t react at all . ||| Jeder schien verwirrt über Koneko-chan zu sein , die überhaupt nicht reagierte . 
+
+Shu’ayb ayb | w_freq: 2 - 2 | wiki_freq: 4 - 2 | sentence_idx: 208716 | align_1: 19-22 | align_2: 20-26 | entity: People of Shu’ayb - Shu ’ ayb |    Taking more than one ’s due right and giving what is less is a legacy of the People of Shu’ayb . ||| Das Nehmen von mehr als der eigentliche Anteil und das Geben von weniger , ist eine Hinterlassenschaft der Leute von Shu ’ ayb ( as ) . 
+
+AWDis AWDis | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 244590 | align_1: 4-4 | align_2: 5-9 | entity: Écologie by AWDis - Ecology by AWDis |    We launched Écologie by AWDis by planting 200 trees globally through Carbon Footprint , and it is our goal to keep doing so . ||| Wir haben Ecology by AWDis ins Leben gerufen , indem wir weltweit 200 Bäume durch Carbon Footprint pflanzten , und unser Ziel ist es , dies auch weiterhin zu tun . 
+
+FSFE FSFE | w_freq: 14 - 12 | wiki_freq: 47 - 20 | sentence_idx: 245097 | align_1: 23-22 | align_2: 24-28 | entity: FSFE - FSFE |    " As we look back on a decade of hard work , we would like to thank everyone who has helped to make FSFE what it is today . ||| „ Wenn wir auf ein Jahrzehnt harte Arbeit zurückblicken , möchten wir uns bei allen bedanken , die mitgeholfen haben , die FSFE zu dem zu machen , was sie heute ist . 
+
+Lambrinidis Lambrinidis | w_freq: 1 - 1 | wiki_freq: 34 - 20 | sentence_idx: 265029 | align_1: 3-13 | align_2: 4-18 | entity: Lambrinidis - Stavros Lambrinidis |    26/03/2009 - Rapport Lambrinidis on strengthening security and fundamental freedoms on the Internet 62.5/100 ||| – in Kenntnis des Vorschlags für eine Empfehlung an den Rat von Stavros Lambrinidis im Namen der PSE-Fraktion zur Stärkung der Sicherheit und der Grundfreiheiten im Internet ( B6 - 0302 / 2008 ) , 
+
+Goliaths Goliats | w_freq: 6 - 1 | wiki_freq: 59 - 24 | sentence_idx: 352174 | align_1: 7-10 | align_2: 8-15 | entity: Goliaths - Goliats |    How has the Lord helped you overcome Goliaths that you have encountered ? ||| Wie hat der Herr Ihnen dabei geholfen , die „ Goliats “ zu besiegen , die Ihnen begegnet sind ? 
+
+Śyāmasundara Śyāmasundara | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 355037 | align_1: 0-0 | align_2: 1-6 | entity: Śyāmasundara - Śyāmasundara |    Śyāmasundara : He can come and stay with you in Bombay . ||| Śyāmasundara : ( Śrīla Prabhupādas Sekretär ): Er kann kommen und mit dir in Bombay bleiben . 
+
+Manonasa Manonasa | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 356600 | align_1: 7-6 | align_2: 8-13 | entity: Manonasa - Manonasa |    By this practice you will soon attain Manonasa . ’ ||| Mit dieser Praxis wirst du bald Manonasa ( Aufhören des Geistes ) erreichen . “ 
+
+33:9 33:9 | w_freq: 1 - 1 | wiki_freq: 9 - 3 | sentence_idx: 409098 | align_1: 1-6 | align_2: 2-12 | entity: Psalm 33:9 - Psalm 33:9 |    Psalm 33:9 says , ‘ For He spoke , and it was done ; He commanded , and it stood fast ’ . ||| Ich hatte ja schon den Psalm 33:9 > angeführt , wo gesagt wird " Denn er selbst sprach , und es wurde ; Er selbst gebot , und es stand dann da . " 
+
+Pantercon Pantercon | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 413385 | align_1: 7-8 | align_2: 8-13 | entity: Pantercon - Pantercon |    2.9 Only the Smart Contract associated with Pantercon will issue PANX Tokens during the Contribution Period . ||| 2.9 Nur der Smart Contract , der mit Pantercon in Verbindung steht , wird während des Beitragszeitraums PANX-Token ausstellen . 
+
+bubbys Bubbys | w_freq: 1 - 1 | wiki_freq: 0 - 2 | sentence_idx: 430248 | align_1: 7-6 | align_2: 8-10 | entity: none - Bubbys |    One of the beautiful things about the bubbys – and this is one of the reasons they were first used – is that they were , they were given to patients in the health care system in France . ||| Eines der schönen Dinge über die Bubbys ( ? ) - und das ist einer der Zwecke , zu denen sie zuerst genutzt worden sind - ist , dass sie , dass sie Patienten im Gesundheitssystem von Frankreich gegeben wurden . 
+
+INSURANCES VERSICHERUNGEN | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 450582 | align_1: 11-13 | align_2: 12-18 | entity: none - PROGRESSIVE FAMILY OF VERSICHERUNGEN |    My advice to anyone considering insurance with the PROGRESSIVE FAMILY OF INSURANCES is to look elsewhere . ||| Mein Rat an alle , die eine Versicherung mit der PROGRESSIVE FAMILY OF VERSICHERUNGEN in Erwägung ziehen , ist , sich woanders umzusehen . 
+
+Rec(2007)2 Rec(2007)2 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 468102 | align_1: 5-6 | align_2: 6-10 | entity: Recommendation Rec(2007)2 - Rec(2007)2 |    Agrees with the above-mentioned Recommendation Rec(2007)2 that fair access by content providers to electronic communication networks should be ensured ; ||| 45. stimmt der oben genannten Empfehlung Rec(2007)2 zu , der zufolge ein fairer Zugang für Inhaltsanbieter zu elektronischen Kommunikationsnetzen gewährleistet werden sollte ; 
+
+Qur’ân baschar | w_freq: 4 - 1 | wiki_freq: 1 - 0 | sentence_idx: 470586 | align_1: 22-22 | align_2: 23-31 | entity: Qur’ân - none |    16 / An-Nahl-103 : And certainly We know that they say : “ only a human being teaches him that ( the Qur’ân ) . ” ||| Sure 16:103 " Wir wissen wohl , dass sie sagen : " " Es lehrt ihn ( ja ) ein Mensch ( baschar ) ( was er als göttliche Offenbarung vorträgt ) . " " 
+
+Commandments2:83 2:83 | w_freq: 1 - 1 | wiki_freq: 0 - 3 | sentence_idx: 511213 | align_1: 1-0 | align_2: 2-7 | entity: Commandments2:83 - none |    The Commandments2:83 We made a covenant with the Children of Israel : " You shall not worship except GOD . ||| 2:83 „ Und ( damals ) als wir die Verpflichtung der Kinder Israels ( auf folgende Gebote ) entgegennahmen : Ihr sollt nur ( dem alleinigen ) Gott dienen . 
+
+SOTT.net Sott.net | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 528605 | align_1: 22-18 | align_2: 23-23 | entity: SOTT.net - Sott.net |    Thus , the reason for our inclusion of complete articles from other authors is rather specific , and is essential to make SOTT.net what it is ! ||| Daher ist der Grund für unsere Verwendung vollständiger Artikel anderer Autoren ziemlich spezifisch und essenziell dafür , aus Sott.net das zu machen , was es ist ! 
+
+LiSEC LiSEC | w_freq: 5 - 5 | wiki_freq: 0 - 11 | sentence_idx: 542748 | align_1: 7-7 | align_2: 8-11 | entity: LiSEC - LiSEC |    They invested in a complete system from LiSEC in two phases , 1999 and 2000 . ||| Sie investierten in ein komplettes System von LiSEC , und zwar in zwei Phasen , 1999 und 2000. 
+
+Avians Avians | w_freq: 8 - 5 | wiki_freq: 27 - 5 | sentence_idx: 588234 | align_1: 7-9 | align_2: 8-14 | entity: Blue Avians - Blue Avians |    We noted your surprise when the Blue Avians joined you to offer help and support . ||| Wir bemerkten deine Überraschung , als die " Blue Avians " sich mit dir verbanden , um Hilfe und Unterstützung anzubieten . 
+
+Sott.net Sott.net | w_freq: 1 - 2 | wiki_freq: 0 - 0 | sentence_idx: 599102 | align_1: 22-18 | align_2: 23-23 | entity: Sott.net - Sott.net |    Thus , the reason for our inclusion of complete articles from other authors is rather specific , and is essential to make Sott.net what it is ! ||| Daher ist der Grund für unsere Verwendung vollständiger Artikel anderer Autoren ziemlich spezifisch und essenziell dafür , aus Sott.net das zu machen , was es ist ! 
+
+TheOnion.com TheOnion.com | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 610280 | align_1: 3-3 | align_2: 4-8 | entity: TheOnion.com - TheOnion.com |    “ Who needs TheOnion.com when reality is now 10 times more surreal . ||| " Wer braucht TheOnion.com ( Amerikanische Finanznewsseite ) wenn die Realität nun 10-mal mehr surrealer scheint . 
+
+SINN-i SINN-i | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 664244 | align_1: 9-10 | align_2: 10-14 | entity: SINN-i - SINN-i |    One of the projects in and by our network SINN-i is " Active City Innovation " . ||| Eines der Projekte , die im und mit unserem Netzwerk SINN-i entstanden sind , ist " Active City Innovation " . 
+
+IntercontinentalExchange IntercontinentalExchange | w_freq: 1 - 1 | wiki_freq: 44 - 7 | sentence_idx: 675021 | align_1: 4-2 | align_2: 5-7 | entity: IntercontinentalExchange - IntercontinentalExchange |    Jeff Sprecher ' 's IntercontinentalExchange , or ICE , was another example . ||| Jeff Sprecher IntercontinentalExchange ( Interkontinentaler Austausch ) , oder EIS , war ein anderes Beispiel . 
+
+3.3.5 3.3.5 | w_freq: 2 - 2 | wiki_freq: 5 - 2 | sentence_idx: 684227 | align_1: 8-7 | align_2: 9-12 | entity: 3.3.5 - none |    CIG has proven with the release of Update 3.3.5 that they are trustworthy and are working hard to deliver on their promises . ||| CIG hat mit der Veröffentlichung von Update 3.3.5 unter Beweis gestellt , dass sie vertrauenswürdig sind und hart daran arbeiten ihre Versprechungen einzulösen . 
+
+Mix93.3 Mix93.3 | w_freq: 1 - 2 | wiki_freq: 0 - 0 | sentence_idx: 730040 | align_1: 8-10 | align_2: 9-15 | entity: Mix93.3 - Mix93.3 |    He apologizes to his fans in KC and Mix93.3 . " ||| Er entschuldigt sich bei seinen Fans in KC und bei Mix93.3 ( sic ) “ . 
+
+FPSG FPSG | w_freq: 1 - 1 | wiki_freq: 5 - 1 | sentence_idx: 752390 | align_1: 17-17 | align_2: 18-22 | entity: FPSG - FPSG |    In short , they are not ' Israeli NGOs ' , but Foreign Political Subversion Groups ( FPSG ) . " ||| Kurz gesagt : Sie sind keine ' israelischen NGOs ' , sondern Foreign Political Subversion Groups ( FPSG - ausländische politische Zersetzungsgruppen ) . " 
+
+Inpex Inpex | w_freq: 1 - 1 | wiki_freq: 37 - 3 | sentence_idx: 849378 | align_1: 9-9 | align_2: 10-14 | entity: Inpex - Inpex |    That same year he competed in a show called Inpex ( recognized worldwide ) and won Best Innovation in Safety / Security . ||| Im selben Jahr konkurrierte er in einer Show namens Inpex < / Em > ( weltweit anerkannt ) und gewann beste Innovation in Sicherheit / Sicherheit . 
+
+PPIHC PPIHC | w_freq: 1 - 1 | wiki_freq: 24 - 6 | sentence_idx: 873047 | align_1: 2-2 | align_2: 3-6 | entity: PPIHC - PPIHC |    The first PPIHC you attended was 37 years ago . ||| Das erste PPIHC , an dem Sie teilgenommen haben , liegt 37 Jahre zurück . 
+
+Al-Baqarah/286 al-Baqara | w_freq: 1 - 1 | wiki_freq: 0 - 12 | sentence_idx: 884552 | align_1: 19-23 | align_2: 19-29 | entity: Al-Baqarah/286 - al-Baqara |    “ Our Lord , do not take us to account if we forget or make a mistake ” – Al-Baqarah/286 ||| “ Unser Herr , bestrafe uns nicht , wenn wir ( etwas ) vergessen oder einen Fehler begehen ” [ … ] ( al-Baqara , die Kuh 2 / 286 ) 
+
+KSB-system KSB-System | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 911503 | align_1: 3-2 | align_2: 4-7 | entity: KSB-system - none |    Whoever questions the KSB-system is threatened with God ’s curse . ||| Wer das KSB-System in Frage stellt , wird mit dem Fluch Gottes bedroht . 
+
+Oriaco Oriaco | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 919200 | align_1: 11-12 | align_2: 12-16 | entity: Oriaco - Oriaco |    « If I had fled to Mira , when I reached Oriaco , I would have saved myself . ||| « Wenn ich nach Mira geflohen wäre , als ich erreicht habe Oriaco , erreicht hätte , hätte ich mich gerettet . 
+
+WHIT3 WHIT3 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 956866 | align_1: 1-1 | align_2: 2-5 | entity: WHIT3 Label Boot - WHIT3 |    The WHIT3 Label Boot maximizes the minimums . ||| Der WHIT3 ( White ) Label Boot maximiert die Minimums . 
+

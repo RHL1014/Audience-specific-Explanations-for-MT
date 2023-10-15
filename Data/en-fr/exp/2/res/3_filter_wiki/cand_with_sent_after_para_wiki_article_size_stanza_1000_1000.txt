@@ -1,0 +1,22 @@
+Deliveroo Deliveroo | w_freq: 5 - 5 | wiki_freq: 179 - 78 | sentence_idx: 13696 | align_1: 6-5 | align_2: 7-12 | entity: Deliveroo - Deliveroo |    What improvements did your partnership with Deliveroo make for your restaurant ? * ||| Quelles améliorations votre partenariat avec Deliveroo vous a -t -il permis de faire pour votre restaurant ? * 
+
+AOM AOM | w_freq: 2 - 2 | wiki_freq: 236 - 231 | sentence_idx: 90905 | align_1: 1-1 | align_2: 2-6 | entity: AOM - AOM |    The AOM visited Macedonia on 13 and 14 March to assess the improvement of the legal protection system for asylum . ||| L’ AOM s’ est r endue en Macédoine les 13 et 14 mars dernier afin d’ évaluer l’ amélioration du système de protection juridique relatif à l’ asile . 
+
+Kalamata Kalamata | w_freq: 2 - 2 | wiki_freq: 960 - 291 | sentence_idx: 145074 | align_1: 3-2 | align_2: 4-7 | entity: Kalamata - Kalamata |    " Everybody in Kalamata talking about your music competition . ||| " À Kalamata , tout le monde parle de votre concours de musique . 
+
+Jotham Jotham | w_freq: 3 - 3 | wiki_freq: 243 - 38 | sentence_idx: 165833 | align_1: 12-12 | align_2: 13-17 | entity: Jotham - Jotham |    The sermon ends with a question : “ How many blessings did Jotham fail to receive , simply because he neglected church ? ” ||| Le sermon se termine par une question : " Combien de bénédictions Jotham n' a -t -il pas reçu , simplement parce qu' il a négligé l' église ? " 
+
+Amdo Amdo | w_freq: 1 - 1 | wiki_freq: 584 - 551 | sentence_idx: 188596 | align_1: 18-18 | align_2: 19-24 | entity: Amdo - Amdo |    Perhaps if the 5th and 13th Dalai Lamas were to reappear now they ’d send me back to Amdo ! ||| Peut - être que si les 5e et 13e dalaï lamas revenaient maintenant , ils me renverraient en Amdo , d’ où je viens ! 
+
+Felpham Felpham | w_freq: 1 - 1 | wiki_freq: 109 - 5 | sentence_idx: 195353 | align_1: 6-6 | align_2: 7-10 | entity: Felpham - Felpham |    “ [ The town of ] Felpham is a sweet place for Study , because it is more spiritual than London . ||| « [ La ville de ] Felpham ( en ) est une douce place pour étudier car elle est plus spirituelle que Londres . 
+
+Kalamata Kalamata | w_freq: 2 - 2 | wiki_freq: 960 - 291 | sentence_idx: 212624 | align_1: 3-2 | align_2: 4-7 | entity: Kalamata - Kalamata |    " Everybody in Kalamata talking about your Music Competition . ||| " À Kalamata , tout le monde parle de votre concours de musique . 
+
+Chaturbate Chaturbate | w_freq: 9 - 3 | wiki_freq: 24 - 6 | sentence_idx: 277269 | align_1: 5-8 | align_2: 6-12 | entity: Chaturbate - Chaturbate |    6 ) Has anyone from Chaturbate bought you anything ? ||| 10 ) Est -ce que quelqu’ un de Chaturbate t’ as déjà acheté quelque chose ? 
+
+Tajani Tajani | w_freq: 14 - 14 | wiki_freq: 146 - 39 | sentence_idx: 572387 | align_1: 6-7 | align_2: 7-11 | entity: Antonio Tajani - Antonio Tajani |    President of the European Parliament Antonio Tajani welcomed these results , which he described as “ very encouraging ” , for the first time “ since the beginning of the crisis in 2007 ” . ||| Le président du Parlement européen , Antonio Tajani , s' est félicité de ces résultats , qu' il a qualifiés de « très encourageants » pour la première fois « depuis le début de la crise en 2007 » . 
+
+Moksha Moksha | w_freq: 2 - 3 | wiki_freq: 782 - 52 | sentence_idx: 921420 | align_1: 9-8 | align_2: 10-12 | entity: Moksha - Moksha |    Some people say , “ Sir , I want Moksha … but why ? ” ||| Certains disent , " Monsieur , je veux Moksha ... ( libération ) mais pourquoi ? " 
+
+Tajani Tajani | w_freq: 14 - 14 | wiki_freq: 146 - 39 | sentence_idx: 990914 | align_1: 6-7 | align_2: 7-11 | entity: Antonio Tajani - Antonio Tajani |    President of the European Parliament Antonio Tajani welcomed these results , which he described as “ very encouraging ” , for the first time “ since the beginning of the crisis in 2007 ” . ||| Le président du Parlement européen , Antonio Tajani , s’ est félicité de ces résultats , qu’ il a qualifiés de « très encourageants » pour la première fois « depuis le début de la crise en 2007 » . 
+

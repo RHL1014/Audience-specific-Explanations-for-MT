@@ -1,0 +1,98 @@
+Aad Ad | w_freq: 8 - 35 | wiki_freq: 187 - 1905 | sentence_idx: 1591 | align_1: 6-1 | align_2: 7-9 | entity: Aad - Ad |    [ And remember when ] ' Aad denied ; and how [ severe ] were My punishment and warning . ||| L’ Ad ( peuple ) ( trop ) a rejeté ( Vérité ): alors combien terrible était Ma pénalité et mon avertissement ? 
+
+Shu'aib aïb | w_freq: 3 - 2 | wiki_freq: 29 - 0 | sentence_idx: 9231 | align_1: 11-7 | align_2: 12-11 | entity: Shu'aib - none |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 92 – Ceux qui avaient traité Chou’ aïb de menteur n’ avaient jamais été là . 
+
+Shu'aib Chou’ | w_freq: 3 - 1 | wiki_freq: 29 - 0 | sentence_idx: 9231 | align_1: 11-6 | align_2: 12-11 | entity: Shu'aib - Chou’ |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 92 – Ceux qui avaient traité Chou’ aïb de menteur n’ avaient jamais été là . 
+
+Al-Imran Imrân | w_freq: 2 - 3 | wiki_freq: 19 - 38 | sentence_idx: 46234 | align_1: 3-14 | align_2: 4-18 | entity: Al-Imran - Imrân |    The Qur'an mentions Al-Imran as the father of Maryam . ||| Visiblement , le terme Âl - i ‘ Imrân désigne la famille de ‘ Imrân ( as ) , le père de Maryam ( as ) . 
+
+Nephi Néphi | w_freq: 16 - 16 | wiki_freq: 1020 - 26 | sentence_idx: 53538 | align_1: 12-11 | align_2: 13-15 | entity: Nephi - Néphi |    I desire to have the faith like the Brother of Jared or Nephi which enabled them to know the Lord ’s will for them . ||| Je désire avoir la foi comme le frère de Jared ou Néphi , la foi qui leur a permis de connaître la volonté du Seigneur à leur égard . 
+
+Dilma Dilma | w_freq: 4 - 4 | wiki_freq: 953 - 329 | sentence_idx: 106510 | align_1: 0-0 | align_2: 1-4 | entity: Dilma - Dilma |    Dilma obviously did n’t want to change this during the elections . ||| Dilma , selon toute évidence , ne voulait pas changer cela durant les élections . 
+
+Chinaski Chinaski | w_freq: 2 - 2 | wiki_freq: 132 - 16 | sentence_idx: 128735 | align_1: 7-8 | align_2: 8-13 | entity: Chinaski - Chinaski |    Well , you ai n't God , Chinaski , relax and have another drink . ||| Enfin , tu n' es pas Dieu , Chinaski , détends - toi , prends un autre verre . 
+
+FDLR FDLR | w_freq: 23 - 20 | wiki_freq: 283 - 65 | sentence_idx: 167507 | align_1: 2-1 | align_2: 3-5 | entity: FDLR - FDLR |    Has the FDLR stopped committing crimes now that several of its leaders have been arrested ? ||| Les FDLR ont - elles cessé de commettre des crimes maintenant que plusieurs de leurs dirigeants ont été arrêtés ? 
+
+Rugova Rugova | w_freq: 2 - 2 | wiki_freq: 490 - 50 | sentence_idx: 200854 | align_1: 9-8 | align_2: 10-12 | entity: Rugova - Rugova |    And is it true that in 1998 you and Rugova concluded ||| Est-il exact qu' en 1998 , vous et Rugova , vous en êtes 
+
+Utrillo Utrillo | w_freq: 1 - 1 | wiki_freq: 208 - 427 | sentence_idx: 210035 | align_1: 1-3 | align_2: 2-7 | entity: Utrillo - Utrillo |    Perhaps Utrillo started this work in 1911 or 1912 and reworked it later . ||| Peut - être Utrillo a -t -il commencé cette œuvre en 1911 ou 1912 et l’ a - t’ il retravaillée plus tard . 
+
+MEPs eurodéputés | w_freq: 125 - 44 | wiki_freq: 3214 - 293 | sentence_idx: 217241 | align_1: 8-6 | align_2: 9-11 | entity: MEPs - none |    Why did no parliamentarian out of the 751 MEPs raise red flags about the issue before it became an actual rule ? ||| Pourquoi aucun parlementaire parmi les 751 eurodéputés n' a -t -il émis des drapeaux rouges sur la question avant qu' elle ne devienne une règle ? 
+
+Goyim goyim | w_freq: 5 - 9 | wiki_freq: 40 - 26 | sentence_idx: 223076 | align_1: 8-10 | align_2: 9-15 | entity: Goyim - none |    Jews are the pride of creation , the Goyim are its scum . ” ||| Les juifs sont la fierté de la création , les goyim ( Gentils ) en sont le rebus . " 
+
+Netanyahu Netanyahu | w_freq: 292 - 199 | wiki_freq: 4862 - 189 | sentence_idx: 234336 | align_1: 1-0 | align_2: 2-6 | entity: Netanyahu - Netanyahu |    Does Netanyahu not realize that even with the most powerful army in the Middle East his tiny state is very vulnerable ? ||| Netanyahu ne se rend -t -il pas compte que même avec l’ armée la plus puissante du Moyen-Orient , son petit État reste très vulnérable ? 
+
+Ramzan Ramzan | w_freq: 5 - 5 | wiki_freq: 739 - 145 | sentence_idx: 256999 | align_1: 2-1 | align_2: 3-6 | entity: Ramzan - Ramzan |    When was Ramzan celebrated in 1984 ? ||| Quand Ramzan a -t -il été célébré en 1984 ? 
+
+Goyim Goyim | w_freq: 5 - 5 | wiki_freq: 40 - 8 | sentence_idx: 270866 | align_1: 8-10 | align_2: 9-15 | entity: Goyim - Goyim |    Jews are the pride of creation , the Goyim are its scum . ” ||| Les Juifs sont la fierté de la création , les Goyim ( Gentils ) en sont le rebus . » 
+
+SNCB SNCB | w_freq: 7 - 7 | wiki_freq: 521 - 3838 | sentence_idx: 272936 | align_1: 0-1 | align_2: 1-6 | entity: SNCB - SNCB |    SNCB has no intention , either in the near or distant future , of reproposing this service . ||| La SNCB quant à elle n’ a aucune intention , que ce soit dans un future proche ou lointain , de reproposer ce service . 
+
+Bakas Bakas | w_freq: 1 - 1 | wiki_freq: 48 - 12 | sentence_idx: 342634 | align_1: 10-9 | align_2: 11-14 | entity: Bakas - M. Bakas |    All of this leads us to ask why was Mr. Bakas never formally arrested ? ||| Tout cela nous amène à nous demander pourquoi M. Bakas n’ a -t -il jamais été formellement arrêté ? 
+
+COP COP | w_freq: 89 - 88 | wiki_freq: 1558 - 870 | sentence_idx: 432344 | align_1: 1-1 | align_2: 2-5 | entity: COP - COP |    The COP starting on 4 November will act as an impetus for the efforts of the international community to save animal migrations before it is too late . ||| La COP , qui s’ ouvre le 4 novembre , servira d’ impulsion aux efforts de la communauté internationale visant à sauver les migrations des animaux avant qu’ il ne soit trop tard . 
+
+Cersei Cersei | w_freq: 14 - 14 | wiki_freq: 944 - 174 | sentence_idx: 438859 | align_1: 1-1 | align_2: 2-5 | entity: Cersei - Cersei |    Or Cersei embarked on a war too big for her with , as it has often happened , a little too much confidence in her ? ||| Ou Cersei s' est -elle embarquée dans une guerre trop grande pour elle avec , comme ça lui est souvent arrivé , un peu trop de confiance en elle ? 
+
+Medvedev Medvedev | w_freq: 32 - 33 | wiki_freq: 3808 - 1279 | sentence_idx: 499040 | align_1: 8-11 | align_2: 9-15 | entity: Medvedev - Medvedev |    This is why Putin is so popular and Medvedev never was . ||| C’ est la raison pour laquelle Poutine est si populaire et Medvedev ne l’ a jamais été . 
+
+Nalan Nalan | w_freq: 2 - 2 | wiki_freq: 263 - 7 | sentence_idx: 503091 | align_1: 12-11 | align_2: 13-16 | entity: Nalan - Grand-Père Nalan |    Your visit here today , to release the marriage , did Grandfather Nalan give his consent ? ” ||| Votre visite ici aujourd’hui , pour désengager le mariage , Grand-Père Nalan en a -t -il donné son consentement ? ” 
+
+JPII JPII | w_freq: 1 - 1 | wiki_freq: 14 - 1 | sentence_idx: 503918 | align_1: 1-1 | align_2: 2-7 | entity: JPII - JPII |    And JPII rightly realized that you stay in office . ||| Et JPII s’ est rendu compte à juste titre que vous restiez en poste . 
+
+Netanyahu Netanyahu | w_freq: 292 - 199 | wiki_freq: 4862 - 189 | sentence_idx: 518703 | align_1: 1-0 | align_2: 2-6 | entity: Netanyahu - Netanyahu |    Does Netanyahu not realize that even with the most powerful army in the Middle East his tiny state is very vulnerable ? ||| Netanyahu ne se rend -t -il pas compte que même avec l' armée la plus puissante du Moyen-Orient , son petit État reste très vulnérable ? 
+
+Kerensky Kerensky | w_freq: 4 - 4 | wiki_freq: 908 - 123 | sentence_idx: 525841 | align_1: 1-0 | align_2: 2-5 | entity: Kerensky - Kerensky |    Has Kerensky not been an enemy of the workers in September 1917 ? ||| Kerensky n' a -t -il pas été un ennemi des travailleurs en septembre 1917 ? 
+
+Krenz Krenz | w_freq: 1 - 1 | wiki_freq: 271 - 76 | sentence_idx: 542170 | align_1: 0-0 | align_2: 1-4 | entity: Krenz - Krenz |    Krenz intended to give it to them – but only the next day , November 10 . ||| Krenz avait bien l’ intention de leur accorder ce droit – mais seulement le jour suivant , le 10 novembre . 
+
+Sheltie Sheltie | w_freq: 1 - 1 | wiki_freq: 34 - 7 | sentence_idx: 574984 | align_1: 5-5 | align_2: 6-10 | entity: Sheltie - Sheltie |    A sad example is the Sheltie presented to me at an Integrated Approach seminar . ||| Un triste exemple est le Sheltie qu’ on m’ a présenté à un séminaire d’ approche intégrée . 
+
+Shushan Suse | w_freq: 1 - 2 | wiki_freq: 265 - 1876 | sentence_idx: 578513 | align_1: 12-13 | align_2: 13-18 | entity: Shushan - Suse |    “ On that day the number of those who were killed in Shushan the citadel was brought to the king . ||| Ce jour -là , le nombre de ceux qui avaient été tués dans Suse [ Shuwshan ] , la capitale , parvint à la connaissance du roi . 
+
+Tibetans Tibétains | w_freq: 108 - 106 | wiki_freq: 3366 - 2998 | sentence_idx: 597434 | align_1: 2-2 | align_2: 3-7 | entity: Tibetans - Tibétains |    Why are Tibetans still not granted genuine autonomy as stipulated in the Chinese constitution ? ||| Pourquoi les Tibétains ne se voient -ils toujours pas proposer une autonomie réelle , comme le stipule la Constitution chinoise ? 
+
+Zayta Zayta | w_freq: 1 - 1 | wiki_freq: 35 - 1 | sentence_idx: 600762 | align_1: 4-4 | align_2: 5-9 | entity: Zayta - Zayta |    * The town of Zayta originally extended into what is now Israel . ||| • La ville de Zayta s’ étendait à l’ origine sur ce qui est maintenant Israël . 
+
+Cahokians Cahokiens | w_freq: 1 - 1 | wiki_freq: 15 - 0 | sentence_idx: 659429 | align_1: 5-5 | align_2: 6-9 | entity: Cahokians - Cahokiens |    No one knows what the Cahokians called their city . ) ||| Personne ne sait comment les Cahokiens eux - mêmes appelaient leur ville . ) 
+
+ICCAT ICCAT | w_freq: 6 - 5 | wiki_freq: 59 - 9 | sentence_idx: 667164 | align_1: 11-13 | align_2: 12-17 | entity: ICCAT - ICCAT |    The good news is that the 52 governments that make up ICCAT can . ||| La bonne nouvelle , c’ est que les 52 gouvernements qui composent l’ ICCAT , eux , peuvent le faire . 
+
+Premananda Premananda | w_freq: 2 - 2 | wiki_freq: 74 - 2 | sentence_idx: 667556 | align_1: 12-13 | align_2: 13-18 | entity: Swami Premananda - Swami Premananda |    Yes , like 2000 years ago … How many times had Swami Premananda not mentioned the life and teachings of Christ ? ||| Comme il y a 2000 ans , oui … Combien de fois Swami Premananda n’ avait -t -il pas déjà évoqué la vie et l’ enseignement du Christ ? 
+
+Niran Niran | w_freq: 1 - 1 | wiki_freq: 77 - 16 | sentence_idx: 696548 | align_1: 3-3 | align_2: 4-7 | entity: Niran - Niran |    The voters of Niran are quite literally voting against the future existence of their village . ||| Les électeurs de Niran , eux , votent littéralement contre l’ existence future de leur village . 
+
+Barkhane Barkhane | w_freq: 2 - 2 | wiki_freq: 106 - 299 | sentence_idx: 702908 | align_1: 2-0 | align_2: 3-8 | entity: Barkhane - Barkhane |    Is n’t Barkhane increasingly viewed as an occupying force ? ||| Barkhane n' est -il pas de plus en plus considéré comme une force d' occupation ? 
+
+FIAT FIAT | w_freq: 10 - 8 | wiki_freq: 868 - 772 | sentence_idx: 710815 | align_1: 11-11 | align_2: 12-16 | entity: FIAT - FIAT |    It was in this spirit of gratitude that we join the FIAT of Mary : “ You made me holy , wonderous is your name ” . ||| C’ est dans cet esprit de gratitude que nous vivons le FIAT ( le oui ) de Marie : « Tu as fait pour moi des merveilles , saint est ton nom » . 
+
+Hiromi Hiromi | w_freq: 2 - 2 | wiki_freq: 1026 - 295 | sentence_idx: 725080 | align_1: 9-10 | align_2: 10-18 | entity: Hiromi - Hiromi |    I do n't want to say this but , Hiromi , please watch over our world . ||| Je n' ai pas envie de le dire mais , Hiromi , s' il - te - plaît , veille sur notre monde . 
+
+Swamiji Swamiji | w_freq: 8 - 8 | wiki_freq: 815 - 7 | sentence_idx: 746979 | align_1: 4-3 | align_2: 5-8 | entity: Swamiji - Swamiji |    “ But why could Swamiji not stop this war ? ” ||| " Mais pourquoi Swamiji n' a -t -il pas pu arrêter cette guerre ? " 
+
+Assad Assad | w_freq: 319 - 370 | wiki_freq: 4150 - 2872 | sentence_idx: 749679 | align_1: 13-12 | align_2: 14-17 | entity: Assad - Assad |    And it is very difficult to explain to the dominant rebel groups why Assad is not being bombed . ” ||| Et il est très difficile d' expliquer aux groupes rebelles dominants pourquoi Assad , lui , n' est pas bombardé . » 
+
+ECSC CECA | w_freq: 8 - 9 | wiki_freq: 431 - 612 | sentence_idx: 766977 | align_1: 2-3 | align_2: 3-7 | entity: ECSC - CECA |    However the ECSC failed to achieve several fundamental aims of the Treaty of Paris . ||| Toutefois , la CECA n ’ a pas atteint plusieurs objectifs fondamentaux du traité de Paris . 
+
+Karroubi Karroubi | w_freq: 1 - 1 | wiki_freq: 299 - 10 | sentence_idx: 776955 | align_1: 8-9 | align_2: 9-14 | entity: Karroubi - Monsieur Karroubi |    Do the pressures on your children and Mr. Karroubi not influence this matter ? ||| La pression exercée sur vos enfants et sur Monsieur Karroubi n’ a -t -elle pas d’ influence ? 
+
+MONUC MONUC | w_freq: 20 - 19 | wiki_freq: 484 - 108 | sentence_idx: 790006 | align_1: 3-2 | align_2: 4-7 | entity: MONUC - MONUC |    Why ca n’t MONUC disarm the militia of the two candidates for the second round and ensure their protection until the elections ? ||| Pourquoi la MONUC ne peut -elle pas désarmer les milices des deux candidats au second tour et assurer leur protection jusqu’ aux élections ? 
+
+WSJ WSJ | w_freq: 10 - 10 | wiki_freq: 392 - 10 | sentence_idx: 822430 | align_1: 4-3 | align_2: 5-9 | entity: WSJ - WSJ |    However , the august WSJ does not name the victims either . ||| Toutefois , le WSJ du mois d' août n’ a pas nommé les victimes non plus . 
+
+Netanyahu Netanyahou | w_freq: 292 - 99 | wiki_freq: 4862 - 959 | sentence_idx: 835046 | align_1: 8-10 | align_2: 9-14 | entity: Netanyahu - Netanyahou |    It is easy to start with the point Netanyahu focused on , namely crime . ||| Il est facile de commencer par le point sur lequel Netanyahou lui-même s’ est focalisé , à savoir la criminalité . 
+
+Marleau Marleau | w_freq: 2 - 2 | wiki_freq: 395 - 265 | sentence_idx: 843509 | align_1: 4-1 | align_2: 5-9 | entity: Robert Marleau - Robert Marleau |    Former information commissioner Robert Marleau said that this is one step forward and two steps back . ||| Robert Marleau , l' ex-commissaire à l' information , dit que c' est un pas en avant et deux pas en arrière . 
+
+Andorran andorran | w_freq: 29 - 19 | wiki_freq: 1392 - 487 | sentence_idx: 878058 | align_1: 4-4 | align_2: 5-10 | entity: Andorran - none |    The simplicity of the Andorran income tax system also means that there is no complicated systems involving credits like in other parts of the world . ||| La simplicité du système andorran de l’ impôt sur le revenu signifie également qu’ il n’ existe pas de systèmes compliqués impliquant des crédits comme dans d’ autres parties du monde . 
+
+Neocon néocon | w_freq: 2 - 2 | wiki_freq: 24 - 0 | sentence_idx: 880164 | align_1: 1-1 | align_2: 2-6 | entity: Neocon - none |    The Neocon is actually slightly more modest , all he wants is for Arabs to drink Coca Cola in a westernised democratic society . ||| Le néocon , de fait , est légèrement plus modeste : tout ce qu’ il veut , c’ est que les Arabes boivent du Coca-Cola dans une société démocratique occidentalisée . 
+
+Fathi Fathi | w_freq: 3 - 3 | wiki_freq: 542 - 303 | sentence_idx: 916982 | align_1: 7-7 | align_2: 8-12 | entity: Fathi - Fathi |    As soon as he was released , Fathi again spoke out for freedom and human rights . ||| Dès qu’ il a été libéré , Fathi s’ est , de nouveau , exprimé en faveur de la liberté et des droits de l’ homme . 
+
+Muhammed Muhammed | w_freq: 11 - 6 | wiki_freq: 3787 - 295 | sentence_idx: 942368 | align_1: 9-9 | align_2: 10-13 | entity: Muhammed - Muhammed |    “ Fares would refuse to go to sleep until Muhammed came home from school . ||| " Fares serait refuser d’ aller dormir tant que Muhammed n’ était pas rentré de l’ école . 
+
+Zahar Zahar | w_freq: 5 - 5 | wiki_freq: 180 - 79 | sentence_idx: 979509 | align_1: 3-6 | align_2: 4-11 | entity: Mahmoud Zahar - Mahmoud Zahar |    Hamas leader Mahmoud Zahar could not be clearer on this point . ||| Le leader du Hamas , Mahmoud Zahar , n' a pas pu être plus clair sur ce point . 
+

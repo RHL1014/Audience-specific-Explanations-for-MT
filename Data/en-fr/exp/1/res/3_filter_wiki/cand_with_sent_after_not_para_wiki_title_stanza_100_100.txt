@@ -1,0 +1,28 @@
+Shu'aib aïb | w_freq: 3 - 2 | wiki_freq: 29 - 0 | sentence_idx: 9231 | align_1: 11-7 | align_2: 12-11 | entity: Shu'aib - none |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 92 – Ceux qui avaient traité Chou’ aïb de menteur n’ avaient jamais été là . 
+
+Shu'aib Chou’ | w_freq: 3 - 1 | wiki_freq: 29 - 0 | sentence_idx: 9231 | align_1: 11-6 | align_2: 12-11 | entity: Shu'aib - Chou’ |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 92 – Ceux qui avaient traité Chou’ aïb de menteur n’ avaient jamais été là . 
+
+Al-Imran Imrân | w_freq: 2 - 3 | wiki_freq: 19 - 38 | sentence_idx: 46234 | align_1: 3-14 | align_2: 4-18 | entity: Al-Imran - Imrân |    The Qur'an mentions Al-Imran as the father of Maryam . ||| Visiblement , le terme Âl - i ‘ Imrân désigne la famille de ‘ Imrân ( as ) , le père de Maryam ( as ) . 
+
+Goyim goyim | w_freq: 5 - 9 | wiki_freq: 40 - 26 | sentence_idx: 223076 | align_1: 8-10 | align_2: 9-15 | entity: Goyim - none |    Jews are the pride of creation , the Goyim are its scum . ” ||| Les juifs sont la fierté de la création , les goyim ( Gentils ) en sont le rebus . " 
+
+Goyim Goyim | w_freq: 5 - 5 | wiki_freq: 40 - 8 | sentence_idx: 270866 | align_1: 8-10 | align_2: 9-15 | entity: Goyim - Goyim |    Jews are the pride of creation , the Goyim are its scum . ” ||| Les Juifs sont la fierté de la création , les Goyim ( Gentils ) en sont le rebus . » 
+
+Bakas Bakas | w_freq: 1 - 1 | wiki_freq: 48 - 12 | sentence_idx: 342634 | align_1: 10-9 | align_2: 11-14 | entity: Bakas - M. Bakas |    All of this leads us to ask why was Mr. Bakas never formally arrested ? ||| Tout cela nous amène à nous demander pourquoi M. Bakas n’ a -t -il jamais été formellement arrêté ? 
+
+JPII JPII | w_freq: 1 - 1 | wiki_freq: 14 - 1 | sentence_idx: 503918 | align_1: 1-1 | align_2: 2-7 | entity: JPII - JPII |    And JPII rightly realized that you stay in office . ||| Et JPII s’ est rendu compte à juste titre que vous restiez en poste . 
+
+Sheltie Sheltie | w_freq: 1 - 1 | wiki_freq: 34 - 7 | sentence_idx: 574984 | align_1: 5-5 | align_2: 6-10 | entity: Sheltie - Sheltie |    A sad example is the Sheltie presented to me at an Integrated Approach seminar . ||| Un triste exemple est le Sheltie qu’ on m’ a présenté à un séminaire d’ approche intégrée . 
+
+Zayta Zayta | w_freq: 1 - 1 | wiki_freq: 35 - 1 | sentence_idx: 600762 | align_1: 4-4 | align_2: 5-9 | entity: Zayta - Zayta |    * The town of Zayta originally extended into what is now Israel . ||| • La ville de Zayta s’ étendait à l’ origine sur ce qui est maintenant Israël . 
+
+Cahokians Cahokiens | w_freq: 1 - 1 | wiki_freq: 15 - 0 | sentence_idx: 659429 | align_1: 5-5 | align_2: 6-9 | entity: Cahokians - Cahokiens |    No one knows what the Cahokians called their city . ) ||| Personne ne sait comment les Cahokiens eux - mêmes appelaient leur ville . ) 
+
+ICCAT ICCAT | w_freq: 6 - 5 | wiki_freq: 59 - 9 | sentence_idx: 667164 | align_1: 11-13 | align_2: 12-17 | entity: ICCAT - ICCAT |    The good news is that the 52 governments that make up ICCAT can . ||| La bonne nouvelle , c’ est que les 52 gouvernements qui composent l’ ICCAT , eux , peuvent le faire . 
+
+Premananda Premananda | w_freq: 2 - 2 | wiki_freq: 74 - 2 | sentence_idx: 667556 | align_1: 12-13 | align_2: 13-18 | entity: Swami Premananda - Swami Premananda |    Yes , like 2000 years ago … How many times had Swami Premananda not mentioned the life and teachings of Christ ? ||| Comme il y a 2000 ans , oui … Combien de fois Swami Premananda n’ avait -t -il pas déjà évoqué la vie et l’ enseignement du Christ ? 
+
+Niran Niran | w_freq: 1 - 1 | wiki_freq: 77 - 16 | sentence_idx: 696548 | align_1: 3-3 | align_2: 4-7 | entity: Niran - Niran |    The voters of Niran are quite literally voting against the future existence of their village . ||| Les électeurs de Niran , eux , votent littéralement contre l’ existence future de leur village . 
+
+Neocon néocon | w_freq: 2 - 2 | wiki_freq: 24 - 0 | sentence_idx: 880164 | align_1: 1-1 | align_2: 2-6 | entity: Neocon - none |    The Neocon is actually slightly more modest , all he wants is for Arabs to drink Coca Cola in a westernised democratic society . ||| Le néocon , de fait , est légèrement plus modeste : tout ce qu’ il veut , c’ est que les Arabes boivent du Coca-Cola dans une société démocratique occidentalisée . 
+

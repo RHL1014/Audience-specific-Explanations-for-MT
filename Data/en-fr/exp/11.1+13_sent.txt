@@ -1,0 +1,49 @@
+1 file
+Goyim goyim | w_freq: 5 - 9 | wiki_freq: 40 - 26 | sentence_idx: 223076 | align_1: 8-10 | align_2: 9-15 | entity: Goyim - none |    Jews are the pride of creation , the Goyim are its scum . ” ||| Les juifs sont la fierté de la création , les goyim ( Gentils ) en sont le rebus . " 
+
+WINS WINS | w_freq: 1 - 1 | wiki_freq: 494 - 26 | sentence_idx: 974200 | align_1: 10-11 | align_2: 11-19 | entity: WINS - WINS |    eighteen guides for the World Institute for Nuclear Security ( WINS ) . ||| de dix-huit guides pour le World Institute for Nuclear Security ( WINS , Institut mondial pour la sécurité nucléaire ) . 
+
+
+
+2 file
+
+Dhu’l-Qarnain Qarnaïn | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 703540 | align_1: 6-9 | align_2: 7-17 | entity: Dhu’l-Qarnain - Dhou al - Qarnaïn |    And they ask you questions about Dhu’l-Qarnain . ||| Ils t’ interrogent au sujet de Dhou al - Qarnaïn ( l’ homme aux deux cornes ) . 
+
+Bacalhau bacalhau | w_freq: 1 - 2 | wiki_freq: 85 - 32 | sentence_idx: 878130 | align_1: 0-1 | align_2: 1-7 | entity: Bacalhau - none |    Bacalhau is the number one fish of the country , it is cooked in a thousand ways and it is interesting to discover the creativity with which it prepares it . ||| Le bacalhau ( Morue en français ) est LE poisson numéro 1 du pays , on le cuisine de mille façons et il est intéressant de découvrir la créativité avec laquelle ils le préparent . 
+
+3file
+
+WMO WMO | w_freq: 5 - 1 | wiki_freq: 816 - 17 | sentence_idx: 276689 | align_1: 3-4 | align_2: 4-14 | entity: WMO - WMO |    ‘ Even if WMO agrees , I will still not pass on the data . ||| « Même si la WMO [ Organisation mondiale de la météorologie ] est d’ accord , je ne vais toujours pas transmettre les données . 
+
+Imams imams | w_freq: 9 - 33 | wiki_freq: 1807 - 778 | sentence_idx: 307049 | align_1: 6-7 | align_2: 7-13 | entity: Imams - none |    We are also in talks with Imams to determine what might be considered haram , and therefore , be blocked ” . ||| Nous sommes également en pourparlers avec les imams [ érudits musulmans ] , pour déterminer ce qui pourrait être considéré comme haram et donc d' être bloqué " . 
+
+Slutwalk Slutwalk | w_freq: 1 - 1 | wiki_freq: 46 - 9 | sentence_idx: 355867 | align_1: 16-19 | align_2: 17-27 | entity: Slutwalk - Slutwalk |    It would appear that , through lack of clarity , something has finally become clear : Slutwalk has lost me . ||| Il semblerait que , par manque de clarté , quelque chose est finalement devenu très clair : la « Slutwalk » ( Marche des salopes ) m’ a perdue . 
+
+
+Bunyan Bunyan | w_freq: 1 - 1 | wiki_freq: 1841 - 235 | sentence_idx: 674710 | align_1: 1-1 | align_2: 2-10 | entity: John Bunyan - John Bunyan |    John Bunyan said , “ He who runs from God in the morning will scarcely find Him the rest of the day . ” ||| John Bunyan , l’ auteur du Voyage du Pèlerin , disait avec une pointe d’ humour : « Celui qui court loin de Dieu dès le matin aura du mal à la retrouver pendant le reste de la journée » 
+
+4file
+CITC CITC | w_freq: 2 - 2 | wiki_freq: 37 - 6 | sentence_idx: 312651 | align_1: 17-19 | align_2: 18-31 | entity: CITC - CITC |    In addition , Saudi Arabia redirects all international traffic through the Communications and Information Technology Commission ( CITC ) , to filter out “ inappropriate ” content . ||| En outre , l' Arabie saoudite redirige tout le trafic international via la Communications and Information Technology Commission ( CITC , Commission de la technologie de l' information et des communications ) afin de filtrer les contenus « inappropriés » . 
+
+Prius Prius | w_freq: 10 - 11 | wiki_freq: 1654 - 197 | sentence_idx: 737718 | align_1: 23-29 | align_2: 24-33 | entity: Prius - Prius |    Nor does it explain why nobody there ever feeds or waters their horses , which run all day and night just like a Prius . ||| Pas plus que cela n' explique pourquoi personne ne nourrit ou n' abreuve jamais son cheval , qui court tout le jour et toute la nuit exactement comme une Prius [ modèle de voiture]. 
+
+KJV KJV | w_freq: 7 - 6 | wiki_freq: 867 - 14 | sentence_idx: 816640 | align_1: 4-4 | align_2: 5-10 | entity: KJV - KJV |    The “ real ” KJV is the only English Bible in the world that instructs you to “ study ” your Bible ! ||| La « vraie » KJV [ Parole de Dieu ] est la seule Bible anglaise au monde qui vous invite à « ÉTUDIER » votre Bible ! 
+
+
+Hermans Hermans | w_freq: 1 - 1 | wiki_freq: 645 - 274 | sentence_idx: 71968 | align_1: 13-15 | align_2: 14-19 | entity: Hermans - Hermans |    Birds fly there only three times a year ; they are called “ Hermans ” and resemble our bullfinches . ||| Les oiseaux n’ y volent que trois fois par an ; On les appelle " Hermans [ Germains ] " et ils ressemblent à nos bouvreuils . 
+
+Iblis Iblis | w_freq: 2 - 1 | wiki_freq: 539 - 150 | sentence_idx: 231928 | align_1: 6-5 | align_2: 7-10 | entity: Iblis - Iblis |    How many a person killed by Iblis they have revived . ||| Combien de personnes assassinées par Iblis ( Démon ) ont -ils ressuscitées ? 
+
+
+
+5file
+
+PWA PWA | w_freq: 11 - 12 | wiki_freq: 926 - 77 | sentence_idx: 98660 | align_1: 6-6 | align_2: 7-13 | entity: PWA - PWA |    Support the Palestinian Water Authority ( PWA ) on institutional and governance issues ; ||| soutenir la Palestinian Water Authority ( PWA , Autorité palestinienne de l’ eau ) sur les enjeux institutionnels et de gouvernance ; 
+
+BIEN BIEN | w_freq: 1 - 7 | wiki_freq: 44 - 61 | sentence_idx: 233608 | align_1: 9-12 | align_2: 10-22 | entity: BIEN - BIEN |    That is what also Basic Income Earth Network ( BIEN ) Finland would like to see . ||| C’ est aussi ce que souhaiterait le Basic Income Earth Network ( BIEN , le Réseau mondial pour le revenu de base ) en Finlande . 
+
+Indicators Indicators | w_freq: 22 - 1 | wiki_freq: 1221 - 18 | sentence_idx: 444561 | align_1: 12-15 | align_2: 13-23 | entity: World Development Indicators - World Development Indicators |    The World Bank in turn directed Africa Check to its World Development Indicators , a public database of 217 economies – 189 member countries and 28 “ other ” economies . ||| À son tour , la Banque mondiale a redirigé Africa Check vers ses World Development Indicators ( indicateurs de développement du monde ) , une base de données publique de 217 économies – 189 pays membres et 28 « autres » économies . 
+
+RCMP RCMP | w_freq: 10 - 4 | wiki_freq: 4635 - 6 | sentence_idx: 630066 | align_1: 9-12 | align_2: 10-20 | entity: RCMP - RCMP |    But the strangest thing is that she claims the RCMP told her the objects were " missiles from St. Pierre-et-Miquelon . " ||| Mais le plus étrange , c’ est qu’ elle prétend que la RCMP ( la Police Montée ) lui a dit que les objets étaient des « missiles de Saint-Pierre-et-Miquelon . » 
+
+UNHCR HCR | w_freq: 142 - 132 | wiki_freq: 2768 - 575 | sentence_idx: 854337 | align_1: 1-2 | align_2: 2-16 | entity: UNHCR - HCR |    “ UNHCR received only half of the funding it needed in 2014 for programmes in Iraq and Syria and is extremely concerned at the slow pace of pledges for this year . ||| “ Le HCR ( Agence des Nations Unies pour les réfugiés , ndlr ) n' a reçu que la moitié des financements dont il avait besoin en 2014 pour ses programmes en Irak et en Syrie , et il est très inquiet du rythme très lent des promesses de dons cette année . ” 

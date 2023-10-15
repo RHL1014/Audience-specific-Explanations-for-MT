@@ -1,0 +1,6 @@
+Ernman Ernman | w_freq: 2 - 2 | wiki_freq: 100 - 36 | sentence_idx: 227553 | align_1: 2-1 | align_2: 3-6 | entity: Malena Ernman - Malena Ernman |    Did Malena Ernman not publish a book with her husband just a few days before the start of Greta 's strike ? ||| Malena Ernman n’ a -t -elle pas publié un livre , avec son conjoint , quelques jours à peine avant le début de la grève de Greta ? 
+
+Oriflame Oriflame | w_freq: 5 - 5 | wiki_freq: 57 - 6 | sentence_idx: 240383 | align_1: 6-6 | align_2: 7-10 | entity: Oriflame - Oriflame |    It turns out that the company Oriflame except cosmetics produces good vitamins ! . ||| Il s' avère que la société Oriflame , à l' exception des cosmétiques , produit de bonnes vitamines ! . 
+
+Twyfelfontein Twyfelfontein | w_freq: 1 - 1 | wiki_freq: 33 - 16 | sentence_idx: 252476 | align_1: 3-3 | align_2: 4-8 | entity: Twyfelfontein - Twyfelfontein |    The elephants at Twyfelfontein two days ago must have been one group . ||| Les éléphants de Twyfelfontein , il y a deux jours a doivent être un groupe . 
+

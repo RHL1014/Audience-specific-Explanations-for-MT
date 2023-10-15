@@ -1,0 +1,356 @@
+Dhamma Dhamma | w_freq: 49 - 45 | wiki_freq: 1093 - 92 | sentence_idx: 4829 | align_1: 1-0 | align_2: 2-6 | entity: none - Dhamma |    ‘ Dhamma is good , but what is dhamma ? ||| Dhamma [ oder heute Dahrma ] ist gut , aber was ist Dhamma ? 
+
+Saqar Saqar | w_freq: 6 - 7 | wiki_freq: 30 - 1 | sentence_idx: 10297 | align_1: 7-8 | align_2: 8-17 | entity: Saqar - Saqar |    And what can let you know What Saqar is ? ||| „ Und wie kannst du wissen , was Saqar ( ein anderer Name für die Hölle ) ist ? 
+
+Xiongnu-Qiang Xiongnu-Qiang | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 16066 | align_1: 4-4 | align_2: 5-9 | entity: Xiongnu-Qiang - Xiongnu-Qiang |    They repelled a joint Xiongnu-Qiang invasion of this northwestern territory in 111 BCE . ||| Sie trieben einen gemeinsamen Xiongnu-Qiang ( Qiang Leute ) Invasion dieses nordwestlichen Territoriums in 111 BCE zurück . 
+
+L’Informale L'Informale | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 17048 | align_1: 5-4 | align_2: 6-9 | entity: L’Informale - none |    Q : It seems to L’Informale that these changes swept away old paradigms , changing the landscape of the Arab-Israeli conflict and offering Israel its best opportunity . ||| F : Es scheint L'Informale so zu sein , dass diese Veränderungen alte Paradigmen wegfegten , was die Landschaft des arabisch-israelischen Konflikts verändert und Israel seine günstigste Gelegenheit bietet . 
+
+Passover Adha | w_freq: 19 - 1 | wiki_freq: 3664 - 4 | sentence_idx: 26052 | align_1: 11-17 | align_2: 12-22 | entity: none - Adha |    The Lord said to Moses and Aaron : This is the Passover statute . ||| Und der Herr sprach zu Musa ( Moses ) und Aaron : " Dies ist die Weise Adha ( Passah ) zu halten . 
+
+Baidoun Baidoun | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 35510 | align_1: 2-4 | align_2: 3-8 | entity: Baidoun - Baidoun |    A decision Baidoun says she ’ll regret for a long time . ||| Eine Entscheidung , die Baidoun getroffen hat , besagt , dass sie es für lange Zeit bereuen wird . 
+
+Peronist Peronist | w_freq: 3 - 1 | wiki_freq: 1138 - 18 | sentence_idx: 38404 | align_1: 2-2 | align_2: 3-6 | entity: Peronist - Peronist |    His namesake Peronist movement , to the present day a struggle of ideologically diverse and competing interests , remains the central political development of Argentina since 1945 . ||| Sein Namensvetter Peronist ( Peronism ) Bewegung , zu heutiger Tag Kampf ideologisch verschiedene und konkurrierende Interessen , bleibt politische Hauptentwicklung Argentinien seit 1945. 
+
+Daimler Daimler | w_freq: 75 - 64 | wiki_freq: 4540 - 3443 | sentence_idx: 44675 | align_1: 4-3 | align_2: 5-8 | entity: Daimler - Daimler |    This situation has moved Daimler to develop a new standard – MBN 10544 . ||| Diesen Fakt hat Daimler zum Gegenstand genommen , um eine neue Norm – MBN 10544 – zu entwickeln . 
+
+BELVUE BELVUE | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 46102 | align_1: 0-0 | align_2: 1-4 | entity: BELVUE - BELVUE |    BELVUE Slow Breakfast : you only pay for what you eat . ||| BELVUE “ SLOW ” Frühstück : Sie zahlen nur für das was SIE essen . 
+
+Telegram telegram | w_freq: 49 - 7 | wiki_freq: 3264 - 7 | sentence_idx: 53149 | align_1: 5-5 | align_2: 6-9 | entity: Telegram - telegram |    1 reason for me to Telegram was to build a means of communication that ca n’t be accessed by the Russian security agencies . ||| Ein grund für mich , telegram zu starten , war der aufbau eines kommunikationsmittels , auf das die russischen sicherheitsbehörden nicht zugreifen können . 
+
+prednisone Prednison | w_freq: 9 - 11 | wiki_freq: 406 - 113 | sentence_idx: 57996 | align_1: 4-3 | align_2: 5-8 | entity: none - Prednison |    Could it be the prednisone I 'm on for my stupid asthma , the same medication I 'm pretty sure is responsible for me catching yet another cold ? ||| Könnte es das Prednison sein , in dem ich für mein dummes Asthma bin , das gleiche Medikament , von dem ich ziemlich sicher bin , dass es für mich verantwortlich ist , dass ich noch einmal erkältet bin ? 
+
+Joacim Joacim | w_freq: 1 - 1 | wiki_freq: 177 - 76 | sentence_idx: 58719 | align_1: 5-8 | align_2: 6-12 | entity: Joacim - Joacim |    “ It all started with Joacim suggesting we should try to write a song together with our long time producer James Michael . ||| " Es fing alles damit an , dass Joacim ( v. ) vorschlug , wir sollten mal versuchen , einen Song mit unserem langjährigen Produzenten James Michael zusammen zu schreiben . 
+
+Hades Hades | w_freq: 10 - 12 | wiki_freq: 3363 - 992 | sentence_idx: 63369 | align_1: 8-7 | align_2: 9-11 | entity: Hades - Hades |    And its rider 's name was Death and Hades followed him . " ) . ||| " Sein Name war Tod und der Hades ( Vergessenheit ) folgte ihm . 
+
+EFF EFF | w_freq: 17 - 18 | wiki_freq: 1325 - 150 | sentence_idx: 69485 | align_1: 13-12 | align_2: 14-16 | entity: EFF - EFF |    Disastrous IP Legislation Is Back – And It 's Worse than Ever ( EFF ) ||| Katastrophales IP-Gesetz ist zurück – Und es ist schlimmer denn je ( EFF , auf Englisch ) 
+
+Beings Beings | w_freq: 75 - 3 | wiki_freq: 777 - 79 | sentence_idx: 74761 | align_1: 11-11 | align_2: 12-20 | entity: Politics of the Plate : Humane Beings - Politics of the Plate : Humane Beings |    In the first article , Politics of the Plate : Humane Beings ( May 18 , 2009 ) , we are told : ||| In dem ersten Artikel , Politics of the Plate : Humane Beings [ Politik des Tellers : Humane Wesen ] ( 18. Mai 2009 ) wird uns mitgeteilt : 
+
+ICEP ICEP | w_freq: 1 - 1 | wiki_freq: 10 - 16 | sentence_idx: 75557 | align_1: 2-2 | align_2: 3-7 | entity: ICEP - ICEP |    We created ICEP to do something useful and lasting for people in developing countries . ||| Wir haben ICEP ins Leben gerufen , um etwas Sinnvolles und Dauerhaftes für die Menschen in Entwicklungsländern zu leisten . 
+
+Highwood Highwood | w_freq: 2 - 2 | wiki_freq: 455 - 38 | sentence_idx: 80619 | align_1: 37-31 | align_2: 38-39 | entity: Highwood - Highwood |    I am hoping that in the new year we will be able to provide an email newsletter to keep you informed about the little miracles and stories of how God changes the lives of our guests through Highwood . ||| Ich hoffe , dass wir im neuen Jahr einen Rundbrief per Email anbieten können , um euch über die kleinen Wunder und Geschichten , wie Gott das Leben unserer Gäste auf Highwood verändert , auf dem Laufenden zu halten . 
+
+SCP-1437 SCP-1437 | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 86986 | align_1: 5-9 | align_2: 6-13 | entity: SCP-1437 - SCP-1437 |    Any trespassers attempting to access SCP-1437 are to be charged with the crime of industrial espionage . ||| Jegliche Eindringlinge , die versuchen , sich Zutritt zu SCP-1437 zu verschaffen , sind wegen dem Verbrechen der Industriespionage anzuklagen . 
+
+Israelite Mose | w_freq: 37 - 548 | wiki_freq: 3404 - 3240 | sentence_idx: 100691 | align_1: 5-5 | align_2: 6-12 | entity: Israelite - Mose |    Zipporah who was not an Israelite knew what Moses disobedience was . ||| gebrachte Israelit kein anderer als Mose gewesen sei , von dem man weiß , daß er eine 
+
+Requin Requin | w_freq: 1 - 1 | wiki_freq: 216 - 43 | sentence_idx: 112508 | align_1: 13-12 | align_2: 14-17 | entity: La Requin - La Requin |    Like many , me and my friends called the TN , ‘ La Requin . ’ ” ||| Wie viele nannten ich und meine Freunde den TN , " La Requin " ( Hai ) . 
+
+Huiyihuiying Huiyihuiying | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 119633 | align_1: 2-2 | align_2: 3-6 | entity: Huiyihuiying - Huiyihuiying |    I founded Huiyihuiying and wanted to explore further . ||| Ich gründete Huiyihuiying ( HY ) und wollte weiter zu erforschen . 
+
+GBP GBP | w_freq: 43 - 49 | wiki_freq: 845 - 479 | sentence_idx: 123831 | align_1: 40-37 | align_2: 41-42 | entity: GBP - GBP |    What ’s even better is that we will take their fear of losing their first investments with our ‘ First Trade Risk Free ’ promo , which allow them to have a return up to 50 USD / EUR / GBP . ||| Was noch besser ist , dass wir die Angst vor dem Verlust ihrer ersten Investitionen mit unseren ‘ First Handels Risk Free ’ promo , die sie an eine Rückkehr bis zu 50 USD / EUR / GBP haben , erlauben nehmen . 
+
+Goreans Online-Goreaner | w_freq: 8 - 1 | wiki_freq: 7 - 0 | sentence_idx: 131112 | align_1: 5-3 | align_2: 6-8 | entity: Goreans - none |    I have met many online Goreans unwilling to fully embrace this precept despite its importance to Gorean philosophy . ||| Ich habe viele Online-Goreaner getroffen , die nicht gewillt waren , diesen Grundsatz völlig zu akzeptieren , trotz seiner Wichtigkeit für die goreanische Philosophie . 
+
+Abolitionist Abolitionniste | w_freq: 4 - 1 | wiki_freq: 609 - 0 | sentence_idx: 134396 | align_1: 24-21 | align_2: 25-29 | entity: Initiative for the Resurgence of the Abolitionist Movement - Initiative pour la Résurgence du Mouvement Abolitionniste |    One of these human rights organizations we are in close contact with is the anti-slavery organization IRA ( Initiative for the Resurgence of the Abolitionist Movement ) . ||| Eine dieser Menschenrechtsorganisationen , mit denen wir eng zusammenarbeiten , ist die Anti-Sklaverei-Organisation IRA ( Initiative pour la Résurgence du Mouvement Abolitionniste , deutsch : Initiative zur Wiederbelebung der Abschaffungsbewegung ) . 
+
+Removal Removal | w_freq: 10 - 6 | wiki_freq: 4127 - 420 | sentence_idx: 137782 | align_1: 20-19 | align_2: 21-23 | entity: Removal - none |    The best acknowledgement of our effectiveness comes from the Japanese Fisheries Agency and the Institute for Cetacean Research ( or Removal as I like to call it ) . ||| Die treffendste Anerkennung unserer Wirksamkeit kommt von der Japanese Fisheries Agency und dem Institute for Cetacean Research ( oder Removal , Beseitigung , wie ich es gern nenne ) . 
+
+VIC-20 VIC-20 | w_freq: 6 - 8 | wiki_freq: 543 - 10 | sentence_idx: 139712 | align_1: 8-9 | align_2: 9-14 | entity: VIC-20 - VIC-20 |    When Jack asked me how to price the VIC-20 I said " $ 299.95 " - because that 's a friendly number and would sell a million units in the mass market . ||| Als Jack mich gefragt hat , wie teuer der VIC-20 werden soll , sagte ich : " 299,95 $ " - denn das ist eine freundliche Zahl und würde sich eine Million Einheiten im Massenmarkt verkaufen . 
+
+al-Baqarah al-Baqarah | w_freq: 3 - 3 | wiki_freq: 28 - 0 | sentence_idx: 141082 | align_1: 11-12 | align_2: 12-23 | entity: Soorat al-Baqarah - Sura al-Baqarah |    Indeed , Satan runs away from a house in which Soorat al-Baqarah is recited . » ||| “ Wahrlich , Satan flieht von dem Haus , in dem Sura al-Baqarah ( das 2. Kapitel des Qur ´ an ) rezitiert wird . ” 
+
+ImpOS ImpOS | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 143897 | align_1: 16-19 | align_2: 17-25 | entity: ImpOS - ImpOS |    Of course , I bought the scanner to use it under OS/2 , and especially with ImpOS . ||| Natürlich habe ich den Scanner vor allem gekauft , um ihn unter OS / 2 , und speziell mit ImpOS / 2 , zu verwenden . 
+
+Portugués Portuguéss | w_freq: 1 - 1 | wiki_freq: 283 - 0 | sentence_idx: 158298 | align_1: 13-11 | align_2: 14-16 | entity: Rio Portugués - Rio Portuguéss |    For security reasons , these families moved to the banks of the Rio Portugués , then called Baramaya . ||| Für Sicherheitsgründe bewegten sich diese Familien zu den Banken des Rio Portuguéss ( Rio Portugués ) , dann genannt Baramaya . 
+
+Donbass Donbass | w_freq: 73 - 74 | wiki_freq: 1581 - 731 | sentence_idx: 165725 | align_1: 9-6 | align_2: 10-11 | entity: Donbass - Donbass |    It is denied that there has been war in Donbass since the spring of 2014 , and asylum is refused . ||| Es wird geleugnet , dass in Donbass ( Stadt Donezk ) seit dem Frühjahr 2014 Krieg herrscht und Asyl wird verweigert . 
+
+Qawla Ungläubigen | w_freq: 1 - 111 | wiki_freq: 0 - 753 | sentence_idx: 171014 | align_1: 22-26 | align_2: 23-31 | entity: Qawla Al-Ĥaqqi - none |    19.34 : Such was Jesus , son ( ABNU , see above ) of Mary : a statement of the truth ( Qawla Al-Ĥaqqi ) concerning which they doubt . ||| 19:34 Solcher Art ( w. Dies ) ist Jesus , der Sohn der Maria um die Wahrheit zu sagen , über die sie ( d.h. die Ungläubigen ( unter den Christen ? ) ) ( immer noch ) im Zweifel sind . 
+
+Agartha Agartha | w_freq: 3 - 2 | wiki_freq: 76 - 39 | sentence_idx: 172973 | align_1: 5-5 | align_2: 6-9 | entity: Agartha - Agartha |    The Agarthans offered places in Agartha where , if necessary , we can arrange for special individual or group teachings . ||| Die Agarther boten Orte in Agartha an , an denen wir , falls nötig , spezielle Einzel- oder Gruppen-Unterrichte arrangieren können . 
+
+Al-Haq Al-Haq | w_freq: 2 - 2 | wiki_freq: 128 - 14 | sentence_idx: 174715 | align_1: 11-10 | align_2: 12-15 | entity: Al-Haq - Al-Haq |    The following statistics were provided by Birzeit , Adalah , and Al-Haq to illustrate the extent to which this policy is affecting the university and its faculty : ||| » Die folgenden Statistiken wurden von Birzeit , Adalah und Al-Haq zur Verfügung gestellt , um zu veranschaulichen , in welchem Ausmaß diese Politik die Universität und ihre Fakultät betrifft : 
+
+Sagar Sagar | w_freq: 11 - 11 | wiki_freq: 4944 - 292 | sentence_idx: 177238 | align_1: 6-9 | align_2: 7-13 | entity: Kirpal Sagar - Kirpal Sagar |    He expressed his esteem for Kirpal Sagar as a place where all religions are respected . ||| In seiner Rede brachte er seine Wertschätzung für Kirpal Sagar zum Ausdruck , da es ein Ort ist , an dem alle Religionen geachtet werden . 
+
+Saqar Saqar | w_freq: 6 - 7 | wiki_freq: 30 - 1 | sentence_idx: 199696 | align_1: 5-7 | align_2: 6-12 | entity: Saqar - Saqar |    So do you know what Saqar is ? ||| Und wie kannst du wissen , was Saqar ( das Höllenfeuer ) ist ? 
+
+Embodiment Wahre | w_freq: 1 - 158 | wiki_freq: 193 - 872 | sentence_idx: 201889 | align_1: 2-1 | align_2: 3-6 | entity: The Embodiment of Truth - none |    الْحَقُّ The Embodiment of Truth : The Truth , The True , The One who truly exists . ||| Das Wahre ( K ) an der Wahrheit ( S ) ist ihre Wahrhaftigkeit ( G ) und so eine Gültigkeit ( Gesetz ) . 
+
+ANP ANP | w_freq: 4 - 4 | wiki_freq: 899 - 176 | sentence_idx: 224215 | align_1: 19-21 | align_2: 20-25 | entity: ANP - ANP |    Studies under this program were done until May 1951 when NEPA was replaced by the Aircraft Nuclear Propulsion ( ANP ) program . ||| Die Studien im Rahmen dieses Projekts wurden bis zum Mai 1951 fortgesetzt , als das NEPA vom Aircraft Nuclear Propulsion ( ANP ) ( Flugzeug-Nuklearantrieb ) Programm abgelöst wurde . 
+
+Generali-Arena Generali-Arena | w_freq: 1 - 1 | wiki_freq: 0 - 4 | sentence_idx: 231688 | align_1: 14-13 | align_2: 15-17 | entity: Generali-Arena - Generali-Arena |    ABB has installed its new and innovative technologies throughout the stadium , making the Generali-Arena what it is today : the most modern and beautiful stadium in Austria . " ||| ABB hat im gesamten Stadion seine neuen innovativen Technologien installiert , damit die Generali-Arena das wird , was sie heute ist : das modernste und schönste Stadion in Österreich . “ 
+
+Bled Bled | w_freq: 7 - 7 | wiki_freq: 1071 - 863 | sentence_idx: 240170 | align_1: 13-11 | align_2: 14-15 | entity: Bled - Bled |    This is , I think , one of the best day trips from Bled you can do . ||| Dies ist , denke ich , einer der besten Tagesausflüge von Bled aus , die Sie machen können . 
+
+Aad Ad | w_freq: 15 - 53 | wiki_freq: 187 - 2159 | sentence_idx: 242639 | align_1: 18-15 | align_2: 19-25 | entity: Aad - Ad |    “ If I were to meet them , then I would kill them , as the people of Aad were killed . ”(4 ) . ||| Sollte ich sie jemals treffen , würde ich sie töten wie die Leute von ‘ Ad [ das antike Volk , das von Allah ausgelöscht wurde ] . “ 
+
+Aman Aman | w_freq: 6 - 5 | wiki_freq: 3937 - 635 | sentence_idx: 251849 | align_1: 16-13 | align_2: 17-18 | entity: Darul Aman - Darul Aman |    " And that I will be able to tell my son that his parents rebuilt Darul Aman because we were so full of hope for Afghanistan . " ||| Und dass ich meinem Sohn dann erklären kann , dass seine Eltern Darul Aman wieder aufgebaut haben , weil wir voller Hoffnung für Afghanistan waren . " 
+
+Sian Sian | w_freq: 5 - 5 | wiki_freq: 1487 - 167 | sentence_idx: 253703 | align_1: 12-14 | align_2: 13-19 | entity: Sian - Sian |    We were kind of into American history and culture anyway but then Sian was reading about this guy and we thought we 'd link it to that . " ||| Wir waren Art in die amerikanische Geschichte und Kultur irgendwie , aber dann dachte Sian ( Sian Evans ) war über diesen Kerl lesend , und wir , dass wir uns es dazu verbinden würden . " 
+
+ayatollahs Ayatollahs | w_freq: 9 - 10 | wiki_freq: 47 - 4 | sentence_idx: 259337 | align_1: 4-5 | align_2: 5-10 | entity: none - Ayatollahs |    What about the mad ayatollahs obtaining atomic bombs and annihilating us ? " ||| Was ist mit den verrückten Ayatollahs , die die Atombomben erhalten und uns vernichten wollen ? “ 
+
+Thunberg Thunberg | w_freq: 17 - 13 | wiki_freq: 1179 - 666 | sentence_idx: 264246 | align_1: 23-21 | align_2: 24-26 | entity: Greta Thunberg - Greta Thunberg |    " Away from camera flashes we need to make sure that the enthusiasm that this Parliament showed today in the presence of Greta Thunberg remains and is transformed into real action . ||| „ Abseits der Blitzlichter müssen wir dafür sorgen , dass der Enthusiasmus , den dieses Parlament heute in Anwesenheit von Greta Thunberg gezeigt hat , erhalten bleibt und in echte Taten umgesetzt wird . 
+
+Khloe khloe | w_freq: 11 - 3 | wiki_freq: 137 - 0 | sentence_idx: 265294 | align_1: 3-3 | align_2: 4-8 | entity: Khloe - khloe |    Those closest to Khloe fear that her desire for a family will make her ultimately stay with Tristan . ||| Diejenigen , die khloe am nächsten sind , befürchten , dass ihr wunsch nach einer familie sie letztendlich dazu bringen wird , bei tristan zu bleiben . 
+
+rustbelt Belt | w_freq: 1 - 25 | wiki_freq: 12 - 1797 | sentence_idx: 267351 | align_1: 19-23 | align_2: 20-28 | entity: none - Rust Belt |    Whatever the cause of job loss , in every election the parties promised to help workers in the so-called rustbelt of the upper Midwest , but nothing improved . ||| Was auch immer der Grund für Arbeitsplatzverlust ist : Bei jeder Wahl versprachen die Parteien Hilfe für die Arbeiter des sogenannten „ Rust Belt “ ( Rostgürtel ) des oberen Mittleren Westens , aber nichts verbesserte sich . 
+
+rustbelt Rust | w_freq: 1 - 11 | wiki_freq: 12 - 2115 | sentence_idx: 267351 | align_1: 19-22 | align_2: 20-28 | entity: none - Rust Belt |    Whatever the cause of job loss , in every election the parties promised to help workers in the so-called rustbelt of the upper Midwest , but nothing improved . ||| Was auch immer der Grund für Arbeitsplatzverlust ist : Bei jeder Wahl versprachen die Parteien Hilfe für die Arbeiter des sogenannten „ Rust Belt “ ( Rostgürtel ) des oberen Mittleren Westens , aber nichts verbesserte sich . 
+
+Easing Lockerung | w_freq: 5 - 36 | wiki_freq: 103 - 1192 | sentence_idx: 271373 | align_1: 6-6 | align_2: 7-10 | entity: Quantitative Easing - quantitative Lockerung |    It ’s not exactly “ Quantitative Easing I , II , and III , ” but it will have some of the same effects . ||| Es ist nicht gerade " quantitative Lockerung ( QE ) I , II und III " , aber es wird ähnliche Auswirkungen haben . 
+
+Novorossiya Noworossija | w_freq: 3 - 2 | wiki_freq: 336 - 8 | sentence_idx: 275748 | align_1: 7-7 | align_2: 8-14 | entity: Novorossiya - Noworossija |    “ Why are Donetsk and Luhansk ‘ Novorossiya , ’ but when a passenger jet crashes in its territory , it is instantly transformed into Ukraine ? ” ||| “ Warum sind Donezk und Luhansk ‘ Noworossija ’ ( ‘ Neurussland ’ ) , aber wenn ein Passagierflugzeug in seinem Hoheitsgebiet abstürzt , verwandelt es sich sofort wieder in die Ukraine ? ” 
+
+Alliandre Alliandre | w_freq: 2 - 2 | wiki_freq: 1 - 1 | sentence_idx: 304759 | align_1: 13-11 | align_2: 14-16 | entity: Alliandre - Alliandre |    “ Lord Perrin , your Lady wife and I were hunting with Queen Alliandre when we were attacked by Aiel . ||| » Lord Perrin , Eure Gemahlin und ich waren mit Königin Alliandre auf der Jagd , als wir von Aiel angegriffen wurden . 
+
+swears swt | w_freq: 21 - 7 | wiki_freq: 2327 - 37 | sentence_idx: 321216 | align_1: 1-1 | align_2: 2-6 | entity: none - Allah swt |    Allah swears by the pen and by what is written by the pen in another Sura . ||| Allah swt hat diesen Vertrag , in der Thora , im Evangelium und im Quran niedergeschrieben . 
+
+donepezil Donepezil | w_freq: 2 - 2 | wiki_freq: 74 - 35 | sentence_idx: 325048 | align_1: 8-12 | align_2: 9-19 | entity: none - Donepezil |    “ We observed that patients who continued taking donepezil were better able to remember , understand , communicate and perform daily tasks for at least a year longer than those who stopped taking the drugs . ” ||| " Wir haben festgestellt , dass Patienten , die sich weiter mit Donepezil befanden , sich in der Lage waren , sich zu erinnern , zu verstehen , zu kommunizieren und tägliche Aufgaben für mindestens ein Jahr länger zu leisten , als diejenigen , die die Drogen nicht mehr aufgaben . 
+
+EFSA EFSA | w_freq: 66 - 62 | wiki_freq: 513 - 334 | sentence_idx: 331996 | align_1: 15-19 | align_2: 16-23 | entity: EFSA - EFSA |    A cooperation project on ciguatoxin food poisoning involving 13 organisations from six Member States and EFSA is taking shape . ||| Ein Kooperationsprojekt zur Ciguatoxin-Lebensmittelvergiftung ( „ Ciguatera “ ) , an dem 13 Organisationen aus sechs Mitgliedstaaten und die EFSA beteiligt sind , nimmt Gestalt an . 
+
+UNEP UNEP | w_freq: 15 - 15 | wiki_freq: 1386 - 456 | sentence_idx: 333210 | align_1: 8-8 | align_2: 9-14 | entity: UNEP - UNEP |    According to the United Nations Environment Program ( UNEP ) , 127 State members have some kind of plastic bag legislation . ||| Nach Angaben des United Nations Environment Program ( UNEP = Umweltprogramm der Vereinten Nationen ) haben 127 Mitgliedsstaaten irgendeine Form von Plastiktütengesetz . 
+
+Peoples'.(3 Peoples | w_freq: 1 - 6 | wiki_freq: 0 - 721 | sentence_idx: 334769 | align_1: 31-34 | align_2: 32-44 | entity: The Rights of Indigenous Peoples'.(3 - The Rights of Indigenous Peoples |    Since they do not specify anything in particular , I am choosing to look at the UN Fact Sheet No . 9 ( Rev. 1 ) , The Rights of Indigenous Peoples'.(3 ) ||| Da sie nichts weiter gesondert spezifizieren , entscheide ich mich einen Blick auf „ UN Fact Sheet No . 9 ( Rev.1 ) [ UN Faktenblatt Nr. 9 ] , The Rights of Indigenous Peoples “ [ Die Rechte einheimischer Völker ] zu werfen.(3 ) 
+
+Korah Korah | w_freq: 19 - 21 | wiki_freq: 379 - 13 | sentence_idx: 336610 | align_1: 0-1 | align_2: 1-5 | entity: Korah - Korah |    Korah was a man from the people of Moses . ||| " Korah ( Qaaruun ) gehörte zum Volk Moses . 
+
+ayatollahs Ayatollahs | w_freq: 9 - 10 | wiki_freq: 47 - 4 | sentence_idx: 346304 | align_1: 4-5 | align_2: 5-10 | entity: none - Ayatollahs |    What about the mad ayatollahs obtaining atomic bombs and annihilating us ? " ||| Was ist mit den verrückten Ayatollahs , die die Atombomben erhalten und uns vernichten wollen ? " 
+
+NFPA NFPA | w_freq: 2 - 2 | wiki_freq: 619 - 37 | sentence_idx: 346488 | align_1: 12-14 | align_2: 13-19 | entity: NFPA 1901 - NFPA |    As a result of this experience we also offer the assurance of NFPA 1901 compliance when and where this additional level of performance is required . ||| Als Ergebnis dieser Erfahrung bieten wir Ihnen auch die Zusicherung für die Einhaltung des NFPA ( Amerikanischer Brandschutzverband ) 1901 , wann und wo immer ein solches zusätzliches Leistungsniveau erforderlich ist . 
+
+TRUMAN Truman | w_freq: 1 - 39 | wiki_freq: 58 - 2382 | sentence_idx: 350967 | align_1: 1-1 | align_2: 2-6 | entity: HARRY TRUMAN - Harry Truman |    HARRY TRUMAN : Having found the atomic bomb , we have used it . ||| Harry Truman ( über die Atombombe ): Da wir eine Atombombe haben , haben wir sie benutzt . 
+
+Mattis Mattis | w_freq: 13 - 12 | wiki_freq: 929 - 259 | sentence_idx: 351884 | align_1: 5-5 | align_2: 6-9 | entity: [ James ] Mattis - Mattis |    “ General [ James ] Mattis described it very well : it would be a horrific war , unfortunately ” . ||| “ General [ James ] Mattis ( Verteidigungsminister ) beschrieb es sehr gut : Es wäre ein schrecklicher Krieg , leider ” . 
+
+Poroshenko Poroschenko | w_freq: 40 - 32 | wiki_freq: 1578 - 463 | sentence_idx: 354826 | align_1: 21-22 | align_2: 22-27 | entity: Poroshenko - Poroschenko |    As to “ democratic values ” , well , it will be amusing to watch NATO ’s reactions to Ukraine President Poroshenko trying to avoid the election . ||| Was die „ demokratischen Werte “ betrifft , so wird es amüsant sein , die Reaktionen der NATO auf den ukrainischen Präsidenten Poroschenko zu beobachten , der versucht , die Wahlen zu vermeiden . 
+
+Poroshenko Poroschenko | w_freq: 40 - 32 | wiki_freq: 1578 - 463 | sentence_idx: 354827 | align_1: 21-22 | align_2: 22-27 | entity: Poroshenko - Poroschenko |    As to “ democratic values ” , well , it will be amusing to watch NATO ’s reactions to Ukraine President Poroshenko trying to avoid the election . ||| Was die " demokratischen Werte " betrifft , so wird es amüsant sein , die Reaktionen der NATO auf den ukrainischen Präsidenten Poroschenko zu beobachten , der versucht , die Wahlen zu vermeiden . 
+
+Domplatz Domplatz | w_freq: 1 - 1 | wiki_freq: 60 - 1068 | sentence_idx: 355679 | align_1: 13-18 | align_2: 14-23 | entity: Domplatz - none |    You and your escort lady should definitely climb the 70 steps from the Domplatz to see the ensemble from near . ||| Sie und Ihre Escort Dame sollten es sich auf keinen Fall nehmen lassen , die 70 Stufen vom Domplatz aus zu erklimmen , um das Ensemble aus der Nähe betrachten zu können . 
+
+Yasua Yasua | w_freq: 2 - 2 | wiki_freq: 2 - 0 | sentence_idx: 362207 | align_1: 20-16 | align_2: 21-20 | entity: Yasua - Yasua |    “ The children , all under 15 , four of them , they said , ‘ No , we love Yasua . ||| « Die vier Kinder – alle unter 15 Jahren – sagten ' Nein , wir lieben Yasua ( Jesus ) ! 
+
+mañana mañana | w_freq: 1 - 1 | wiki_freq: 188 - 53 | sentence_idx: 372566 | align_1: 17-19 | align_2: 18-26 | entity: none - mañana |    It seemed that the favorite word of the Spanish officials he had to deal with was “ mañana , ” and Orwell made it a running joke throughout the book . ||| Es schien , als sei das Lieblingswort der spanischen Offiziellen , mit denen er zu tun hatte , „ mañana “ [ „ morgen “ ] , und Orwell machte daraus das ganze Buch hindurch einen Dauerscherz . 
+
+EU-committee EU-Gremium | w_freq: 1 - 1 | wiki_freq: 2 - 1 | sentence_idx: 383509 | align_1: 4-5 | align_2: 5-9 | entity: EU-committee - none |    Young politicians in the EU-committee can be of considerable importance , since the average age of the EU-commission is 53,4 years . ||| Junge Politiker , die im EU-Gremium vertreten sind , können von grosser Bedeutung sein , denn das Durchschnittsalter in der EU-Kommission liegt bei 53,4 Jahren . 
+
+Chaldeans Chaldeans | w_freq: 4 - 1 | wiki_freq: 745 - 1 | sentence_idx: 386976 | align_1: 9-15 | align_2: 10-20 | entity: Chaldeans - none |    Since the Iraq War many Christians ( Assyrians and Chaldeans ) from Iraq have settled permanently or temporarily in Jordan . ||| Krieg von Since the Iraq ( Krieg von Irak ) viele Christen ( Assyrians / Chaldeans ( Assyrische Leute ) ) vom Irak ( Der Irak ) hat sich dauerhaft oder provisorisch im Jordan niedergelassen . 
+
+OnTheWaterfront OnTheWaterfront | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 389532 | align_1: 7-9 | align_2: 8-14 | entity: OnTheWaterfront - OnTheWaterfront |    Our last Flickr Friday theme was # OnTheWaterfront , and these are some of your submissions . ||| Unser Flickr Friday Thema der letzten Woche war # OnTheWaterfront ( Am Wasser ) , und dies sind einige eurer Beiträge . 
+
+LORD bitte | w_freq: 217 - 1135 | wiki_freq: 627 - 1693 | sentence_idx: 393091 | align_1: 3-2 | align_2: 4-8 | entity: LORD God - none |    9“Now , O LORD God , Your promise to my father David is fulfilled , for You have made me king over a people as numerous as the dust of the earth . ||| 9 Ich bitte dich , mein Herr und Gott : Halte doch das Versprechen , das du meinem Vater David gegeben hast , denn du hast mich zum König über ein Volk gemacht , das so zahlreich ist wie die Staubkörner der Erde ! 
+
+Dianna Dianna | w_freq: 4 - 4 | wiki_freq: 606 - 48 | sentence_idx: 396857 | align_1: 3-2 | align_2: 4-6 | entity: Dianna - Dianna |    I would cast Dianna as Cinderella , because Dianna ’s beautiful . ||| Ich würde Dianna [ Agron ] als Cinderella casten , weil Dianna schön ist . 
+
+Spider-man Spider-Man | w_freq: 3 - 33 | wiki_freq: 89 - 1165 | sentence_idx: 398383 | align_1: 1-1 | align_2: 2-5 | entity: Spider-man - Superior Spider-Man |    Superior Spider-man after successfully complete all 12 combat challenges . ||| Superior Spider-Man - Erhält man wenn man alle 12 Kampf-Herausforderungen abgeschlossen hat . 
+
+Bushnell Bushnell | w_freq: 2 - 1 | wiki_freq: 2586 - 295 | sentence_idx: 406489 | align_1: 7-7 | align_2: 8-11 | entity: Richard Bushnell - Richard Bushnell |    " Bowling for Truth " by Richard Bushnell , criticism of several key scenes and arguments of the film ||| " Bowling for Truth " von Richard Bushnell ( en ) , Kritik an mehreren Schlüsselszenen und Argumenten des Films 
+
+Maryam Maryam | w_freq: 25 - 16 | wiki_freq: 2582 - 575 | sentence_idx: 410948 | align_1: 15-18 | align_2: 16-23 | entity: Maryam - Isa ibn Maryam |    “ Do not lavish praise on me as the Christians did with the son of Maryam . ||| Widersetzt euch mir nicht , wie sich die Jünger Jesus , dem Sohn der Maria ( Isa ibn Maryam ) , widersetzt haben . ” 
+
+SOMETIME Sometime | w_freq: 1 - 3 | wiki_freq: 0 - 44 | sentence_idx: 411775 | align_1: 5-4 | align_2: 6-8 | entity: none - Everybody's Got To Learn Sometime |    EVERYBODY 'S GOT TO LEARN SOMETIME by The Korgis ||| Everybody's Got To Learn Sometime , bekannt geworden durch The Korgis 
+
+Chagai-II Chagai-II | w_freq: 1 - 1 | wiki_freq: 62 - 3 | sentence_idx: 431288 | align_1: 6-5 | align_2: 7-10 | entity: Chagai-II - Chagai-II |    The second nuclear test — Codename Chagai-II — was conducted and supervised by the Pakistan Atomic Energy Commission ( PAEC ) in May 30 , 1998 . ||| Der zweite Kerntest - Codename Chagai-II ( Chagai-I ich ) - wurde geführt und von der Atomenergie-Kommission von Pakistan ( Atomenergie-Kommission von Pakistan ) ( PAEC ) im Mai 30 , 1998 beaufsichtigt . 
+
+Commandments Gebote | w_freq: 68 - 152 | wiki_freq: 3094 - 2751 | sentence_idx: 432173 | align_1: 5-4 | align_2: 6-9 | entity: Ten Commandments - none |    You must follow the Ten Commandments exactly as they were given by My Father , otherwise , you can not say you are of Me . ||| Ihr müsst die Zehn Gebote befolgen , und zwar genau so , wie sie von Meinem Vater gegeben wurden , sonst könnt ihr nicht sagen , dass ihr zu Mir gehört . 
+
+DAESH DAESH | w_freq: 3 - 2 | wiki_freq: 10 - 1 | sentence_idx: 442170 | align_1: 12-13 | align_2: 13-18 | entity: DAESH - DAESH |    We strongly condemn treating a terrorist organization as a partner in fighting DAESH . ||| Dabei verurteilen wir die Behandlung einer Terrororganisation als einen Partner im Kampf gegen DAESH , auf das Schärfste . 
+
+CCUs CCUs | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 450036 | align_1: 17-17 | align_2: 18-24 | entity: none - CCUs |    “ Will the Hulls ( or at least the Hull A ) be flying in AC before CCUs or whatever they ’re turning into in the future goes away forever ? ” – Valensiakol ||| “ Werden die Hulls ( oder zumindest die Hull A ) im AC fliegen , bevor die CCUs ( cross Chassis Upgrades ) , oder in was sie sich in Zukunft verwandeln werden , für immer verschwinden ? ” – Valensiakol 
+
+As'ad Dibenz | w_freq: 2 - 1 | wiki_freq: 305 - 6 | sentence_idx: 453030 | align_1: 1-2 | align_2: 2-8 | entity: As'ad al-Azzouni - none |    by As'ad al-Azzouni ||| Synthese eines Dibenz [ e , h ] azulens 
+
+heralds Pharao | w_freq: 7 - 332 | wiki_freq: 1009 - 2745 | sentence_idx: 454580 | align_1: 4-3 | align_2: 5-14 | entity: none - Pharao |    26:53 Then Pharaoh sent heralds to ( all ) the Cities , ||| 26:53 Da sandte Pharao ( Boten ) aus , die ( die Leute ) in den Städten versammelten ( und ihnen zuriefen ) 
+
+GOD Ochse | w_freq: 74 - 7 | wiki_freq: 576 - 537 | sentence_idx: 462881 | align_1: 14-8 | align_2: 15-12 | entity: none - Ochse |    Thus in effect , Aaron was the mouth of Moses , and Moses was GOD to Aaron . ||| Moses ist Levi , und Moses ist der Ochse , der sich mit ihnen verbunden hatte . 
+
+Chulin Chulin | w_freq: 2 - 2 | wiki_freq: 52 - 3 | sentence_idx: 463183 | align_1: 4-4 | align_2: 5-8 | entity: Chulin 4a - Chulin |    For example , in Chulin 4a , he comments about a phrase , " We do not read this . ||| Zum Beispiel , in Chulin ( Kodashim ) 4a , kommentiert er über einen Ausdruck , " Wir lesen das nicht . 
+
+PS5 PS5 | w_freq: 8 - 6 | wiki_freq: 148 - 20 | sentence_idx: 466815 | align_1: 19-19 | align_2: 20-24 | entity: PS5 - PS5 |    The PS4 was revealed during a special event in February 2013 , and a similar approach to announce the PS5 would make sense . ||| Die PS4 wurde enthüllt während einer besonderen Veranstaltung im Februar 2013 , und eine ähnliche Vorgehensweise , um die PS5 bekannt zu geben , würde Sinn machen . 
+
+eTA eTA | w_freq: 11 - 10 | wiki_freq: 48 - 7 | sentence_idx: 470500 | align_1: 31-28 | align_2: 32-33 | entity: eTA - eTA |    Secondly , you can not leave the country if you were diagnosed with tuberculosis and finally , it 's your obligation to be aware of what the Australian tourist visa or eTA permits you to do in Australia . ||| Zweitens können Sie das Land nicht verlassen , wenn Sie mit Tuberkulose diagnostiziert wurden und schließlich ist es Ihre Verantwortung zu wissen , was das Touristenvisum Australien oder eTA ( ESTA ) Ihnen erlaubt , in Australien zu tun . 
+
+402 402 | w_freq: 10 - 8 | wiki_freq: 3530 - 1784 | sentence_idx: 474497 | align_1: 12-12 | align_2: 13-17 | entity: Dayton Audio MK 402 - 402 |    Having introduced you to its smaller brethren , the Dayton Audio MK 402 , it is only fair to include the MK 442 in the list . ||| Nachdem Sie Sie mit den kleineren Brüdern , dem Dayton Audio MK 402 , vertraut gemacht haben , ist es nur fair , den MK 442 in die Liste aufzunehmen . 
+
+TGA TGA | w_freq: 3 - 3 | wiki_freq: 593 - 155 | sentence_idx: 475223 | align_1: 9-7 | align_2: 10-13 | entity: TGA - TGA |    We were looking for a realistic presentation ( for TGA ) , so we had to make changes to the tools and other adjustments to the engine . ||| Wir strebten eine realistische Präsentation ( für TGA [ The Game Awards ] ) an , also mussten wir einige Änderungen an den Tools und Anpassungen an der Engine vornehmen . 
+
+d’Or d'Or | w_freq: 6 - 4 | wiki_freq: 405 - 491 | sentence_idx: 476809 | align_1: 6-6 | align_2: 7-13 | entity: Ballon d’Or - Ballon d'Or |    We are talking about the Ballon d’Or as if we were talking about politics . ||| Sprechen wir heute über den Ballon d'Or , dann ist es so , als würden wir über Politik sprechen . 
+
+PSL PSL | w_freq: 6 - 6 | wiki_freq: 2656 - 550 | sentence_idx: 477094 | align_1: 6-7 | align_2: 7-11 | entity: PSL - none |    So my advice : Choose the PSL you like best ( whether it ’s from DD or Mickey D ’s ) and enjoy it as an occasional treat . ||| Also mein Rat : Wählen Sie die PSL , die Sie am besten gefällt ( ob it's aus DD oder Mickey D's ) und genießen Sie es als eine gelegentliche behandeln . 
+
+B5 LG | w_freq: 18 - 45 | wiki_freq: 1183 - 2764 | sentence_idx: 482211 | align_1: 0-0 | align_2: 1-7 | entity: none - LG München I |    B5 - 0723 , 0729 and 0730/2001 ||| LG München I , Entscheidung vom 20.10.2009 - 27 O 7314 / 09 - 
+
+Euro-state Euro-Staat | w_freq: 1 - 1 | wiki_freq: 0 - 2 | sentence_idx: 486303 | align_1: 5-4 | align_2: 6-9 | entity: Euro-state - none |    Your obsession with creating this Euro-state means that you ’re happy to destroy democracy . ||| Ihre Besessenheit , diesen Euro-Staat schaffen zu wollen , bedeutet , dass Sie glücklich darüber sind , Demokratie zu zerstören . 
+
+Amu Amu | w_freq: 2 - 2 | wiki_freq: 1184 - 164 | sentence_idx: 487377 | align_1: 4-4 | align_2: 5-8 | entity: Amu - none |    There are only five Amu then circling round ? ||| Es gibt nur fünf Amu , die sich dann umkreisen ? 
+
+Colosseum Kolosseum | w_freq: 24 - 23 | wiki_freq: 2094 - 424 | sentence_idx: 493709 | align_1: 6-5 | align_2: 7-10 | entity: Colosseum - Kolosseum |    You have n't truly seen the Colosseum unless you 've explored the tunnels beneath the amphitheatre . ||| Sie haben nicht wirklich das Kolosseum gesehen , es sei denn , Sie die Tunnel unterhalb des Amphitheaters erkundet haben . 
+
+Baal Ba | w_freq: 42 - 14 | wiki_freq: 2281 - 1711 | sentence_idx: 494635 | align_1: 6-3 | align_2: 7-11 | entity: Baal - Ba |    037.125 " Will ye call upon Baal and forsake the Best of Creators,- ||| 37:125 Wollt ihr Ba ’ l ( euren Götzen ) anrufen und den besten Schöpfer verlassen , 
+
+donepezil Donepezil | w_freq: 2 - 2 | wiki_freq: 74 - 35 | sentence_idx: 495005 | align_1: 8-12 | align_2: 9-19 | entity: none - Donepezil |    ' We observed that patients who continued taking donepezil were better able to remember , understand , communicate and perform daily tasks for at least a year longer than those who stopped taking the drugs . ||| " Wir haben festgestellt , dass Patienten , die sich weiter mit Donepezil befanden , sich in der Lage waren , sich zu erinnern , zu verstehen , zu kommunizieren und tägliche Aufgaben für mindestens ein Jahr länger zu leisten , als diejenigen , die die Drogen nicht mehr aufgaben . 
+
+Peleg Peleg | w_freq: 4 - 4 | wiki_freq: 472 - 99 | sentence_idx: 498085 | align_1: 8-3 | align_2: 9-9 | entity: Peleg - Peleg |    The name of ha'echad , the one was Peleg , for in his days the earth was divided . ||| Der erste hieß Peleg - » Teilung « - , denn zu seinen Lebzeiten wurde das Land geteilt . 
+
+Al-Jawad Al-Jawad | w_freq: 1 - 1 | wiki_freq: 23 - 1 | sentence_idx: 511444 | align_1: 1-1 | align_2: 2-5 | entity: Imam Al-Jawad - Imam Al-Jawad |    Imam Al-Jawad is the Representative of Allah ||| Imam Al-Jawad ( as ) ist der Repräsentant von Allah 
+
+Myrtha Myrtha | w_freq: 1 - 1 | wiki_freq: 61 - 27 | sentence_idx: 512558 | align_1: 9-10 | align_2: 10-16 | entity: Myrtha - Myrtha |    But you are already a woman ... " says Myrtha approaching her and taking her by the hand . ||| Aber du bist ja schon eine Frau ... » sagt Myrtha , indem sie sich ihr nähert und sie bei der Hand nimmt . 
+
+Mom Mom | w_freq: 185 - 61 | wiki_freq: 4921 - 579 | sentence_idx: 531129 | align_1: 6-7 | align_2: 7-16 | entity: Dear Future Mom - Dear Future Mom |    It ’s titled “ Dear Future Mom . ” ||| Es trägt den Titel „ Dear Future Mom “ ( „ Liebe zukünftige Mama “ ) . 
+
+Cantons Cantons | w_freq: 7 - 1 | wiki_freq: 1006 - 71 | sentence_idx: 536705 | align_1: 8-7 | align_2: 9-17 | entity: Rojava Cantons - Constitution of the Rojava Cantons |    Article 41 of the Constitution of the Rojava Cantons clearly upholds property rights : ||| Artikel 41 der Constitution of the Rojava Cantons [ Verfassung der Kantone von Rojava ] bestätigt Eigentumsrechte eindeutig : 
+
+Summits Summits | w_freq: 12 - 8 | wiki_freq: 1354 - 305 | sentence_idx: 538650 | align_1: 5-5 | align_2: 6-13 | entity: Volcanic Seven Summits - Seven Summits |    When climbing the Volcanic Seven Summits is concerned it is not difficult to find where to go ! ||| Beim Erklimmen der Vulkan Seven Summits [ Finden Sie die besten Link ] geht , ist nicht schwer zu finden , wohin sie gehen ! 
+
+Tough liebe | w_freq: 25 - 2148 | wiki_freq: 3984 - 3557 | sentence_idx: 547857 | align_1: 5-2 | align_2: 6-7 | entity: Love Must Be Tough - none |    The book Love Must Be Tough may be a good one for you to read . ||| Das buch liebe muss hart sein , kann eine gute für sie sein , um zu lesen . 
+
+d’Azur Azur | w_freq: 12 - 12 | wiki_freq: 129 - 3233 | sentence_idx: 551258 | align_1: 5-5 | align_2: 6-10 | entity: Côte d’Azur - Côte d’ Azur |    Learning French on the Côte d’Azur means choosing to take time for life ||| Französisch an der Côte d’ Azur zu lernen , das bedeutet , sich Zeit zum Leben zu nehmen 
+
+Helpline Helpline | w_freq: 3 - 6 | wiki_freq: 476 - 19 | sentence_idx: 554148 | align_1: 12-12 | align_2: 13-17 | entity: Homeopathic Helpline - Homeopathic Helpline |    I wanted to know what it was like working on the Homeopathic Helpline , which is such a valuable service . ||| Ich wollte wissen , was es bedeutete , für die ‘ Homeopathic Helpline ’ , zu arbeiten , die ein so wertvoller Service ist . 
+
+Sana'a Sana'a | w_freq: 1 - 4 | wiki_freq: 1764 - 49 | sentence_idx: 576915 | align_1: 13-14 | align_2: 14-21 | entity: Sana'a - Sana'a |    The legal system includes separate commercial courts and a Supreme Court based in Sana'a . ||| Das Rechtssystem schließt getrennte kommerzielle Gerichte und ein Oberstes Gericht ein , das in Sana'a ( San'a ' ) basiert ist . 
+
+Farming Farming | w_freq: 20 - 11 | wiki_freq: 3764 - 221 | sentence_idx: 585939 | align_1: 15-14 | align_2: 16-19 | entity: The Natural Way Of Farming - The Natural Way Of Farming |    Here is a PDF-file of a book by Masanobu Fukuoka , The Natural Way Of Farming , if you want to go deeper into the matter . ) ||| Hier ist eine PDF-Datei eines Buches von Masanobu Fukuoka , The Natural Way Of Farming ( in Englisch ) , falls Sie tiefer in die Sache einsteigen möchten . ) 
+
+Brahm Vak | w_freq: 1 - 1 | wiki_freq: 572 - 19 | sentence_idx: 589677 | align_1: 1-1 | align_2: 2-6 | entity: Brahm - Vak |    And Brahm was to them the Supreme Being . ||| Und Vak ( das Wort ) war wahrhaftig der höchste Brahma 
+
+Ishmael Ismael | w_freq: 7 - 8 | wiki_freq: 3118 - 1010 | sentence_idx: 591445 | align_1: 5-3 | align_2: 6-11 | entity: Ishmael - Ismael |    “ You will name him Ishmael , for the Lord has heard of your misery . ” ||| Den solle sie Ismael ( " Gott hört " ) nennen , " denn der HERR hat auf dein Elend gehört . " 
+
+Bhakti Bhakti | w_freq: 5 - 6 | wiki_freq: 2081 - 204 | sentence_idx: 596470 | align_1: 8-9 | align_2: 9-13 | entity: Bhakti - Bhakti |    As with most things on the path of Bhakti , there are no prescribed rules as to how one should perform rituals , as each person has a unique and different relationship to God . ||| Wie bei den meisten Dingen auf dem Weg des Bhakti , der Hingabe , gibt keine vorgeschriebenen Regeln , wie man Rituale durchführen sollte , da jeder Mensch eine einzigartige und unterschiedliche Beziehung zu Gott hat . 
+
+Prompt prompten | w_freq: 6 - 1 | wiki_freq: 412 - 41 | sentence_idx: 608072 | align_1: 9-8 | align_2: 10-13 | entity: Prompt Global Strike - none |    We are closely following the development of the so-called Prompt Global Strike system , which is being actively developed by some countries . ||| Wir verfolgen die Entwicklung des Systems des sogenannten prompten weltweiten Schlages ( Prompt Global Strike System ) sehr genau , das von einigen Ländern aktiv ausgearbeitet wird . 
+
+ayatollahs Ayatollahs | w_freq: 9 - 10 | wiki_freq: 47 - 4 | sentence_idx: 622904 | align_1: 4-5 | align_2: 5-10 | entity: none - Ayatollahs |    What about the mad ayatollahs obtaining atomic bombs and annihilating us ? ” ||| Was ist mit den verrückten Ayatollahs , die die Atombomben erhalten und uns vernichten wollen ? “ 
+
+Salat as-salat | w_freq: 4 - 1 | wiki_freq: 337 - 0 | sentence_idx: 633015 | align_1: 5-4 | align_2: 6-11 | entity: none - as-salat |    Al-Janazah prayer is part of Salat ( prayer ): one of the Five Pillars of Islam . ||| das rituelle Gebet [ as-salat ( ar . ) oder namaz ( pers. ) ] ist einer der Fünf Säulen des Islams . 
+
+Trafficking Trafficking | w_freq: 25 - 5 | wiki_freq: 3274 - 70 | sentence_idx: 660117 | align_1: 13-12 | align_2: 14-18 | entity: End Child Prostitution and Trafficking - End Child Prostitution and Trafficking |    We are an active participant of the ECPAT ( End Child Prostitution and Trafficking ) initiative , for which we regularly provide logistics support . ||| Wir beteiligen uns aktiv an der ECPAT [ End Child Prostitution and Trafficking ( Beendigung von Kinderprostitution und Menschenhandel)]-Initiative , bezüglich derer wir regelmäßig logistische Unterstützung erbringen . 
+
+Supper Abendessens | w_freq: 14 - 6 | wiki_freq: 4566 - 163 | sentence_idx: 661978 | align_1: 16-10 | align_2: 17-18 | entity: Lord 's Supper - none |    On the other hand , he denied having defended Wycliffe 's doctrine of the Lord 's Supper , or the forty-five articles ; he had only opposed their summary condemnation . ||| Andererseits , er bestritt , die Doktrin von Wycliffe des Abendessens des Herrn ( Das Abendessen des Herrn ) oder die fünfundvierzig Artikel verteidigt ; er hatte nur ihrer zusammenfassenden Verurteilung entgegengesetzt . 
+
+Valposchiavo Valposchiavo | w_freq: 1 - 1 | wiki_freq: 8 - 8 | sentence_idx: 666226 | align_1: 23-21 | align_2: 24-25 | entity: Valposchiavo - Valposchiavo |    One of the most beautiful places in Europe ( yes , that is right ) is a place that hardly anyone knows : Valposchiavo . ||| Einer der schönsten Orte in Europa ( ja , das stimmt ) ist ein Ort , den kaum jemand kennt : Valposchiavo ( Puschlav ) . 
+
+Democracies Democracies | w_freq: 10 - 3 | wiki_freq: 478 - 43 | sentence_idx: 668796 | align_1: 14-14 | align_2: 15-22 | entity: Foundation for the Defense of Democracies - Foundation for the Defense of Democracies |    To say that Clifford May , founder of the Foundation for the Defense of Democracies , loves war would be an understatement . ||| Zu sagen , dass Clifford May , Gründer der Foundation for the Defense of Democracies ( Stiftung zur Verteidigung der Demokratien ) , den Krieg liebt , wäre eine Untertreibung . 
+
+PACT-ACT PACT-ACT | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 687011 | align_1: 11-10 | align_2: 12-16 | entity: PACT-ACT - PACT-ACT |    If you would like to order some extra snus before the PACT-ACT it could be a good idea to freeze it . ||| Wenn Sie etwas zusätzlichen Snus bestellen möchten , bevor der PACT-ACT in Kraft tritt , könnte es eine gute Idee sein , ihn einzufrieren . 
+
+Firon Fir | w_freq: 12 - 20 | wiki_freq: 15 - 125 | sentence_idx: 697164 | align_1: 9-8 | align_2: 10-14 | entity: Firon - none |    And certainly We tried before them the people of Firon , and there ||| Und Wir setzten bereits vor ihnen das Volk Fir ’ auns der Versuchung aus . 
+
+Boe Boe | w_freq: 2 - 2 | wiki_freq: 903 - 246 | sentence_idx: 704580 | align_1: 5-3 | align_2: 6-11 | entity: Boe - Boe |    It ’s only present on Boe where he actually needs it ( to Javert : If I had to kill you know I ’d do what must be done ) . ||| Die ist bei Boe nur an den Stellen vorhanden , an denen er sie tatsächlich benötigt ( zu Javert : If I had to kill you know I ’ d do what must be done ) . 
+
+panslavic panslavic | w_freq: 1 - 1 | wiki_freq: 7 - 0 | sentence_idx: 712205 | align_1: 8-7 | align_2: 9-11 | entity: panslavic - none |    In this period he began to develop his panslavic views . ||| In dieser Periode begann er , seinen panslavic ( Panslavism ) Ansichten zu entwickeln . 
+
+Slovakian Slowakisch | w_freq: 17 - 3 | wiki_freq: 1471 - 383 | sentence_idx: 712698 | align_1: 10-10 | align_2: 11-15 | entity: Slovakian - none |    Its key instruments were and are : ASPEKT ( in Slovakian ) and pink and blue world.sk ||| Ihre wichtigsten Instrumente waren und sind : ASPEKT ( in Slowakisch , vereinzelt in Englisch ) and pink and blue world.sk ( in Englisch ) 
+
+Trefeglwys Neundorf | w_freq: 1 - 1 | wiki_freq: 30 - 579 | sentence_idx: 713578 | align_1: 3-3 | align_2: 4-8 | entity: Trefeglwys - Neundorf |    11 am in Trefeglwys : The sky is likely to stay clear . ||| 11 Uhr in Neundorf ( bei schleiz ) : Der Himmel ist bedeckt . 
+
+ayatollahs Ayatollahs | w_freq: 9 - 10 | wiki_freq: 47 - 4 | sentence_idx: 717852 | align_1: 4-5 | align_2: 5-10 | entity: none - Ayatollahs |    What about the mad ayatollahs obtaining atomic bombs and annihilating us ? ” ||| Was ist mit den verrückten Ayatollahs , die die Atombomben erhalten und uns vernichten wollen ? " 
+
+Parnassus Parnassus | w_freq: 1 - 2 | wiki_freq: 1111 - 166 | sentence_idx: 722709 | align_1: 6-5 | align_2: 7-10 | entity: The Parnassus - Parnassus |    Among prints of the paintings The Parnassus ( with considerable differences ) and Galatea were also especially well-known . ||| Unter Drucken der Bilder Der Parnassus ( Der Parnassus ) ( mit beträchtlichen Unterschieden ) und Galatea waren auch besonders wohl bekannt . 
+
+ESF ESF | w_freq: 36 - 23 | wiki_freq: 696 - 246 | sentence_idx: 730012 | align_1: 12-14 | align_2: 13-19 | entity: ESF - ESF |    It also serves as a forum for discussing issues relevant to the ESF between stakeholders in the different countries . ||| Er dient auch als Forum für die Erörterung von Fragen , die für den ESF von Bedeutung sind , zwischen den Akteuren in den verschiedenen Ländern . 
+
+Belzec Belzec | w_freq: 4 - 4 | wiki_freq: 381 - 375 | sentence_idx: 730355 | align_1: 18-17 | align_2: 19-25 | entity: Belzec - Belzec |    This fact is amply sufficient to shatter the official version according to which less than ten Jews survived Belzec . ||| Diese Tatsache reicht bereits völlig aus , um der offiziellen Version , wonach weniger als zehn Juden Belzec überlebt haben , den Todesstoss zu versetzen . 
+
+Crowell Crowell | w_freq: 2 - 2 | wiki_freq: 2258 - 169 | sentence_idx: 730783 | align_1: 2-2 | align_2: 3-6 | entity: Crowell - Crowell |    I informed Crowell I was ready to send him copies of those photos . ||| Ich teilte Crowell mit , daß ich bereit sei , ihm Kopien dieser Fotos zuzusenden . 
+
+Bibi Bibi | w_freq: 54 - 53 | wiki_freq: 3206 - 1057 | sentence_idx: 732192 | align_1: 14-15 | align_2: 15-20 | entity: Bibi - Bibi |    And the Americans have sent emissaries , including Secretary Leon Panetta , to tell Bibi we oppose an Israeli attack . ||| Und die Amerikaner haben Abgesandte , darunter auch Sekretär Leon Panetta , geschickt , um Bibi zu sagen , dass wir gegen einen israelischen Angriff sind . 
+
+EFF EFF | w_freq: 17 - 18 | wiki_freq: 1325 - 150 | sentence_idx: 732876 | align_1: 13-13 | align_2: 14-17 | entity: EFF - EFF |    Disastrous IP Legislation Is Back – And It 's Worse than Ever ( EFF ) ||| WEB Katastrophales IP-Gesetz ist zurück – Und es ist schlimmer denn je ( EFF , auf Englisch ) 
+
+pellepelle-europe.com pellepelle-europe.com | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 733280 | align_1: 4-4 | align_2: 5-10 | entity: pellepelle-europe.com - pellepelle-europe.com |    Some information provided to pellepelle-europe.com is disclosed to our partners in the following cases : ||| Einige Daten , die pellepelle-europe.com zur Verfügung gestellt werden , können unseren Partnern in den folgenden Fällen offengelegt werden : 
+
+MRAs MRAs | w_freq: 2 - 2 | wiki_freq: 48 - 3 | sentence_idx: 737913 | align_1: 8-9 | align_2: 9-16 | entity: MRAs - MRAs |    “ Men ’s right ’s activists ” ( MRAs ) claim that family law and social institutions discriminate against men . ||| Die " Men ’s Right ’s Activists " ( MRAs , auf Deutsch " Männerrecht-Aktivisten " ) behaupten , dass Familienrecht und soziale Institutionen Männer diskriminieren . 
+
+WTO WTO | w_freq: 163 - 96 | wiki_freq: 3840 - 870 | sentence_idx: 743334 | align_1: 6-6 | align_2: 7-12 | entity: WTO - WTO |    The last ministerial conference of the WTO , held in Bali / Indonesia in December 2013 , had been overshadowed by a controversy over food security between a group of 33 developing countries ( G33 ) and industrialized countries . ||| Einführung Die letzte Ministerkonferenz der Welthandelsorganisation WTO ( World Trade Organisation ) , die im Dezember 2013 in Bali / Indonesien stattfand , wurde durch einen Streit über Ernährungssicherheit zwischen einer Gruppe von 33 Entwicklungsländern ( G33 ) und Industriestaaten überschattet . 
+
+Alamin Alamin | w_freq: 1 - 1 | wiki_freq: 41 - 0 | sentence_idx: 751464 | align_1: 15-11 | align_2: 16-17 | entity: Alamin - none |    We recite them to you in truth , and Allah wills no injustice to the Alamin . ||| Sie umfassen die Wahrheit und Allah will keine Ungerechtigkeit für die Alamin ( Menschheit und Dschinn ) . 
+
+Mi’kmaq Mi'kmaq | w_freq: 1 - 2 | wiki_freq: 377 - 206 | sentence_idx: 766279 | align_1: 5-5 | align_2: 6-10 | entity: Mi’kmaq - none |    Their allies , the native Mi’kmaq nation , kept careful watch over their possessions , though . ||| Ihre Verbündeten , der Eingeborene Mi'kmaq ( Mi'kmaq Leute ) Nation , behielten sorgfältige Bewachung über ihre Besitzungen , dennoch . 
+
+thailand thailand | w_freq: 3 - 46 | wiki_freq: 90 - 0 | sentence_idx: 767943 | align_1: 4-5 | align_2: 5-10 | entity: thailand - thailand |    Plan your holiday to thailand saving money , have more fun , and meet the right thai girls for you . ||| Planen sie ihren urlaub in thailand , indem sie geld sparen , mehr spaß haben und die richtigen thai-mädchen für sie treffen . 
+
+Kitase-san Kitase-san | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 771240 | align_1: 19-22 | align_2: 20-27 | entity: Kitase-san - Kitase-san |    Our research and development department worked with them on its launch , and I joined the crew after producer Kitase-san called me . ||| Unsere Forschungs- und Entwicklungsabteilung arbeitete mit ihnen an der Fertigstellung , und ich schloss mich dem Team an , nachdem ich von Kitase-san , dem Produzenten , gerufen wurde . 
+
+SmartMe smartme | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 771350 | align_1: 9-8 | align_2: 10-13 | entity: SmartMe - none |    Puliafito , 51 , calls this two-year prototype effort SmartMe . ||| Puliafito , 51 , nennt diese zweijährige prototyp-anstrengung smartme ( ausgesprochen smartmay ) . 
+
+Sadness Sadness | w_freq: 8 - 1 | wiki_freq: 939 - 206 | sentence_idx: 774919 | align_1: 7-7 | align_2: 8-16 | entity: The Other Side of Sadness - The Other Side of Sadness |    In his book The Other Side of Sadness he describes how people in China deal with the death of a family member . ||| In seinem Buch The Other Side of Sadness ( die andere Seite der Traurigkeit ) beschreibt er , wie Menschen in China mit dem Tod eines Familienmitglieds umgehen . 
+
+Syrians Syrer | w_freq: 93 - 71 | wiki_freq: 3109 - 837 | sentence_idx: 778019 | align_1: 3-3 | align_2: 4-7 | entity: Syrians - none |    The five million Syrians now in Turkey , Lebanon , and Jordan are the latest and most dramatic example of this pattern . ||| Die fünf Millionen Syrer , die sich jetzt in der Türkei , im Libanon und in Jordanien aufhalten , sind das letzte und dramatischste Beispiel für dieses Muster . 
+
+Scare Panik | w_freq: 8 - 197 | wiki_freq: 1703 - 3543 | sentence_idx: 785463 | align_1: 13-13 | align_2: 14-20 | entity: Second Red Scare - Zweite Rote Panik |    This period , up to 1957 , is known as the Second Red Scare . ||| Diese Periode , bis zu 1957 , ist bekannt als die Zweite Rote Panik ( Die zweite Rote Panik ) . 
+
+LAMB=29 LAMB=29 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 804587 | align_1: 6-6 | align_2: 7-11 | entity: none - A LAMB=29 |    This number 29 stands for A LAMB=29 . ||| Diese Zahl 29 steht für A LAMB=29 ( Ein Lamm ) . 
+
+Medicare+Choice Medicare+Choice | w_freq: 1 - 1 | wiki_freq: 8 - 0 | sentence_idx: 807474 | align_1: 6-5 | align_2: 7-11 | entity: Medicare+Choice - Medicare+Choice |    These programs were known as “ Medicare+Choice ” or “ Part C ” plans . ||| Diese Programme waren als " Medicare+Choice ( Gesundheitsfürsorge + Wahl ) " oder Pläne " des Teils C " bekannt . 
+
+Lhamo Lhamo | w_freq: 1 - 1 | wiki_freq: 427 - 66 | sentence_idx: 812418 | align_1: 15-8 | align_2: 16-14 | entity: Palden Lhamo - Palden Lhamo |    Along with giving us your signatures , you must all swear in front of Palden Lhamo and the Three Jewels that you will not worship the Deity . " ||| Zusammen mit euren Unterschriften müsst ihr vor Palden Lhamo [ einer anderen Gottheit ] und den drei Juwelen schwören , dass ihr die Gottheit nicht verehrt . “ 
+
+AfDB AfDB | w_freq: 4 - 3 | wiki_freq: 308 - 20 | sentence_idx: 818606 | align_1: 6-5 | align_2: 7-10 | entity: AfDB - AfDB |    Although the African Development Bank ( AfDB ) hopes to create 25 million new jobswithin a decade through its Jobs for Youth in Africa initiative , it is not immediately clear where those opportunities will come from . ||| Obwohl die Afrikanische Entwicklungsbank ( AfDB , African Development Bank ) hofft , mit ihrer Initiative zur Schaffung von Arbeitsplätzen für Jugendliche innerhalb eines Jahrzehnts 25 Millionen neue Jobs zu schaffen , ist nicht wirklich klar , woher diese Möglichkeiten kommen sollen . 
+
+Miracles Miracles | w_freq: 31 - 3 | wiki_freq: 4337 - 227 | sentence_idx: 820183 | align_1: 10-9 | align_2: 11-20 | entity: The Course in Miracles - The Course in Miracles |    I have given written messages like “ The Course in Miracles , ” but we find it is overly complex and detailed for most people . ||| Ich habe schriftliche Botschaften wie " The Course in Miracles " ( „ Ein Kurs in Wundern “ ) gegeben , aber wir finden , dass sie für die meisten Leute zu komplex und detailliert sind . 
+
+ISRAEL21c Israel21c | w_freq: 2 - 2 | wiki_freq: 8 - 0 | sentence_idx: 821545 | align_1: 2-2 | align_2: 3-7 | entity: ISRAEL21c - Israel21c |    Jangzapali tells ISRAEL21c he is deeply grateful for the Abraham family ’s generosity . ||| Jangzapali erklärte Israel21c gegenüber , wie dankbar er für die Großzügigkeit der Familie von Abraham sei . 
+
+ECR ECR-Fraktion | w_freq: 6 - 1 | wiki_freq: 1317 - 9 | sentence_idx: 823823 | align_1: 1-6 | align_2: 2-13 | entity: ECR Group - none |    The ECR Group fully supports Icelandic accession to the European Union , although the decision is firmly a matter for Icelanders alone in a referendum . ||| Charles Tannock , im Namen der ECR-Fraktion . – Herr Präsident , die EKR-Fraktion unterstützt uneingeschränkt den Beitritt Islands zur Europäischen Union , obwohl die Entscheidung sicherlich in einem Referendum alleine bei den Isländern liegt . 
+
+Tashy Tashy | w_freq: 1 - 1 | wiki_freq: 10 - 0 | sentence_idx: 837603 | align_1: 1-1 | align_2: 2-5 | entity: Tashy - Tashy |    Oh Tashy , it ’s so easy to sing , ' I ’ll go where you want me to go ' , but what if that means He wants a little girl to become GYC president ? ||| Mensch Tashy [ Natasha ] , es singt sich so einfach : ›I'll go where you want me to go.‹ Doch was , wenn das bedeutet , dass ein kleines Mädchen GYC-Präsidentin wird ? 
+
+Knew Knew | w_freq: 24 - 9 | wiki_freq: 2779 - 292 | sentence_idx: 843089 | align_1: 5-6 | align_2: 6-10 | entity: If You Only Knew - If You Only Knew |    2009 : If You Only Knew directed by Mason Dixon ||| 2009 : „ If You Only Knew “ unter der Regie von Mason Dixon 
+
+Midian Midians | w_freq: 7 - 1 | wiki_freq: 333 - 4 | sentence_idx: 850225 | align_1: 39-37 | align_2: 40-45 | entity: Midian - Midians |    And if they reject thee , already before them did the people of Noah and ‘ Ad and Thamud reject ( prophets ) , And the people of Abraham and the people of Lot , And the dwellers of Midian . ||| Und wenn sie dich der Lüge zeihen , so hat schon vor ihnen das Volk Noahs und Ads und Thamuds ( 43. ) und das Volk Abrahams und das Volk Lots ( 44. ) und die Bewohner Midians ( ihre Propheten ) der Lüge geziehen . 
+
+ARG arg | w_freq: 3 - 7 | wiki_freq: 904 - 828 | sentence_idx: 850974 | align_1: 12-10 | align_2: 13-15 | entity: ARG - none |    This did n't stop them from creating the most extensive and insane ARG ever made . ||| Dies hinderte sie nicht daran , das umfangreichste und wahnsinnigste arg zu kreieren , das jemals gemacht wurde . 
+
+Pallant Pallant | w_freq: 1 - 1 | wiki_freq: 159 - 45 | sentence_idx: 855073 | align_1: 0-0 | align_2: 1-4 | entity: Pallant - Pallant |    Pallant sees five basic ingredients of a conclusion as follows , though these will not always be used in the same conclusion . : ||| Pallant ( 2009 ) sieht fünf grundlegende Zutaten einer Schlussfolgerung wie folgt , obwohl diese nicht immer in der gleichen Schlussfolgerung verwendet werden : 
+
+Tierschutz Tierschutz | w_freq: 2 - 33 | wiki_freq: 18 - 1423 | sentence_idx: 866406 | align_1: 25-21 | align_2: 26-25 | entity: Soko Tierschutz - Soko Tierschutz |    His decision was driven by failures in support from his institution and others in the aftermath of a campaign by the German animal group Soko Tierschutz . ||| Ausschlaggebend für seine Entscheidung waren Misserfolge bei der Unterstützung durch seine Institution und andere nach einer Kampagne der deutschen Tierrechtsgruppe Soko Tierschutz ( SOKO ) . 
+
+Lampedusa Lampedusa | w_freq: 27 - 26 | wiki_freq: 524 - 485 | sentence_idx: 872267 | align_1: 9-10 | align_2: 10-14 | entity: Lampedusa - Lampedusa |    We currently have 100 activists from 20 countries on Lampedusa monitoring how many people die every year . ||| Wir sind momentan mit 100 Aktivisten aus 20 Ländern auf Lampedusa , um darauf hinzuweisen , wie viele Menschen jedes Jahr sterben . 
+
+HGH HGH | w_freq: 41 - 38 | wiki_freq: 293 - 39 | sentence_idx: 873804 | align_1: 11-15 | align_2: 12-20 | entity: HGH - none |    Remember many athletes spend thousands of dollars every month to inject HGH to improve their performance . ||| Denken Sie daran , dass viele Athleten tausende Dollar jeden Monat ausgeben , um sich HGH spritzen zu lassen , um ihre Leistung zu verbessern . 
+
+Verdonk Verdonk | w_freq: 1 - 1 | wiki_freq: 280 - 112 | sentence_idx: 878596 | align_1: 8-5 | align_2: 9-10 | entity: Verdonk - Verdonk |    All of the methods of correction disclosed by Verdonk can be adapted for the present invention . ||| Alle Korrekturverfahren , die von Verdonk offenbart worden sind , können für die vorliegende Erfindung angepaßt werden . 
+
+Melfi Melfi | w_freq: 3 - 2 | wiki_freq: 852 - 275 | sentence_idx: 884295 | align_1: 6-6 | align_2: 7-12 | entity: Constitutions of Melfi - Melfi |    He also issued the Constitutions of Melfi ( August 1231 ) , as an attempt to solve the political and administrative problems of the country , which had dramatically been shown by the recent war . ||| Er gab auch die Verfassungen von Melfi ( Verfassungen von Melfi ) ( August 1231 ) als ein Versuch aus , die politischen und administrativen Probleme des Landes zu beheben , das durch den neuen Krieg drastisch gezeigt worden war . 
+
+Iblìs Iblis | w_freq: 1 - 5 | wiki_freq: 0 - 211 | sentence_idx: 884652 | align_1: 12-11 | align_2: 13-15 | entity: Iblìs - Iblis |    So she was turned out of Paradise , and , consorting with Iblìs , became the mother of devils . ||| So wurde sie aus dem Paradies verwiesen und , zusammen mit Iblis ( Satan ) , zur Mutter der Teufel . 
+
+Petition Petition | w_freq: 17 - 131 | wiki_freq: 1993 - 4214 | sentence_idx: 891163 | align_1: 5-8 | align_2: 6-13 | entity: none - Petition |    The problems I portrayed in Petition are big problems facing Chinese society , problems that will have to be solved in the near future . ||| Die Probleme , die ich im Film “ Petition ” gezeigt habe , sind große Probleme der chinesischen Gesellschaft , die in der näheren Zukunft gelöst werden müssen . 
+
+Pantocrator Pantokrator | w_freq: 1 - 1 | wiki_freq: 263 - 258 | sentence_idx: 892670 | align_1: 12-15 | align_2: 13-19 | entity: Pantocrator - none |    The Son , who made himself Servant , is Lord , the Pantocrator . ||| Der Sohn , der sich zum Diener gemacht hat , ist der Herr , der Pantokrator ( Allherrscher ) . 
+
+Yugoslavs Jugoslawen | w_freq: 4 - 5 | wiki_freq: 821 - 1384 | sentence_idx: 895355 | align_1: 11-14 | align_2: 12-19 | entity: Yugoslavs - none |    People who identify with the former Yugoslav state may self-identify as Yugoslavs . ||| Leute , die sich mit dem ehemaligen jugoslawischen Staat identifizieren , können sich als Jugoslawen ( Jugoslawen ) selbstidentifizieren . 
+
+shit Sch | w_freq: 131 - 8 | wiki_freq: 4782 - 324 | sentence_idx: 897666 | align_1: 6-6 | align_2: 7-11 | entity: none - Sch |    15 solid seconds of ' holy shit this is happening . " ||| 15 lange Sekunden von ‚ heilige Sch * * * , das passiert hier gerade wirklich ‘ . “ 
+
+Sondland Sondland | w_freq: 1 - 1 | wiki_freq: 245 - 86 | sentence_idx: 907971 | align_1: 7-8 | align_2: 8-13 | entity: Sondland - Sondland |    " This alleged discussion recalled by Ambassador Sondland never happened . " ||| " Diese angebliche Diskussion , die von Botschafter Sondland angeführt wurde , fand nie statt " . 
+
+Kristof Kristof | w_freq: 5 - 6 | wiki_freq: 793 - 293 | sentence_idx: 923549 | align_1: 5-6 | align_2: 6-12 | entity: Kristof - Kristof |    In another essay by Mr. Kristof called “ Do You Care More About a Dog Than a Refugee ? ” ||| In einem anderen Essay von Herrn Kristof , der sich mit dem Titel " Kümmertest du dich mehr um einen Hund als ein Flüchtling ? " 
+
+Q60:10 Kafir | w_freq: 1 - 5 | wiki_freq: 0 - 27 | sentence_idx: 928846 | align_1: 0-3 | align_2: 1-12 | entity: none - Kafir |    Q60:10 When believing women come to you , test their faith . ||| 8 Scheidung vom Kafir 60:10. O ihr , die ihr glaubt , wenn gläubige Frauen als Flüchtlinge zu euch kommen , so prüft sie . 
+
+cp1160 CP1160 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 933721 | align_1: 8-5 | align_2: 9-10 | entity: none - CP1160 |    The first thing that strikes you about the cp1160 is its size . ||| Das Erste , was am CP1160 ins Auge fällt , ist seine Größe . 
+
+Jaisalmer Jaisalmer | w_freq: 2 - 3 | wiki_freq: 842 - 88 | sentence_idx: 935922 | align_1: 8-8 | align_2: 9-13 | entity: Jaisalmer - Jaisalmer |    There are two other airports in Kota and Jaisalmer , but are not open for commercial / civilian flights . ||| Es gibt zwei andere Flughäfen in Kota und Jaisalmer ( Jaisalmer Flughafen ) , aber ist für kommerzielle / zivile Flüge noch nicht offen . 
+
+Shasta Shasta | w_freq: 6 - 6 | wiki_freq: 3347 - 288 | sentence_idx: 939811 | align_1: 0-0 | align_2: 1-4 | entity: none - Shasta |    Shasta to see if the Lord would show or tell me more of what was going to happen . ||| Shasta zu gehen , um zu sehen , ob der Herr mir mehr darüber zeigen oder sagen würde , was geschehen würde . 
+
+Sticks Sticks | w_freq: 3 - 4 | wiki_freq: 2140 - 337 | sentence_idx: 940447 | align_1: 9-7 | align_2: 10-11 | entity: Talking Sticks - none |    One of these is the promotion of using Talking Sticks which he apparently introduces as more or less generically indigenous . ||| Eines davon ist der Einsatz von Talking Sticks bzw. Redestäben , die er offenbar als mehr oder weniger generisch indigen einführt . 
+
+Blueprint Blueprint | w_freq: 15 - 16 | wiki_freq: 1688 - 194 | sentence_idx: 943807 | align_1: 9-7 | align_2: 10-12 | entity: Blueprint - Blueprint |    That 's why , in 2015 , we launched Blueprint – a free global education and certification programme , available in 15 languages . ||| Deshalb haben wir 2015 das Projekt „ Blueprint “ ins Leben gerufen – ein kostenloses und globales Bildungs- und Zertifizierungsprogramm , das in 15 Sprachen verfügbar ist . 
+
+Infront Infront | w_freq: 2 - 2 | wiki_freq: 57 - 79 | sentence_idx: 946717 | align_1: 9-8 | align_2: 10-12 | entity: Infront - Infront |    Financial professionals across Europe and South Africa rely on Infront for flexible financial market solutions . ||| Finanzfachleute in ganz Europa und Südafrika vertrauen auf Infront , wenn es um flexible Finanzmarktlösungen geht . 
+
+Cultura Cultura | w_freq: 6 - 6 | wiki_freq: 2631 - 784 | sentence_idx: 952403 | align_1: 13-11 | align_2: 14-20 | entity: Ecologia , Economia e Cultura - Ecologia , Economia e Cultura |    In the text below , taken from the book Ecologia , Economia e Cultura ( 2005 ) , they describe what is learnt from the elders in their community . ||| Im folgenden Text aus dem Buch “ Ecologia , Economia e Cultura ” ( Ökologie , Ökonomie und Kultur ) aus dem Jahr 2005 beschreiben sie , was sie von den Älteren der Gemeinschaft lernen . 
+
+Sserys deinem | w_freq: 1 - 1681 | wiki_freq: 0 - 894 | sentence_idx: 956440 | align_1: 5-8 | align_2: 6-17 | entity: Sserys - none |    Ask him what became of Sserys if you are so inclined . ” ||| Frage dich auch , wie du ( in deinem Drehbuch ) gerne wärst ( gewesen wärst , wenn das Leben nicht dazwischen gefunkt hätte ) ? 
+
+Cacheiras Cacheiras | w_freq: 1 - 2 | wiki_freq: 4 - 0 | sentence_idx: 962913 | align_1: 10-9 | align_2: 11-15 | entity: Battle of Cacheiras - von Cacheiras |    Solís and his forces were defeated at the Battle of Cacheiras , 23 April 1846 , and the survivors , including Solís himself , were shot . ||| Solís und seine Kräfte wurden in der Schlacht von Cacheiras ( Kampf von Cacheiras ) , am 23. April 1846 vereitelt , und die Überlebenden , einschließlich Solís selbst , wurden geschossen . 
+
+Chulin Chulin | w_freq: 2 - 2 | wiki_freq: 52 - 3 | sentence_idx: 964872 | align_1: 4-4 | align_2: 5-8 | entity: Chulin 4a - Chulin |    For example , in Chulin 4a , he comments about a phrase : " We do not read this . ||| Zum Beispiel , in Chulin ( Kodashim ) 4a , kommentiert er über einen Ausdruck , " Wir lesen das nicht . 
+
+COP21 COP21 | w_freq: 16 - 13 | wiki_freq: 217 - 16 | sentence_idx: 975097 | align_1: 4-3 | align_2: 5-8 | entity: COP21 Leaders Event - COP21 |    Jean-Claude Juncker at the COP21 Leaders Event - A climate agreement here and now in Paris ||| Jean-Claude Juncker beim COP21 Treffen der Staats- und Regierungschefs - Ein Klimaschutzübereinkommen jetzt und hier in Paris 
+
+HBV HBV | w_freq: 5 - 4 | wiki_freq: 615 - 311 | sentence_idx: 977390 | align_1: 5-6 | align_2: 6-11 | entity: HBV - HBV |    Some reactions possibly associated with HBV have not been proven , including : ||| Einige Reaktionen , die möglicherweise mit HBV in Zusammenhang stehen , wurden nicht nachgewiesen , darunter : 
+
+Gor Gor | w_freq: 26 - 21 | wiki_freq: 1212 - 216 | sentence_idx: 989290 | align_1: 10-9 | align_2: 11-14 | entity: Gor - Gor |    We must also consider the barbarian cultures outside of civilized Gor as they do not have a caste system . ||| Wir müssen auch die barbarischen Kulturen außerhalb des zivilisierten Gor in Betracht ziehen , da sie ebenfalls kein Kasten-System besitzen . 
+
+Gaia Gaia | w_freq: 207 - 167 | wiki_freq: 4660 - 1629 | sentence_idx: 994645 | align_1: 4-3 | align_2: 5-8 | entity: Gaia - Gaia |    What is happening on Gaia is indeed a miracle . ||| Was da auf Gaia vor sich geht , ist in der Tat ein Wunder . 
+

@@ -1,0 +1,12 @@
+Al-Haq Al-Haq | w_freq: 2 - 2 | wiki_freq: 128 - 14 | sentence_idx: 174715 | align_1: 11-10 | align_2: 12-15 | entity: Al-Haq - Al-Haq |    The following statistics were provided by Birzeit , Adalah , and Al-Haq to illustrate the extent to which this policy is affecting the university and its faculty : ||| » Die folgenden Statistiken wurden von Birzeit , Adalah und Al-Haq zur Verfügung gestellt , um zu veranschaulichen , in welchem Ausmaß diese Politik die Universität und ihre Fakultät betrifft : 
+
+Peleg Peleg | w_freq: 4 - 4 | wiki_freq: 472 - 99 | sentence_idx: 498085 | align_1: 8-3 | align_2: 9-9 | entity: Peleg - Peleg |    The name of ha'echad , the one was Peleg , for in his days the earth was divided . ||| Der erste hieß Peleg - » Teilung « - , denn zu seinen Lebzeiten wurde das Land geteilt . 
+
+ESF ESF | w_freq: 36 - 23 | wiki_freq: 696 - 246 | sentence_idx: 730012 | align_1: 12-14 | align_2: 13-19 | entity: ESF - ESF |    It also serves as a forum for discussing issues relevant to the ESF between stakeholders in the different countries . ||| Er dient auch als Forum für die Erörterung von Fragen , die für den ESF von Bedeutung sind , zwischen den Akteuren in den verschiedenen Ländern . 
+
+Midian Midians | w_freq: 7 - 1 | wiki_freq: 333 - 4 | sentence_idx: 850225 | align_1: 39-37 | align_2: 40-45 | entity: Midian - Midians |    And if they reject thee , already before them did the people of Noah and ‘ Ad and Thamud reject ( prophets ) , And the people of Abraham and the people of Lot , And the dwellers of Midian . ||| Und wenn sie dich der Lüge zeihen , so hat schon vor ihnen das Volk Noahs und Ads und Thamuds ( 43. ) und das Volk Abrahams und das Volk Lots ( 44. ) und die Bewohner Midians ( ihre Propheten ) der Lüge geziehen . 
+
+Lampedusa Lampedusa | w_freq: 27 - 26 | wiki_freq: 524 - 485 | sentence_idx: 872267 | align_1: 9-10 | align_2: 10-14 | entity: Lampedusa - Lampedusa |    We currently have 100 activists from 20 countries on Lampedusa monitoring how many people die every year . ||| Wir sind momentan mit 100 Aktivisten aus 20 Ländern auf Lampedusa , um darauf hinzuweisen , wie viele Menschen jedes Jahr sterben . 
+
+Jaisalmer Jaisalmer | w_freq: 2 - 3 | wiki_freq: 842 - 88 | sentence_idx: 935922 | align_1: 8-8 | align_2: 9-13 | entity: Jaisalmer - Jaisalmer |    There are two other airports in Kota and Jaisalmer , but are not open for commercial / civilian flights . ||| Es gibt zwei andere Flughäfen in Kota und Jaisalmer ( Jaisalmer Flughafen ) , aber ist für kommerzielle / zivile Flüge noch nicht offen . 
+

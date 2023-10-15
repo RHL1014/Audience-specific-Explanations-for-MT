@@ -1,0 +1,32 @@
+Pleiadian Pléiadien | w_freq: 4 - 1 | wiki_freq: 6 - 0 | sentence_idx: 170322 | align_1: 7-8 | align_2: 8-12 | entity: Pleiadian - Pléiadien |    H : Are Resistance Movement or the Pleiadian aware of any of the mass meditations we are doing daily on the We Love Mass Meditation ( WLMM ) blog ? ||| H : Le Mouvement de Résistance ou le Pléiadien sont -ils au courant de l' une des méditations de masse que nous faisons quotidiennement sur le blog We Love Mass Meditation ( WLMM ) ? 
+
+E-51 E-51 | w_freq: 24 - 25 | wiki_freq: 13 - 2 | sentence_idx: 214596 | align_1: 0-0 | align_2: 1-5 | entity: E-51 - E-51 |    E-51 Another hand or two before we go further ? ||| E-51 Y a -t -il encore une ou deux mains avant que nous allions plus loin ? 
+
+Shu'aib Chuaïb | w_freq: 2 - 3 | wiki_freq: 29 - 0 | sentence_idx: 330047 | align_1: 11-5 | align_2: 12-14 | entity: Shu'aib - Chuaïb |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 7 92 Ceux qui traitaient Chuaïb de menteur ( disparurent ) comme s´ils n´y avaient jamais vécu . 
+
+Cohenim Cohenim | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 338349 | align_1: 6-8 | align_2: 7-12 | entity: Cohenim - Cohenim |    My parents actually thought we were Cohenim — the real thing . ||| Mes parents croyaient en effet que nous étions Cohenim ( sic ) – le vrai du vrai . 
+
+Slutwalk Slutwalk | w_freq: 1 - 1 | wiki_freq: 46 - 9 | sentence_idx: 355867 | align_1: 16-19 | align_2: 17-27 | entity: Slutwalk - Slutwalk |    It would appear that , through lack of clarity , something has finally become clear : Slutwalk has lost me . ||| Il semblerait que , par manque de clarté , quelque chose est finalement devenu très clair : la « Slutwalk » ( Marche des salopes ) m’ a perdue . 
+
+MEE MEE | w_freq: 7 - 7 | wiki_freq: 90 - 19 | sentence_idx: 360679 | align_1: 7-6 | align_2: 8-11 | entity: MEE - MEE |    All the young refugees who spoke to MEE emphasised that they do not view the Nakba as simply a historical event which began and ended in 1948 . ||| Tous les jeunes réfugiés avec qui MEE s’ est entretenu ont insisté sur le fait qu’ ils ne considèrent pas la Nakba comme un simple événement historique qui a commencé et s’ est terminé en 1948 . 
+
+Caligastia Caligastia | w_freq: 2 - 2 | wiki_freq: 1 - 0 | sentence_idx: 416846 | align_1: 18-21 | align_2: 19-25 | entity: Caligastia - Caligastia |    But it became impossible for these souls to leave these places around Earth in the way Lucifer and Caligastia acted . ||| Mais cela devenait impossible pour ces âmes de quitter ces lieux autour de la terre de la façon dont Lucifer et Caligastia s’ y sont pris . 
+
+LUXEMBOURG LUXEMBOURG | w_freq: 2 - 2 | wiki_freq: 8 - 7 | sentence_idx: 431244 | align_1: 0-0 | align_2: 1-4 | entity: LUXEMBOURG - LUXEMBOURG |    LUXEMBOURG – If you want your past to be forgotten on the internet , it might be best to move to Europe . ||| LUXEMBOURG ( Reuters ) – Si vous souhaitez que votre passé soit oublié sur Internet , le mieux est peut-être de déménager en Europe . 
+
+Shu'aib ayb | w_freq: 2 - 2 | wiki_freq: 29 - 28 | sentence_idx: 459577 | align_1: 11-6 | align_2: 12-13 | entity: Shu'aib - Chou’ ayb |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 7 92 Ceux qui rejetèrent Chou’ ayb disparurent , comme s’ ils n’ avaient jamais existé . 
+
+Shu'aib Chou’ | w_freq: 2 - 1 | wiki_freq: 29 - 0 | sentence_idx: 459577 | align_1: 11-5 | align_2: 12-13 | entity: Shu'aib - Chou’ ayb |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 7 92 Ceux qui rejetèrent Chou’ ayb disparurent , comme s’ ils n’ avaient jamais existé . 
+
+DevBlog DevBlog | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 479530 | align_1: 3-5 | align_2: 4-10 | entity: DevBlog - DevBlog |    We wrote a DevBlog that might interest developers ( 2D or not ): WEB ! ||| Nous avons publié un nouveau DevBlog ( en anglais ) qui pourrait intéresser les développeurs ( 2D ou non ) : WEB ! 
+
+IVAW IVAW | w_freq: 1 - 1 | wiki_freq: 29 - 0 | sentence_idx: 540180 | align_1: 4-3 | align_2: 5-8 | entity: IVAW - IVAW |    WW : Will the IVAW also confront recruiters ? ||| WW : l' IVAW va - t' elle aussi affronter les recruteurs ? 
+
+Jomtien Jomtien | w_freq: 6 - 6 | wiki_freq: 79 - 18 | sentence_idx: 625932 | align_1: 4-3 | align_2: 5-8 | entity: Jomtien - Jomtien |    The commitment made at Jomtien 10 years ago promised education as a reality for all in 2000 . ||| L’ engagement de Jomtien , il y a dix ans , promettait l’ éducation comme une réalité pour tous en l’ an 2000 . 
+
+Beracah Beraca | w_freq: 2 - 2 | wiki_freq: 5 - 0 | sentence_idx: 752876 | align_1: 31-32 | align_2: 32-40 | entity: Beracah - Beraca |    On the fourth day they assembled themselves in the valley of Beracah ; for there they blessed the Lord , therefore the name of that place was called The valley of Beracah to this day . ||| Le quatrième jour , ils s ’ assemblèrent [ qahal ] dans la vallée de Beraca , où ils bénirent l’ Eternel ; c’ est pourquoi ils appelèrent ce lieu vallée de Beraca , nom qui lui est resté jusqu’ à ce jour . 
+
+RtCW RtCW | w_freq: 1 - 1 | wiki_freq: 1 - 4 | sentence_idx: 944462 | align_1: 11-12 | align_2: 12-17 | entity: RtCW - RtCW |    No real support from Activision , except a free copy of RtCW sent by them ! ||| Pas de véritable support d’ Activision , sauf une copie gratuite de RtCW qu’ ils m’ avaient envoyée ! 
+
+Googlewash Googlewash | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 970086 | align_1: 2-3 | align_2: 3-7 | entity: Googlewash - Googlewash |    And this Googlewash took just 42 days . ||| Et ce « Googlewash » n’ a pris que 42 jours . 
+

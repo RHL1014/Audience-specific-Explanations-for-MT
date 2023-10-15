@@ -1,0 +1,160 @@
+S-228 S-228 | w_freq: 2 - 2 | wiki_freq: 2 - 0 | sentence_idx: 30159 | align_1: 1-4 | align_2: 2-9 | ner_entity: Bill S-228-S-228 |    Bill S-228 will die if not passed by end of session ||| Le projet de loi S-228 mourra s’ il n’ est pas adopté avant la fin de la session
+
+E-36 E-36 | w_freq: 20 - 21 | wiki_freq: 2 - 2 | sentence_idx: 32486 | align_1: 0-0 | align_2: 1-4 | ner_entity: E-36-none |    E-36 Many things , if we had time to go into what He done in the natural seed , how they did that through Isaac 's seed . ||| E-36 ( 94 ) Beaucoup de choses , si nous avions le temps d’ aborder ce qu’ Il a accompli à travers la semence naturelle , comment ils ont fait cela au travers de la semence d’ Isaac .
+
+N145 N145 | w_freq: 1 - 1 | wiki_freq: 22 - 30 | sentence_idx: 70249 | align_1: 15-12 | align_2: 16-17 | ner_entity: N145-N145 |    Therefore , the French themselves often prefer to get to Andorra via Spain on the N145 . ||| Ainsi , les Français mêmes préfèrent souvent arriver en Andorre par la N145 à travers l’ Espagne .
+
+10/2011 10/2011 | w_freq: 1 - 1 | wiki_freq: 7 - 0 | sentence_idx: 77306 | align_1: 13-16 | align_2: 14-20 | ner_entity: 10/2011-none |    Even before the European rules such as regulation EC 1935/2004 and regulation EU 10/2011 came into force , the FDA regulation already existed in the United States of America . ||| Même avant que les règles européennes , comme le règlement CE 1935/2004 et le règlement UE 10/2011 , ne soient entrées en vigueur , le règlement FDA existait déjà aux États-Unis .
+
+Friedensgebete Friedensgebete | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 79492 | align_1: 2-2 | align_2: 3-9 | ner_entity: Friedensgebete-Friedensgebete |    But the Friedensgebete continued to grow and by the spring , the authorities saw the prayer meetings as a threat . ||| Mais la Friedensgebete ( prière pour la paix ) continua de croître et , au printemps , les autorités considéraient les réunions de prière comme une menace .
+
+E-260 E-260 | w_freq: 2 - 2 | wiki_freq: 1 - 0 | sentence_idx: 81314 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-260 |    E-260 Now just take a look at yourself in God 's mirror , and just see if you can identify yourself tonight . ||| E-260 ( 190 ) Maintenant jetez simplement un regard sur vous - même à travers le miroir de Dieu et voyez si seulement vous pouvez vous identifier ce soir .
+
+E-62 E-62 | w_freq: 27 - 28 | wiki_freq: 2 - 1 | sentence_idx: 95264 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-62 |    E-62 Now , another great seed was planted . ||| E-62 ( 100 ) Maintenant , une autre grande Semence fut plantée .
+
+59:16 59:16 | w_freq: 3 - 3 | wiki_freq: 8 - 0 | sentence_idx: 135813 | align_1: 0-0 | align_2: 1-4 | ner_entity: 59:16-none |    59:16 Like the devil , when he says to the human being , ' Disbelieve . ' ||| 59:16 : ils sont semblables au Diable quand il dit à l' homme : ‹Sois incrédule›.
+
+E-15 E-15 | w_freq: 15 - 19 | wiki_freq: 34 - 6 | sentence_idx: 144371 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-15 |    E-15 Brother Oral 's starting some kind of a Bible school out there now , I believe , or something . ||| E-15 ( 14 ) Frère Oral ouvre une sorte d' école biblique là maintenant , je pense , ou quelque chose comme cela .
+
+WASHINGTON WASHINGTON | w_freq: 6 - 6 | wiki_freq: 52 - 2 | sentence_idx: 152615 | align_1: 0-0 | align_2: 1-4 | ner_entity: WASHINGTON-WASHINGTON |    WASHINGTON -- Americans are living longer than ever , but not as long as people in 41 other countries . ||| WASHINGTON ( AP ) -- Les Américains vivent plus longtemps que jamais , mais pas aussi longtemps que les habitants de 41 autres pays .
+
+98/56 98/56 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 171398 | align_1: 1-1 | align_2: 2-5 | ner_entity: none-PR 98/56 Ci |    PR 98/56 Available in Italian only ||| PR 98/56 Ci - dessous disponible en italien seulement
+
+E-20 E-20 | w_freq: 14 - 15 | wiki_freq: 32 - 6 | sentence_idx: 179096 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-20 |    E-20 You know , your " amen " do n't hurt me . ||| E-20 ( 34 ) Vous savez , votre « amen » ne me fait pas mal .
+
+39/1 39/1 | w_freq: 1 - 1 | wiki_freq: 15 - 6 | sentence_idx: 250675 | align_1: 1-6 | align_2: 2-11 | ner_entity: Resolution 39/1-none |    Resolution 39/1 requested an oral update regarding the situation in the Bolivarian Republic of Venezuela . ||| Dans le cadre de la résolution 39/1 , le Conseil a demandé un exposé oral sur la situation en République bolivarienne du Venezuela .
+
+Vendini Vendini | w_freq: 1 - 1 | wiki_freq: 22 - 1 | sentence_idx: 258860 | align_1: 1-1 | align_2: 2-7 | ner_entity: Vendini-Vendini |    “ Vendini has successfully built a similarly unique value proposition . ||| « Vendini , de son côté , a réussi à bâtir une proposition de valeur tout aussi unique .
+
+Fukubukuro Fukubukuro | w_freq: 1 - 1 | wiki_freq: 4 - 1 | sentence_idx: 265275 | align_1: 12-11 | align_2: 13-15 | ner_entity: Fukubukuro-Fukubukuro |    At the same time , this is also the purpose of the Fukubukuro that we finish to end with the double , triple or quadruple of the amount of the bag itself , otherwise everyone would not jostle to buy LOL ! ||| En même temps , c' est aussi ça le but du Fukubukuro , c' est qu' on finit avec le double , triple ou quadruple du montant du sac lui-même , sinon tout le monde ne se bousculerait pas pour en acheter LOL !
+
+Mentalism Mentalism | w_freq: 1 - 1 | wiki_freq: 70 - 1 | sentence_idx: 286911 | align_1: 10-10 | align_2: 11-17 | ner_entity: The Law of Mentalism-The Law of Mentalism |    In 1902 , A. Victor Segno publishes The Law of Mentalism which obtains a global success . ||| En 1902 , A. Victor Segno publie The Law of Mentalism ( La Loi du Mentalisme ) qui obtient un succès mondial .
+
+Xili Xili | w_freq: 1 - 1 | wiki_freq: 67 - 5 | sentence_idx: 287827 | align_1: 0-0 | align_2: 1-4 | ner_entity: Xili-Xili |    Xili wants the authorities to “ begin tackling their own corrupt structures , ” before even thinking about providing jobs or better education . ||| Xili , lui , demande aux autorités « de commencer à lutter contre leurs propres structures corrompues » , avant même de penser à donner du travail ou une meilleure éducation .
+
+E-112 E-112 | w_freq: 7 - 7 | wiki_freq: 5 - 3 | sentence_idx: 288498 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-112 |    E-112 Brother Tom Simpson is here tonight . ||| E-112 ( 55 ) Frère Tom Simpson est ici ce soir .
+
+Pulizzi Pulizzi | w_freq: 2 - 2 | wiki_freq: 50 - 2 | sentence_idx: 301087 | align_1: 15-16 | align_2: 16-20 | ner_entity: Joe Pulizzi-Joe Pulizzi |    Businesses now need to produce less content and make it more engaging , as Joe Pulizzi himself admitted . ||| Les entreprises doivent désormais produire moins de contenu et le rendre plus intéressant , comme Joe Pulizzi l’ a d’ ailleurs admis .
+
+Wallah Wallah | w_freq: 2 - 2 | wiki_freq: 68 - 49 | sentence_idx: 311243 | align_1: 4-5 | align_2: 5-11 | ner_entity: Wallah-Wallah |    He declared : “ Wallah , if the Rafah crossing opened tomorrow , everyone would leave . ||| Il a déclaré : « Wallah [ Je te jure ] , si le passage de Rafah s’ ouvrait demain , tout le monde partirait .
+
+CITC CITC | w_freq: 2 - 2 | wiki_freq: 37 - 6 | sentence_idx: 312651 | align_1: 17-19 | align_2: 18-31 | ner_entity: CITC-CITC |    In addition , Saudi Arabia redirects all international traffic through the Communications and Information Technology Commission ( CITC ) , to filter out “ inappropriate ” content . ||| En outre , l' Arabie saoudite redirige tout le trafic international via la Communications and Information Technology Commission ( CITC , Commission de la technologie de l' information et des communications ) afin de filtrer les contenus « inappropriés » .
+
+Berking Berking | w_freq: 3 - 3 | wiki_freq: 36 - 28 | sentence_idx: 352888 | align_1: 1-1 | align_2: 2-5 | ner_entity: Willy Berking-Willy Berking |    Willy Berking there really nothing more to say about Willy Berking ? ||| Willy Berking Est -ce qu' il n' y a plus rien à dire sur Willy Berking ?
+
+14.06(4 14.06(2 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 377762 | align_1: 0-0 | align_2: 1-5 | ner_entity: 14.06(4-none |    14.06(4 ) if it wishes to demonstrate a conflict . ||| 14.06(2 ) et ( 4 ) s’ il souhaite démontrer qu’ il y a conflit .
+
+E-412 E-412 | w_freq: 2 - 2 | wiki_freq: 0 - 1 | sentence_idx: 388951 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-412 |    E-412 the devil is weaving it right under your nose and do n't know it . ||| E-412 la chose , le diable est en train de l’ introduire sous votre nez , et vous ne le savez pas .
+
+Failan Failan | w_freq: 1 - 1 | wiki_freq: 10 - 7 | sentence_idx: 408266 | align_1: 5-4 | align_2: 6-10 | ner_entity: none-Dragon Inn Failan |    Good Bye , Dragon Inn Failan What Time is it There ? ||| Goodbye , Dragon Inn Failan Et là - bas , quelle heure est -il ?
+
+TABST TABST | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 408622 | align_1: 15-15 | align_2: 16-20 | ner_entity: none-TABST |    0,10 % of domestic carnivores are used for the Target animal batch safety test ( TABST ) still required by several countries outside of Europe in order to release vaccines . ||| 0,10 % de carnivores domestiques sont utilisés pour le Target animal batch safety test ( TABST – contrôle d’ innocuité ) encore demandé par plusieurs pays hors Europe pour la libération des vaccins .
+
+prepper Prepper | w_freq: 4 - 2 | wiki_freq: 29 - 0 | sentence_idx: 422278 | align_1: 2-1 | align_2: 3-6 | ner_entity: none-Prepper |    No sane prepper would put a big sign on their house saying “ I have emergency food , ” for example . ||| Aucun Prepper sain d’ esprit ne mettrait un gros panneau sur leur maison en disant « J’ ai de la nourriture d’ urgence » , par exemple .
+
+E-296 E-296 | w_freq: 3 - 3 | wiki_freq: 0 - 1 | sentence_idx: 422579 | align_1: 0-0 | align_2: 1-5 | ner_entity: E-296-none |    E-296 Only thing that we can do , Lord , is to believe . ||| E-296 ( 255 ) La seule chose que nous pouvons faire , Seigneur , c' est de croire .
+
+Antarsya Antarsya | w_freq: 3 - 5 | wiki_freq: 4 - 4 | sentence_idx: 433593 | align_1: 0-0 | align_2: 1-4 | ner_entity: Antarsya-Antarsya |    Antarsya is not the same but there is still wide confusion in its ranks . ||| Antarsya , ce n’ est pas la même chose , il règne cependant toujours une grande confusion dans ses rangs .
+
+E-67 E-67 | w_freq: 21 - 19 | wiki_freq: 1 - 2 | sentence_idx: 439288 | align_1: 0-0 | align_2: 1-5 | ner_entity: none-E-67 |    E-67 I was saying it the other day , at Phoenix . ||| E-67 C’ est ce que je disais , l’ autre jour , à Phoenix .
+
+42:48 Shura-48 | w_freq: 1 - 2 | wiki_freq: 1 - 0 | sentence_idx: 440254 | align_1: 0-4 | align_2: 1-9 | ner_entity: 42:48-none |    42:48 If then they run away , We have not sent thee as a guard over them . ||| 42 / Ash - Shura-48 : Après cela , s’ ils détournent leur visage , Nous ne t’ avons pas envoyé comme gardien sur eux .
+
+Grismer Grismer | w_freq: 1 - 1 | wiki_freq: 90 - 31 | sentence_idx: 462539 | align_1: 2-5 | align_2: 3-9 | ner_entity: Grismer-M. Grismer |    As Mr. Grismer also married a non-Indian , he was not able to transfer status to his children . ||| En outre , comme M. Grismer avait , lui aussi , marié une non-Indienne , il ne pouvait pas transmettre le statut à ses enfants .
+
+FRPC FRPC | w_freq: 1 - 1 | wiki_freq: 3 - 1 | sentence_idx: 467638 | align_1: 11-12 | align_2: 12-16 | ner_entity: FRPC-FRPC |    However , commercial broadcasters and their associations as well as the FRPC disagreed . ||| Cependant , les radiodiffuseurs commerciaux et leurs associations , ainsi que la FRPC , sont en désaccord .
+
+E-116 E-116 | w_freq: 7 - 8 | wiki_freq: 0 - 0 | sentence_idx: 473788 | align_1: 0-0 | align_2: 1-5 | ner_entity: none-E-116 |    E-116 Not some system ; but a Person , Christ , the Conqueror . ||| E-116 Il ne s’ agit pas d’ un certain système ; mais il s’ agit d’ une Personne , Christ , le Conquérant .
+
+E-90 E-90 | w_freq: 16 - 19 | wiki_freq: 5 - 4 | sentence_idx: 474964 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-90 |    E-90 See , they got a horse standing at his grave . ||| E-90 ( 44 ) Voyez , ils ont un cheval placé sur sa tombe .
+
+E-102 E-102 | w_freq: 8 - 8 | wiki_freq: 21 - 7 | sentence_idx: 475903 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-102 |    E-102 Now the man is holding great campaigns everywhere . ||| E-102 ( 57 ) Maintenant , cet homme tient de grandes campagnes partout .
+
+E-65 E-65 | w_freq: 14 - 14 | wiki_freq: 3 - 1 | sentence_idx: 487465 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-65 |    E-65 Not only that , but everything that we say is alive . ||| E-65 ( 29 ) Non seulement cela , mais chaque chose que nous disons reste vivante .
+
+5784 5784 | w_freq: 1 - 1 | wiki_freq: 11 - 18 | sentence_idx: 523906 | align_1: 16-19 | align_2: 17-24 | ner_entity: Senate Bill 5784-none |    I strongly urge ( Senator / Representative ) to reject the current version of Senate Bill 5784 as inadequate , and support amendments to make it stronger . ||| J’ exhorte vivement ( sénateur / représentant ) à rejeter la version actuelle du projet de loi n ° 5784 du Sénat , la jugeant insuffisante , et à appuyer les amendements pour le renforcer .
+
+Shaktis shaktis | w_freq: 2 - 1 | wiki_freq: 23 - 0 | sentence_idx: 546200 | align_1: 15-19 | align_2: 16-24 | ner_entity: Shaktis-none |    You have to experience this yourself and see if you have achieved it , the Shaktis are awakened fully or not . ||| Vous devez faire l' expérience par vous - même et voir si vous l' avez atteint , si les shaktis , les pouvoirs , sont entièrement éveillés ou pas .
+
+E-66 E-66 | w_freq: 17 - 15 | wiki_freq: 7 - 6 | sentence_idx: 559196 | align_1: 0-0 | align_2: 1-5 | ner_entity: none-E-66 |    E-66 Not long ago I was holding a meeting ... ||| E-66 Il n’ y a pas longtemps , je tenais une réunion ...
+
+Karangizi Karangizi | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 559577 | align_1: 4-4 | align_2: 5-8 | ner_entity: Karangizi-Karangizi |    In his presentation , Karangizi observed that “ Africa ’s possible development is significant , and its potentials are huge . ||| Dans sa présentation , Karangizi , a fait observer que « le développement possible de l’ Afrique est significatif , et ses potentiels sont énormes .
+
+Dessertenne Dessertenne | w_freq: 1 - 1 | wiki_freq: 12 - 25 | sentence_idx: 583816 | align_1: 8-8 | align_2: 9-13 | ner_entity: Eric Dessertenne-Éric Dessertenne |    These five years of close cooperation with Eric Dessertenne have established absolute trust between us . ||| Ces cinq années de coopération étroites entre Éric Dessertenne et moi - même ont instauré une confiance absolue entre nous .
+
+L-361 E-361 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 586778 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-361 |    L-361 You see , there was the church natural , the church natural , which was Lot and his group . ||| E-361 ( 102 ) Vous voyez , il y avait l' église naturelle , l' église naturelle , laquelle était Lot et son groupe .
+
+ESF+ FSE+ | w_freq: 3 - 3 | wiki_freq: 9 - 5 | sentence_idx: 590075 | align_1: 3-2 | align_2: 4-7 | ner_entity: ESF+-FSE+ |    How will the ESF+ simplify the management and payment of funds ? ||| Comment le FSE+ permettra -t -il de simplifier la gestion et le paiement des fonds ?
+
+Mujaheddin Moudjahidines | w_freq: 1 - 2 | wiki_freq: 66 - 99 | sentence_idx: 599823 | align_1: 5-4 | align_2: 6-10 | ner_entity: Mujaheddin-Moudjahidines |    Then I will ask the Mujaheddin ( 2 ) to attack them there ( 3 ) . ” ||| Je demanderai alors aux Moudjahidines [ du peuple iranien ] ( 2 ) de les attaquer là - bas ( 3 ) . »
+
+E-26 E-26 | w_freq: 22 - 20 | wiki_freq: 7 - 1 | sentence_idx: 602606 | align_1: 0-0 | align_2: 1-5 | ner_entity: none-E-26 |    E-26 Not long ago up in the mountains , I think Dr. Akerman , if I 'm not mistaken is setting here this afternoon . ||| E-26 Il n’ y a pas longtemps , là - haut dans les montagnes , je pense que Dr Akerman , si je ne me trompe pas , est assis ici cet après-midi .
+
+RIVER RIVER | w_freq: 1 - 1 | wiki_freq: 73 - 11 | sentence_idx: 616353 | align_1: 12-18 | align_2: 13-24 | ner_entity: none-SUPPER RIVER |    However , look a little closer , SUPERIOR = SUP-E-RIO or SUPPER RIVER . ||| Cependant , regardez - y de plus près , SUPERIOR = SUP - E - RIO ou SUPPER RIVER ( RIVIÈRE du SOUPER ) .
+
+E-445 E-445 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 618857 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-445 |    E-445 And when the battle is over we shall wear the crown . ||| E-445 ( 355 ) Et quand la bataille sera terminée , nous porterons la couronne .
+
+Altamir Altamir | w_freq: 1 - 1 | wiki_freq: 24 - 7 | sentence_idx: 628626 | align_1: 2-1 | align_2: 3-9 | ner_entity: Altamir-Altamir |    Why has Altamir exclusively invested with Apax Partners ? ||| Pourquoi Altamir a t -elle jusqu’ à présent investi exclusivement avec Apax Partners ?
+
+TRIBE TRIBE | w_freq: 1 - 1 | wiki_freq: 72 - 2 | sentence_idx: 628981 | align_1: 2-2 | align_2: 3-6 | ner_entity: TRIBE-TRIBE |    Secondly , TRIBE faced the challenge of engaging a very wide target group – the general public . ||| Ensuite , TRIBE s’ est trouvé confronté au défi d’ impliquer un groupe cible très large , c’ est - à - dire le grand public .
+
+L-365 E-365 | w_freq: 1 - 2 | wiki_freq: 3 - 0 | sentence_idx: 632042 | align_1: 0-0 | align_2: 1-6 | ner_entity: none-E-365 |    L-365 Outside , remember , I might not never see your hand . ||| E-365 Ceux qui sont à l’ extérieur , souvenez -vous , il se peut que je ne voie jamais votre main .
+
+E-42 E-42 | w_freq: 26 - 27 | wiki_freq: 3 - 1 | sentence_idx: 639630 | align_1: 0-0 | align_2: 1-5 | ner_entity: none-E-42 |    E-42 We see this , from the beginning . ||| E-42 C’ est ce que nous voyons , dès le commencement .
+
+Taraneh Taraneh | w_freq: 3 - 3 | wiki_freq: 93 - 13 | sentence_idx: 649657 | align_1: 1-0 | align_2: 2-5 | ner_entity: Taraneh-Taraneh |    Was Taraneh arrested on 7th Tir ( 28th June ) near Ghoba mosque ? ||| Taraneh a -t -elle été arrêtée le 7 Tir ( 28 juin ) près de la mosquée Ghoba ?
+
+E-261 E-261 | w_freq: 4 - 5 | wiki_freq: 0 - 1 | sentence_idx: 657704 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-261 |    E-261 Right now , those things that have been said a few years ago ... ||| E-261 ( 176 ) Maintenant même , ces choses qui ont été dites il y a quelques années ...
+
+Guangbiao Guangbiao | w_freq: 1 - 1 | wiki_freq: 20 - 3 | sentence_idx: 664082 | align_1: 3-2 | align_2: 4-7 | ner_entity: Chen Guangbiao-Chen Guangbiao |    How could Chen Guangbiao so easily and casually take the two women to New York for plastic surgery ? ||| Comment Chen Guangbiao a -t -il pu si facilement et négligemment amener les deux femmes à New York pour une chirurgie esthétique ?
+
+E-131 E-131 | w_freq: 8 - 9 | wiki_freq: 0 - 0 | sentence_idx: 667630 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-131 |    E-131 I said , " The cigarettes will take care of theirself . ||| E-131 ( 132 ) J' ai dit : " Les cigarettes s' occuperont d' elles - mêmes .
+
+Attouche Attouche | w_freq: 1 - 1 | wiki_freq: 0 - 8 | sentence_idx: 680032 | align_1: 1-1 | align_2: 2-5 | ner_entity: Ben Attouche-Ben Attouche |    Ben Attouche reported that more than 1,000 travel agencies that are located in Tunisia are facing many problems and that they suffer from a very difficult financial situation . ||| Ben Attouche , a fait savoir que plus de 1000 agences de voyages qui sont implantées en Tunisie , sont confrontées à de nombreux problèmes et qu’ elles soufrent d’ une situation financière très difficile .
+
+Brestrogen Brestrogen | w_freq: 5 - 5 | wiki_freq: 0 - 0 | sentence_idx: 681389 | align_1: 4-4 | align_2: 5-8 | ner_entity: Brestrogen-Brestrogen |    You can also order Brestrogen internationally . ||| Vous pouvez également commander Brestrogen à l’ échelle internationale .
+
+E-171 E-171 | w_freq: 5 - 4 | wiki_freq: 0 - 0 | sentence_idx: 701185 | align_1: 0-0 | align_2: 1-4 | ner_entity: E-171-E-171 |    E-171 A gift of faith is not something you take and do something with . ||| E-171 ( 137 ) Un don de foi , ce n' est pas quelque chose que vous prenez et avec lequel vous faites quelque chose .
+
+WSWS WSWS | w_freq: 16 - 16 | wiki_freq: 56 - 2 | sentence_idx: 729484 | align_1: 25-31 | align_2: 26-36 | ner_entity: WSWS-WSWS |    During my initial discussions , the article A socialist program to end the war and social inequality [ in Sri Lanka ] appeared on the WSWS . ||| Au cours de mes premières discussions , l' article Un programme socialiste pour mettre fin à la guerre et aux inégalités sociales [ au Sri Lanka ] est paru sur le WSWS ( en anglais ) .
+
+ZEOLITE ZEOLITE | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 735871 | align_1: 15-15 | align_2: 16-19 | ner_entity: none-ZEOLITE |    To be a reference for the commercialization , production and technological development of the mineral ZEOLITE worldwide , being recognized as one of the most important players ; ||| Être une référence pour la commercialisation , la production et le développement technologique du minéral ZEOLITE à l’ échelle mondiale , étant reconnu comme l’ un des plus importants players ;
+
+C.4.3 C.4.3 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 743548 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-C.4.3 |    C.4.3 What does the existence of Big Business mean for economic theory and wage labour ? ||| C.4.3 – Qu’ est -ce que l’ existence de grandes entreprises signifie pour la théorie économique et le salariat ?
+
+Pizzaro Pizzaro | w_freq: 1 - 1 | wiki_freq: 55 - 19 | sentence_idx: 746068 | align_1: 18-14 | align_2: 19-18 | ner_entity: Pizzaro-Pizzaro |    This one will bring back her to the castle of her beloved where she will have to face Pizzaro to protect a dangerous document . ||| Celle - ci la ramènera au château de son aimé où elle devra affronter Pizzaro , lui-même , pour protéger un document dangereux .
+
+WebLog CarnetWeb | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 766208 | align_1: 13-15 | align_2: 14-19 | ner_entity: WebLog-CarnetWeb |    However , on a wiki , there is less pressure than on a WebLog to respond quickly . ||| Cependant , sur un wiki , il y a moins de pression que sur un CarnetWeb ( blog ) pour répondre rapidement .
+
+8178 8178 | w_freq: 2 - 2 | wiki_freq: 13 - 4 | sentence_idx: 782107 | align_1: 14-21 | align_2: 15-25 | ner_entity: none-ISO 8178 |    However , an engine application can only be evaluated using this part of ISO 8178 once the appropriate test cycle has been developed . ||| Cependant , une application d' un moteur ne peut être évaluée , au moyen de la présente partie de l' ISO 8178 , qu' une fois que le cycle d' essai approprié a été développé .
+
+E-103 E-103 | w_freq: 9 - 10 | wiki_freq: 1 - 3 | sentence_idx: 816706 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-103 |    E-103 No wonder they ca n't believe in miracles . ||| E-103 Ce n’ est pas étonnant qu’ ils ne puissent pas croire aux miracles .
+
+12:08 12:08 | w_freq: 1 - 1 | wiki_freq: 63 - 0 | sentence_idx: 862763 | align_1: 11-13 | align_2: 12-17 | ner_entity: 12:08 East of Bucharest-none |    Are the social changes triggered by the revolution more important in 12:08 East of Bucharest than Ceausescu ’s escape ? ||| Les transformations sociales provoquées par la révolution sont - elles plus importantes dans 12:08 , A l' est de Bucharest que la fuite de Ceausescu ?
+
+ACADEMY ACADEMY | w_freq: 3 - 1 | wiki_freq: 66 - 7 | sentence_idx: 876133 | align_1: 7-7 | align_2: 8-11 | ner_entity: THE PHOTO ACADEMY-THE PHOTO ACADEMY |    “ These few courses at THE PHOTO ACADEMY gave me clear answers . ” ||| « Ces quelques stages à THE PHOTO ACADEMY , m’ ont apportés des réponses claires . »
+
+Monsanloran MONSANLORAN | w_freq: 3 - 2 | wiki_freq: 0 - 0 | sentence_idx: 887274 | align_1: 0-0 | align_2: 1-4 | ner_entity: Monsanloran-MONSANLORAN |    Monsanloran : We will speak in French , it will be easier for this little girl and we have to exercise more the different languages . ||| MONSANLORAN ( en Anglais ): Nous parlerons en français , cela sera plus facile pour la fillette et nous devons nous exercer un peu plus dans les différentes langues .
+
+E-36 E-36 | w_freq: 20 - 21 | wiki_freq: 2 - 2 | sentence_idx: 893033 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-36 |    E-36 Now , you girls and boys know better than that . ||| E-36 ( 17 ) Maintenant , vous jeunes filles et jeunes garçons , vous en savez mieux que cela .
+
+Autogenocide Autogenocide | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 896588 | align_1: 12-12 | align_2: 13-22 | ner_entity: The Nine Stages of American Autogenocide-The Nine Stages of American Autogenocide |    Martha Rose Crow , in her article The Nine Stages of American Autogenocide , describes how things work in such networks . ||| Martha Rose Crow , dans son article The Nine Stages of American Autogenocide , ( Les Neuf Etapes de l' AutoDestruction Américaine ) décrit comment les choses fonctionnent dans de tels réseaux .
+
+Hunink Hunink | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 902150 | align_1: 2-3 | align_2: 3-8 | ner_entity: Maarten Hunink-Maarten Hunink |    By Maarten Hunink And what does it have to do with tomato soup ? ||| Écrit par Maarten Hunink ( en anglais ) Et qu’ a -t -elle à voir avec la soupe à la tomate ?
+
+ThamoodhWe Thamoud | w_freq: 1 - 2 | wiki_freq: 0 - 5 | sentence_idx: 913833 | align_1: 3-2 | align_2: 4-7 | ner_entity: ThamoodhWe-Thamoud |    7:73 And to ThamoodhWe sent their brother Salih . ||| 7:73 Aux Thamoud , ( Nous avons envoyé ) leur frère Salih .
+
+Primobolan Primobolan | w_freq: 2 - 2 | wiki_freq: 22 - 2 | sentence_idx: 915000 | align_1: 4-2 | align_2: 5-7 | ner_entity: Primobolan-Primobolan |    So why is n’t Primobolan used by every body ? ||| Ainsi pourquoi Primobolan n' est -il pas employé par chaque corps ?
+
+66/288 66/288 | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 915675 | align_1: 6-4 | align_2: 7-14 | ner_entity: United Nations Resolution 66/288-none |    ( 12 ) United Nations Resolution 66/288 ‘ The future we want ’ , paragraph 135 . ||| ( 12 ) Résolution 66/288 de l' Assemblée générale des Nations unies , intitulée " L' avenir que nous voulons " , paragraphe 135 .
+
+Spasibo Spasibo | w_freq: 1 - 1 | wiki_freq: 15 - 1 | sentence_idx: 917479 | align_1: 8-6 | align_2: 9-14 | ner_entity: Spasibo-Spasibo |    It was only three months after we opened Spasibo that we realized we had to pay taxes . ” ||| Seulement trois mois après avoir ouvert Spasibo   ! , nous nous sommes rendu compte qu’ il fallait payer des impôts » .
+
+ROME ROME | w_freq: 9 - 8 | wiki_freq: 37 - 55 | sentence_idx: 919380 | align_1: 0-0 | align_2: 1-5 | ner_entity: ROME-ROME |    ROME – Romans continue the party not just late into the night , but for three full days . ||| ROME ( AUSSI ITALIE ) - Romains continuent la partie non seulement tard dans la nuit , mais pendant trois jours complets .
+
+E-97 E-97 | w_freq: 10 - 14 | wiki_freq: 0 - 1 | sentence_idx: 955791 | align_1: 0-0 | align_2: 1-4 | ner_entity: none-E-97 |    E-97 He knows all things . ||| E-97 ( 103 ) Il sait toutes choses .
+
+Grottola Grottola | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 976384 | align_1: 0-0 | align_2: 1-4 | ner_entity: Grottola-Grottola |    Grottola added : “ This is a normal practice in business , [ but ] not so common for crypto startups . ||| Grottola a d’ ailleurs ajouté : “ Ceci est une pratique normale dans les affaires , [ mais ] pas si commun pour les startups crypto .
+
+Berezow Berezow | w_freq: 1 - 1 | wiki_freq: 1 - 1 | sentence_idx: 977342 | align_1: 1-1 | align_2: 2-5 | ner_entity: Berezow-Berezow |    But Berezow is determined to repeat them . ||| Mais Berezow , lui , semble déterminé à les répéter .
+

@@ -1,0 +1,26 @@
+Vendini Vendini | w_freq: 1 - 1 | wiki_freq: 22 - 1 | sentence_idx: 258860 | align_1: 1-1 | align_2: 2-7 | entity: Vendini - Vendini |    “ Vendini has successfully built a similarly unique value proposition . ||| « Vendini , de son côté , a réussi à bâtir une proposition de valeur tout aussi unique . 
+
+Xili Xili | w_freq: 1 - 1 | wiki_freq: 67 - 5 | sentence_idx: 287827 | align_1: 0-0 | align_2: 1-4 | entity: Xili - Xili |    Xili wants the authorities to “ begin tackling their own corrupt structures , ” before even thinking about providing jobs or better education . ||| Xili , lui , demande aux autorités « de commencer à lutter contre leurs propres structures corrompues » , avant même de penser à donner du travail ou une meilleure éducation . 
+
+CITC CITC | w_freq: 2 - 2 | wiki_freq: 37 - 6 | sentence_idx: 312651 | align_1: 17-19 | align_2: 18-31 | entity: CITC - CITC |    In addition , Saudi Arabia redirects all international traffic through the Communications and Information Technology Commission ( CITC ) , to filter out “ inappropriate ” content . ||| En outre , l' Arabie saoudite redirige tout le trafic international via la Communications and Information Technology Commission ( CITC , Commission de la technologie de l' information et des communications ) afin de filtrer les contenus « inappropriés » . 
+
+Grismer Grismer | w_freq: 1 - 1 | wiki_freq: 90 - 31 | sentence_idx: 462539 | align_1: 2-5 | align_2: 3-9 | entity: Grismer - M. Grismer |    As Mr. Grismer also married a non-Indian , he was not able to transfer status to his children . ||| En outre , comme M. Grismer avait , lui aussi , marié une non-Indienne , il ne pouvait pas transmettre le statut à ses enfants . 
+
+ESF+ FSE+ | w_freq: 3 - 3 | wiki_freq: 9 - 5 | sentence_idx: 590075 | align_1: 3-2 | align_2: 4-7 | entity: ESF+ - FSE+ |    How will the ESF+ simplify the management and payment of funds ? ||| Comment le FSE+ permettra -t -il de simplifier la gestion et le paiement des fonds ? 
+
+Mujaheddin Moudjahidines | w_freq: 1 - 2 | wiki_freq: 66 - 99 | sentence_idx: 599823 | align_1: 5-4 | align_2: 6-10 | entity: Mujaheddin - Moudjahidines |    Then I will ask the Mujaheddin ( 2 ) to attack them there ( 3 ) . ” ||| Je demanderai alors aux Moudjahidines [ du peuple iranien ] ( 2 ) de les attaquer là - bas ( 3 ) . » 
+
+Taraneh Taraneh | w_freq: 3 - 3 | wiki_freq: 93 - 13 | sentence_idx: 649657 | align_1: 1-0 | align_2: 2-5 | entity: Taraneh - Taraneh |    Was Taraneh arrested on 7th Tir ( 28th June ) near Ghoba mosque ? ||| Taraneh a -t -elle été arrêtée le 7 Tir ( 28 juin ) près de la mosquée Ghoba ? 
+
+WSWS WSWS | w_freq: 16 - 16 | wiki_freq: 56 - 2 | sentence_idx: 729484 | align_1: 25-31 | align_2: 26-36 | entity: WSWS - WSWS |    During my initial discussions , the article A socialist program to end the war and social inequality [ in Sri Lanka ] appeared on the WSWS . ||| Au cours de mes premières discussions , l' article Un programme socialiste pour mettre fin à la guerre et aux inégalités sociales [ au Sri Lanka ] est paru sur le WSWS ( en anglais ) . 
+
+Pizzaro Pizzaro | w_freq: 1 - 1 | wiki_freq: 55 - 19 | sentence_idx: 746068 | align_1: 18-14 | align_2: 19-18 | entity: Pizzaro - Pizzaro |    This one will bring back her to the castle of her beloved where she will have to face Pizzaro to protect a dangerous document . ||| Celle - ci la ramènera au château de son aimé où elle devra affronter Pizzaro , lui-même , pour protéger un document dangereux . 
+
+WebLog CarnetWeb | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 766208 | align_1: 13-15 | align_2: 14-19 | entity: WebLog - CarnetWeb |    However , on a wiki , there is less pressure than on a WebLog to respond quickly . ||| Cependant , sur un wiki , il y a moins de pression que sur un CarnetWeb ( blog ) pour répondre rapidement . 
+
+Primobolan Primobolan | w_freq: 2 - 2 | wiki_freq: 22 - 2 | sentence_idx: 915000 | align_1: 4-2 | align_2: 5-7 | entity: Primobolan - Primobolan |    So why is n’t Primobolan used by every body ? ||| Ainsi pourquoi Primobolan n' est -il pas employé par chaque corps ? 
+
+Spasibo Spasibo | w_freq: 1 - 1 | wiki_freq: 15 - 1 | sentence_idx: 917479 | align_1: 8-6 | align_2: 9-14 | entity: Spasibo - Spasibo |    It was only three months after we opened Spasibo that we realized we had to pay taxes . ” ||| Seulement trois mois après avoir ouvert Spasibo   ! , nous nous sommes rendu compte qu’ il fallait payer des impôts » . 
+
+ROME ROME | w_freq: 9 - 8 | wiki_freq: 37 - 55 | sentence_idx: 919380 | align_1: 0-0 | align_2: 1-5 | entity: ROME - ROME |    ROME – Romans continue the party not just late into the night , but for three full days . ||| ROME ( AUSSI ITALIE ) - Romains continuent la partie non seulement tard dans la nuit , mais pendant trois jours complets . 
+

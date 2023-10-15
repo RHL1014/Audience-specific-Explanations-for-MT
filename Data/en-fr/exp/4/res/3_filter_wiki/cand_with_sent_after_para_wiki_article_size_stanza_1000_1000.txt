@@ -1,0 +1,28 @@
+Hermans Hermans | w_freq: 1 - 1 | wiki_freq: 645 - 274 | sentence_idx: 71968 | align_1: 13-15 | align_2: 14-19 | entity: Hermans - Hermans |    Birds fly there only three times a year ; they are called “ Hermans ” and resemble our bullfinches . ||| Les oiseaux n’ y volent que trois fois par an ; On les appelle " Hermans [ Germains ] " et ils ressemblent à nos bouvreuils . 
+
+Iblis Iblis | w_freq: 2 - 1 | wiki_freq: 539 - 150 | sentence_idx: 231928 | align_1: 6-5 | align_2: 7-10 | entity: Iblis - Iblis |    How many a person killed by Iblis they have revived . ||| Combien de personnes assassinées par Iblis ( Démon ) ont -ils ressuscitées ? 
+
+Walzer Walzer | w_freq: 10 - 10 | wiki_freq: 364 - 117 | sentence_idx: 246581 | align_1: 7-7 | align_2: 8-13 | entity: Walzer - Walzer |    One of the questions raised is whether Walzer is basically unable to justify the unjustifiable in the name of common values , even though these common values are bad for a whole host of reasons . ||| Une question suscitée est de savoir si Walzer , au fond , n’ arrive pas à justifier l’ injustifiable au nom des valeurs communes même si ces valeurs communes sont mauvaises pour tout un tas de raisons . 
+
+Fukubukuro Fukubukuro | w_freq: 1 - 1 | wiki_freq: 4 - 1 | sentence_idx: 265275 | align_1: 12-11 | align_2: 13-15 | entity: Fukubukuro - Fukubukuro |    At the same time , this is also the purpose of the Fukubukuro that we finish to end with the double , triple or quadruple of the amount of the bag itself , otherwise everyone would not jostle to buy LOL ! ||| En même temps , c' est aussi ça le but du Fukubukuro , c' est qu' on finit avec le double , triple ou quadruple du montant du sac lui-même , sinon tout le monde ne se bousculerait pas pour en acheter LOL ! 
+
+Juncker Juncker | w_freq: 101 - 100 | wiki_freq: 807 - 533 | sentence_idx: 267186 | align_1: 3-2 | align_2: 4-10 | entity: Jean-Claude Juncker - Jean-Claude Juncker |    Commission President Jean-Claude Juncker said : " Our parents and grandparents founded this Union with one common vision : never again war . ||| M. Jean-Claude Juncker , président de la Commission , a déclaré à ce propos : « Nos parents et grands - parents ont fondé cette Union avec une vision commune : plus jamais de guerre . 
+
+Midian Midian | w_freq: 3 - 2 | wiki_freq: 333 - 38 | sentence_idx: 270321 | align_1: 4-4 | align_2: 5-8 | entity: Midian - Midian |    And the army of Midian was below him in the valley . ||| Or l’ armée de Midian ( Madian ) était au - dessous de lui , dans la vallée . 
+
+Cordus Cordus | w_freq: 1 - 1 | wiki_freq: 114 - 39 | sentence_idx: 307360 | align_1: 1-1 | align_2: 2-5 | entity: Valerius Cordus - Valerius Cordus |    Valerius Cordus first distilled the essential oil in 1544 after the Portuguese discovered the East . ||| Valerius Cordus a d ’ abord distillé l’ huile essentielle en 1544 après que les Portugais aient découvert l’ Est . 
+
+Wallah Wallah | w_freq: 2 - 2 | wiki_freq: 68 - 49 | sentence_idx: 311243 | align_1: 4-5 | align_2: 5-11 | entity: Wallah - Wallah |    He declared : “ Wallah , if the Rafah crossing opened tomorrow , everyone would leave . ||| Il a déclaré : « Wallah [ Je te jure ] , si le passage de Rafah s’ ouvrait demain , tout le monde partirait . 
+
+Antarsya Antarsya | w_freq: 3 - 5 | wiki_freq: 4 - 4 | sentence_idx: 433593 | align_1: 0-0 | align_2: 1-4 | entity: Antarsya - Antarsya |    Antarsya is not the same but there is still wide confusion in its ranks . ||| Antarsya , ce n’ est pas la même chose , il règne cependant toujours une grande confusion dans ses rangs . 
+
+Juncker Juncker | w_freq: 101 - 100 | wiki_freq: 807 - 533 | sentence_idx: 491774 | align_1: 3-2 | align_2: 4-10 | entity: Jean-Claude Juncker - Jean-Claude Juncker |    Commission President Jean-Claude Juncker said : “ Our parents and grandparents founded this Union with one common vision : never again war . ||| M. Jean-Claude Juncker , président de la Commission , a déclaré à ce propos : « Nos parents et grands - parents ont fondé cette Union avec une vision commune : plus jamais de guerre . 
+
+Natan Natan | w_freq: 5 - 6 | wiki_freq: 861 - 323 | sentence_idx: 564031 | align_1: 3-5 | align_2: 4-10 | entity: Natan - Natan |    This encounter with Natan also opened up new opportunities for us in the Middle East – in Dubai , for example . ||| Cette rencontre avec la maison Natan nous a , en outre , ouvert de nouvelles opportunités au Moyen-Orient , à Dubaï par exemple . 
+
+Guangbiao Guangbiao | w_freq: 1 - 1 | wiki_freq: 20 - 3 | sentence_idx: 664082 | align_1: 3-2 | align_2: 4-7 | entity: Chen Guangbiao - Chen Guangbiao |    How could Chen Guangbiao so easily and casually take the two women to New York for plastic surgery ? ||| Comment Chen Guangbiao a -t -il pu si facilement et négligemment amener les deux femmes à New York pour une chirurgie esthétique ? 
+
+Verhofstadt Verhofstadt | w_freq: 12 - 12 | wiki_freq: 409 - 283 | sentence_idx: 731363 | align_1: 1-1 | align_2: 2-8 | entity: Guy Verhofstadt - Guy Verhofstadt |    Guy Verhofstadt called for a true European defence policy , which could be the European pillar in NATO . ||| Guy Verhofstadt a , de son côté , appelé à une véritable politique européenne de défense , qui pourrait être le pilier européen de l’ OTAN . 
+
+Cirillo Cirillo | w_freq: 2 - 2 | wiki_freq: 449 - 154 | sentence_idx: 968431 | align_1: 0-0 | align_2: 1-4 | entity: Cirillo - Cirillo |    Cirillo realized that forcing himself to sit at his desk hour after hour was n’t helping him study . ||| Cirillo s’ est rendu compte que le fait de se forcer à s’ asseoir à son bureau heure après heure ne l’ aidait pas à étudier . 
+

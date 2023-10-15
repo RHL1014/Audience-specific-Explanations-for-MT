@@ -1,0 +1,38 @@
+Kigali Kigali | w_freq: 35 - 35 | wiki_freq: 2288 - 1029 | sentence_idx: 49516 | align_1: 4-5 | align_2: 5-10 | entity: Kigali - Kigali |    Official sources reached in Kigali disagree . ||| Les sources officielles contactées à Kigali ne sont pas d’ accord . 
+
+Cayce Cayce | w_freq: 12 - 12 | wiki_freq: 616 - 94 | sentence_idx: 82261 | align_1: 11-11 | align_2: 12-16 | entity: Edgar Cayce - Edgar Cayce |    Imagine having the ability to predict your own death – Edgar Cayce did . ||| Imaginez avoir la capacité de prévoir votre propre mort – Edgar Cayce lui , l’ a fait . 
+
+Lenovo Lenovo | w_freq: 32 - 32 | wiki_freq: 2409 - 218 | sentence_idx: 188449 | align_1: 8-9 | align_2: 9-13 | entity: Lenovo - Lenovo |    This was one of my biggest concerns when Lenovo acquired Motorola a few years ago , but after seeing the Moto 360 Sport , it is no longer there . ||| C’ était l’ une de mes principales préoccupations lorsque Lenovo a fait l’ acquisition de Motorola il ya quelques années , mais après avoir vu le Moto 360 Sport , il n’ est plus là . 
+
+Saint-Urbain Saint-Urbain | w_freq: 1 - 1 | wiki_freq: 97 - 401 | sentence_idx: 199196 | align_1: 7-7 | align_2: 8-12 | entity: Saint-Urbain - Saint-Urbain |    Unfortunately , it does not work in Saint-Urbain because we are between two mountains . ||| Malheureusement , cela ne fonctionne pas à Saint-Urbain , et c' est parce qu' on est entre deux monts . 
+
+Ernman Ernman | w_freq: 2 - 2 | wiki_freq: 100 - 36 | sentence_idx: 227553 | align_1: 2-1 | align_2: 3-6 | entity: Malena Ernman - Malena Ernman |    Did Malena Ernman not publish a book with her husband just a few days before the start of Greta 's strike ? ||| Malena Ernman n’ a -t -elle pas publié un livre , avec son conjoint , quelques jours à peine avant le début de la grève de Greta ? 
+
+Oriflame Oriflame | w_freq: 5 - 5 | wiki_freq: 57 - 6 | sentence_idx: 240383 | align_1: 6-6 | align_2: 7-10 | entity: Oriflame - Oriflame |    It turns out that the company Oriflame except cosmetics produces good vitamins ! . ||| Il s' avère que la société Oriflame , à l' exception des cosmétiques , produit de bonnes vitamines ! . 
+
+Twyfelfontein Twyfelfontein | w_freq: 1 - 1 | wiki_freq: 33 - 16 | sentence_idx: 252476 | align_1: 3-3 | align_2: 4-8 | entity: Twyfelfontein - Twyfelfontein |    The elephants at Twyfelfontein two days ago must have been one group . ||| Les éléphants de Twyfelfontein , il y a deux jours a doivent être un groupe . 
+
+Politico Politico | w_freq: 10 - 10 | wiki_freq: 2534 - 228 | sentence_idx: 388247 | align_1: 8-11 | align_2: 9-15 | entity: Politico - Politico |    Merkel convinces Canada and Japan on CO2 ( Politico ) ||| Merkel convainc le Canada et le Japon sur le CO2 ( Politico , en anglais ) 
+
+Lampedusa Lampedusa | w_freq: 20 - 20 | wiki_freq: 524 - 449 | sentence_idx: 534123 | align_1: 4-5 | align_2: 5-10 | entity: Lampedusa - Lampedusa |    When I went to Lampedusa three years ago , this phenomenon had already started . ||| Quand je suis allé à Lampedusa , il y a trois ans , ce phénomène commençait déjà . 
+
+KAIST KAIST | w_freq: 6 - 6 | wiki_freq: 361 - 38 | sentence_idx: 562821 | align_1: 2-3 | align_2: 3-8 | entity: KAIST - KAIST |    L’X and KAIST already identified fields of cooperation : ||| L’ X et KAIST ont d’ ores et déjà identifié des domaines de collaboration : 
+
+Badoer Badoer | w_freq: 1 - 1 | wiki_freq: 452 - 236 | sentence_idx: 592121 | align_1: 10-11 | align_2: 11-16 | entity: Luca Badoer - Luca Badoer |    “ For sure it is an important race for Luca Badoer next weekend . ||| « Bien sûr , c' est une course importante pour Luca Badoer le week - end prochain . 
+
+Bunyan Bunyan | w_freq: 1 - 1 | wiki_freq: 1841 - 235 | sentence_idx: 674710 | align_1: 1-1 | align_2: 2-10 | entity: John Bunyan - John Bunyan |    John Bunyan said , “ He who runs from God in the morning will scarcely find Him the rest of the day . ” ||| John Bunyan , l’ auteur du Voyage du Pèlerin , disait avec une pointe d’ humour : « Celui qui court loin de Dieu dès le matin aura du mal à la retrouver pendant le reste de la journée » 
+
+Kincaid Kincaid | w_freq: 3 - 3 | wiki_freq: 2402 - 227 | sentence_idx: 711445 | align_1: 17-22 | align_2: 18-27 | entity: Kincaid - Kincaid |    The problem is , there is very little to corroborate this story or to even prove that Kincaid was ever a real person . ||| Le problème , c’ est qu’ il n ’ y a pas grand-chose pour corroborer cette histoire ou même pour prouver que Kincaid n ’ a jamais été une vraie personne . 
+
+Chanel Chanel | w_freq: 34 - 36 | wiki_freq: 4998 - 2248 | sentence_idx: 715418 | align_1: 0-2 | align_2: 1-6 | entity: Chanel - Chanel |    Chanel never abandoned it and continues to reinvent it each season . ||| La maison Chanel ne l’ a jamais abandonné et continue de le réinventer chaque saison . 
+
+Felpham Felpham | w_freq: 1 - 1 | wiki_freq: 109 - 5 | sentence_idx: 720641 | align_1: 6-6 | align_2: 7-10 | entity: Felpham - Felpham |    " [ The town of ] Felpham is a sweet place for Study , because it is more spiritual than London . ||| « [ La ville de ] Felpham ( en ) est une douce place pour étudier car elle est plus spirituelle que Londres . 
+
+Paraty Paraty | w_freq: 2 - 2 | wiki_freq: 169 - 86 | sentence_idx: 787364 | align_1: 5-5 | align_2: 6-13 | entity: Paraty - Paraty |    In Angra dos Reis and Paraty credit card use is more difficult , especially in Ilha Grande . ||| Dans Angra dos Reis et Paraty , l’ utilisation de la carte de crédit est plus difficile , en particulier dans Ilha Grande . 
+
+Philbin Philbin | w_freq: 1 - 1 | wiki_freq: 1217 - 107 | sentence_idx: 874459 | align_1: 5-5 | align_2: 6-9 | entity: Regis Philbin - Regis Philbin |    And this year also Regis Philbin stopped by with his lovely wife Joy ! ||| Et cette année également Regis Philbin s’ y est arrêté avec sa belle épouse Joy ! 
+
+Syrians Syriens | w_freq: 215 - 220 | wiki_freq: 3109 - 940 | sentence_idx: 878650 | align_1: 19-25 | align_2: 20-29 | entity: Syrians - Syriens |    Syrian refugees living in the city of São Paulo said that Brazil is the only country granting visas to Syrians currently : ||| Des réfugiés syriens qui vivent dans la ville de São Paulo ont expliqué que le Brésil est le seul pays qui accorde des visas aux Syriens à l’ heure actuelle : 
+
+Oden Oden | w_freq: 4 - 4 | wiki_freq: 1014 - 172 | sentence_idx: 958129 | align_1: 2-2 | align_2: 3-6 | entity: Oden - Oden |    But , Oden realized that his liberal scholarly views had serious social consequences . ||| Mais , Oden s’ est rendu compte que ses vues libérales avaient de graves conséquences sociales . 
+

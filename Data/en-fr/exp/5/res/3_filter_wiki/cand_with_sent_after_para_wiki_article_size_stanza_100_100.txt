@@ -1,0 +1,2 @@
+Wikiversity Wikiversité | w_freq: 2 - 2 | wiki_freq: 78 - 37 | sentence_idx: 479321 | align_1: 8-7 | align_2: 9-12 | entity: Wikiversity - Wikiversité |    People can always learn , but should the Wikiversity offer complete courses ? ||| On peut toujours apprendre , mais la Wikiversité se doit -elle d' offrir des cours complets ? 
+

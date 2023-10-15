@@ -1,0 +1,6 @@
+Werbach 韦尔巴赫 | w_freq: 1 - 1 | wiki_freq: 100 - 2 | sentence_idx: 377483 | align_1: 3-1 | align_2: 4-6 | entity: Werbach - 韦尔巴赫 |    According to Professor Werbach these issues of trust will take many years to be resolved . ||| 根据 韦尔巴赫 教授 的 说法 ， 这些 信任 问题 需要 很多 年 才能 得到 解决 。 
+
+Starbucks 星巴克 | w_freq: 107 - 105 | wiki_freq: 3880 - 653 | sentence_idx: 493753 | align_1: 15-10 | align_2: 16-14 | entity: Starbucks - 星巴克 |    People went and go to Starbucks , because they trust that when they go to Starbucks they ’re going to have a certain experience and get a certain quality coffee . ||| 人们 去 星巴克 ， 因为 他们 相信 当 他们 去 星巴克 的 时候 ， 他们 会 有 一定 的 经验 ， 得到 一定 质量 的 咖啡 。 
+
+Jijiga 吉吉加 | w_freq: 1 - 1 | wiki_freq: 217 - 5 | sentence_idx: 543741 | align_1: 4-2 | align_2: 5-7 | entity: Jijiga - 吉吉加 |    On the flight to Jijiga I suddenly realised that everyone around me was speaking Somali . ||| 在 飞往 吉吉加 的 航班 上 ， 我 突然 意识 到 我 周围 的 每个 人 都 在 说 索马里 。 
+

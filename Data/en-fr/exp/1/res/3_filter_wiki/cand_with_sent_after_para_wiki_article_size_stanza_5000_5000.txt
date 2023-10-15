@@ -1,0 +1,52 @@
+Novecento Novecento | w_freq: 1 - 1 | wiki_freq: 278 - 136 | sentence_idx: 36726 | align_1: 3-1 | align_2: 4-7 | entity: Novecento - Novecento |    ‘ Please , Novecento , just the normal notes , OK ? ’ ||| " Novecento , s' il te plaît , que les notes normales , d' accord ? " 
+
+Gracias Gracias | w_freq: 4 - 5 | wiki_freq: 878 - 165 | sentence_idx: 46474 | align_1: 3-2 | align_2: 4-7 | entity: Gracias - Gracias |    “ Why was Gracias allowed to speak at the papal summit ? ||| « Pourquoi Gracias a -t -il été autorisé à prendre la parole au sommet papal ? 
+
+Gracias Gracias | w_freq: 4 - 5 | wiki_freq: 878 - 165 | sentence_idx: 46475 | align_1: 3-2 | align_2: 4-7 | entity: Gracias - Gracias |    “ Why was Gracias allowed to speak at the papal summit ? ||| « Pourquoi Gracias a -t -il été autorisé à prendre la parole au sommet papal ? 
+
+Samaria Samarie | w_freq: 30 - 30 | wiki_freq: 1734 - 746 | sentence_idx: 52242 | align_1: 3-4 | align_2: 4-8 | entity: Samaria - Samarie |    And they possessed Samaria , and they lived in its cities . ||| Ils prirent possession de Samarie [ Shomerown ] , et ils habitèrent dans ses villes . 
+
+Padang Padang | w_freq: 4 - 4 | wiki_freq: 2706 - 325 | sentence_idx: 175051 | align_1: 2-1 | align_2: 3-6 | entity: Gunung Padang - Gunung Padang |    Was Gunung Padang constructed in response to some kind of global or regional catastrophe ? ||| Gunung Padang a -t -il été construit en réponse à une sorte de catastrophe mondiale ou régionale ? 
+
+Georgians Géorgiens | w_freq: 20 - 21 | wiki_freq: 3432 - 1103 | sentence_idx: 201196 | align_1: 13-18 | align_2: 14-24 | entity: Georgians - Géorgiens |    If there is no salt or bread on the table , then for Georgians there is " nothing to eat " . ||| S' il n' y a pas de sel ou de pain sur la table , alors pour les Géorgiens c' est qu’ il n’ y a " rien à manger " . 
+
+Inman Inman | w_freq: 5 - 5 | wiki_freq: 2972 - 175 | sentence_idx: 209400 | align_1: 6-5 | align_2: 7-10 | entity: Bobby Ray Inman - Bobby Ray Inman |    K : Why was Bobby Ray Inman so helpful ? ||| KC : Pourquoi Bobby Ray Inman s’ est -il montré si serviable ? 
+
+Schutz Schutz | w_freq: 3 - 3 | wiki_freq: 817 - 155 | sentence_idx: 210264 | align_1: 1-0 | align_2: 2-5 | entity: Schutz - Schutz |    Was Schutz right too early with the one that is not without mentioning the future Panamera ? ||| Schutz a -t -il eu raison trop tôt avec celle qui n’ est pas sans évoquer la future Panamera ? 
+
+Hermione Hermione | w_freq: 17 - 18 | wiki_freq: 2714 - 1353 | sentence_idx: 282631 | align_1: 2-1 | align_2: 3-6 | entity: Hermione - Hermione |    Or has Hermione mistakenly assumed you still want to know as much as I can tell you ? " ||| Ou Hermione a -t -elle par erreur supposé que vous voulez toujours en savoir autant que je peux vous en dire ? " 
+
+Chaturbate Chaturbate | w_freq: 9 - 5 | wiki_freq: 24 - 6 | sentence_idx: 308232 | align_1: 5-8 | align_2: 6-12 | entity: Chaturbate - Chaturbate |    6 ) Has anyone from Chaturbate bought you anything ? ||| 7 ) Est -ce que quelqu’ un de Chaturbate t’ as déjà acheté quelque chose ? 
+
+Siddhartha Siddhartha | w_freq: 3 - 3 | wiki_freq: 1299 - 229 | sentence_idx: 317928 | align_1: 6-6 | align_2: 7-11 | entity: Siddhartha - Siddhartha |    But he has given to me Siddhartha myself . ” ||| Mais il m’ a donné à Siddhartha , à moi - même . » 
+
+Crispus Crispus | w_freq: 1 - 1 | wiki_freq: 605 - 174 | sentence_idx: 346637 | align_1: 6-5 | align_2: 7-10 | entity: Crispus - Crispus |    Why , for example , was Crispus poisoned in Pola , of all places ? ||| Pourquoi , par exemple , Crispus a -t -il été empoisonné à Pola , de tous les endroits ? 
+
+Hillman Hillman | w_freq: 3 - 3 | wiki_freq: 4667 - 660 | sentence_idx: 372505 | align_1: 1-1 | align_2: 2-6 | entity: James Hillman - James Hillman |    James Hillman once said to me : “ It is important to be Protestant once a week ” . ||| James Hillman m’ a dit une fois : « Il est important d’ être protestant une fois par semaine » . 
+
+Cyberpunk Cyberpunk | w_freq: 11 - 11 | wiki_freq: 662 - 138 | sentence_idx: 446979 | align_1: 13-17 | align_2: 14-22 | entity: Cyberpunk - Cyberpunk |    When asked , during a 2005 interview , " Why was your book Cyberpunk never published when you sold it to a publisher in 1989 ? " ||| Lorsqu’ on lui a demandé , lors d’ une interview en 2005 , " Pourquoi votre livre Cyberpunk n’ a -t -il jamais été publié quand vous l' avez vendu à un éditeur en 1989 ? " 
+
+Dor Dor | w_freq: 1 - 1 | wiki_freq: 1319 - 637 | sentence_idx: 469677 | align_1: 8-10 | align_2: 9-15 | entity: Gil Dor - Gil Dor |    I will end with something beautiful that Gil Dor once told me . ||| Je vais terminer avec quelque chose de beau que Gil Dor m’ a dit une fois . 
+
+Cheadle Cheadle | w_freq: 2 - 2 | wiki_freq: 2086 - 212 | sentence_idx: 576173 | align_1: 1-1 | align_2: 2-5 | entity: Don Cheadle - Don Cheadle |    Don Cheadle is 19 percent European . ||| Don Cheadle , lui , est à 19 % européen . 
+
+Ponzi Ponzi | w_freq: 7 - 8 | wiki_freq: 1617 - 221 | sentence_idx: 588591 | align_1: 5-5 | align_2: 6-10 | entity: Charles Ponzi - Charles Ponzi |    The case relating to Charles Ponzi approximately 100 years ago provides the basis for these laws . ||| L' affaire relative à Charles Ponzi , il y a environ 100 ans constitue la base de ces lois . 
+
+Srebrenica Srebrenica | w_freq: 23 - 23 | wiki_freq: 1998 - 497 | sentence_idx: 639964 | align_1: 5-6 | align_2: 6-11 | entity: Srebrenica - Srebrenica |    First , the attack on Srebrenica in which he participated was not unlawful as such . ||| D’ abord , l’ attaque sur Srebrenica , à la préparation de laquelle il a participé , n’ était pas illégale en tant que telle . 
+
+Luxemburg Luxemburg | w_freq: 63 - 44 | wiki_freq: 2313 - 744 | sentence_idx: 651225 | align_1: 4-6 | align_2: 5-11 | entity: Rosa Luxemburg - Rosa Luxemburg |    They agree with Rosa Luxemburg ’s understanding that nothing is more revolutionary than recognizing and stating what is . ||| Ils partagent la conception de Rosa Luxemburg , selon laquelle il n’ y a rien de plus révolutionnaire que de reconnaître et d’ exprimer ce qui est . 
+
+Alcoa Alcoa | w_freq: 9 - 9 | wiki_freq: 1664 - 308 | sentence_idx: 704867 | align_1: 0-0 | align_2: 1-5 | entity: Alcoa - Alcoa |    Alcoa successfully defended itself , even against one of the charges , which was , believe it or not , excessive prices . ||| Alcoa s’ est défendue avec succès , même contre l’ une des accusations , qui était , croyez - le ou non , des prix excessifs . 
+
+Damen Damen | w_freq: 4 - 4 | wiki_freq: 1061 - 334 | sentence_idx: 756328 | align_1: 9-8 | align_2: 10-13 | entity: Damen - Damen |    But if this was so clear , why did Damen not form a new party in 1935 ? ||| Mais si c' était si clair , pourquoi Damen n' a -t -il pas fondé ce nouveau parti en 1935 ? 
+
+Welland Welland | w_freq: 1 - 1 | wiki_freq: 2441 - 326 | sentence_idx: 792590 | align_1: 16-22 | align_2: 17-31 | entity: Welland - Welland |    Bill C-50 will not particularly help the auto sector and workers , as the member for Welland noted quite correctly . ||| Le projet de loi C-50 n' aidera pas particulièrement le secteur et les travailleurs de l' automobile , comme le député de Welland l' a , à juste titre , fait remarquer . 
+
+Douro Douro | w_freq: 10 - 10 | wiki_freq: 1838 - 827 | sentence_idx: 794047 | align_1: 4-2 | align_2: 5-6 | entity: Douro - Douro |    To talk about the Douro is not only to talk about a river or a region . ||| Parler du Douro , ce n’ est pas simplement parler d’ un fleuve ou d’ une région . 
+
+Jullien Jullien | w_freq: 3 - 3 | wiki_freq: 405 - 961 | sentence_idx: 822541 | align_1: 12-12 | align_2: 13-17 | entity: François Jullien - François Jullien |    We are also beginning to talk about efficiency in France because François Jullien praised it in his Treaty on Effectiveness . ||| On commence aussi à parler de l’ efficience en France car François Jullien en a fait l’ éloge dans son Traité de l’ efficacité . 
+
+Hertz Hertz | w_freq: 13 - 13 | wiki_freq: 3567 - 891 | sentence_idx: 935653 | align_1: 7-9 | align_2: 8-16 | entity: Hertz - Hertz |    Nobody ’s done a Hertz Chumash since Hertz a century ago and it ’s an urgent necessity . ||| Personne n’ a fait un Hertz Chumash depuis que Hertz l’ a fait il y a un siècle et c’ est une nécessité urgente . 
+
+WINS WINS | w_freq: 1 - 1 | wiki_freq: 494 - 26 | sentence_idx: 974200 | align_1: 10-11 | align_2: 11-19 | entity: WINS - WINS |    eighteen guides for the World Institute for Nuclear Security ( WINS ) . ||| de dix-huit guides pour le World Institute for Nuclear Security ( WINS , Institut mondial pour la sécurité nucléaire ) . 
+

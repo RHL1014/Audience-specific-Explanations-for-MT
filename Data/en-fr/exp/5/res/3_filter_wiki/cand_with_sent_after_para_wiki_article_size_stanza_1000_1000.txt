@@ -1,0 +1,28 @@
+Xingjian Xingjian | w_freq: 1 - 1 | wiki_freq: 129 - 67 | sentence_idx: 136166 | align_1: 1-1 | align_2: 2-6 | entity: Gao Xingjian - Gao Xingjian |    Gao Xingjian was not like so many others a “ professional exile ” , always immersed in the past . ||| Gao Xingjian n ’ a pas été comme tant d ’ autres un « exilé professionnel » , toujours plongé dans le passé . 
+
+Bugg Bugg | w_freq: 1 - 1 | wiki_freq: 555 - 52 | sentence_idx: 147684 | align_1: 1-1 | align_2: 2-6 | entity: Jake Bugg - Jake Bugg |    Jake Bugg " There 's a Beast and We All Feed it " ||| Jake Bugg : un nouveau titre « There’ s A Beast And We All Feed It » 
+
+Volcom Volcom | w_freq: 1 - 1 | wiki_freq: 231 - 61 | sentence_idx: 186053 | align_1: 9-11 | align_2: 10-16 | entity: Volcom - Volcom |    I think all brands should be as conscious as Volcom . ||| Je crois que toutes les marques devraient être aussi conscientes que Volcom , à ce sujet . 
+
+Ayalon Ayalon | w_freq: 3 - 3 | wiki_freq: 523 - 86 | sentence_idx: 308349 | align_1: 5-2 | align_2: 6-10 | entity: Danny Ayalon - Danny Ayalon |    After Deputy Foreign Minister Danny Ayalon became the face we show the world , the entire international community can now see Israel ’s good side . ||| Si Danny Ayalon , sous-ministre des affaires étrangères , est devenu le visage que nous montrons au monde , toute la communauté internationale voit maintenant le bon côté d’ Israël . 
+
+Cartland Cartland | w_freq: 1 - 1 | wiki_freq: 344 - 135 | sentence_idx: 308565 | align_1: 3-2 | align_2: 4-7 | entity: Barbara Cartland - Barbara Cartland |    How could Barbara Cartland write 700 romance novels ? ||| Comment Barbara Cartland a -t -elle pu écrire 700 romans d’ amour ? 
+
+Cattell Cattell | w_freq: 3 - 4 | wiki_freq: 790 - 110 | sentence_idx: 435669 | align_1: 22-21 | align_2: 23-27 | entity: Raymond Cattell - Raymond Cattell |    On the basis of these findings , who can deny that morality may soon become a science , as recommended by Raymond Cattell ? ||| Sur la base de ces découvertes , qui peut nier que la moralité ne devienne bientôt une science , comme Raymond Cattell l’ appelle de ses vœux ? 
+
+Wikiversity Wikiversité | w_freq: 2 - 2 | wiki_freq: 78 - 37 | sentence_idx: 479321 | align_1: 8-7 | align_2: 9-12 | entity: Wikiversity - Wikiversité |    People can always learn , but should the Wikiversity offer complete courses ? ||| On peut toujours apprendre , mais la Wikiversité se doit -elle d' offrir des cours complets ? 
+
+Conaill Conaill | w_freq: 1 - 1 | wiki_freq: 714 - 323 | sentence_idx: 540733 | align_1: 2-2 | align_2: 3-6 | entity: Dáithí Ó Conaill - Dáithí Ó Conaill |    Dáithí Ó Conaill never equivocated on what was the cause of the war in Ireland or what was required to deliver a just and lasting peace for all of the Irish people . ||| Dáithí Ó Conaill ne s’ est jamais trompé au sujet de la cause de la guerre en Irlande ni au sujet des moyens requis pour apporter une paix juste et durable pour tout le peuple d’ Irlande . 
+
+Ethereum Ethereum | w_freq: 118 - 129 | wiki_freq: 652 - 217 | sentence_idx: 585470 | align_1: 1-1 | align_2: 2-6 | entity: Ethereum - Ethereum |    Behind Ethereum came Litecoin [ LTC ] , with 11 % of respondents stating that they have heard about it . ||| Derrière Ethereum , il y a eu Litecoin [ LTC ] , avec 11 % des répondants déclarant en avoir entendu parler . 
+
+Gunvor Gunvor | w_freq: 5 - 5 | wiki_freq: 247 - 66 | sentence_idx: 602363 | align_1: 2-5 | align_2: 3-9 | entity: Gunvor - Gunvor |    Who at Gunvor knew about the suspicious payments ? ||| Qui , au sein de Gunvor , était au courant de ces paiements suspects ? 
+
+Mozi Mozi | w_freq: 1 - 1 | wiki_freq: 383 - 63 | sentence_idx: 715520 | align_1: 0-0 | align_2: 1-5 | entity: Mozi - Mozi |    Mozi believed that people in principle should care for all people equally . ||| Mozi , en revanche , croyait que les gens , en principe , doivent s' occuper de tous les gens de façon égale . 
+
+Wieck Wieck | w_freq: 1 - 1 | wiki_freq: 484 - 158 | sentence_idx: 723806 | align_1: 0-0 | align_2: 1-5 | entity: Wieck - Wieck |    Wieck later wrote , “ I did not go to prison as a pacifist but rather as an objector to war and conscription . ||| Wieck a écrit , plus tard , “ Je ne suis pas allé en prison en tant que pacifiste mais plutôt comme un objecteur à la guerre et à la conscription . 
+
+Aviano Aviano | w_freq: 1 - 1 | wiki_freq: 388 - 89 | sentence_idx: 733844 | align_1: 12-13 | align_2: 13-17 | entity: Aviano - Aviano |    However no one knows precisely how many there actually are : at Aviano , there are 18 bunkers with the capacity to store another 70 . ||| Personne ne sait cependant exactement combien il y en a effectivement : à Aviano , par exemple , il y a 18 bunkers en mesure d' en stocker plus de 70 . 
+
+Nyx Nyx | w_freq: 2 - 2 | wiki_freq: 530 - 166 | sentence_idx: 773655 | align_1: 15-17 | align_2: 16-21 | entity: Nyx - Nyx |    From there he rose into the sky each night in the train of his mother Nyx . " ||| De là , il s' élevait dans le ciel chaque nuit dans le train de sa mère Nyx ( Nuit ) . 
+

@@ -1,0 +1,80 @@
+BP BP | w_freq: 52 - 52 | wiki_freq: 12097 - 2564 | sentence_idx: 2975 | align_1: 1-1 | align_2: 2-7 | entity: BP - BP |    Why BP was not more aggressive in planning for such a catastrophe ? ||| Pourquoi BP n’ a -t -il pas été plus agressif dans ses planifications pour une telle catastrophe ? 
+
+Deliveroo Deliveroo | w_freq: 5 - 5 | wiki_freq: 179 - 78 | sentence_idx: 13696 | align_1: 6-5 | align_2: 7-12 | entity: Deliveroo - Deliveroo |    What improvements did your partnership with Deliveroo make for your restaurant ? * ||| Quelles améliorations votre partenariat avec Deliveroo vous a -t -il permis de faire pour votre restaurant ? * 
+
+Buffon Buffon | w_freq: 7 - 7 | wiki_freq: 2008 - 1930 | sentence_idx: 32194 | align_1: 2-6 | align_2: 3-11 | entity: Buffon - Buffon |    I mean Buffon showed me his real rabbits . ||| C’ est - à - dire Buffon , il m’ a montré ses vrais lapins . 
+
+AOM AOM | w_freq: 2 - 2 | wiki_freq: 236 - 231 | sentence_idx: 90905 | align_1: 1-1 | align_2: 2-6 | entity: AOM - AOM |    The AOM visited Macedonia on 13 and 14 March to assess the improvement of the legal protection system for asylum . ||| L’ AOM s’ est r endue en Macédoine les 13 et 14 mars dernier afin d’ évaluer l’ amélioration du système de protection juridique relatif à l’ asile . 
+
+Kalamata Kalamata | w_freq: 2 - 2 | wiki_freq: 960 - 291 | sentence_idx: 145074 | align_1: 3-2 | align_2: 4-7 | entity: Kalamata - Kalamata |    " Everybody in Kalamata talking about your music competition . ||| " À Kalamata , tout le monde parle de votre concours de musique . 
+
+Pentagon Pentagone | w_freq: 227 - 220 | wiki_freq: 9756 - 1316 | sentence_idx: 159123 | align_1: 6-8 | align_2: 7-13 | entity: Pentagon - Pentagone |    Renovation to revolution : Was the Pentagon attacked from within ? ||| De la rénovation à la révolution : Le Pentagone a -t -il été attaqué de l’ intérieur ? 
+
+Jotham Jotham | w_freq: 3 - 3 | wiki_freq: 243 - 38 | sentence_idx: 165833 | align_1: 12-12 | align_2: 13-17 | entity: Jotham - Jotham |    The sermon ends with a question : “ How many blessings did Jotham fail to receive , simply because he neglected church ? ” ||| Le sermon se termine par une question : " Combien de bénédictions Jotham n' a -t -il pas reçu , simplement parce qu' il a négligé l' église ? " 
+
+Hamas Hamas | w_freq: 839 - 842 | wiki_freq: 10491 - 2724 | sentence_idx: 184034 | align_1: 8-10 | align_2: 9-16 | entity: Hamas - Hamas |    MEQ : Are such attacks as those by Hamas legitimate " resistance " ? ||| MEQ : les attaques telles que celles effectuées par le Hamas sont - elles de la légitime " résistance " ? 
+
+Amdo Amdo | w_freq: 1 - 1 | wiki_freq: 584 - 551 | sentence_idx: 188596 | align_1: 18-18 | align_2: 19-24 | entity: Amdo - Amdo |    Perhaps if the 5th and 13th Dalai Lamas were to reappear now they ’d send me back to Amdo ! ||| Peut - être que si les 5e et 13e dalaï lamas revenaient maintenant , ils me renverraient en Amdo , d’ où je viens ! 
+
+Bret Bret | w_freq: 17 - 18 | wiki_freq: 5393 - 1608 | sentence_idx: 194431 | align_1: 14-15 | align_2: 15-29 | entity: Bret Hart - Bret Hart |    As he said himself , " no one could take a shit kicking like Bret Hart . " ||| Comme il le dit lui-même : « no one could take a shit kicking like Bret Hart » ( « personne ne peut prendre des sales coups comme Bret Hart » ) . 
+
+Felpham Felpham | w_freq: 1 - 1 | wiki_freq: 109 - 5 | sentence_idx: 195353 | align_1: 6-6 | align_2: 7-10 | entity: Felpham - Felpham |    “ [ The town of ] Felpham is a sweet place for Study , because it is more spiritual than London . ||| « [ La ville de ] Felpham ( en ) est une douce place pour étudier car elle est plus spirituelle que Londres . 
+
+Palestinians Palestiniens | w_freq: 1373 - 1390 | wiki_freq: 12372 - 2644 | sentence_idx: 204811 | align_1: 8-10 | align_2: 9-15 | entity: Palestinians - Palestiniens |    We have nothing to be ashamed of as Palestinians even though 7 million of us are refugees or displaced people . ||| Nous n’ avons pas à avoir honte en tant que Palestiniens et que Palestiniennes , même si 7 millions d’ entre nous sont des réfugiés ou des personnes déplacées . 
+
+Kalamata Kalamata | w_freq: 2 - 2 | wiki_freq: 960 - 291 | sentence_idx: 212624 | align_1: 3-2 | align_2: 4-7 | entity: Kalamata - Kalamata |    " Everybody in Kalamata talking about your Music Competition . ||| " À Kalamata , tout le monde parle de votre concours de musique . 
+
+Prophet Prophète | w_freq: 229 - 178 | wiki_freq: 9638 - 1698 | sentence_idx: 276132 | align_1: 1-1 | align_2: 2-5 | entity: Prophet - Prophète |    The Prophet says : “ Regret is repentance . ” ||| Le Prophète ( ) a dit : « Le regret est un repentir . » 
+
+Chaturbate Chaturbate | w_freq: 9 - 3 | wiki_freq: 24 - 6 | sentence_idx: 277269 | align_1: 5-8 | align_2: 6-12 | entity: Chaturbate - Chaturbate |    6 ) Has anyone from Chaturbate bought you anything ? ||| 10 ) Est -ce que quelqu’ un de Chaturbate t’ as déjà acheté quelque chose ? 
+
+Cisco Cisco | w_freq: 45 - 46 | wiki_freq: 6090 - 934 | sentence_idx: 328807 | align_1: 6-6 | align_2: 7-11 | entity: Cisco - Cisco |    Why was a private company like Cisco allowed to become an associate member ? ||| Pourquoi une entreprise privée telle que Cisco a -t -elle été autorisée à devenir un membre associé ? 
+
+Goffin Goffin | w_freq: 3 - 3 | wiki_freq: 1077 - 626 | sentence_idx: 377580 | align_1: 1-1 | align_2: 2-6 | entity: Philippe Goffin - Philippe Goffin |    Philippe Goffin did not like the provocations of Francken during his years as Secretary of State for Asylum and Immigration . ||| Philippe Goffin , lui , n' a pas aimé les provocations de Francken pendant ses années en tant que secrétaire d' État à l' Asile et à l' Immigration . 
+
+Gaia Gaïa | w_freq: 164 - 84 | wiki_freq: 4660 - 1275 | sentence_idx: 395835 | align_1: 4-3 | align_2: 5-8 | entity: Gaia - Gaïa |    5 ) Where is Gaia most needing our assistance ? ||| 5 ) Où Gaïa a -t -elle le plus besoin de notre aide ? 
+
+Syrians Syriens | w_freq: 193 - 195 | wiki_freq: 3109 - 940 | sentence_idx: 397392 | align_1: 5-7 | align_2: 6-11 | entity: Syrians - Syriens |    During the conflict , many Syrians themselves evolved . ||| Au cours du conflit , beaucoup de Syriens ont eux - mêmes évolué . 
+
+Skype Skype | w_freq: 142 - 111 | wiki_freq: 2516 - 509 | sentence_idx: 479309 | align_1: 3-3 | align_2: 4-7 | entity: Skype - Skype |    The founders of Skype have created Atomico , their own funds . ||| Les fondateurs de Skype , eux , ont créé Atomico , leur propre fonds . 
+
+Cubans Cubains | w_freq: 65 - 66 | wiki_freq: 3307 - 564 | sentence_idx: 563065 | align_1: 9-13 | align_2: 10-17 | entity: Cubans - Cubains |    True friends are recognized in difficult times , and Cubans will never forget the support of Venezuelans when we faced serious difficulties . ||| Les vrais amis se reconnaissent dans les moments difficiles et nous , les Cubains , nous n’ oublierons jamais le soutien des Vénézuéliens lorsque nous avons fait face à de graves difficultés . 
+
+Tajani Tajani | w_freq: 14 - 14 | wiki_freq: 146 - 39 | sentence_idx: 572387 | align_1: 6-7 | align_2: 7-11 | entity: Antonio Tajani - Antonio Tajani |    President of the European Parliament Antonio Tajani welcomed these results , which he described as “ very encouraging ” , for the first time “ since the beginning of the crisis in 2007 ” . ||| Le président du Parlement européen , Antonio Tajani , s' est félicité de ces résultats , qu' il a qualifiés de « très encourageants » pour la première fois « depuis le début de la crise en 2007 » . 
+
+Epstein Epstein | w_freq: 41 - 42 | wiki_freq: 8498 - 2042 | sentence_idx: 581368 | align_1: 5-4 | align_2: 6-8 | entity: Jeffrey Epstein - Jeffrey Epstein |    # 6 Why did Jeffrey Epstein tell guards that someone was trying to kill him ? ||| # 6 Pourquoi Jeffrey Epstein a -t -il dit aux gardes que quelqu’ un essayait de le tuer ? 
+
+Assisi Assise | w_freq: 16 - 16 | wiki_freq: 4180 - 2979 | sentence_idx: 604276 | align_1: 6-5 | align_2: 7-9 | entity: Assisi - Assise |    Thus , the interfaith day of Assisi was , in 1986 , a more formidable scandal than the texts of Vatican II that made it possible . ||| Ainsi la journée interreligieuse d’ Assise a -t -elle été , en 1986 , un scandale plus formidable que les textes de Vatican II qui l’ ont rendue possible . 
+
+Equinox Équinoxe | w_freq: 11 - 4 | wiki_freq: 1707 - 170 | sentence_idx: 613390 | align_1: 2-1 | align_2: 3-6 | entity: Equinox - Équinoxe |    This particular Equinox is a high-energy threshold involving balance and new beginnings . ||| Cet Équinoxe , en particulier , est un seuil de haute énergie impliquant l’ équilibre et de nouveaux commencements . 
+
+Nazareth Nazareth | w_freq: 61 - 61 | wiki_freq: 6610 - 2515 | sentence_idx: 624771 | align_1: 9-10 | align_2: 10-15 | entity: Nazareth - Nazareth |    But in order to understand what took place in Nazareth two thousand years ago , we must return to the Reading from the Letter to the Hebrews . ||| Mais afin de comprendre ce qui s' est passé à Nazareth , il y a deux mille ans , nous devons revenir à la lecture de la Lettre aux Hébreux . 
+
+Willow Willow | w_freq: 17 - 16 | wiki_freq: 12124 - 1940 | sentence_idx: 650327 | align_1: 7-8 | align_2: 8-12 | entity: Willow - Willow |    Even though cats are very independent , Willow never ran away . ||| Même si les chats sont très indépendants , Willow ne s’ est jamais enfuie . 
+
+Judea Judée | w_freq: 28 - 32 | wiki_freq: 3068 - 2393 | sentence_idx: 651283 | align_1: 13-16 | align_2: 14-21 | entity: Judea - Judée |    He wrote us a love letter in blood on a Roman cross in Judea 2000 years ago , and God started to teach us about it in advance from the very beginning of the human race . ||| Il nous a écrit une lettre d’ amour dans le sang sur une croix romaine en Judée , il y a 2000 ans , et Dieu a commencé à nous l’ enseigner à ce sujet dès le début de la race humaine . 
+
+Bret Bret | w_freq: 17 - 18 | wiki_freq: 5393 - 1608 | sentence_idx: 668036 | align_1: 14-15 | align_2: 15-29 | entity: Bret Hart - Bret Hart |    As he said himself , " No one could take a shit kicking like Bret Hart " . ||| Comme il le dit lui-même : « no one could take a shit kicking like Bret Hart » ( « personne ne peut prendre des sales coups comme Bret Hart » ) . 
+
+Abbas Abbas | w_freq: 248 - 244 | wiki_freq: 14387 - 3505 | sentence_idx: 724344 | align_1: 2-1 | align_2: 3-6 | entity: Abbas - Abbas |    Was Mr. Abbas informed of the fact that Hamas has n't carried out one suicide bombing since 2005 ? ||| M. Abbas a -t -il été informé du fait que le Hamas n’ a pas effectué un seul attentat - suicide depuis 2005 ? 
+
+Palestinians Palestiniens | w_freq: 1373 - 1390 | wiki_freq: 12372 - 2644 | sentence_idx: 724582 | align_1: 0-3 | align_2: 1-7 | entity: Palestinians - Palestiniens |    Palestinians want to return to our homes and lands and live peacefully as we did for millennia . ||| Nous , les Palestiniens et Palestiniennes , voulons retourner dans nos maisons et sur nos terres et vivre pacifiquement comme nous l’ avons fait depuis des millénaires . 
+
+Mandy Mandy | w_freq: 12 - 13 | wiki_freq: 6520 - 969 | sentence_idx: 776849 | align_1: 9-12 | align_2: 10-16 | entity: Mandy - Mandy |    The dog returned home several hours later , but Mandy never did . ||| Le chien est rentré chez lui quelques heures plus tard , mais Mandy ne l’ a jamais fait . 
+
+Anatolia Anatolie | w_freq: 11 - 11 | wiki_freq: 10871 - 5253 | sentence_idx: 805476 | align_1: 6-5 | align_2: 7-9 | entity: Anatolia - Anatolie |    The interpretation of events in eastern Anatolia in 1915 - 1916 is still the subject of genuine debate among historians . " ||| L’ interprétation des évènements en Anatolie de l’ est en 1915 - 1916 est encore le sujet d’ un véritable débat entre historiens " ? 
+
+Kagame Kagame | w_freq: 57 - 48 | wiki_freq: 1099 - 468 | sentence_idx: 826285 | align_1: 11-11 | align_2: 12-16 | entity: Paul Kagame - Paul Kagame |    In fact , when the five special envoys met with Paul Kagame some days ago , he made a strong statement in which he requested that the accord be finalized that same evening . ||| En fait , lorsque les cinq envoyés spéciaux ont rencontré Paul Kagame , il y a quelques jours , celui-ci a fait une déclaration forte dans laquelle il a demandé que l’ accord soit finalisé le soir même . 
+
+Moksha Moksha | w_freq: 2 - 3 | wiki_freq: 782 - 52 | sentence_idx: 921420 | align_1: 9-8 | align_2: 10-12 | entity: Moksha - Moksha |    Some people say , “ Sir , I want Moksha … but why ? ” ||| Certains disent , " Monsieur , je veux Moksha ... ( libération ) mais pourquoi ? " 
+
+Draper Draper | w_freq: 9 - 7 | wiki_freq: 7847 - 871 | sentence_idx: 938145 | align_1: 3-9 | align_2: 4-13 | entity: John Draper - John Draper |    Lifeline director John Draper shared with the press : " We did n’t see numbers like this in 2008 or 2012 . ||| Le directeur de la ligne de vie , John Draper , il a partagé avec la presse : “ Nous n' avons pas vu des chiffres comme cela dans 2008 o 2012 . 
+
+Rafah Rafah | w_freq: 15 - 14 | wiki_freq: 1014 - 232 | sentence_idx: 938820 | align_1: 7-8 | align_2: 8-14 | entity: Rafah - Rafah |    The person who shot the girl in Rafah did n't see ? ||| Celui qui a tiré sur la fillette à Rafah , lui non plus n’ a pas vu ? 
+
+Prophet Prophète | w_freq: 229 - 178 | wiki_freq: 9638 - 1698 | sentence_idx: 949929 | align_1: 5-5 | align_2: 6-9 | entity: Prophet - Prophète |    The Muslims ( excepting the Prophet and some of his companions ) started fleeing and I too , fled with them . ||| Les musulmans , excepté le Prophète ( saws ) et quelques Compagnons , commençaient à s’ enfuir , moi aussi je me suis enfui avec eux . 
+
+Sahara Sahara | w_freq: 205 - 213 | wiki_freq: 12016 - 6287 | sentence_idx: 983279 | align_1: 4-5 | align_2: 5-10 | entity: Western Sahara - Sahara Occidental |    Everyone talks about Western Sahara except their own native population , the Sahrawis , who have not been legally consulted on how they want to live in the future . ||| Tout le monde parle du Sahara Occidental , à l’ exception de leur propre population autochtone , les Sahraouis , qui n’ ont pas été consultés légalement sur la façon dont ils veulent vivre à l’ avenir . 
+
+Tajani Tajani | w_freq: 14 - 14 | wiki_freq: 146 - 39 | sentence_idx: 990914 | align_1: 6-7 | align_2: 7-11 | entity: Antonio Tajani - Antonio Tajani |    President of the European Parliament Antonio Tajani welcomed these results , which he described as “ very encouraging ” , for the first time “ since the beginning of the crisis in 2007 ” . ||| Le président du Parlement européen , Antonio Tajani , s’ est félicité de ces résultats , qu’ il a qualifiés de « très encourageants » pour la première fois « depuis le début de la crise en 2007 » . 
+

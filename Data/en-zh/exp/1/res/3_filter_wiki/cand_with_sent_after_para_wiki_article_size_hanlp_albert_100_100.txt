@@ -1,0 +1,2 @@
+Werbach 韦尔巴赫 | w_freq: 1 - 1 | wiki_freq: 100 - 2 | sentence_idx: 377483 | align_1: 3-1 | align_2: 4-6 | entity: Werbach - 韦尔巴赫 |    According to Professor Werbach these issues of trust will take many years to be resolved . ||| 根据 韦尔巴赫 教授 的 说法 ， 这些 信任 问题 需要 很多 年 才能 得到 解决 。 
+

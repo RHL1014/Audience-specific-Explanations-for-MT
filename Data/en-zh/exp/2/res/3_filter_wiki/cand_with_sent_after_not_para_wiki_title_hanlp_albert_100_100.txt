@@ -1,0 +1,66 @@
+Golang Golang | w_freq: 2 - 2 | wiki_freq: 21 - 11 | sentence_idx: 2076 | align_1: 4-3 | align_2: 5-8 | entity: Golang - none |    IronFunctions is written on Golang and really supports functions in any language . ||| IronFunctions 是 在 Golang 上 编写 的 ， 并且 真正 支持 任何 语言 的 函数 。 
+
+Grascals Grascals | w_freq: 1 - 2 | wiki_freq: 38 - 0 | sentence_idx: 4533 | align_1: 6-8 | align_2: 6-13 | entity: Grascals - none |    Life Finds A Way – The Grascals ||| 《 Life Finds a Way 》 － The Grascals （ 英语 ： The Grascals ） 
+
+X-51A X-51A | w_freq: 2 - 2 | wiki_freq: 21 - 12 | sentence_idx: 17488 | align_1: 5-2 | align_2: 6-7 | entity: X-51A - none |    This is similar to the X-51A Waverider project that was halted in 2013 but not forgotten . ||| 这 与 X-51A “ 乘波者 ” （ Waverider ） 项目 类似 ， 该 项目 于 2013年 停止 ， 但 却 未 被 人们 遗忘 。 
+
+Eurodad Eurodad | w_freq: 1 - 1 | wiki_freq: 12 - 0 | sentence_idx: 228391 | align_1: 15-11 | align_2: 16-19 | entity: Eurodad - none |    [ 12 ] We are not in the habit of engaging in lobbying – unlike Eurodad , another organisation that is mobilised around the issue of debt . ||| [ 11 ] 我们 不 习惯 搞 游说 　 ── 不 像 Eurodad （ 债务 和 发展 欧洲 网络 ） ， 它 是 围绕 债务 问题 动员 起来 的 另 一个 组织 。 
+
+Pryda 主悔改 | w_freq: 1 - 1 | wiki_freq: 44 - 0 | sentence_idx: 247280 | align_1: 10-7 | align_2: 11-15 | entity: Pryda - none |    If not called upon , the provision would revert to Pryda . ” ||| 如果 不是 这样 ， 就 应当 向 主悔改 、 祈求 ， 才 有 复兴 临到 。 
+
+HotOrNot hotor | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 265998 | align_1: 9-9 | align_2: 10-13 | entity: HotOrNot - none |    Sure , you can put your face up on HotOrNot or buy one of those Ugly iPhone apps to gauge your “ scientific ” attractiveness rating . ||| 当然 ， 你 可以 把 你 的 脸贴 在 hotor not 上 ， 或者 买 一个 丑陋 的 iPhone 应用 来 衡量 你 的 “ 科学 ” 吸引力 。 
+
+TMCs TMC | w_freq: 1 - 5 | wiki_freq: 10 - 31 | sentence_idx: 323930 | align_1: 5-4 | align_2: 6-9 | entity: TMCs - none |    We ’re different from other TMCs because our standard level of service includes customer-friendly software and expert corporate travel service . ||| 我们 与 其他 的 TMC 并 不 相同 ， 因为 我们 的 标准 服务 水平 包含 服务 于 客户 的 软件 以及 专业 的 商务 差旅 服务 。 
+
+Autoweek Autoweek | w_freq: 4 - 4 | wiki_freq: 92 - 3 | sentence_idx: 335232 | align_1: 7-14 | align_2: 8-18 | entity: Autoweek - none |    I feel ready , " he told Autoweek . ||| 我 感觉 已经 准备 好 了    ， ” 他 告诉 《 Autoweek 》   。 
+
+CHLT-TV CHLT-TV | w_freq: 1 - 2 | wiki_freq: 10 - 0 | sentence_idx: 356740 | align_1: 0-0 | align_2: 1-8 | entity: CHLT-TV - none |    CHLT-TV , 50 years of looking at it our way ||| CHLT-TV ， 50年 的 发展 历程 （ CHLT-TV , 50 Years of Looking at It Our Way ） 
+
+Soaga Soaga | w_freq: 1 - 1 | wiki_freq: 36 - 0 | sentence_idx: 384634 | align_1: 11-13 | align_2: 12-18 | entity: Lupe Ole Soaga - none |    Like AS , Marist just need to win against Lupe Ole Soaga and hope the first game ’s result on Friday goes their way . ||| 像 AS 一样   ， Marist 只 需要 赢得 对阵 Lupe Ole Soaga 的 比赛  ， 并 希望 周五 的 第一 场 比赛 结果 能够 顺利 进行   。 
+
+Systemantics systemfunny | w_freq: 1 - 1 | wiki_freq: 9 - 0 | sentence_idx: 395297 | align_1: 7-7 | align_2: 8-14 | entity: Systemantics - none |    As John Gall argues in his book Systemantics , every successful large system was grown from smaller systems that already worked . ||| 正如 John Gall 在 其 著作 《 systemfunny 》 中 所 指出 的 那样 ， 每 一个 成功 的 大型 系统 都 是 从 已经 运行 的 小型 系统 发展 而 来 的 。 
+
+Damianos 主Damianos | w_freq: 2 - 1 | wiki_freq: 71 - 0 | sentence_idx: 431102 | align_1: 4-4 | align_2: 5-9 | entity: Damianos - none |    But in 1900 Patriarch Damianos revived it for one day in the year , not 23 October but 31 December . ||| 但是 ， 在 1900年 主Damianos ， 东正教 主教 ， 恢复 它 一 天 的 一 年 ， 而 不是 10月 23日 ， 但 12月 31日 。 
+
+DIAZ Diaz | w_freq: 1 - 10 | wiki_freq: 6 - 83 | sentence_idx: 454402 | align_1: 0-1 | align_2: 1-10 | entity: DIAZ - none |    DIAZ Do n't clean up this blood ||| 《 Diaz ， 不要 清理 血迹 》 ( Diaz : Don’t Clean Up This Blood ) 
+
+Brejcha Brejcha | w_freq: 1 - 1 | wiki_freq: 21 - 0 | sentence_idx: 516525 | align_1: 2-1 | align_2: 3-5 | entity: Brejcha - none |    According to Brejcha people will be able to buy the tomatoes in ordinary shops . ||| 根据 Brejcha 的 说法 ， 人们 可以 在 普通 商店 购买 这些 西红柿 。 
+
+EMK EMK | w_freq: 51 - 25 | wiki_freq: 76 - 2 | sentence_idx: 537811 | align_1: 14-16 | align_2: 15-20 | entity: EMK - none |    Very true that emotionally a divorce can be dreadful and I do concur with EMK that individuals tender their feelings in different ways….countless variables to consider . ||| 非常 真实 的 是 ， 在 情感 上 离婚 可能 是 可怕 的 ， 我 同意 EMK 的 观点 ， 即 个人 以 不同 的 方式 抚慰 自己 的 感情 …… 需要 考虑 的 变量 数不胜数 。 
+
+DataMatrix DataMatrix | w_freq: 1 - 1 | wiki_freq: 7 - 0 | sentence_idx: 554469 | align_1: 13-14 | align_2: 14-18 | entity: DataMatrix - none |    The two most popular types are Quick Response ( QR ) Code and DataMatrix but there are other options available . ||| 两 种 最 流行 的 类型 是 快速 响应 （ QR ） 代码 和 DataMatrix   ， 但 还有 其他 选项 可用    。 
+
+Sinim 希尼 | w_freq: 3 - 3 | wiki_freq: 16 - 56 | sentence_idx: 555148 | align_1: 15-24 | align_2: 16-37 | entity: Sinim - 希尼 |    these from the north and from the west ; and these from the land of Sinim . ” ||| 看 哪 ， 这些 从 远方 来 ， 这些 从 北方 、 从 西方 来 ， 这些 从 秦国 来 （ 秦 原文 为 希尼 ， 因 有些 解经家 认为 这是 指 中国 ， 故译 秦国 ） 。 
+
+Easyway Easyway | w_freq: 1 - 1 | wiki_freq: 29 - 0 | sentence_idx: 556215 | align_1: 16-21 | align_2: 17-26 | entity: Easyway - none |    When you are ready to have your final cigarette you ’ll understand why Allen Carr ’s Easyway method has sold more than 15 MILLION books worldwide almost entirely on the strength of word of mouth ; it works ! ||| 当 你 准备 好 你 要 吸 的 最后 一 根 香烟 时 ， 你 会 明白 为什么 亚伦.卡尔 的 “ Easyway － 易 为 ” 方法 已经 在 全世界 销售 了 超过 1500万 本书 ， 几乎 完全 靠 口碑 的 力量 ; 有用 ！ 
+
+Dontae Dontae | w_freq: 1 - 1 | wiki_freq: 59 - 0 | sentence_idx: 574070 | align_1: 17-16 | align_2: 18-22 | entity: Dontae - none |    “ She said I ’d signed a form when I was pregnant to say she could take Dontae away for half an hour for a medical check . ||| 她 说 我 怀孕 的 时候 签署 了 一 封 表格 ， 说 她 可以 将 Dontae （ 乌拉 的 儿子 ） 带走 半 个 小时 接受 医疗 检查 。 
+
+Jor-el 乔˙艾尔 | w_freq: 1 - 1 | wiki_freq: 5 - 0 | sentence_idx: 578794 | align_1: 13-13 | align_2: 14-18 | entity: Jor-el - 乔˙艾尔 |    I was actually born on Krypton and sent here by my father , Jor-el , to save the Planet Earth . '' ||| 其实 我 是 出生 在 氪普顿 星球 上 ， 然后 被 我 父亲 乔˙艾尔 （ 超人 的 生父 ） 派 过来 拯救 这个 星球 － 地球 」 。 
+
+CovalX CovalX | w_freq: 1 - 1 | wiki_freq: 7 - 0 | sentence_idx: 603647 | align_1: 6-4 | align_2: 7-9 | entity: CovalX - none |    He also is a co-founder of CovalX and has extensive experience developing and expanding businesses on a worldwide basis . ||| 他 也 是 一个 CovalX 的 创始人 之一 ， 并 拥有 丰富 的 经验 ， 发展 和 扩大 在 全球 范围 内 的 企业 。 
+
+Winzip WinZip | w_freq: 1 - 4 | wiki_freq: 1 - 34 | sentence_idx: 632014 | align_1: 2-2 | align_2: 3-6 | entity: Winzip - none |    WinRAR and Winzip need paying for ( eventually ) , 7zip is free and does the same thing . ||| WinRAR 的 WinZip 的 ， 并 需要 支付 （ 最终 ） ， 7zip 是 免费 的 而且 也 获得 了 同样 的 事 。 
+
+EHIC EHIC | w_freq: 3 - 3 | wiki_freq: 35 - 0 | sentence_idx: 737877 | align_1: 2-1 | align_2: 3-5 | entity: EHIC - none |    Without an EHIC you wo n’t be turned away from a hospital , but you will have to pay for any treatment you receive and should therefore get an official receipt , a necessary preamble to the long-winded process of trying to get at least some of the money back . ||| 没有 EHIC   ， 你 就 不 会 被 医院 拒之门外    ， 但是   ， 您 必须 支付 您 所 接受 的 任何 治疗   ， 并 因此 应 获得 正式 收据  ， 这是 试图 收回 至少 一部分 资金 的 漫长 过程 的 必要 序言   。 
+
+XC40 XC40 | w_freq: 6 - 6 | wiki_freq: 67 - 16 | sentence_idx: 777552 | align_1: 10-3 | align_2: 11-8 | entity: Cray XC40 - none |    That ’s over ten times more than its current Cray XC40 cost , but it will deliver more timely and accurate forecasts . ||| 这是 目前 Cray XC40 （ 超算 系统 ） 成本 的 十 倍 以上 ， 但 它 将 提供 更 及时 和 准确 的 预测 。 
+
+MAHAVIR 马哈维亚 | w_freq: 1 - 3 | wiki_freq: 0 - 0 | sentence_idx: 786679 | align_1: 3-2 | align_2: 4-7 | entity: MAHAVIR - 马哈维亚 |    I SPEAK ON MAHAVIR as a part of my duty -- my heart is never with him . ||| 我 谈论 马哈维亚 ， 我 把 这 当作 我 的 责任 的 一部分 ---- 我 的 心 从来 不和 他 在一起 。 
+
+Nisham Nisham | w_freq: 1 - 1 | wiki_freq: 29 - 0 | sentence_idx: 853032 | align_1: 1-1 | align_2: 2-5 | entity: Mohammed Nisham - Nisham |    Mohammed Nisham : Millionaire accused of murdering security guard because he was too slow opening his front gate ||| 穆罕默德·尼沙姆（Mohammed Nisham ）   ： 百万 富翁 被 指控 谋杀 了 保安   ， 因为 他 打开 前门 的 速度 太 慢 了 
+
+EUSS EUSS | w_freq: 2 - 2 | wiki_freq: 7 - 0 | sentence_idx: 881062 | align_1: 13-10 | align_2: 14-15 | entity: EUSS - none |    “ The focus should be on offering reassurances and avoiding misconceptions about the EUSS and on ensuring that EU Member States step up and provide a similar level of reassurance for UK nationals . ” ||| “ 重点 应该 放 在 提供 保证 和 避免 对 EUSS 的 误解 上 ， 并 确保 欧盟 成员国 加紧 为 英国 国民 提供 类似 水平 的 保证 。 
+
+Parfumeur Parfumeur | w_freq: 1 - 2 | wiki_freq: 30 - 0 | sentence_idx: 891347 | align_1: 13-28 | align_2: 13-43 | entity: Parfumeur - none |    The Diary of a Nose : A Year in the Life of a Parfumeur ||| 作品 ： 调香师 日记 : 爱马仕 香水 大师 艾连纳 的 创作 生活 与 哲学 、 The Diary of a Nose : A Year in the Life of a Parfumeur 、 The Diary of a Nose : A Year in the Life of a Parfumeur 
+
+ICMS ICMS | w_freq: 2 - 2 | wiki_freq: 70 - 3 | sentence_idx: 897901 | align_1: 1-1 | align_2: 2-5 | entity: ICMS - none |    At ICMS you will experience our next generation education . ||| 在 ICMS 学习 期间 ， 你 将 体验 我们 的 “ 新一代 教育 ” 。 
+
+Renaudel 雷诺德尔 | w_freq: 1 - 1 | wiki_freq: 23 - 0 | sentence_idx: 925773 | align_1: 4-7 | align_2: 5-12 | entity: Renaudel - 雷诺德尔 |    Only political invalids like Renaudel can speak of a peaceful , constitutional road to socialism . ||| 只有 政治 上 的 残障者 ， 比如 雷诺德尔 之 流 ， 才 会 大 谈 什么 和平 、 合宪 的 走向 社会主义 的 道路 。 
+
+Smurfy Smurfy | w_freq: 1 - 1 | wiki_freq: 19 - 1 | sentence_idx: 939817 | align_1: 4-4 | align_2: 5-11 | entity: Smurfy - none |    " I 'm Too Smurfy " Right Said Fred 2:46 ||| 10 . I'm Too Smurfy （ 英语 ： I'm Too Sexy ） Right Said Fred （ 英语 ： Right Said Fred ） 2:46 
+
+Keiss Keiss | w_freq: 1 - 1 | wiki_freq: 71 - 0 | sentence_idx: 953699 | align_1: 9-7 | align_2: 10-11 | entity: Keiss - none |    " I can not in any case agree with Keiss that my whole conception of the external world has been derived from perceptions . ||| “ 无论如何 ， 我 不 能 同意 Keiss 的 观点 ， 即 我 对外部 世界 的 整个 概念 都 源于 感知 。 
+
+EUSS EUSS | w_freq: 2 - 2 | wiki_freq: 7 - 0 | sentence_idx: 959618 | align_1: 13-10 | align_2: 14-15 | entity: EUSS - none |    “ The focus should be on offering reassurances and avoiding misconceptions about the EUSS and on ensuring that EU member states step up and provide a similar level of reassurance for UK nationals . ” ||| “ 重点 应该 放 在 提供 保证 和 避免 对 EUSS 的 误解 上 ， 并 确保 欧盟 成员国 加紧 为 英国 国民 提供 类似 水平 的 保证 。 
+

@@ -1,0 +1,288 @@
+E-58 E-58 | w_freq: 22 - 26 | wiki_freq: 5 - 2 | sentence_idx: 7566 | align_1: 0-0 | align_2: 1-4 | entity: none - E-58 |    E-58 Why did there ... was there mysteries that was still hid ? ||| E-58 ( 45 ) Pourquoi y a -t -il eu ... y avait -il des mystères qui étaient encore cachés ? 
+
+Deliveroo Deliveroo | w_freq: 5 - 5 | wiki_freq: 179 - 78 | sentence_idx: 13696 | align_1: 6-5 | align_2: 7-12 | entity: Deliveroo - Deliveroo |    What improvements did your partnership with Deliveroo make for your restaurant ? * ||| Quelles améliorations votre partenariat avec Deliveroo vous a -t -il permis de faire pour votre restaurant ? * 
+
+Khaba'ith ith | w_freq: 2 - 2 | wiki_freq: 0 - 3 | sentence_idx: 15094 | align_1: 10-13 | align_2: 11-21 | entity: Al- Khaba'ith - none |    Indeed I seek refuge in You from Al-Khubith and Al- Khaba'ith . " ||| Je cherche refuge en Toi contre Al - Khubith et Al - Khaba’ ith . [ contre les djinns mâles et femelles]. » 
+
+Khaba'ith Khaba’ | w_freq: 2 - 1 | wiki_freq: 0 - 0 | sentence_idx: 15094 | align_1: 10-12 | align_2: 11-21 | entity: Al- Khaba'ith - Khaba’ |    Indeed I seek refuge in You from Al-Khubith and Al- Khaba'ith . " ||| Je cherche refuge en Toi contre Al - Khubith et Al - Khaba’ ith . [ contre les djinns mâles et femelles]. » 
+
+E-5 E-5 | w_freq: 31 - 34 | wiki_freq: 264 - 32 | sentence_idx: 24116 | align_1: 0-0 | align_2: 1-4 | entity: none - E-5 |    E-5 I remember very well first time seeing Brother Evans . ||| E-5 ( 9 ) Je me souviens très bien de la première fois que j' ai vu frère Evans . 
+
+E-53 E-53 | w_freq: 23 - 24 | wiki_freq: 3 - 1 | sentence_idx: 24341 | align_1: 0-0 | align_2: 1-4 | entity: none - E-53 |    E-53 No wonder we ca n't have healing campaigns . ||| E-53 Il n’ est pas étonnant que nous ne puissions pas avoir des campagnes de guérison . 
+
+E-12 E-12 | w_freq: 22 - 25 | wiki_freq: 30 - 3 | sentence_idx: 29084 | align_1: 0-0 | align_2: 1-5 | entity: none - E-12 |    E-12 No rain , and she must have prayed all night long . ||| E-12 Il n’ y avait pas de pluie , et elle devait avoir prié toute la nuit durant . 
+
+Cosmogonies Cosmogonies | w_freq: 2 - 2 | wiki_freq: 4 - 14 | sentence_idx: 42225 | align_1: 2-3 | align_2: 3-7 | entity: Cosmogonies - Cosmogonies |    In all Cosmogonies “ Water ” plays the same important part . ||| Dans toutes les Cosmogonies , l ' " Eau " joue le même rôle important . 
+
+Contextor Contextor | w_freq: 1 - 1 | wiki_freq: 0 - 3 | sentence_idx: 62513 | align_1: 2-2 | align_2: 3-6 | entity: Contextor - Contextor |    Thus , Contextor first worked for our fraud department . ||| Ainsi , Contextor a tout d’ abord collaboré pour le compte de notre département des fraudes . 
+
+Taren Taren | w_freq: 1 - 1 | wiki_freq: 123 - 22 | sentence_idx: 66680 | align_1: 4-4 | align_2: 5-8 | entity: Taren - Taren |    So , yes , Taren , we need to all work together , and if we put all our energy together , maybe we can to some small extent , compensate for the loss of Aaron . ||| Donc , oui , Taren [ 1 ] , nous devons tous travailler ensemble , et si nous mettons toute notre énergie ensemble , nous pourrons peut-être , dans une faible mesure , compenser la perte d’ Aaron . 
+
+Ra’ad Ra’ | w_freq: 1 - 3 | wiki_freq: 29 - 78 | sentence_idx: 71394 | align_1: 1-1 | align_2: 2-6 | entity: Ra’ad - Ra’ ad |    A Ra’ad being inspected by an Iranian military officer . ||| Un Ra’ ad en train d’ être inspecté par un officier iranien . 
+
+KeepFighting KeepFighting | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 71783 | align_1: 7-7 | align_2: 8-15 | entity: Michael # KeepFighting - Michael # KeepFighting |    We ’re all with you Michael # KeepFighting . " ||| Nous sommes tous avec toi Michael # KeepFighting ( Continue à te battre ) » . 
+
+Holocaust”.[1 Holocaust | w_freq: 1 - 3 | wiki_freq: 0 - 457 | sentence_idx: 90479 | align_1: 19-19 | align_2: 20-29 | entity: Why Palestinians Should Learn About the Holocaust”.[1 - Why Palestinians Should Learn About the Holocaust |    Then , in March 2011 , I published an article titled , “ Why Palestinians Should Learn About the Holocaust”.[1 ] ||| Puis , en mars 2011 , j’ ai publié un article intitulé « Why Palestinians Should Learn About the Holocaust » ( « Pourquoi les Palestiniens devraient apprendre l’ Holocauste»)[1]. 
+
+AOM AOM | w_freq: 2 - 2 | wiki_freq: 236 - 231 | sentence_idx: 90905 | align_1: 1-1 | align_2: 2-6 | entity: AOM - AOM |    The AOM visited Macedonia on 13 and 14 March to assess the improvement of the legal protection system for asylum . ||| L’ AOM s’ est r endue en Macédoine les 13 et 14 mars dernier afin d’ évaluer l’ amélioration du système de protection juridique relatif à l’ asile . 
+
+Q18 Q18 | w_freq: 2 - 2 | wiki_freq: 8 - 1 | sentence_idx: 99684 | align_1: 0-0 | align_2: 1-4 | entity: none - Q18 |    Q18 Is there any delay in delivery in your company ? ||| Q18 Y a -t -il un retard de livraison dans votre entreprise ? 
+
+E-8 E-8 | w_freq: 30 - 33 | wiki_freq: 235 - 32 | sentence_idx: 102001 | align_1: 0-0 | align_2: 1-4 | entity: none - E-8 |    E-8 You know , the Bible says certain things , but if ... ||| E-8 ( 23 ) Vous savez , la Bible dit certaines choses , mais si ... 
+
+E-74 E-74 | w_freq: 31 - 33 | wiki_freq: 1 - 2 | sentence_idx: 104050 | align_1: 0-0 | align_2: 1-4 | entity: none - E-74 |    E-74 And now every pastor is invited . ||| E-74 ( 3 ) Et maintenant , chaque pasteur est invité . 
+
+MTL MTL | w_freq: 2 - 2 | wiki_freq: 609 - 86 | sentence_idx: 108712 | align_1: 2-2 | align_2: 3-6 | entity: none - MTL |    How PME MTL made the difference for Main and Local ||| Comment PME MTL a -t -il fait la différence pour Main and Local 
+
+SWIFT SWIFT | w_freq: 45 - 47 | wiki_freq: 653 - 209 | sentence_idx: 111624 | align_1: 14-17 | align_2: 15-22 | entity: SWIFT - SWIFT |    Contradicting the point , Garlinghouse claimed that at least over a hundred customers of SWIFT disagree with this point of view . ||| En contradiction avec ce point , Garlinghouse a déclaré qu’ au moins une centaine de clients de SWIFT n’ étaient pas d’ accord avec ce point de vue . 
+
+F-FACTOR FACTOR | w_freq: 1 - 2 | wiki_freq: 0 - 6 | sentence_idx: 112234 | align_1: 19-24 | align_2: 20-31 | entity: none - FACTOR |    As a result , it ’s never been more important for brands to make sure they too have the F-FACTOR . ||| En conséquence , il n' a jamais été plus important pour les marques de s' assurer qu' elles ont elles aussi THE F - FACTOR ( LE F - FACTEUR ) . 
+
+19,300 19.300 | w_freq: 1 - 1 | wiki_freq: 87 - 2 | sentence_idx: 114943 | align_1: 11-16 | align_2: 12-21 | entity: 19,300 - none |    Of all camp inmates they had the highest death rate : 19,300 lost their lives there . ||| De tous les détenus du camp , ils avaient le plus fort taux de mortalité : 19.300 d’ entre eux y perdirent la vie . 
+
+Kalamata Kalamata | w_freq: 2 - 2 | wiki_freq: 960 - 291 | sentence_idx: 145074 | align_1: 3-2 | align_2: 4-7 | entity: Kalamata - Kalamata |    " Everybody in Kalamata talking about your music competition . ||| " À Kalamata , tout le monde parle de votre concours de musique . 
+
+E-218 E-218 | w_freq: 4 - 1 | wiki_freq: 0 - 0 | sentence_idx: 153872 | align_1: 0-0 | align_2: 1-4 | entity: none - E-218 |    E-218 These people come here tonight , I know there was a couple of cancers that left while we was standing here . ||| E-218 ( 217 ) Ces gens sont venus ici ce soir , je sais qu’ il y a des cancers qui ont quitté pendant que nous nous tenions ici . 
+
+Jotham Jotham | w_freq: 3 - 3 | wiki_freq: 243 - 38 | sentence_idx: 165833 | align_1: 12-12 | align_2: 13-17 | entity: Jotham - Jotham |    The sermon ends with a question : “ How many blessings did Jotham fail to receive , simply because he neglected church ? ” ||| Le sermon se termine par une question : " Combien de bénédictions Jotham n' a -t -il pas reçu , simplement parce qu' il a négligé l' église ? " 
+
+Amdo Amdo | w_freq: 1 - 1 | wiki_freq: 584 - 551 | sentence_idx: 188596 | align_1: 18-18 | align_2: 19-24 | entity: Amdo - Amdo |    Perhaps if the 5th and 13th Dalai Lamas were to reappear now they ’d send me back to Amdo ! ||| Peut - être que si les 5e et 13e dalaï lamas revenaient maintenant , ils me renverraient en Amdo , d’ où je viens ! 
+
+E-45 E-45 | w_freq: 26 - 26 | wiki_freq: 11 - 4 | sentence_idx: 189548 | align_1: 0-0 | align_2: 1-4 | entity: none - E-45 |    E-45 Is there anybody here was at the Tacoma meeting who seen that ? ||| E-45 Y a -t -il ici quelqu’ un qui était aux réunions de Tacoma et qui a vu cela ? 
+
+Felpham Felpham | w_freq: 1 - 1 | wiki_freq: 109 - 5 | sentence_idx: 195353 | align_1: 6-6 | align_2: 7-10 | entity: Felpham - Felpham |    “ [ The town of ] Felpham is a sweet place for Study , because it is more spiritual than London . ||| « [ La ville de ] Felpham ( en ) est une douce place pour étudier car elle est plus spirituelle que Londres . 
+
+37:25 37:25 | w_freq: 1 - 1 | wiki_freq: 7 - 3 | sentence_idx: 206584 | align_1: 0-0 | align_2: 1-9 | entity: 37:25 - none |    37:25 How is it that [ now ] you can not succour one another ? " ||| 37:25 ( Et on leur demandera ) : « Pourquoi ne vous portez -vous pas secours les uns les autres ? » 
+
+Stradale Stradale | w_freq: 7 - 7 | wiki_freq: 212 - 87 | sentence_idx: 207759 | align_1: 11-11 | align_2: 12-16 | entity: the Ferrari Challenge Stradale - Ferrari Challenge Stradale |    If I can pay for it , will the Ferrari Challenge Stradale not cost me too much in maintenance ? ||| Si j' arrive à me la payer , la Ferrari Challenge Stradale ne va -t -elle pas me coûter trop cher en entretien ? 
+
+Kalamata Kalamata | w_freq: 2 - 2 | wiki_freq: 960 - 291 | sentence_idx: 212624 | align_1: 3-2 | align_2: 4-7 | entity: Kalamata - Kalamata |    " Everybody in Kalamata talking about your Music Competition . ||| " À Kalamata , tout le monde parle de votre concours de musique . 
+
+E-55 E-55 | w_freq: 25 - 29 | wiki_freq: 3 - 3 | sentence_idx: 222334 | align_1: 0-0 | align_2: 1-4 | entity: none - E-55 |    E-55 Made him out of the dust of the earth , now , not in His Own image . ||| E-55 Il l’ a formé de la poussière de la terre donc , pas à Son image . 
+
+Aleyda Aleyda | w_freq: 1 - 1 | wiki_freq: 26 - 5 | sentence_idx: 228737 | align_1: 5-7 | align_2: 6-12 | entity: Aleyda - Aleyda |    This is what happened when Aleyda stopped feeling her baby move for more than 24 hours . ||| C’ est ce qui est arrivé à Aleyda , quand elle a arrêté de sentir son bébé bouger pendant plus de 24 heures . 
+
+Folena Folena | w_freq: 1 - 1 | wiki_freq: 13 - 3 | sentence_idx: 264286 | align_1: 6-4 | align_2: 7-9 | entity: Pietro Folena - Pietro Folena |    Moreover , the initiative of Pietro Folena is also moving in this direction ” . ||| L’ initiative de Pietro Folena , du reste , va aussi dans cette direction . » 
+
+Comunista Comunista | w_freq: 2 - 1 | wiki_freq: 851 - 210 | sentence_idx: 269263 | align_1: 10-10 | align_2: 11-14 | entity: Programma Comunista - Programma Comunista |    Organisations that are part of the revolutionary camp like Programma Comunista were not included . ||| Des organisations faisant partie du camp révolutionnaire , comme Programma Comunista , n' en faisaient pas partie . 
+
+E-365 E-365 | w_freq: 3 - 4 | wiki_freq: 0 - 0 | sentence_idx: 270239 | align_1: 0-0 | align_2: 1-6 | entity: none - E-365 |    E-365 Outside , remember , I might not never see your hand . ||| E-365 Ceux qui sont à l’ extérieur , souvenez -vous , il se peut que je ne voie jamais votre main . 
+
+Chaturbate Chaturbate | w_freq: 9 - 3 | wiki_freq: 24 - 6 | sentence_idx: 277269 | align_1: 5-8 | align_2: 6-12 | entity: Chaturbate - Chaturbate |    6 ) Has anyone from Chaturbate bought you anything ? ||| 10 ) Est -ce que quelqu’ un de Chaturbate t’ as déjà acheté quelque chose ? 
+
+Expect Attendez | w_freq: 72 - 136 | wiki_freq: 746 - 47 | sentence_idx: 279386 | align_1: 0-0 | align_2: 1-6 | entity: none - Attendez |    Expect wine and beer pours to be smaller than in your home country , but also expect them to be cheaper . ||| Attendez -vous à ce que le vin et la bière soient plus petits que dans votre pays d’ origine , mais attendez -vous également à ce qu’ ils soient moins chers . 
+
+Furs Furs | w_freq: 1 - 1 | wiki_freq: 763 - 107 | sentence_idx: 280398 | align_1: 5-5 | align_2: 6-12 | entity: Venus in Furs - Venus in Furs |    A book like Venus in Furs reminds us of what we are – blackness and light . ||| Un livre comme Venus in Furs ( Vénus en Fourrures ) nous rappelle ce que nous sommes - noirceur et lumière . 
+
+TECHNOLOGY TECHNOLOGY | w_freq: 5 - 6 | wiki_freq: 69 - 3 | sentence_idx: 296691 | align_1: 4-3 | align_2: 5-8 | entity: none - PEOPLE AND TECHNOLOGY |    Why was PEOPLE AND TECHNOLOGY selected ? ||| Pourquoi PEOPLE AND TECHNOLOGY a -t -il été sélectionné ? 
+
+Cargoroo Cargoroo | w_freq: 3 - 3 | wiki_freq: 0 - 0 | sentence_idx: 301021 | align_1: 1-0 | align_2: 2-5 | entity: Cargoroo - Cargoroo |    Will Cargoroo expand to other countries too ? ||| Cargoroo va -t -il s' étendre à d' autres pays également ? 
+
+Lemire Lemire | w_freq: 9 - 9 | wiki_freq: 730 - 408 | sentence_idx: 306303 | align_1: 1-1 | align_2: 2-5 | entity: Vincent Lemire - Vincent Lemire |    Vincent Lemire is impressed by the political maturity of Palestinian civil society .... ||| Vincent Lemire , lui , est impressionné par la maturité politique de la société civile palestinienne … . 
+
+YOUR VOTRE | w_freq: 69 - 38 | wiki_freq: 279 - 6 | sentence_idx: 317001 | align_1: 1-1 | align_2: 2-6 | entity: none - VOTRE |    Remove YOUR copyright strike against me and I will do the same . ||| Supprimez VOTRE frappe de droit d’ auteur contre moi et je ferai de même . 
+
+Umayr Imra | w_freq: 7 - 1 | wiki_freq: 233 - 5 | sentence_idx: 334042 | align_1: 1-0 | align_2: 2-5 | entity: Umayr - Imra ’ al - Qays |    ' Umayr was among the old companions of Imam al-Husayn ( a).[11 ] ||| Imra ’ al - Qays , l’ une des épouses de l’ Imam al - Husayn ( a)[2 ] 
+
+A1.1 A1.1 | w_freq: 2 - 3 | wiki_freq: 11 - 4 | sentence_idx: 337768 | align_1: 7-7 | align_2: 8-16 | entity: none - A1.1 |    ( Relates to Index for Inclusion , A1.1 Everyone is welcomed . ) ||| ( Relates to Index for Inclusion , A1.1 Concerne indice d' intégration , A1.1 Tout le monde est la bienvenue . ) 
+
+Wahhabism wahhabisme | w_freq: 6 - 6 | wiki_freq: 667 - 272 | sentence_idx: 347933 | align_1: 1-1 | align_2: 2-6 | entity: Wahhabism - none |    Was Wahhabism founded by outside agencies as a long-term plan to corrupt Islam ? ||| Le wahhabisme a -t -il été fondé par des organismes extérieurs comme un plan à long terme pour corrompre l’ islam ? 
+
+E-285 E-285 | w_freq: 3 - 4 | wiki_freq: 0 - 0 | sentence_idx: 348846 | align_1: 0-0 | align_2: 1-4 | entity: none - E-285 |    E-285 Remember , I can't--I ca n't force you to come against your own will . ||| E-285 ( 214 ) Souvenez -vous , je ne peux pas - je ne peux pas vous obliger à venir contre votre gré . 
+
+Masculine Masculin | w_freq: 5 - 3 | wiki_freq: 470 - 345 | sentence_idx: 359441 | align_1: 2-1 | align_2: 3-5 | entity: none - Masculin Divin |    The Divine Masculine within each soul and especially on the Earth has become somewhat separated . ||| Le Masculin Divin à l’ intérieur de chaque âme et surtout sur la Terre s’ est quelque peu séparé . 
+
+Humankind Humankind | w_freq: 4 - 1 | wiki_freq: 339 - 12 | sentence_idx: 375320 | align_1: 16-18 | align_2: 17-24 | entity: none - Cradle of Humankind |    It is also within one of the most important archaeological sites in Africa , Cradle of Humankind , that history awaits you ! ||| C’ est également au sein de l’ un des plus importants sites archéologiques d’ Afrique , Cradle of Humankind ( Berceau de l’ humanité ) que l’ Histoire vous attend ! 
+
+O’Leary Leary | w_freq: 9 - 17 | wiki_freq: 244 - 935 | sentence_idx: 380231 | align_1: 11-12 | align_2: 12-17 | entity: O’Leary - M. O’ Leary |    What interest and added value can the controversies initiated by Mr O’Leary have for his clients ? ||| Quel intérêt et quelle valeur ajoutée les polémiques initiées par M. O’ Leary peuvent - elles bien avoir pour ses clients ? 
+
+E-131 E-131 | w_freq: 10 - 12 | wiki_freq: 0 - 0 | sentence_idx: 380704 | align_1: 0-0 | align_2: 1-4 | entity: none - E-131 |    E-131 How is Sarah going to have this baby ? ||| E-131 ( 60 ) Comment Sarah va -t -elle avoir ce bébé ? 
+
+Ecozone+ Écozone+ | w_freq: 2 - 2 | wiki_freq: 2 - 0 | sentence_idx: 388038 | align_1: 2-1 | align_2: 3-6 | entity: The Arctic Ecozone+ - Écozone+ de l’ Arctique |    The Arctic Ecozone+ was excluded from this analysis . ||| L’ Écozone+ de l’ Arctique a été exclue de cette analyse . 
+
+Fackelmann Fackelmann | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 389901 | align_1: 17-19 | align_2: 18-23 | entity: A. Fackelmann - A. Fackelmann |    The seemingly hopeless task of restoring the codex was successfully completed a few months later by A. Fackelmann in Vienna . ||| La tâche apparemment désespérée de rétablir le codex a été effectuée avec succès quelques mois plus tard par A. Fackelmann ( de ) à Vienne . 
+
+KeepFighting KeepFighting | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 394179 | align_1: 7-7 | align_2: 8-15 | entity: Michael # KeepFighting - Michael # KeepFighting |    We ’re all with you Michael # KeepFighting . ” ||| Nous sommes tous avec toi Michael # KeepFighting ( Continue à te battre ) » . 
+
+O'kanada kanada | w_freq: 1 - 1 | wiki_freq: 0 - 4 | sentence_idx: 395474 | align_1: 3-8 | align_2: 4-12 | entity: Simon O'kanada - Simon O’ kanada |    My friend Simon O'kanada wondered why his son was always sick . ||| « Une de mes amies , Simon O’ kanada , s’ est demandé pourquoi son fils était toujours malade . 
+
+ETIAS ETIAS | w_freq: 33 - 33 | wiki_freq: 37 - 14 | sentence_idx: 401383 | align_1: 7-7 | align_2: 8-12 | entity: none - ETIAS |    Like the US ESTA or the EU ETIAS , the electronic visa India has been introduced by the local authorities since May 2015 . ||| Comme l’ ESTA des États-Unis ou l’ ETIAS de l’ Union européenne , le visa électronique Inde a été instauré par les autorités locales depuis mai 2015 . 
+
+orangs—men orangs | w_freq: 1 - 4 | wiki_freq: 0 - 284 | sentence_idx: 402000 | align_1: 2-2 | align_2: 3-7 | entity: none - Combien d’ orangs ! |    How many orangs—men , I mean , marry without knowing what a woman is ! ||| Combien d’ orangs ! ... d’ hommes , veux -je dire , se marient sans savoir ce qu’ est une femme ! 
+
+E-99 E-99 | w_freq: 13 - 15 | wiki_freq: 24 - 1 | sentence_idx: 407354 | align_1: 0-0 | align_2: 1-4 | entity: none - E-99 |    E-99 If I could , tonight , I ’d heal every person in here . ||| E-99 ( 37 ) Si je le pouvais , ce soir , je guérirais chaque personne ici présente . 
+
+E-387 E-387 | w_freq: 2 - 2 | wiki_freq: 0 - 0 | sentence_idx: 423176 | align_1: 0-0 | align_2: 1-4 | entity: none - E-387 |    E-387 Do n't be like the First Lady of the land . ||| E-387 ( 386 ) Ne soyez pas comme la première dame du pays . 
+
+EV1 EV1 | w_freq: 7 - 7 | wiki_freq: 333 - 75 | sentence_idx: 430878 | align_1: 3-2 | align_2: 4-7 | entity: EV1 - EV1 |    Why was the EV1 canceled ? ||| Pourquoi la EV1 a -t -elle été annulée ? 
+
+AM-2201 AM-2201 | w_freq: 1 - 1 | wiki_freq: 22 - 0 | sentence_idx: 433037 | align_1: 7-9 | align_2: 8-13 | entity: none - AM-2201 |    However , it is the analogue of AM-2201 meaning the characteristics are similar . ||| Cependant , il s’ agit de l’ analogue de AM-2201 , ce qui signifie que les caractéristiques sont similaires . 
+
+Continue Continuez | w_freq: 109 - 110 | wiki_freq: 652 - 24 | sentence_idx: 449168 | align_1: 0-0 | align_2: 1-5 | entity: none - Continuez |    Continue your teaching however ; you have only told me half what I must know . ||| Continuez , cependant , à m’ instruire ; vous ne m’ avez dit que la moitié de ce que je dois savoir . 
+
+Ancestor Ancêtre | w_freq: 9 - 3 | wiki_freq: 770 - 170 | sentence_idx: 452507 | align_1: 5-4 | align_2: 6-12 | entity: none - La Montée D' Un Ancêtre Humain Ancien A - T |    Did Rise of Ancient Human Ancestor Lead to New Stone Tools ? ||| La Montée D' Un Ancêtre Humain Ancien A - T - Elle Conduit À De Nouveaux Outils De Pierre ? 
+
+Arisa Arisa | w_freq: 3 - 3 | wiki_freq: 640 - 105 | sentence_idx: 454339 | align_1: 10-11 | align_2: 11-17 | entity: Arisa - Arisa |    I conversed with Mia in elf language too , did Arisa not hear it ? ||| J’ ai parlé avec Mia en langage des elfes aussi , Arisa ne l’ a -t -elle pas entendu ? 
+
+18k 18k | w_freq: 1 - 1 | wiki_freq: 80 - 1 | sentence_idx: 466352 | align_1: 8-9 | align_2: 9-14 | entity: better than 18k - none |    Nevertheless , this result was far better than 18k a month ago . ||| Néanmoins , ce résultat a été bien meilleur que 18k , il y a un mois . 
+
+GVIDO GVIDO | w_freq: 1 - 2 | wiki_freq: 0 - 0 | sentence_idx: 491033 | align_1: 11-11 | align_2: 12-17 | entity: " Play with GVIDO " - Play with GVIDO |    What is the song played in the video " Play with GVIDO " ? ||| Quelle est la chanson jouée dans la vidéo « Play with GVIDO ( Jouer avec GVIDO ) » ? 
+
+Brukins Brukins | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 494328 | align_1: 15-17 | align_2: 16-21 | entity: Kara Brukins - Kara Brukins |    A difficult family life I do not think that when a US citizen named Kara Brukins married for the first time , she knew in advance all the difficulties that life had prepared for her . ||| Une vie de famille difficile , je ne pense pas que lorsqu' un citoyen américain , Kara Brukins , se soit marié pour la première fois , elle connaissait d' avance toutes les difficultés que la vie lui avait préparées . 
+
+Capulets Capulet | w_freq: 2 - 2 | wiki_freq: 132 - 142 | sentence_idx: 497855 | align_1: 6-6 | align_2: 7-10 | entity: Capulets - Capulet |    The day is hot , the Capulets abroad . ||| La journée est chaude , les Capulet , à l’ étranger ; 
+
+Merciful Miséricordieux | w_freq: 16 - 21 | wiki_freq: 572 - 104 | sentence_idx: 503640 | align_1: 8-10 | align_2: 9-14 | entity: none - Miséricordieux [ Dieu |    Because they attribute a son to the Most Merciful . ||| « Ils ont attribué un fils [ Jésus ] au Miséricordieux [ Dieu ] ! 
+
+Moriah Moriyya | w_freq: 11 - 7 | wiki_freq: 946 - 3 | sentence_idx: 516401 | align_1: 6-5 | align_2: 7-10 | entity: Moriah - Moriyya |    “ Go to the land of Moriah … on one of the mountains that I shall show you . ” ||| Pars pour le pays de Moriyya et là , tu l’ offriras en holocauste sur celle des montagnes que je t’ indiquerai . ” 
+
+Moriah Moriyya | w_freq: 11 - 7 | wiki_freq: 946 - 3 | sentence_idx: 516402 | align_1: 6-5 | align_2: 7-10 | entity: Moriah - Moriyya |    “ Go to the land of Moriah … on one of the mountains that I shall show you . ” ||| Pars pour le pays de Moriyya et là , tu l’ offriras en holocauste sur celle des montagnes que je t’ indiquerai » . 
+
+FAB FAB | w_freq: 1 - 4 | wiki_freq: 816 - 181 | sentence_idx: 525885 | align_1: 13-16 | align_2: 14-21 | entity: FAB - FAB |    For the first reference period , there shall be no mandatory national / FAB environment KPI . ||| Pour la première période de référence , il n’ y a pas de KPI national / FAB obligatoire en matière d’ environnement . 
+
+E-112 E-112 | w_freq: 10 - 12 | wiki_freq: 5 - 3 | sentence_idx: 532954 | align_1: 0-0 | align_2: 1-4 | entity: none - E-112 |    E-112 I remember in school , we had a debate on that . ||| E-112 ( 41 ) Je me souviens qu’ à l’ école nous avons eu un débat là - dessus . 
+
+E-19 E-19 | w_freq: 15 - 14 | wiki_freq: 10 - 3 | sentence_idx: 535978 | align_1: 0-0 | align_2: 1-4 | entity: none - E-19 |    E-19 I 've been to the grave where the white horse is changed every four hours . ||| E-19 ( 18 ) J’ ai été au tombeau où le cheval blanc est changé toutes les quatre heures . 
+
+JostGroup JostGroup | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 537922 | align_1: 5-5 | align_2: 6-9 | entity: JostGroup - JostGroup |    On 12th February 2015 , JostGroup received this award , crowning the efforts already made and in process in order to reduce its global environmental impact ! ||| Ce 12 février 2015 , JostGroup s’ est vu attribuer cette récompense , couronnant les efforts déjà réalisé et en cours afin de réduire son impact environnemental global ! 
+
+E-22 E-22 | w_freq: 29 - 31 | wiki_freq: 13 - 2 | sentence_idx: 549030 | align_1: 0-0 | align_2: 1-5 | entity: none - E-22 |    E-22 You might not have a pair of shoes on your feet . ||| E-22 Peut - être que vous n’ aurez pas une paire de chaussures aux pieds . 
+
+Tajani Tajani | w_freq: 14 - 14 | wiki_freq: 146 - 39 | sentence_idx: 572387 | align_1: 6-7 | align_2: 7-11 | entity: Antonio Tajani - Antonio Tajani |    President of the European Parliament Antonio Tajani welcomed these results , which he described as “ very encouraging ” , for the first time “ since the beginning of the crisis in 2007 ” . ||| Le président du Parlement européen , Antonio Tajani , s' est félicité de ces résultats , qu' il a qualifiés de « très encourageants » pour la première fois « depuis le début de la crise en 2007 » . 
+
+E-27 E-27 | w_freq: 25 - 26 | wiki_freq: 10 - 1 | sentence_idx: 574529 | align_1: 0-0 | align_2: 1-4 | entity: none - E-27 |    E-27 The first vision I remember was a lady with her baby . ||| E-27 ( 7 ) La première vision dont je me souviens , c' était une dame avec son bébé . 
+
+Perguntas Perguntas | w_freq: 2 - 2 | wiki_freq: 1 - 2 | sentence_idx: 582353 | align_1: 1-1 | align_2: 2-5 | entity: Perguntas - 10 Perguntas |    10 Perguntas ( “ 10 Questions ” ): Until September 3 , citizens can send questions for the president candidates . ||| 10 Perguntas [ 26 ] ( “ 10 Questions ” ): Jusqu' au 03 septembre , les citoyens peuvent envoyer des questions au candidats à la présidentielle . 
+
+E-10 E-10 | w_freq: 30 - 33 | wiki_freq: 74 - 25 | sentence_idx: 582771 | align_1: 0-0 | align_2: 1-5 | entity: none - E-10 |    E-10 Not long ago , I stood by the side of William Cowper 's grave . ||| E-10 Il n’ y a pas longtemps , je me tenais à côté de la tombe de William Cowper . 
+
+E-10 E-10 | w_freq: 30 - 33 | wiki_freq: 74 - 25 | sentence_idx: 586689 | align_1: 0-0 | align_2: 1-4 | entity: none - E-10 |    E-10 Oh , are n't we happy tonight to know that Christianity is not a bluff . ||| E-10 ( 16 ) Oh , ne sommes -nous pas heureux ce soir de savoir que le christianisme , ce n' est pas une tromperie . 
+
+Backenstos Backenstos | w_freq: 1 - 1 | wiki_freq: 5 - 0 | sentence_idx: 590015 | align_1: 4-9 | align_2: 5-13 | entity: Backenstos - Mr Backenstos |    I then sent Mr. Backenstos , when they declared that they were my enemies . ||| _ _ _ _ J' ai ensuite envoyé Mr Backenstos { 28 } , quand ils ont déclaré qu' ils étaient mes ennemis . 
+
+Siddhas siddhas | w_freq: 2 - 2 | wiki_freq: 99 - 15 | sentence_idx: 594008 | align_1: 5-5 | align_2: 6-9 | entity: Siddhas - none |    • Neither Jesus nor the Siddhas intended to create a new religion . ||| • Ni Jésus ni les siddhas n’ avaient l’ intention de créer une nouvelle religion . 
+
+21,714 714 | w_freq: 2 - 7 | wiki_freq: 9 - 641 | sentence_idx: 596646 | align_1: 3-1 | align_2: 4-8 | entity: 21,714 - none |    Previous post $ 21,714 For Every Man , Woman And Child In The World – This Global Debt Bomb Is Ready To Explode ||| 21 714 $ ( de dette ? ) pour chaque homme , femme et enfant dans le monde - cette bombe de la dette mondiale est prête à exploser 
+
+L-157 E-157 | w_freq: 1 - 11 | wiki_freq: 1 - 0 | sentence_idx: 603335 | align_1: 0-0 | align_2: 1-8 | entity: none - E-157 |    L-157 I had a discussion not long ago with a priest . ||| E-157 Il n' y a pas longtemps , j' ai discuté avec un prêtre . 
+
+Kebir Kebir | w_freq: 1 - 1 | wiki_freq: 421 - 503 | sentence_idx: 611671 | align_1: 12-13 | align_2: 13-19 | entity: Sultan Kebir - Sultan Kebir |    For them , and for all Egyptians , he was now Sultan Kebir , the Sultan of Fire . ||| Pour eux et pour tous les Egyptiens , il est maintenant le Sultan Kebir c’ est - à - dire le Sultan du feu . 
+
+Moriah Moriyya | w_freq: 11 - 7 | wiki_freq: 946 - 3 | sentence_idx: 615380 | align_1: 6-5 | align_2: 7-10 | entity: Moriah - Moriyya |    “ Go to the land of Moriah … on one of the mountains that I shall show you . ” ||| Pars pour le pays de Moriyya et là , tu l’ offriras en holocauste sur celle des montagnes que je t’ indiquerai . » 
+
+Moriah Moriyya | w_freq: 11 - 7 | wiki_freq: 946 - 3 | sentence_idx: 615381 | align_1: 6-5 | align_2: 7-10 | entity: Moriah - Moriyya |    “ Go to the land of Moriah … on one of the mountains that I shall show you . ” ||| Pars pour le pays de Moriyya et là , tu l’ offriras en holocauste sur celle des montagnes que je t’ indiquerai . " 
+
+Meratrim Meratrim | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 626293 | align_1: 7-5 | align_2: 8-10 | entity: Re-Body Meratrim - Re-Body Meratrim |    With this in mind , is Re-Body Meratrim worth trying , or can you just expect to throw your money out the window ? ||| Dans cet esprit , Re-Body Meratrim vaut -il la peine d’ être essayé , ou pouvez -vous simplement vous attendre à jeter votre argent par la fenêtre ? 
+
+O’Gara Gara | w_freq: 1 - 1 | wiki_freq: 18 - 543 | sentence_idx: 636558 | align_1: 4-5 | align_2: 5-9 | entity: James O’Gara - James O’ Gara |    Joan Smith and James O’Gara first met in a discussion group organized by the Catholic Worker movement . ||| Joan Smith et James O’ Gara se sont d’ abord rencontrés dans un groupe de discussion organisé par le Mouvement catholique ouvrier . 
+
+17:105 17:105 | w_freq: 4 - 4 | wiki_freq: 1 - 0 | sentence_idx: 637100 | align_1: 0-0 | align_2: 1-8 | entity: 17:105 - none |    17:105 We have sent it down , and with the truth it has come down ( to you O Prophet ) . ||| 17:105 Et c’ est en toute vérité que Nous avons fait descendre le Coran , et il est descendu avec la vérité . 
+
+Zodiacal Yggdra | w_freq: 3 - 1 | wiki_freq: 111 - 1 | sentence_idx: 659453 | align_1: 11-7 | align_2: 12-12 | entity: none - Yggdra Union |    Yusuf Ali : By the sky , ( displaying ) the Zodiacal Signs ; ||| Heavens sont au moins à tester ( Yggdra Union , Riviera et Gungnir en plus de celui la ) . 
+
+Midian Madian | w_freq: 3 - 4 | wiki_freq: 333 - 57 | sentence_idx: 666404 | align_1: 14-14 | align_2: 15-18 | entity: Midian - Madian |    But now the LORD has abandoned us and put us into the hand of Midian . ||| Maintenant l’ Eternel nous abandonne , et il nous livre entre les mains de Madian [ Midyan ] ! 
+
+EasyBib EasyBib | w_freq: 2 - 2 | wiki_freq: 1 - 0 | sentence_idx: 672171 | align_1: 9-11 | align_2: 10-16 | entity: EasyBib - EasyBib |    But how many students used a free site like EasyBib on their own laptops to cite sources instead ? ||| Mais combien d’ étudiants ont utilisé un site gratuit tel que EasyBib à la place , sur leurs propres ordinateurs , pour citer leurs sources ? 
+
+Agri-Food Agroalimentaire | w_freq: 4 - 2 | wiki_freq: 363 - 242 | sentence_idx: 673565 | align_1: 6-8 | align_2: 7-13 | entity: Agri-Food - ministre de l' Agriculture et de l' Agroalimentaire |    Does the Minister of Agriculture and Agri-Food intend to reply favourably to this request ? ||| Le ministre de l' Agriculture et de l' Agroalimentaire a -t -il l' intention de répondre favorablement à cette demande ? 
+
+E-96 E-96 | w_freq: 13 - 15 | wiki_freq: 1 - 2 | sentence_idx: 674489 | align_1: 0-0 | align_2: 1-4 | entity: E-96 - none |    E-96 Lord , we see that You 're increasing our building . ||| E-96 ( 79 ) Seigneur , nous voyons que Tu as agrandi notre bâtiment . 
+
+E-223 E-223 | w_freq: 4 - 4 | wiki_freq: 0 - 0 | sentence_idx: 684452 | align_1: 0-0 | align_2: 1-4 | entity: none - E-223 |    E-223 How can we be the Church when we despise one another ? ||| E-223 ( 221 ) Comment pouvons -nous être l' église si nous nous méprisons les uns les autres ? 
+
+2371 2371 | w_freq: 1 - 1 | wiki_freq: 77 - 53 | sentence_idx: 690648 | align_1: 8-8 | align_2: 9-14 | entity: the UN Resolution 2371 - none |    A deal was made and the UN Resolution 2371 passed . ||| Un accord a été conclu et la résolution 2371 de l’ ONU a été adoptée . 
+
+7.124 7.124 | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 701164 | align_1: 0-0 | align_2: 1-4 | entity: 7.124 - none |    7.124 The relationship may be nonlinear . ||| 7.124 Bien entendu , la relation peut être non linéaire . 
+
+Dhu’l-Qarnain Qarnaïn | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 703540 | align_1: 6-9 | align_2: 7-17 | entity: Dhu’l-Qarnain - Dhou al - Qarnaïn |    And they ask you questions about Dhu’l-Qarnain . ||| Ils t’ interrogent au sujet de Dhou al - Qarnaïn ( l’ homme aux deux cornes ) . 
+
+Simplify Simplifier | w_freq: 9 - 2 | wiki_freq: 93 - 16 | sentence_idx: 704304 | align_1: 0-0 | align_2: 1-4 | entity: none - Simplifier |    Simplify Platform – Consolidate and simplify the platform environment . ||| Simplifier la plate - forme : Consolider et simplifier l’ environnement de la plate - forme . 
+
+76.7 76.7 | w_freq: 2 - 1 | wiki_freq: 389 - 1 | sentence_idx: 732118 | align_1: 0-0 | align_2: 1-5 | entity: 76.7 - none |    76.7 Villagers in Malawi Discuss the Role of Trees in Their Community ||| 76.7 Au Malawi , des Villageois Discutent du Rôle des Arbres dans Leur Collectivité 
+
+Daesh Daesh | w_freq: 79 - 41 | wiki_freq: 371 - 205 | sentence_idx: 733390 | align_1: 6-4 | align_2: 7-10 | entity: Daesh - Daesh |    “ We must combat all of Daesh including its financiers and its propagandists . ||| ' nous devons combattre Daesh dans son intégralité , y compris ses financiers et ses propagandistes . 
+
+Khaba'ith ith | w_freq: 2 - 2 | wiki_freq: 0 - 3 | sentence_idx: 737255 | align_1: 10-13 | align_2: 11-21 | entity: Al- Khaba'ith - none |    Indeed I seek refuge in You from Al-Khubith and Al- Khaba'ith . " ||| Je cherche refuge en Toi contre Al - Khubith et Al - Khaba' ith . [ contre les djinns mâles et femelles]. " 
+
+Khaba'ith Khaba' | w_freq: 2 - 1 | wiki_freq: 0 - 0 | sentence_idx: 737255 | align_1: 10-12 | align_2: 11-21 | entity: Al- Khaba'ith - Khaba' |    Indeed I seek refuge in You from Al-Khubith and Al- Khaba'ith . " ||| Je cherche refuge en Toi contre Al - Khubith et Al - Khaba' ith . [ contre les djinns mâles et femelles]. " 
+
+E-3 E-3 | w_freq: 18 - 20 | wiki_freq: 594 - 132 | sentence_idx: 740119 | align_1: 0-0 | align_2: 1-5 | entity: none - E-3 |    E-3 Not long ago , one of my managers , Mr. Baxter ... ||| E-3 Il n’ y a pas longtemps , l’ un de mes organisateurs , monsieur Baxter ... 
+
+L-74 E-74 | w_freq: 2 - 33 | wiki_freq: 0 - 2 | sentence_idx: 760506 | align_1: 0-0 | align_2: 1-4 | entity: none - E-74 |    L-74 And now every pastor is invited . ||| E-74 ( 3 ) Et maintenant , chaque pasteur est invité . 
+
+Startups Startups | w_freq: 12 - 5 | wiki_freq: 702 - 36 | sentence_idx: 767564 | align_1: 24-32 | align_2: 25-36 | entity: none - Why Internal Ventures Are Different from External Startups |    This is what Henry Chesbrough called “ get upstairs in the building ” in his excellent article Why Internal Ventures Are Different from External Startups . ||| C' est ce que Henry Chesbrough appelle “ get upstairs in the building ” ( monter les étages - NdT ) dans son excellent article Why Internal Ventures Are Different from External Startups ( en ) . 
+
+26:32 26:32 | w_freq: 1 - 1 | wiki_freq: 6 - 0 | sentence_idx: 776425 | align_1: 0-0 | align_2: 1-5 | entity: 26:32 - none |    26:32 So he cast his staff ; that is when it was a clear serpent . ||| 26:32 [ Moïse ] jeta donc son bâton et le voilà devenu un serpent manifeste . 
+
+PROPHETS PROPHETS | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 795927 | align_1: 7-7 | align_2: 8-12 | entity: none - HOLY PROPHETS |    When you read the words “ holy PROPHETS ” … know that this refers to WHOLE PROFITS – MONETARY PROFITS . ||| Quand vous lisez les mots « HOLY PROPHETS ( SAINTS PROPHÈTES ) » … sachez que cela réfère aux WHOLE PROFITS ( PROFITS ENTIERS ) – MONETARY PROFITS ( PROFITS MONÉTAIRES ) . 
+
+PROFITS PROFITS | w_freq: 3 - 4 | wiki_freq: 3 - 1 | sentence_idx: 795927 | align_1: 16-20 | align_2: 17-25 | entity: none - WHOLE PROFITS |    When you read the words “ holy PROPHETS ” … know that this refers to WHOLE PROFITS – MONETARY PROFITS . ||| Quand vous lisez les mots « HOLY PROPHETS ( SAINTS PROPHÈTES ) » … sachez que cela réfère aux WHOLE PROFITS ( PROFITS ENTIERS ) – MONETARY PROFITS ( PROFITS MONÉTAIRES ) . 
+
+PROFITS PROFITS | w_freq: 3 - 4 | wiki_freq: 3 - 1 | sentence_idx: 795927 | align_1: 19-27 | align_2: 20-32 | entity: none - MONETARY PROFITS |    When you read the words “ holy PROPHETS ” … know that this refers to WHOLE PROFITS – MONETARY PROFITS . ||| Quand vous lisez les mots « HOLY PROPHETS ( SAINTS PROPHÈTES ) » … sachez que cela réfère aux WHOLE PROFITS ( PROFITS ENTIERS ) – MONETARY PROFITS ( PROFITS MONÉTAIRES ) . 
+
+Europeanization européanisation | w_freq: 4 - 8 | wiki_freq: 110 - 81 | sentence_idx: 798555 | align_1: 15-11 | align_2: 16-17 | entity: Europeanization - none |    It is doubtful , however , that the AREPs will serve Brussels ’ objectives of Europeanization whether from inside or outside the EU . ||| Il est toutefois douteux que les AREP servent les objectifs d' européanisation de Bruxelles , que ce soit à l' intérieur ou à l' extérieur de l' UE . 
+
+Bunz Bunz | w_freq: 1 - 1 | wiki_freq: 104 - 8 | sentence_idx: 806772 | align_1: 14-13 | align_2: 15-21 | entity: Marc Bunz - Marc Bunz |    In March 2017 , I therefore sat down with my fellow board member Marc Bunz and considered the matter : What do we do now ? ||| En mars 2017 , je me suis donc entretenu avec mon collègue Marc Bunz , membre du conseil d' administration , et j' ai examiné la question : Qu' est -ce qu' on fait maintenant ? 
+
+Deciders Deciders | w_freq: 1 - 1 | wiki_freq: 10 - 0 | sentence_idx: 809479 | align_1: 23-25 | align_2: 24-30 | entity: The Deciders - The Deciders |    The consequences of these events for America ’s foreign policy have been detailed in these pages by John Hay ’s essay “ The Deciders . ” ||| Les conséquences de ces événements sur la politique étrangère des États-Unis ont été détaillées dans ces pages par l' essai de John Hay « The Deciders » ( Décideurs ) . 
+
+ABSORBED ABSORBÉ | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 816487 | align_1: 1-1 | align_2: 2-5 | entity: none - ABSORBÉ PAR |    ( ABSORBED IN HIS ACT ) Why do you want to leave now ? ||| ( ABSORBÉ PAR CE QU’ IL FAIT ) Pourquoi veux - tu partir maintenant ? 
+
+Limbs Limbs | w_freq: 1 - 1 | wiki_freq: 487 - 37 | sentence_idx: 822368 | align_1: 10-11 | align_2: 11-15 | entity: Life Without Limbs - Life Without Limbs |    " The biggest event that our team at Life Without Limbs has seen and maybe the largest event ever in Europe — 800,000 people in the streets of Kyiv Ukraine ! ||| “ Le plus grand événement que notre équipe à Life Without Limbs ( LWL ) a vu et peut-être le plus grand événement jamais organisé en Europe – 800 000 personnes rassemblées dans les rues de Kiev en Ukraine ! 
+
+Kerviel Kerviel | w_freq: 3 - 3 | wiki_freq: 129 - 223 | sentence_idx: 829349 | align_1: 5-6 | align_2: 6-10 | entity: Jérôme Kerviel - Jérôme Kerviel |    ( II ): how Jérôme Kerviel managed to get out of this framework ? ||| ( II ) : comment Jérôme Kerviel a -t -il réussi à sortir de ce cadre ? 
+
+Cacey Cacey | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 833055 | align_1: 11-11 | align_2: 12-16 | entity: Edgar Cacey - Edgar Cacey |    Imagine having the ability to predict your own death – Edgar Cacey did . ||| Imaginez avoir la capacité de prévoir votre propre mort – Edgar Cacey lui , l’ a fait . 
+
+E-194 E-194 | w_freq: 8 - 8 | wiki_freq: 0 - 0 | sentence_idx: 843811 | align_1: 0-0 | align_2: 1-4 | entity: none - E-194 |    E-194 " Let me be an influence , Lord , to others . ||| E-194 ( 193 ) " Que je sois une influence , Seigneur , pour les autres . 
+
+Alkalai Alkalai | w_freq: 1 - 1 | wiki_freq: 57 - 12 | sentence_idx: 849897 | align_1: 1-3 | align_2: 2-7 | entity: Alkalai - Alkalai |    Perhaps Alkalai sought to emulate the national success of his Serbian neighbors ? ||| Peut - être Alkalai a -t -il cherché à imiter le succès national de ses voisins serbes ? 
+
+E-155 E-155 | w_freq: 16 - 17 | wiki_freq: 0 - 2 | sentence_idx: 856713 | align_1: 0-0 | align_2: 1-4 | entity: E-155 - E-155 |    E-155 All these things we see happening then , and the nation ... ||| E-155 ( 153 ) Toutes ces choses que nous voyons donc arriver et la nation ... 
+
+L-285 E-285 | w_freq: 1 - 4 | wiki_freq: 0 - 0 | sentence_idx: 857637 | align_1: 0-0 | align_2: 1-4 | entity: none - E-285 |    L-285 Remember , I can't--I ca n't force you to come against your own will . ||| E-285 ( 214 ) Souvenez -vous , je ne peux pas - je ne peux pas vous obliger à venir contre votre gré . 
+
+Sarbanes-Oxley Oxley | w_freq: 1 - 3 | wiki_freq: 220 - 297 | sentence_idx: 864285 | align_1: 10-14 | align_2: 11-19 | entity: Sarbanes-Oxley - Oxley |    Why was the data retention period for auditable records in Sarbanes-Oxley chosen as 7 years ? ||| Pourquoi la période de conservation des données pour les enregistrements vérifiables dans Sarbanes - Oxley a -t -elle été choisie comme étant de 7 ans ? 
+
+80/987 80/987 | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 869529 | align_1: 8-8 | align_2: 9-16 | entity: Article 8 of Directive 80/987 - none |    ( 3 ) Is Article 8 of Directive 80/987 directly effective in the circumstances of the present case ? ’ ||| 3 ) L’ article 8 de la directive 80/987 / CEE a -t -il un effet direct dans les circonstances de l’ espèce ? » 
+
+WACP WACP | w_freq: 1 - 1 | wiki_freq: 24 - 3 | sentence_idx: 874543 | align_1: 15-17 | align_2: 16-21 | entity: WACP - WACP |    43 years is , without a doubt , an important milestone in the life of WACP for two main reasons : ||| 43 ans constituent , à n’ en point douter , une étape importante dans la vie du WACP et cela , pour deux principales raisons : 
+
+Ordinary—until Ordinaire | w_freq: 1 - 11 | wiki_freq: 0 - 334 | sentence_idx: 874684 | align_1: 0-0 | align_2: 1-6 | entity: none - Ordinaire |    Ordinary—until I became a statistic , one of the unsolved murders of the year . ||| Ordinaire , jusqu’ à ce que je sois devenue une statistique , l’ un des meurtres non résolus de l’ année . 
+
+Bacalhau bacalhau | w_freq: 1 - 2 | wiki_freq: 85 - 32 | sentence_idx: 878130 | align_1: 0-1 | align_2: 1-7 | entity: Bacalhau - none |    Bacalhau is the number one fish of the country , it is cooked in a thousand ways and it is interesting to discover the creativity with which it prepares it . ||| Le bacalhau ( Morue en français ) est LE poisson numéro 1 du pays , on le cuisine de mille façons et il est intéressant de découvrir la créativité avec laquelle ils le préparent . 
+
+BBM BBM | w_freq: 12 - 12 | wiki_freq: 373 - 96 | sentence_idx: 890804 | align_1: 3-2 | align_2: 4-8 | entity: none - Aybar BBM |    Was the Aybar BBM expensive , Yohannes ? ||| L’ Aybar BBM vous a -t -elle coûté cher , Yohannes ? 
+
+Do1Thing Do1Thing | w_freq: 1 - 1 | wiki_freq: 2 - 0 | sentence_idx: 893364 | align_1: 33-32 | align_2: 34-38 | entity: none - Do1Thing |    Each one of us can make a difference in the lives of forcibly displaced people , each one of us can be a gift to others , each one of us can # Do1Thing for a refugee . ||| Chacun de nous peut faire une différence dans la vie des personnes déplacées de force , chacun de nous peut être un cadeau pour les autres , chacun de nous peut # Do1Thing ( Faire une chose ) pour un réfugié . 
+
+LENR LENR | w_freq: 2 - 2 | wiki_freq: 18 - 10 | sentence_idx: 901235 | align_1: 10-11 | align_2: 11-15 | entity: LENR - none |    For those who want to know more about RNBE ( LENR ) , I refer you to an article I wrote in 2014 " E-Cat and LENR : It 's very serious ! ||| Pour ceux qui veulent en savoir davantage sur les RNBE ( LENR , en anglais ) , je vous réfère à un article que j’ ai écrit en 2014 « E-Cat et LENR : C’ est très sérieux ! 
+
+E-15 E-15 | w_freq: 24 - 25 | wiki_freq: 34 - 6 | sentence_idx: 902802 | align_1: 0-0 | align_2: 1-4 | entity: none - E-15 |    E-15 But , you know , if I said anything different than what 's in my heart , I 'd be a hypocrite . ||| E-15 ( 12 ) Mais , vous savez , si je disais autre chose que ce qui est dans mon cœur , je serais un hypocrite . 
+
+Baquet Baquet | w_freq: 1 - 1 | wiki_freq: 198 - 187 | sentence_idx: 905038 | align_1: 7-10 | align_2: 8-14 | entity: Baquet - Baquet |    Trump did n’t change the Times — Baquet did . ||| Trump n’ a pas changé le Times — c’ est Baquet qui l’ a fait . 
+
+Capasso Capasso | w_freq: 1 - 1 | wiki_freq: 102 - 22 | sentence_idx: 917042 | align_1: 3-4 | align_2: 4-8 | entity: Capasso - Capasso |    Welcomed by President Capasso expressed appreciation for a unique and extraordinary place . ||| Accueilli par le président Capasso , ils ont exprimé leur reconnaissance pour un lieu unique et extraordinaire . 
+
+Moksha Moksha | w_freq: 2 - 3 | wiki_freq: 782 - 52 | sentence_idx: 921420 | align_1: 9-8 | align_2: 10-12 | entity: Moksha - Moksha |    Some people say , “ Sir , I want Moksha … but why ? ” ||| Certains disent , " Monsieur , je veux Moksha ... ( libération ) mais pourquoi ? " 
+
+CIIA CIIA | w_freq: 1 - 1 | wiki_freq: 35 - 5 | sentence_idx: 936082 | align_1: 3-3 | align_2: 4-7 | entity: CIIA - CIIA |    However , the CIIA never strayed from its independent and non-partisan roots . ||| Pourtant , le CIIA ne s’ est jamais départi de ses racines indépendantes et non-partisanes . 
+
+Archondis Archondis | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 947172 | align_1: 6-7 | align_2: 7-11 | entity: Matteo Archondis - Matteo Archondis |    But a young Italian student Matteo Archondis used it in a way more creative way . ||| Mais un jeune étudiant italien , Matteo Archondis , l’ a utilisé d’ une manière plus créative . 
+
+S-7 S-7 | w_freq: 2 - 1 | wiki_freq: 69 - 5 | sentence_idx: 956228 | align_1: 8-11 | align_2: 9-16 | entity: Bill S-7 - S-7 |    That country passed a law similar to Bill S-7 about five or six years ago . ||| Ce pays a adopté une loi similaire au projet de loi S-7 , il y a environ cinq ou six ans . 
+
+P9 P9 | w_freq: 4 - 4 | wiki_freq: 162 - 36 | sentence_idx: 960637 | align_1: 0-0 | align_2: 1-4 | entity: none - P9 |    P9 is not bad but it 's the most frustrating place , just outside the points . ||| P9 , ce n' est pas mauvais mais c' est la place la plus frustrante , juste en dehors des points . 
+
+SM3E SM3E | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 963978 | align_1: 13-16 | align_2: 14-20 | entity: SM3E - SM3E |    For the operation and maintenance of the system , we immediately thought of SM3E as we had already worked with them as part of the Rhyviere 1 project . ||| Pour l’ exploitation et la maintenance du système , nous avons tout de suite pensé à SM3E comme opérateur , car nous avions déjà travaillé avec eux dans le cadre du projet Rhyviere 1 . 
+
+E-80 E-80 | w_freq: 21 - 21 | wiki_freq: 10 - 5 | sentence_idx: 967561 | align_1: 0-0 | align_2: 1-7 | entity: none - E-80 |    E-80 Cancer spirit somewhere : you can just feel that the devil 's shadow . ||| E-80 Il y a l’ esprit du cancer quelque part ; on peut sentir que c’ est l’ ombre de ce démon . 
+
+Daesh Daesh | w_freq: 79 - 41 | wiki_freq: 371 - 205 | sentence_idx: 970955 | align_1: 2-1 | align_2: 3-6 | entity: Daesh - Daesh |    Why is Daesh not a specific threat for you ? ||| Pourquoi Daesh ne représente -t -il pas une menace spécifique pour vous ? 
+
+RCCG RCCG | w_freq: 1 - 1 | wiki_freq: 25 - 1 | sentence_idx: 978588 | align_1: 16-23 | align_2: 17-28 | entity: RCCG - RCCG |    “ Do n’t ever marry outside the church and you have no reason to marry outside RCCG . ||| « Ne vous mariez jamais à l’ extérieur de l’ église et vous n’ avez aucune raison de vous marier en dehors du RCCG ( son église ) . 
+
+Tajani Tajani | w_freq: 14 - 14 | wiki_freq: 146 - 39 | sentence_idx: 990914 | align_1: 6-7 | align_2: 7-11 | entity: Antonio Tajani - Antonio Tajani |    President of the European Parliament Antonio Tajani welcomed these results , which he described as “ very encouraging ” , for the first time “ since the beginning of the crisis in 2007 ” . ||| Le président du Parlement européen , Antonio Tajani , s’ est félicité de ces résultats , qu’ il a qualifiés de « très encourageants » pour la première fois « depuis le début de la crise en 2007 » . 
+
+tablespoons cuillères | w_freq: 1 - 4 | wiki_freq: 97 - 466 | sentence_idx: 994972 | align_1: 1-1 | align_2: 2-6 | entity: 2 tablespoons - none |    2 tablespoons of cannabis oil ( in this case , you can do it yourself – I ’ll explain how – or much simpler , you can buy it . ||| 2 cuillères à soupe d’ huile de cannabis ( dans ce cas , vous pouvez le faire vous - même – je vais expliquer comment – ou beaucoup plus simple , vous pouvez l’ acheter . 
+

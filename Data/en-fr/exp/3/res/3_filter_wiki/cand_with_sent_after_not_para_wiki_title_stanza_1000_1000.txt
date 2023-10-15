@@ -1,0 +1,78 @@
+Yentob Yentob | w_freq: 1 - 1 | wiki_freq: 173 - 10 | sentence_idx: 47951 | align_1: 1-1 | align_2: 2-6 | entity: Yentob - Alan Yentob |    Did Yentob ever feel his salary — over £ 300,000 a year as creative director and documentary-maker — was excessive ? ||| Alan Yentob n’ a -t -il jamais pensé que son salaire – plus de 300   000   livres par an comme directeur créatif et documentariste – était excessif   ? 
+
+Mosiah Mosiah | w_freq: 3 - 3 | wiki_freq: 230 - 17 | sentence_idx: 60277 | align_1: 8-6 | align_2: 9-12 | entity: Mosiah - Mosiah |    How did the conversion of the sons of Mosiah influence their desire to be missionaries ? ||| Comment la conversion des fils de Mosiah a -t -elle eu une influence sur leur désir d’ être des missionnaires ? 
+
+Gwion Gwion | w_freq: 1 - 1 | wiki_freq: 211 - 42 | sentence_idx: 145088 | align_1: 8-8 | align_2: 9-15 | entity: Gwion - Gwion |    Imagine you can drink Awen – after all Gwion did . ||| Imaginez pouvoir boire l’ Awen – après tout Gwion , lui , l’ a bien fait . 
+
+Orihara Orihara | w_freq: 2 - 2 | wiki_freq: 108 - 17 | sentence_idx: 145156 | align_1: 18-18 | align_2: 19-22 | entity: Orihara - Orihara |    No , I just want to know what kind of students they are , not their relationship with Orihara . ||| Non , je veux juste savoir quel genre d’ étudiants ils sont , et pas leur relation avec Orihara , pensai -je . 
+
+Pleiadian Pléiadien | w_freq: 4 - 1 | wiki_freq: 6 - 0 | sentence_idx: 170322 | align_1: 7-8 | align_2: 8-12 | entity: Pleiadian - Pléiadien |    H : Are Resistance Movement or the Pleiadian aware of any of the mass meditations we are doing daily on the We Love Mass Meditation ( WLMM ) blog ? ||| H : Le Mouvement de Résistance ou le Pléiadien sont -ils au courant de l' une des méditations de masse que nous faisons quotidiennement sur le blog We Love Mass Meditation ( WLMM ) ? 
+
+Swank Swank | w_freq: 1 - 1 | wiki_freq: 985 - 131 | sentence_idx: 190967 | align_1: 6-6 | align_2: 7-11 | entity: Swank - Swank |    In Boys Do n't Cry , Swank actually transformed herself into the role of the character she was playing . ||| Dans Boys Don’ t Cry , Swank s’ est transformée en fait dans le rôle du personnage qu’ elle jouait . 
+
+Buzzi Buzzi | w_freq: 1 - 1 | wiki_freq: 295 - 176 | sentence_idx: 192096 | align_1: 1-1 | align_2: 2-7 | entity: Buzzi - Buzzi |    Dr. Buzzi talked about a rehabilitation period of about five or six months , what do you think ? ||| M. Buzzi ( le médecin ) a parlé d’ une période de réhabilitation d’ environ cinq ou six mois , qu’ en pensez -vous ? 
+
+E-51 E-51 | w_freq: 24 - 25 | wiki_freq: 13 - 2 | sentence_idx: 214596 | align_1: 0-0 | align_2: 1-5 | entity: E-51 - E-51 |    E-51 Another hand or two before we go further ? ||| E-51 Y a -t -il encore une ou deux mains avant que nous allions plus loin ? 
+
+Lac-Mégantic Mégantic | w_freq: 9 - 10 | wiki_freq: 265 - 595 | sentence_idx: 217192 | align_1: 9-12 | align_2: 10-16 | entity: Lac-Mégantic - Lac - Mégantic |    The fact that 47 people were burned alive in Lac-Mégantic is not a conspiracy . ||| Le fait que 47 personnes aient été brûlées vives à Lac - Mégantic , ce n' est pas un complot . 
+
+Abs Abs | w_freq: 8 - 7 | wiki_freq: 542 - 58 | sentence_idx: 228006 | align_1: 14-17 | align_2: 15-23 | entity: Abs - Abs |    When I visited Yemen in September , I went to the northern city of Abs , where we support the only fully functioning hospital in a rural area . ||| Lorsque j’ ai visité le Yémen en septembre , je me suis rendu dans la ville d’ Abs , au Nord du pays , où nous soutenons le seul hôpital pleinement fonctionnel en zone rurale . 
+
+WMO WMO | w_freq: 5 - 1 | wiki_freq: 816 - 17 | sentence_idx: 276689 | align_1: 3-4 | align_2: 4-14 | entity: WMO - WMO |    ‘ Even if WMO agrees , I will still not pass on the data . ||| « Même si la WMO [ Organisation mondiale de la météorologie ] est d’ accord , je ne vais toujours pas transmettre les données . 
+
+Mohamud Mohamud | w_freq: 1 - 1 | wiki_freq: 680 - 18 | sentence_idx: 280811 | align_1: 2-1 | align_2: 3-11 | entity: Mohamud - Mohamud |    Somalia President Mohamud also acknowledged that this is a major difficulty . ||| M. Mohamud , le président de la Somalie , a lui aussi reconnu qu’ il s’ agissait d’ une difficulté majeure . 
+
+Mataji Mataji | w_freq: 18 - 18 | wiki_freq: 239 - 37 | sentence_idx: 313739 | align_1: 7-5 | align_2: 8-9 | entity: Mataji - Mataji |    They started saying , " When is Mataji coming ? ||| Ils ont commencé à dire:"Quand Mataji va -t -elle venir ? 
+
+Shu'aib Chuaïb | w_freq: 2 - 3 | wiki_freq: 29 - 0 | sentence_idx: 330047 | align_1: 11-5 | align_2: 12-14 | entity: Shu'aib - Chuaïb |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 7 92 Ceux qui traitaient Chuaïb de menteur ( disparurent ) comme s´ils n´y avaient jamais vécu . 
+
+Cohenim Cohenim | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 338349 | align_1: 6-8 | align_2: 7-12 | entity: Cohenim - Cohenim |    My parents actually thought we were Cohenim — the real thing . ||| Mes parents croyaient en effet que nous étions Cohenim ( sic ) – le vrai du vrai . 
+
+Slutwalk Slutwalk | w_freq: 1 - 1 | wiki_freq: 46 - 9 | sentence_idx: 355867 | align_1: 16-19 | align_2: 17-27 | entity: Slutwalk - Slutwalk |    It would appear that , through lack of clarity , something has finally become clear : Slutwalk has lost me . ||| Il semblerait que , par manque de clarté , quelque chose est finalement devenu très clair : la « Slutwalk » ( Marche des salopes ) m’ a perdue . 
+
+MEE MEE | w_freq: 7 - 7 | wiki_freq: 90 - 19 | sentence_idx: 360679 | align_1: 7-6 | align_2: 8-11 | entity: MEE - MEE |    All the young refugees who spoke to MEE emphasised that they do not view the Nakba as simply a historical event which began and ended in 1948 . ||| Tous les jeunes réfugiés avec qui MEE s’ est entretenu ont insisté sur le fait qu’ ils ne considèrent pas la Nakba comme un simple événement historique qui a commencé et s’ est terminé en 1948 . 
+
+Caligastia Caligastia | w_freq: 2 - 2 | wiki_freq: 1 - 0 | sentence_idx: 416846 | align_1: 18-21 | align_2: 19-25 | entity: Caligastia - Caligastia |    But it became impossible for these souls to leave these places around Earth in the way Lucifer and Caligastia acted . ||| Mais cela devenait impossible pour ces âmes de quitter ces lieux autour de la terre de la façon dont Lucifer et Caligastia s’ y sont pris . 
+
+LUXEMBOURG LUXEMBOURG | w_freq: 2 - 2 | wiki_freq: 8 - 7 | sentence_idx: 431244 | align_1: 0-0 | align_2: 1-4 | entity: LUXEMBOURG - LUXEMBOURG |    LUXEMBOURG – If you want your past to be forgotten on the internet , it might be best to move to Europe . ||| LUXEMBOURG ( Reuters ) – Si vous souhaitez que votre passé soit oublié sur Internet , le mieux est peut-être de déménager en Europe . 
+
+MERC MERC | w_freq: 1 - 1 | wiki_freq: 119 - 41 | sentence_idx: 440073 | align_1: 1-0 | align_2: 2-5 | entity: MERC - MERC |    Does MERC actively look for employment opportunities for me ? ||| MERC cherche t’ il pro activement des opportunités d’ emploi pour moi ? 
+
+Shu'aib ayb | w_freq: 2 - 2 | wiki_freq: 29 - 28 | sentence_idx: 459577 | align_1: 11-6 | align_2: 12-13 | entity: Shu'aib - Chou’ ayb |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 7 92 Ceux qui rejetèrent Chou’ ayb disparurent , comme s’ ils n’ avaient jamais existé . 
+
+Shu'aib Chou’ | w_freq: 2 - 1 | wiki_freq: 29 - 0 | sentence_idx: 459577 | align_1: 11-5 | align_2: 12-13 | entity: Shu'aib - Chou’ ayb |    [ 7.92 ] It seemed as if those who had belied Shu'aib had never lived there . ||| 7 92 Ceux qui rejetèrent Chou’ ayb disparurent , comme s’ ils n’ avaient jamais existé . 
+
+Optina Optina | w_freq: 1 - 1 | wiki_freq: 105 - 98 | sentence_idx: 471971 | align_1: 5-5 | align_2: 6-9 | entity: Optina - Optina |    Among the people who visited Optina were the names of well-known figures of those years . ||| Parmi les personnes qui visitaient Optina , il y avait les noms de figures bien connues de ces années -là . 
+
+Kaspersky Kaspersky | w_freq: 19 - 19 | wiki_freq: 760 - 219 | sentence_idx: 477620 | align_1: 4-6 | align_2: 5-11 | entity: Kaspersky - Kaspersky |    Yet when experts of Kaspersky examined these devices , it has been shown that the Absolute Software ’s program was indeed present . ||| Pourtant , lorsque les experts de Kaspersky ont procédé à l’ examen de ces appareils , il a été démontré que le programme d’ Absolute Software était bel et bien présent . 
+
+DevBlog DevBlog | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 479530 | align_1: 3-5 | align_2: 4-10 | entity: DevBlog - DevBlog |    We wrote a DevBlog that might interest developers ( 2D or not ): WEB ! ||| Nous avons publié un nouveau DevBlog ( en anglais ) qui pourrait intéresser les développeurs ( 2D ou non ) : WEB ! 
+
+DNSSEC DNSSEC | w_freq: 4 - 4 | wiki_freq: 276 - 43 | sentence_idx: 520287 | align_1: 6-7 | align_2: 7-11 | entity: DNSSEC - DNSSEC |    A more secure DNS protocol called DNSSEC aims to solve some of these problems , but it has not been widely adopted yet . ||| Un protocole DNS plus sécurisé , appelé DNSSEC , a pour objectif de résoudre certains de ces problèmes , mais il n’ est pas encore largement adopté . 
+
+Limbs Limbs | w_freq: 2 - 2 | wiki_freq: 487 - 37 | sentence_idx: 538958 | align_1: 10-11 | align_2: 11-15 | entity: Life Without Limbs - Life Without Limbs |    " The biggest event that our team at Life Without Limbs has seen and maybe the largest event ever in Europe — 800,000 people in the streets of Kyiv Ukraine ! ||| « Le plus grand événement que notre équipe à Life Without Limbs ( LWL ) a vu et peut-être le plus grand événement jamais organisé en Europe – 800 000 personnes rassemblées dans les rues de Kiev en Ukraine ! 
+
+IVAW IVAW | w_freq: 1 - 1 | wiki_freq: 29 - 0 | sentence_idx: 540180 | align_1: 4-3 | align_2: 5-8 | entity: IVAW - IVAW |    WW : Will the IVAW also confront recruiters ? ||| WW : l' IVAW va - t' elle aussi affronter les recruteurs ? 
+
+Kaizuka Kaizuka | w_freq: 1 - 1 | wiki_freq: 131 - 38 | sentence_idx: 587864 | align_1: 0-0 | align_2: 1-4 | entity: Kaizuka - Kaizuka |    Kaizuka actually joined in the production of the song when it was almost complete . ||| Kaizuka s’ est en fait joint à la production de la chanson quand elle était presque terminée . 
+
+Jomtien Jomtien | w_freq: 6 - 6 | wiki_freq: 79 - 18 | sentence_idx: 625932 | align_1: 4-3 | align_2: 5-8 | entity: Jomtien - Jomtien |    The commitment made at Jomtien 10 years ago promised education as a reality for all in 2000 . ||| L’ engagement de Jomtien , il y a dix ans , promettait l’ éducation comme une réalité pour tous en l’ an 2000 . 
+
+NASB Ivano | w_freq: 1 - 2 | wiki_freq: 145 - 531 | sentence_idx: 645040 | align_1: 5-2 | align_2: 6-9 | entity: NASB - Ivano |    The NET Bible and the NASB read , “ The kingdom of God is in your midst , ” while the NIV says , “ within you . ” ||| Pour moi Ivano , je suis sûre que Jésus parlait au présent : " le Royaume des Cieux est au - dedans de vous " selon les traductions ou " au milieu de vous " selon d' autres . 
+
+Truthout Truthout | w_freq: 1 - 1 | wiki_freq: 109 - 2 | sentence_idx: 724466 | align_1: 1-0 | align_2: 2-5 | entity: Truthout - Truthout |    Did Truthout not notice that Obama continued the policy of “ killing them ( Muslims ) over there ” ? ||| Truthout n' a -t -il pas remarqué qu' Obama a poursuivi la politique de " les tuer ( musulmans ) là - bas " ? 
+
+Beracah Beraca | w_freq: 2 - 2 | wiki_freq: 5 - 0 | sentence_idx: 752876 | align_1: 31-32 | align_2: 32-40 | entity: Beracah - Beraca |    On the fourth day they assembled themselves in the valley of Beracah ; for there they blessed the Lord , therefore the name of that place was called The valley of Beracah to this day . ||| Le quatrième jour , ils s ’ assemblèrent [ qahal ] dans la vallée de Beraca , où ils bénirent l’ Eternel ; c’ est pourquoi ils appelèrent ce lieu vallée de Beraca , nom qui lui est resté jusqu’ à ce jour . 
+
+Daesh Daesh | w_freq: 75 - 39 | wiki_freq: 371 - 205 | sentence_idx: 817230 | align_1: 6-4 | align_2: 7-10 | entity: Daesh - Daesh |    “ We must combat all of Daesh including its financiers and its propagandists . ||| “ nous devons combattre Daesh dans son intégralité , y compris ses financiers et ses propagandistes . 
+
+Narbonnaise Narbonnaise | w_freq: 1 - 1 | wiki_freq: 11 - 743 | sentence_idx: 857060 | align_1: 4-2 | align_2: 5-7 | entity: Narbonnaise - Narbonnaise |    The whole of the Narbonnaise produces the same fruits as Italy . ||| Toute la Narbonnaise , en effet , produit les mêmes fruits que l' Italie 
+
+Salesians Salésiens | w_freq: 15 - 11 | wiki_freq: 771 - 178 | sentence_idx: 875115 | align_1: 3-4 | align_2: 4-9 | entity: Salesians - Salésiens |    “ When the Salesians first came in 1938 , they wanted to spread faith and culture to this periphery of Bratislava . ||| « Quand a les Salésiens arrivèrent , pour la première fois , en 1938 , ils voulaient diffuser la foi et la culture en cette périphérie de Bratislava . 
+
+RtCW RtCW | w_freq: 1 - 1 | wiki_freq: 1 - 4 | sentence_idx: 944462 | align_1: 11-12 | align_2: 12-17 | entity: RtCW - RtCW |    No real support from Activision , except a free copy of RtCW sent by them ! ||| Pas de véritable support d’ Activision , sauf une copie gratuite de RtCW qu’ ils m’ avaient envoyée ! 
+
+Googlewash Googlewash | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 970086 | align_1: 2-3 | align_2: 3-7 | entity: Googlewash - Googlewash |    And this Googlewash took just 42 days . ||| Et ce « Googlewash » n’ a pris que 42 jours . 
+
+Chinaski Chinaski | w_freq: 1 - 1 | wiki_freq: 132 - 16 | sentence_idx: 984705 | align_1: 7-8 | align_2: 8-13 | entity: Chinaski - Chinaski |    Well , you ai n't God , Chinaski , relax and have another drink . ||| Enfin , tu n' es pas Dieu , Chinaski , détends - toi , prends un truc , un autre verre . 
+

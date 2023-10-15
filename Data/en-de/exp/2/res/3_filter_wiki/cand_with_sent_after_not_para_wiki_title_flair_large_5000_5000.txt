@@ -1,0 +1,82 @@
+Painthall painthall | w_freq: 1 - 1 | wiki_freq: 3 - 0 | sentence_idx: 2491 | align_1: 9-8 | align_2: 10-13 | entity: Operation Painthall - operation painthall |    They have set up a task force called Operation Painthall and are believed to be focusing the investigation on seven or eight crimes . ||| Sie haben eine task force namens " operation painthall " ins leben gerufen und sollen die ermittlungen auf sieben oder acht verbrechen konzentrieren . 
+
+Leticia leticia | w_freq: 5 - 1 | wiki_freq: 1244 - 4 | sentence_idx: 51234 | align_1: 6-6 | align_2: 7-11 | entity: Leticia - none |    Some of the girls lured from Leticia would disappear for a week or as long as three months , their parents told authorities . ||| Einige der mädchen , die aus leticia gelockt worden waren , würden für eine woche oder bis zu drei monate verschwinden , sagten ihre eltern den behörden . 
+
+Israelite derjenige | w_freq: 48 - 416 | wiki_freq: 3404 - 4709 | sentence_idx: 59916 | align_1: 11-10 | align_2: 12-14 | entity: Israelite - none |    saying to herself , supposedly ( scratch the useless mention ) Israelite , ||| verkündet werden mußte , daß der " Richter " Israels derjenige war , der es 
+
+Bajoran Bajoraner | w_freq: 3 - 2 | wiki_freq: 308 - 33 | sentence_idx: 84950 | align_1: 14-13 | align_2: 15-17 | entity: Bajoran - none |    If you do not surrender immediately , I will be forced to kill every Bajoran on this station . ||| Wenn ihr euch nicht sofort ergebt , werde ich gezwungen sein , alle Bajoraner , die sich auf der Station befinden , zu töten . 
+
+3210 3210 | w_freq: 2 - 2 | wiki_freq: 106 - 73 | sentence_idx: 96430 | align_1: 7-5 | align_2: 8-10 | entity: 3210 - none |    And in 1999 , they launched the 3210 that made mobile telephony affordable for young people . ||| Und 1999 brachten sie das 3210 auf den Markt , das die Mobiltelefonie für junge Leute erschwinglich machte . 
+
+Agenda Entwicklungstagesordnungen | w_freq: 192 - 2 | wiki_freq: 4906 - 0 | sentence_idx: 100444 | align_1: 9-9 | align_2: 10-14 | entity: Doha Development Agenda - Doha Entwicklungstagesordnungen |    It was considered vital if the four-year-old Doha Development Agenda negotiations were to move forward sufficiently to conclude the round in 2006 . ||| Es wurde lebenswichtig betrachtet , wenn die vierjährigen Doha Entwicklungstagesordnungen ( Doha herum ) Verhandlungen genug vorankommen sollten , um die Runde 2006 zu schließen . 
+
+Renzi Renzi | w_freq: 25 - 22 | wiki_freq: 1769 - 460 | sentence_idx: 148159 | align_1: 8-7 | align_2: 9-12 | entity: Renzi - Renzi |    “ The Italians have disavowed the EU and Renzi . ||| " Die Italiener haben der EU und Renzi eine Absage erteilt " . 
+
+Indo-Caribbean Indo-karibisch | w_freq: 1 - 1 | wiki_freq: 211 - 0 | sentence_idx: 170837 | align_1: 22-21 | align_2: 23-26 | entity: Indo-Caribbean - none |    " Caribbean " is itself not one ethnic or political identity ; for example , some of this wave of immigrants were Indo-Caribbean . ||| " Karibisch " ist sich selbst nicht eine ethnische oder politische Identität ; zum Beispiel , einige diese Welle Einwanderer waren Indo-karibisch ( Karibischer Indo- ) . 
+
+Afghans Afghanen | w_freq: 70 - 75 | wiki_freq: 3681 - 572 | sentence_idx: 194899 | align_1: 2-1 | align_2: 3-5 | entity: Afghans - none |    All the Afghans we have spoken to have mentioned the name of her ex-boss . ||| Alle Afghanen , mit denen wir gesprochen haben , haben den Namen ihres ehemaligen Arbeitgebers erwähnt . 
+
+FSFE FSFE | w_freq: 14 - 12 | wiki_freq: 47 - 20 | sentence_idx: 245097 | align_1: 23-22 | align_2: 24-28 | entity: FSFE - FSFE |    " As we look back on a decade of hard work , we would like to thank everyone who has helped to make FSFE what it is today . ||| „ Wenn wir auf ein Jahrzehnt harte Arbeit zurückblicken , möchten wir uns bei allen bedanken , die mitgeholfen haben , die FSFE zu dem zu machen , was sie heute ist . 
+
+Lambrinidis Lambrinidis | w_freq: 1 - 1 | wiki_freq: 34 - 20 | sentence_idx: 265029 | align_1: 3-13 | align_2: 4-18 | entity: Lambrinidis - Stavros Lambrinidis |    26/03/2009 - Rapport Lambrinidis on strengthening security and fundamental freedoms on the Internet 62.5/100 ||| – in Kenntnis des Vorschlags für eine Empfehlung an den Rat von Stavros Lambrinidis im Namen der PSE-Fraktion zur Stärkung der Sicherheit und der Grundfreiheiten im Internet ( B6 - 0302 / 2008 ) , 
+
+Darth Darth | w_freq: 10 - 11 | wiki_freq: 2012 - 365 | sentence_idx: 277385 | align_1: 6-8 | align_2: 7-13 | entity: Darth - Darth |    We never see the moment where Darth realizes he actually has a son . ||| Wir sehen nie den Moment , in dem Darth [ sic ! ] erkennt , dass er tatsächlich einen Sohn hat . 
+
+DAVID DAVID | w_freq: 15 - 9 | wiki_freq: 134 - 22 | sentence_idx: 338229 | align_1: 1-0 | align_2: 2-4 | entity: DAVID - DAVID |    KING DAVID of ancient Israel knew how heavy the burden of a guilty conscience could be . ||| DAVID , der König des alten Israel , wußte , wie schwer die Last eines schuldbeladenen Gewissens sein kann . 
+
+Cebus Cebus | w_freq: 1 - 1 | wiki_freq: 220 - 167 | sentence_idx: 341367 | align_1: 10-11 | align_2: 11-16 | entity: Cebus - Cebus |    They succeeded : The Filipinos , especially the inhabitants of Cebus , are said to be very proud of their new airport . ||| Das ist gelungen : Die Filipinos , vor allem die Bewohner Cebus , so hört man , sind sehr stolz auf ihren neuen Flughafen . 
+
+PvdA PvdA | w_freq: 2 - 2 | wiki_freq: 997 - 682 | sentence_idx: 349123 | align_1: 12-7 | align_2: 13-13 | entity: PvdA - PvdA |    Yet , neither the unions nor the social democratic Labour Party ( PvdA ) has an answer to the social crisis . ||| Aber weder die Gewerkschaften noch die sozialdemokratische PvdA ( Partij van de Arbeid ) haben eine Antwort auf die soziale Krise . 
+
+Goliaths Goliats | w_freq: 6 - 1 | wiki_freq: 59 - 24 | sentence_idx: 352174 | align_1: 7-10 | align_2: 8-15 | entity: Goliaths - Goliats |    How has the Lord helped you overcome Goliaths that you have encountered ? ||| Wie hat der Herr Ihnen dabei geholfen , die „ Goliats “ zu besiegen , die Ihnen begegnet sind ? 
+
+O’Reilly o'reilly | w_freq: 20 - 1 | wiki_freq: 616 - 0 | sentence_idx: 399045 | align_1: 17-12 | align_2: 18-17 | entity: Bill O’Reilly - bill o'reilly |    Some of the people on the Factor staff have been here from the very beginning helping Bill O’Reilly create something that had never been done before . ||| Einige mitarbeiter von factor waren von anfang an hier und halfen bill o'reilly dabei , etwas zu erschaffen , was noch nie zuvor gemacht worden war . 
+
+Yisrael Jisrael | w_freq: 7 - 2 | wiki_freq: 3014 - 222 | sentence_idx: 408233 | align_1: 9-8 | align_2: 10-17 | entity: Klal Yisrael - Jisrael |    They are rejected from having any connection with Klal Yisrael because they did something far worse than attack us – they made us sin . ||| Sie werden abgelehnt , jegliche Verbindung mit Klal Jisrael ( dem Volk Israel ) zu haben , weil sie etwas viel schlimmeres getan haben , als uns anzugreifen - sie haben uns zur Sünde verleitet . 
+
+RFID RFID-Verfahren | w_freq: 44 - 1 | wiki_freq: 2273 - 4 | sentence_idx: 414714 | align_1: 10-10 | align_2: 11-14 | entity: RFID - none |    It represents a technical as well as commercial alternative to RFID partly also as a possible supplement . ||| Er stellt eine sowohl technische als auch kaufmännische Alternative zum RFID-Verfahren dar , zum Teil auch als mögliche Ergänzung . 
+
+C-Class C-Klasse | w_freq: 9 - 9 | wiki_freq: 411 - 620 | sentence_idx: 419324 | align_1: 12-8 | align_2: 13-14 | entity: C-Class - C-Klasse |    I would like to thank all of the employees for making the C-Class what it is today : one of the most popular automobiles in the upper mid-range segment . " ||| Mein Dank gilt allen Mitarbeitern , die die C-Klasse zu dem gemacht haben , was sie heute ist : Eines der beliebtesten Automobile in dem Segment der oberen Mittelklasse . “ 
+
+Yisrael Jisrael | w_freq: 7 - 2 | wiki_freq: 3014 - 222 | sentence_idx: 427213 | align_1: 9-8 | align_2: 10-17 | entity: Klal Yisrael - Jisrael |    They are rejected from having any connection with Klal Yisrael because they did something far worse than attack us – they made us sin . ||| Sie werden abgelehnt , jegliche Verbindung mit Klal Jisrael ( dem Volk Israel ) zu haben , weil sie etwas viel schlimmeres getan haben , als uns anzugreifen – sie haben uns zur Sünde verleitet . 
+
+Satanists Satanisten | w_freq: 11 - 19 | wiki_freq: 407 - 140 | sentence_idx: 437520 | align_1: 14-13 | align_2: 15-18 | entity: Satanists - none |    The true Christians within the Vatican have also made a move to isolate the Satanists meaning the end game is truly near . ||| Die wahren Christen innerhalb des Vatikan haben sich auch bewegt , um die Satanisten zu isolieren , das bedeutet , dass das Endspiel wirklich sehr nah ist . 
+
+Copperfield Copperfield | w_freq: 11 - 11 | wiki_freq: 1395 - 286 | sentence_idx: 457367 | align_1: 17-17 | align_2: 18-22 | entity: Copperfield - Copperfield |    If Mr. Copperfield wishes to know anything from me , I take the liberty of reminding Mr. Copperfield that he can put a question to me . ||| Wenn Mr. Copperfield etwas von mir zu wissen wünscht , nehme ich mir die Freiheit , Mr. Copperfield daran zu erinnern , daß er mir eine Frage vorlegen kann . 
+
+Qur’ân baschar | w_freq: 4 - 1 | wiki_freq: 1 - 0 | sentence_idx: 470586 | align_1: 22-22 | align_2: 23-31 | entity: Qur’ân - none |    16 / An-Nahl-103 : And certainly We know that they say : “ only a human being teaches him that ( the Qur’ân ) . ” ||| Sure 16:103 " Wir wissen wohl , dass sie sagen : " " Es lehrt ihn ( ja ) ein Mensch ( baschar ) ( was er als göttliche Offenbarung vorträgt ) . " " 
+
+Assad Assad | w_freq: 308 - 240 | wiki_freq: 4150 - 670 | sentence_idx: 523796 | align_1: 6-5 | align_2: 7-11 | entity: Assad - none |    Is the idea of speaking with Assad a completely wrong approach ? ||| Ist die Überlegung , mit Assad zu sprechen , dann sogar der völlig falsche Ansatz ? 
+
+Greys Grauen | w_freq: 8 - 13 | wiki_freq: 1646 - 2743 | sentence_idx: 558528 | align_1: 12-11 | align_2: 13-16 | entity: Greys - none |    David : And from that point forward , we have these alleged Greys that are apparently doing this . ||| David : Und von diesem Punkt an haben wir diese angeblichen Grauen [ Greys ] , die das anscheinend tun . 
+
+Islamists Islamisten | w_freq: 115 - 115 | wiki_freq: 2538 - 1522 | sentence_idx: 580836 | align_1: 8-7 | align_2: 9-12 | entity: Islamists - none |    No one buries the thousands of bodies of Islamists killing each other . ||| Niemand begräbt die Tausenden von Leichen der Islamisten , die sich gegenseitig töten . 
+
+Levites Leviten | w_freq: 26 - 23 | wiki_freq: 872 - 349 | sentence_idx: 588864 | align_1: 19-18 | align_2: 20-23 | entity: Levites - none |    49 And Moses took the ransom-money from them that were over and above those who were ransomed by the Levites ; ||| 49 Und Mose nahm das Geld des Loskaufs von denen , die überzählig waren über die durch die Leviten Losgekauften [ hinaus ] ; 
+
+TheOnion.com TheOnion.com | w_freq: 1 - 1 | wiki_freq: 1 - 0 | sentence_idx: 610280 | align_1: 3-3 | align_2: 4-8 | entity: TheOnion.com - TheOnion.com |    “ Who needs TheOnion.com when reality is now 10 times more surreal . ||| " Wer braucht TheOnion.com ( Amerikanische Finanznewsseite ) wenn die Realität nun 10-mal mehr surrealer scheint . 
+
+Tasers taser | w_freq: 1 - 1 | wiki_freq: 193 - 0 | sentence_idx: 642698 | align_1: 17-17 | align_2: 18-22 | entity: Tasers - none |    Why the police opted to shoot Riley rather than zap a 100-pound woman with one of the Tasers they were carrying is unclear . ||| Warum sich die polizei dafür entschied , riley zu erschießen , anstatt eine 100-pfund-frau mit einem der taser zu zappen , die sie trugen , ist unklar . 
+
+DeGeneres DeGeneres | w_freq: 2 - 2 | wiki_freq: 2584 - 338 | sentence_idx: 656010 | align_1: 11-14 | align_2: 12-20 | entity: DeGeneres - DeGeneres |    " You act so much like a pussy , Ellen [ DeGeneres ] tried to eat you . " ||| " Du hast dich so sehr wie eine Pussy verhalten , dass Ellen ( DeGeneres , Anm . der Redaktion ) versucht hat , dich zu probieren . " 
+
+Islamists Islamisten | w_freq: 115 - 115 | wiki_freq: 2538 - 1522 | sentence_idx: 672018 | align_1: 38-33 | align_2: 39-38 | entity: Islamists - none |    In January , however , she still stated , “ 98 % of all refugees who come to Europe today – if they haven‘t already drowned on their way here – are likely to have been victims of Islamists ” . ||| Allerdings stellte sie im Januar noch fest , „ 98 % aller Flüchtlinge , die heute nach Europa kommen – wenn sie nicht schon auf dem Weg hierher ertrinken – dürften Opfer der Islamisten ( … ) sein “ . 
+
+IntercontinentalExchange IntercontinentalExchange | w_freq: 1 - 1 | wiki_freq: 44 - 7 | sentence_idx: 675021 | align_1: 4-2 | align_2: 5-7 | entity: IntercontinentalExchange - IntercontinentalExchange |    Jeff Sprecher ' 's IntercontinentalExchange , or ICE , was another example . ||| Jeff Sprecher IntercontinentalExchange ( Interkontinentaler Austausch ) , oder EIS , war ein anderes Beispiel . 
+
+S.G. S.G. | w_freq: 1 - 1 | wiki_freq: 506 - 35 | sentence_idx: 687941 | align_1: 0-0 | align_2: 1-5 | entity: S.G. - S.G. |    S.G. who participated in our international seminar in Greece this summer told us , “ I am so glad to see you again ! ||| S.G. , eine Sozialarbeiterin , die auch in unseren internationalen Seminar in Griechenland teilgenommen diesem Sommer erzählte uns , " Ich bin so froh , dass Sie wieder zu sehen ! 
+
+FPSG FPSG | w_freq: 1 - 1 | wiki_freq: 5 - 1 | sentence_idx: 752390 | align_1: 17-17 | align_2: 18-22 | entity: FPSG - FPSG |    In short , they are not ' Israeli NGOs ' , but Foreign Political Subversion Groups ( FPSG ) . " ||| Kurz gesagt : Sie sind keine ' israelischen NGOs ' , sondern Foreign Political Subversion Groups ( FPSG - ausländische politische Zersetzungsgruppen ) . " 
+
+FP7 7RP | w_freq: 11 - 1 | wiki_freq: 279 - 0 | sentence_idx: 786656 | align_1: 1-1 | align_2: 2-5 | entity: FP7 - 7RP |    The FP7 project STADIUM ( Smart Transport Applications Designed for large events with Impacts on Urban Mobility ) recently finished . ||| Das 7RP ( Rahmenprogramm ) Projekt STADIUM , ( Smart Transport Applications Designed for large events with Impacts on Urban Mobility ) ist erst kürzlich ausgelaufen . 
+
+Z28 Z28 | w_freq: 1 - 1 | wiki_freq: 174 - 81 | sentence_idx: 862703 | align_1: 6-9 | align_2: 7-14 | entity: Z28 - Z28 |    I told you I bought the Z28 because it was a practical car ! " ||| Ich hab ' doch gesagt , dass ich den Z28 gekauft hab ' , weil er praktisch ist ! ” 
+
+YORK YORK | w_freq: 16 - 16 | wiki_freq: 199 - 23 | sentence_idx: 870987 | align_1: 1-4 | align_2: 2-8 | entity: NEW YORK - NEW YORK |    NEW YORK — The last time Mark Stella went to the dentist , he did n’t need an insurance card . ||| ( AP-Grafik ) NEW YORK ( AP ) - Als Mark Stella das letzte Mal zum Zahnarzt ging , brauchte er keine Versicherungskarte . 
+
+PPIHC PPIHC | w_freq: 1 - 1 | wiki_freq: 24 - 6 | sentence_idx: 873047 | align_1: 2-2 | align_2: 3-6 | entity: PPIHC - PPIHC |    The first PPIHC you attended was 37 years ago . ||| Das erste PPIHC , an dem Sie teilgenommen haben , liegt 37 Jahre zurück . 
+
+Thirty-three Dreiunddreißig | w_freq: 3 - 4 | wiki_freq: 577 - 35 | sentence_idx: 907645 | align_1: 10-8 | align_2: 11-13 | entity: Thirty-three - none |    Can King Pasenadi of Kosala topple the gods of the Thirty-three or banish them from that place ? ” ||| Kann König Pasenadi von Kosala die Götter der Dreiunddreißig zum Absturz bringen , oder kann er sie von jenem Ort verbannen ? " 
+
+Politiques Politiques | w_freq: 1 - 1 | wiki_freq: 704 - 136 | sentence_idx: 977681 | align_1: 11-10 | align_2: 12-14 | entity: Politiques - none |    The Catholic League also saw moderate French Catholics , known as Politiques , as a serious threat . ||| Katholische Liga sah auch gemäßigte französische Katholiken , bekannt als Politiques ( politiques ) , als ernste Drohung . 
+

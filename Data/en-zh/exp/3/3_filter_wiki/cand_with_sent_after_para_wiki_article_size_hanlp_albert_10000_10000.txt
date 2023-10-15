@@ -1,0 +1,34 @@
+Israelites 以色列人 | w_freq: 301 - 685 | wiki_freq: 6428 - 1452 | sentence_idx: 44818 | align_1: 6-3 | align_2: 7-10 | entity: Israelites - 以色列人 |    He was the savior of the Israelites . ||| 神 如此 拯救 以色列人 ， 乃 因 他 喜悦 他们 。 
+
+HARLEM 哈莱姆 | w_freq: 1 - 11 | wiki_freq: 5 - 186 | sentence_idx: 65645 | align_1: 3-1 | align_2: 4-18 | entity: HARLEM - 哈莱姆 |    MISS ANNE IN HARLEM : The White Women of the Black Renaissance . ||| 《 哈莱姆 的 安妮 小姐 ： 黑人 文艺复兴 中 的 白人 女性 》 ( Miss Anne in Harlem : The White Women of the Black Renaissance ) 。 
+
+Israelites 以色列人 | w_freq: 301 - 685 | wiki_freq: 6428 - 1452 | sentence_idx: 119600 | align_1: 3-2 | align_2: 4-8 | entity: Israelites - 以色列人 |    God rescued the Israelites and gave them an Exodus because they were enslaved and oppressed . ||| 神 将 以色列人 从 埃及 拯救 出来 ， 并且 带领 他们 进入 应许 之 地 。 
+
+Saratov 萨拉托夫 | w_freq: 8 - 8 | wiki_freq: 2973 - 219 | sentence_idx: 137042 | align_1: 5-1 | align_2: 6-10 | entity: Saratov - 萨拉托夫 |    On my last day in Saratov I had met a young woman who had a flat in Marx . ||| 在 萨拉托夫 的 最后 一 天    ， 我 遇见 了 一 位 年轻 妇女   ， 她 在 马克思 那里 有 一 套 公寓  。 
+
+Huawei 华为 | w_freq: 112 - 118 | wiki_freq: 3397 - 3067 | sentence_idx: 180007 | align_1: 3-1 | align_2: 4-9 | entity: Huawei - 华为 |    This partnership with Huawei will see us explore the potential uses and make sure 5 G is designed to meet the needs of our consumer and business customers throughout the world . ||| 与 华为 的 这 一 合作 伙伴 关系 ， 将 使 我们 共同 探索 潜在 的 用途 ， 并 确保 5G 能够 满足 我们 全球 消费者 和 企业 客户 的 需求 。 
+
+Sith 西斯 | w_freq: 9 - 11 | wiki_freq: 1645 - 384 | sentence_idx: 257307 | align_1: 18-17 | align_2: 19-21 | entity: Sith - 西斯 |    Forget about any sort of reward ; he and I-Five would be lucky to get protection against the Sith while the council debated how they could best make use of this windfall of information . ||| 忘记 任何 形式 的 奖励 ； 他 和 I-5 将 很 幸运 地 得到 保护 ， 免受 西斯 的 伤害 ， 而 委员会 正在 讨论 他们 如何 才能 最好 地 利用 这些 意外 的 信息 。 
+
+Israelites 以色列人 | w_freq: 301 - 685 | wiki_freq: 6428 - 1452 | sentence_idx: 336555 | align_1: 5-2 | align_2: 6-12 | entity: Israelites - 以色列人 |    He will save both the Israelites and the Gentiles who turn to him to be saved . ||| 神 拯救 以色列人 ， 不单 是 要 他们 得 许多 恩典 ， 更 是 要 他们 归祂 。 
+
+Mandela 纳尔逊·曼德拉 | w_freq: 70 - 11 | wiki_freq: 7856 - 196 | sentence_idx: 416931 | align_1: 8-7 | align_2: 9-11 | entity: Nelson Mandela - 纳尔逊·曼德拉 |    “ It was here where we received Nelson Mandela and celebrated his release from prison . ||| “ 在 这里 ， 我们 曾 迎接 纳尔逊·曼德拉 的 归来 ， 并 庆祝 他 的 出狱 。 
+
+Branson 理查德·布兰森 | w_freq: 44 - 10 | wiki_freq: 4023 - 35 | sentence_idx: 598927 | align_1: 4-2 | align_2: 5-10 | entity: Richard Branson - 理查德·布兰森 |    Bill Gates and Richard Branson know at least two things well : how to disrupt an industry and how to make money . ||| 比尔·盖茨 和 理查德·布兰森 都 是 亿万 富豪 ， 他们 非常 了解 两 件 事 ： 如何 颠覆 一个 行业 ， 以及 如何 赚钱 。 
+
+Huawei 华为 | w_freq: 112 - 118 | wiki_freq: 3397 - 3067 | sentence_idx: 617855 | align_1: 3-2 | align_2: 4-7 | entity: Huawei - 华为 |    The world needs Huawei because we ’re more advanced . ||| 世界 需要 华为    ， 因为 我们 更 先进  。 
+
+Huawei 华为 | w_freq: 112 - 118 | wiki_freq: 3397 - 3067 | sentence_idx: 617858 | align_1: 3-2 | align_2: 4-7 | entity: Huawei - 华为 |    The world needs Huawei because we ’re more advanced . ||| 世界 需要 华为    ， 因为 我们 更 先进  。 
+
+Bethel 伯特利 | w_freq: 3 - 1 | wiki_freq: 8336 - 213 | sentence_idx: 690502 | align_1: 19-19 | align_2: 20-23 | entity: Bethel - 伯特利 |    These few are either people on social security benefits as provided by Western countries or if you live in Bethel or are circuit overseers or missionaries and hence are supported free of charge by all the other Witnesses , most of whom are poor . ||| 这些 人 要么 是 西方 国家 提供 的 社会 保障 福利金 的 人 ， 要么 是 您 住 在 伯特利 的 人 ， 或者是 巡回 监督 或 传教士 的 人 ， 因此 得到 了 其他 所有 证人 的 免费 支持 ， 其中 大多数 都 是 穷人 。 
+
+Ukrainians 乌克兰人 | w_freq: 66 - 56 | wiki_freq: 7153 - 871 | sentence_idx: 709114 | align_1: 14-13 | align_2: 15-22 | entity: Ukrainians - 乌克兰人 |    Not the 73 percent who voted for me , but all 100 percent of Ukrainians . ||| 不是 那 73% 给 我 投票 的 人   ， 而是 100% 乌克兰人   ， 都 是 总统   。 
+
+Egyptians 埃及人 | w_freq: 145 - 88 | wiki_freq: 9142 - 773 | sentence_idx: 805522 | align_1: 5-5 | align_2: 6-10 | entity: Egyptians - 埃及人 |    Neither the Chinese nor the Egyptians would have been able to make even a statue such as those which our sculptors form today . ’ ||| 无论 是 中国人 也好 ， 埃及人 也好 ， 都 不 会 塑成 一 件 像 现今 我们 的 雕塑家 所 塑造 的 人像 。 
+
+Yalta 雅尔塔 | w_freq: 9 - 8 | wiki_freq: 2073 - 263 | sentence_idx: 836500 | align_1: 4-4 | align_2: 5-8 | entity: Yalta - 雅尔塔 |    Gorbachev succeeded in liquidating Yalta but not in saving the Soviet Union ( although he almost did , be it said ) . ||| 戈尔巴乔夫 了结 了 《 雅尔塔 协议 》 ， 但 没有 能够 挽救 苏联 （ 尽管 有人 说 他 几乎 做到 了 ） 。 
+
+Munger 查理·芒格 | w_freq: 13 - 2 | wiki_freq: 1618 - 10 | sentence_idx: 863586 | align_1: 22-20 | align_2: 23-25 | entity: Charlie Munger - 查理·芒格 |    Incidentally , if you had n’t figured it out already , this hyperkinetic bundle of energy here on my left is Charlie Munger … our vice-chairman . ||| 顺便 说 一 句 ， 如果 你 还 没有 弄 明白 的话 ， 我 左边 这个 超动力 的 明星 是 查理·芒格 —— ( 笑声 ) —— 我们 的 副主席 。 
+
+Walmart 沃尔玛 | w_freq: 85 - 102 | wiki_freq: 5753 - 435 | sentence_idx: 878914 | align_1: 5-4 | align_2: 6-9 | entity: Walmart - 沃尔玛 |    “ U.S. manufacturing matters to Walmart just as it does to our customers and our communities . ||| “ 美国 制造业 对 沃尔玛 来说 很 重要 ， 就 像 它 对 我们 的 客户 和 我们 的 社区 一样 。 
+

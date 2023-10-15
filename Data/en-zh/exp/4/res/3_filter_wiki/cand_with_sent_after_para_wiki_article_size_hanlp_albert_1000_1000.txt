@@ -1,0 +1,2 @@
+Catan 卡坦岛 | w_freq: 4 - 2 | wiki_freq: 568 - 15 | sentence_idx: 912922 | align_1: 10-8 | align_2: 11-14 | entity: Catan - 卡坦岛 |    There ’s so many ways , like in Settlers of Catan , in these games that we actually get to know each other better . ||| 还有 许多 其他 的 方式 ， 比如 《 卡坦岛 》 这 类 的 游戏 ， 我们 其实 在 这些 游戏 中 才能 更加 了解 彼此 。 
+

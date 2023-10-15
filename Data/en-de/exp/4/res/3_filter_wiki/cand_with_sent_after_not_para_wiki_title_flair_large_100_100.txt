@@ -1,0 +1,22 @@
+ICEP ICEP | w_freq: 1 - 1 | wiki_freq: 10 - 16 | sentence_idx: 75557 | align_1: 2-2 | align_2: 3-7 | entity: ICEP - ICEP |    We created ICEP to do something useful and lasting for people in developing countries . ||| Wir haben ICEP ins Leben gerufen , um etwas Sinnvolles und Dauerhaftes für die Menschen in Entwicklungsländern zu leisten . 
+
+Goreans Online-Goreaner | w_freq: 8 - 1 | wiki_freq: 7 - 0 | sentence_idx: 131112 | align_1: 5-3 | align_2: 6-8 | entity: Goreans - none |    I have met many online Goreans unwilling to fully embrace this precept despite its importance to Gorean philosophy . ||| Ich habe viele Online-Goreaner getroffen , die nicht gewillt waren , diesen Grundsatz völlig zu akzeptieren , trotz seiner Wichtigkeit für die goreanische Philosophie . 
+
+Chagai-II Chagai-II | w_freq: 1 - 1 | wiki_freq: 62 - 3 | sentence_idx: 431288 | align_1: 6-5 | align_2: 7-10 | entity: Chagai-II - Chagai-II |    The second nuclear test — Codename Chagai-II — was conducted and supervised by the Pakistan Atomic Energy Commission ( PAEC ) in May 30 , 1998 . ||| Der zweite Kerntest - Codename Chagai-II ( Chagai-I ich ) - wurde geführt und von der Atomenergie-Kommission von Pakistan ( Atomenergie-Kommission von Pakistan ) ( PAEC ) im Mai 30 , 1998 beaufsichtigt . 
+
+DAESH DAESH | w_freq: 3 - 2 | wiki_freq: 10 - 1 | sentence_idx: 442170 | align_1: 12-13 | align_2: 13-18 | entity: DAESH - DAESH |    We strongly condemn treating a terrorist organization as a partner in fighting DAESH . ||| Dabei verurteilen wir die Behandlung einer Terrororganisation als einen Partner im Kampf gegen DAESH , auf das Schärfste . 
+
+Myrtha Myrtha | w_freq: 1 - 1 | wiki_freq: 61 - 27 | sentence_idx: 512558 | align_1: 9-10 | align_2: 10-16 | entity: Myrtha - Myrtha |    But you are already a woman ... " says Myrtha approaching her and taking her by the hand . ||| Aber du bist ja schon eine Frau ... » sagt Myrtha , indem sie sich ihr nähert und sie bei der Hand nimmt . 
+
+Valposchiavo Valposchiavo | w_freq: 1 - 1 | wiki_freq: 8 - 8 | sentence_idx: 666226 | align_1: 23-21 | align_2: 24-25 | entity: Valposchiavo - Valposchiavo |    One of the most beautiful places in Europe ( yes , that is right ) is a place that hardly anyone knows : Valposchiavo . ||| Einer der schönsten Orte in Europa ( ja , das stimmt ) ist ein Ort , den kaum jemand kennt : Valposchiavo ( Puschlav ) . 
+
+MRAs MRAs | w_freq: 2 - 2 | wiki_freq: 48 - 3 | sentence_idx: 737913 | align_1: 8-9 | align_2: 9-16 | entity: MRAs - MRAs |    “ Men ’s right ’s activists ” ( MRAs ) claim that family law and social institutions discriminate against men . ||| Die " Men ’s Right ’s Activists " ( MRAs , auf Deutsch " Männerrecht-Aktivisten " ) behaupten , dass Familienrecht und soziale Institutionen Männer diskriminieren . 
+
+Alamin Alamin | w_freq: 1 - 1 | wiki_freq: 41 - 0 | sentence_idx: 751464 | align_1: 15-11 | align_2: 16-17 | entity: Alamin - none |    We recite them to you in truth , and Allah wills no injustice to the Alamin . ||| Sie umfassen die Wahrheit und Allah will keine Ungerechtigkeit für die Alamin ( Menschheit und Dschinn ) . 
+
+Medicare+Choice Medicare+Choice | w_freq: 1 - 1 | wiki_freq: 8 - 0 | sentence_idx: 807474 | align_1: 6-5 | align_2: 7-11 | entity: Medicare+Choice - Medicare+Choice |    These programs were known as “ Medicare+Choice ” or “ Part C ” plans . ||| Diese Programme waren als " Medicare+Choice ( Gesundheitsfürsorge + Wahl ) " oder Pläne " des Teils C " bekannt . 
+
+ISRAEL21c Israel21c | w_freq: 2 - 2 | wiki_freq: 8 - 0 | sentence_idx: 821545 | align_1: 2-2 | align_2: 3-7 | entity: ISRAEL21c - Israel21c |    Jangzapali tells ISRAEL21c he is deeply grateful for the Abraham family ’s generosity . ||| Jangzapali erklärte Israel21c gegenüber , wie dankbar er für die Großzügigkeit der Familie von Abraham sei . 
+
+Infront Infront | w_freq: 2 - 2 | wiki_freq: 57 - 79 | sentence_idx: 946717 | align_1: 9-8 | align_2: 10-12 | entity: Infront - Infront |    Financial professionals across Europe and South Africa rely on Infront for flexible financial market solutions . ||| Finanzfachleute in ganz Europa und Südafrika vertrauen auf Infront , wenn es um flexible Finanzmarktlösungen geht . 
+

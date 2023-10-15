@@ -1,0 +1,18 @@
+HARLEM 哈莱姆 | w_freq: 1 - 11 | wiki_freq: 5 - 186 | sentence_idx: 65645 | align_1: 3-1 | align_2: 4-18 | entity: HARLEM - 哈莱姆 |    MISS ANNE IN HARLEM : The White Women of the Black Renaissance . ||| 《 哈莱姆 的 安妮 小姐 ： 黑人 文艺复兴 中 的 白人 女性 》 ( Miss Anne in Harlem : The White Women of the Black Renaissance ) 。 
+
+Saratov 萨拉托夫 | w_freq: 8 - 8 | wiki_freq: 2973 - 219 | sentence_idx: 137042 | align_1: 5-1 | align_2: 6-10 | entity: Saratov - 萨拉托夫 |    On my last day in Saratov I had met a young woman who had a flat in Marx . ||| 在 萨拉托夫 的 最后 一 天    ， 我 遇见 了 一 位 年轻 妇女   ， 她 在 马克思 那里 有 一 套 公寓  。 
+
+Huawei 华为 | w_freq: 112 - 118 | wiki_freq: 3397 - 3067 | sentence_idx: 180007 | align_1: 3-1 | align_2: 4-9 | entity: Huawei - 华为 |    This partnership with Huawei will see us explore the potential uses and make sure 5 G is designed to meet the needs of our consumer and business customers throughout the world . ||| 与 华为 的 这 一 合作 伙伴 关系 ， 将 使 我们 共同 探索 潜在 的 用途 ， 并 确保 5G 能够 满足 我们 全球 消费者 和 企业 客户 的 需求 。 
+
+Sith 西斯 | w_freq: 9 - 11 | wiki_freq: 1645 - 384 | sentence_idx: 257307 | align_1: 18-17 | align_2: 19-21 | entity: Sith - 西斯 |    Forget about any sort of reward ; he and I-Five would be lucky to get protection against the Sith while the council debated how they could best make use of this windfall of information . ||| 忘记 任何 形式 的 奖励 ； 他 和 I-5 将 很 幸运 地 得到 保护 ， 免受 西斯 的 伤害 ， 而 委员会 正在 讨论 他们 如何 才能 最好 地 利用 这些 意外 的 信息 。 
+
+Branson 理查德·布兰森 | w_freq: 44 - 10 | wiki_freq: 4023 - 35 | sentence_idx: 598927 | align_1: 4-2 | align_2: 5-10 | entity: Richard Branson - 理查德·布兰森 |    Bill Gates and Richard Branson know at least two things well : how to disrupt an industry and how to make money . ||| 比尔·盖茨 和 理查德·布兰森 都 是 亿万 富豪 ， 他们 非常 了解 两 件 事 ： 如何 颠覆 一个 行业 ， 以及 如何 赚钱 。 
+
+Huawei 华为 | w_freq: 112 - 118 | wiki_freq: 3397 - 3067 | sentence_idx: 617855 | align_1: 3-2 | align_2: 4-7 | entity: Huawei - 华为 |    The world needs Huawei because we ’re more advanced . ||| 世界 需要 华为    ， 因为 我们 更 先进  。 
+
+Huawei 华为 | w_freq: 112 - 118 | wiki_freq: 3397 - 3067 | sentence_idx: 617858 | align_1: 3-2 | align_2: 4-7 | entity: Huawei - 华为 |    The world needs Huawei because we ’re more advanced . ||| 世界 需要 华为    ， 因为 我们 更 先进  。 
+
+Yalta 雅尔塔 | w_freq: 9 - 8 | wiki_freq: 2073 - 263 | sentence_idx: 836500 | align_1: 4-4 | align_2: 5-8 | entity: Yalta - 雅尔塔 |    Gorbachev succeeded in liquidating Yalta but not in saving the Soviet Union ( although he almost did , be it said ) . ||| 戈尔巴乔夫 了结 了 《 雅尔塔 协议 》 ， 但 没有 能够 挽救 苏联 （ 尽管 有人 说 他 几乎 做到 了 ） 。 
+
+Munger 查理·芒格 | w_freq: 13 - 2 | wiki_freq: 1618 - 10 | sentence_idx: 863586 | align_1: 22-20 | align_2: 23-25 | entity: Charlie Munger - 查理·芒格 |    Incidentally , if you had n’t figured it out already , this hyperkinetic bundle of energy here on my left is Charlie Munger … our vice-chairman . ||| 顺便 说 一 句 ， 如果 你 还 没有 弄 明白 的话 ， 我 左边 这个 超动力 的 明星 是 查理·芒格 —— ( 笑声 ) —— 我们 的 副主席 。 
+

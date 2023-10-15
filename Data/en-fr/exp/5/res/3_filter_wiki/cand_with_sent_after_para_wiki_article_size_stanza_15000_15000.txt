@@ -1,0 +1,114 @@
+Chica Chica | w_freq: 7 - 7 | wiki_freq: 1346 - 256 | sentence_idx: 51638 | align_1: 12-13 | align_2: 13-17 | entity: Boca Chica - Boca Chica |    While many of their neighbours , who do n't live in Boca Chica year round , have taken the offer , they continue to try to negotiate . ||| Bien que beaucoup de leurs voisins , qui ne vivent pas dans Boca Chica long de l’ année , ont pris de l’ offre , ils continuent d’ essayer de négocier . 
+
+Epstein Epstein | w_freq: 64 - 63 | wiki_freq: 8498 - 2042 | sentence_idx: 61510 | align_1: 5-4 | align_2: 6-8 | entity: Jeffrey Epstein - Jeffrey Epstein |    6 : Why did Jeffrey Epstein tell guards that someone was trying to kill him ? ||| # 6 Pourquoi Jeffrey Epstein a -t -il dit aux gardes que quelqu’ un essayait de le tuer ? 
+
+Galilee Galilée | w_freq: 43 - 62 | wiki_freq: 5786 - 4585 | sentence_idx: 100807 | align_1: 11-10 | align_2: 12-15 | entity: Galilee - Galilée |    How do you tell Christian fundamentalists that that lovely man from Galilee two thousand years ago was a part of that program ? ||| Comment dire aux Chrétiens Fondamentalistes que cet homme magnifique de Galilée , il y a deux mille ans , faisait partie de ce programme ? 
+
+Prophet Prophète | w_freq: 250 - 185 | wiki_freq: 9638 - 1698 | sentence_idx: 116967 | align_1: 1-1 | align_2: 2-5 | entity: Prophet - Prophète |    The Prophet replied , “ After this day , your father will suffer no more pain . ” ||| Le Prophète ( saw ) répondit : « Ton père ne connaîtra plus de souffrance après ce jour . » 
+
+Xingjian Xingjian | w_freq: 1 - 1 | wiki_freq: 129 - 67 | sentence_idx: 136166 | align_1: 1-1 | align_2: 2-6 | entity: Gao Xingjian - Gao Xingjian |    Gao Xingjian was not like so many others a “ professional exile ” , always immersed in the past . ||| Gao Xingjian n ’ a pas été comme tant d ’ autres un « exilé professionnel » , toujours plongé dans le passé . 
+
+Bugg Bugg | w_freq: 1 - 1 | wiki_freq: 555 - 52 | sentence_idx: 147684 | align_1: 1-1 | align_2: 2-6 | entity: Jake Bugg - Jake Bugg |    Jake Bugg " There 's a Beast and We All Feed it " ||| Jake Bugg : un nouveau titre « There’ s A Beast And We All Feed It » 
+
+Volcom Volcom | w_freq: 1 - 1 | wiki_freq: 231 - 61 | sentence_idx: 186053 | align_1: 9-11 | align_2: 10-16 | entity: Volcom - Volcom |    I think all brands should be as conscious as Volcom . ||| Je crois que toutes les marques devraient être aussi conscientes que Volcom , à ce sujet . 
+
+Engels Engels | w_freq: 28 - 28 | wiki_freq: 4031 - 1537 | sentence_idx: 238900 | align_1: 20-20 | align_2: 21-24 | entity: Friedrich Engels - Friedrich Engels |    Is it not , in a way , an attempt to moralize the economy , which Karl Marx and Friedrich Engels tried without success ? ||| N’ est -ce pas en quelque sorte une tentative de moraliser l’ économie , ce dont Karl Marx et Friedrich Engels s’ y sont essayés sans succès ? 
+
+Hutt Hutt | w_freq: 5 - 5 | wiki_freq: 5665 - 691 | sentence_idx: 256569 | align_1: 0-0 | align_2: 1-4 | entity: Hutt - Hutt |    Hutt originated the term in an article in 1934 . ||| Hutt est à l’ origine du terme dans un article de 1934 . 
+
+Chiara Chiara | w_freq: 16 - 17 | wiki_freq: 2123 - 1201 | sentence_idx: 265608 | align_1: 0-0 | align_2: 1-5 | entity: Chiara - Chiara |    Chiara had no intention of creating a new literary genre . ||| Chiara n’ a certainement pas eu l’ intention de créer un nouveau genre littéraire . 
+
+Kyi Kyi | w_freq: 17 - 17 | wiki_freq: 2084 - 506 | sentence_idx: 267104 | align_1: 4-6 | align_2: 5-10 | entity: Aung San Suu Kyi - Aung San Suu Kyi |    Perhaps Aung San Suu Kyi learned an important lesson during her years under house arrest by the military regime : the country will never develop if it sells out completely to the “ international community . ” ||| Peut - être Aung San Suu Kyi a -t -elle appris une leçon importante pendant ses années sous résidence surveillée , aux mains du régime militaire : le pays ne se développera jamais s’ il se vend complètement à la « communauté internationale » . 
+
+Ayalon Ayalon | w_freq: 3 - 3 | wiki_freq: 523 - 86 | sentence_idx: 308349 | align_1: 5-2 | align_2: 6-10 | entity: Danny Ayalon - Danny Ayalon |    After Deputy Foreign Minister Danny Ayalon became the face we show the world , the entire international community can now see Israel ’s good side . ||| Si Danny Ayalon , sous-ministre des affaires étrangères , est devenu le visage que nous montrons au monde , toute la communauté internationale voit maintenant le bon côté d’ Israël . 
+
+Cartland Cartland | w_freq: 1 - 1 | wiki_freq: 344 - 135 | sentence_idx: 308565 | align_1: 3-2 | align_2: 4-7 | entity: Barbara Cartland - Barbara Cartland |    How could Barbara Cartland write 700 romance novels ? ||| Comment Barbara Cartland a -t -elle pu écrire 700 romans d’ amour ? 
+
+Samaria Samarie | w_freq: 46 - 44 | wiki_freq: 1734 - 746 | sentence_idx: 311381 | align_1: 9-10 | align_2: 10-14 | entity: Samaria - Samarie |    “ We should expand a community in Judea and Samaria where the land is legally available and a residential or commercial need is present . ” ||| « Nous devrions élargir une communauté en Judée et en Samarie [ Cisjordanie ] où la terre est légalement disponible et un besoin résidentiel ou commercial est présent . » 
+
+Palestinians Palestiniens | w_freq: 1270 - 1309 | wiki_freq: 12372 - 2644 | sentence_idx: 328948 | align_1: 22-24 | align_2: 23-28 | entity: Palestinians - Palestiniens |    An alternative innovative medium such as digital voting is also a potential option ; this approach should be coupled with assistance to Palestinians without access to virtual platforms from grassroots civil society organizations . ||| Un moyen innovant alternatif tel un vote numérique est aussi une option possible ; cette approche devrait être couplée avec une assistance apportée aux Palestiniens qui n’ ont pas accès aux plateformes virtuelles des organisations de base de la société civile . 
+
+Pirelli Pirelli | w_freq: 18 - 18 | wiki_freq: 2514 - 1129 | sentence_idx: 348127 | align_1: 9-10 | align_2: 10-14 | entity: Pirelli - Pirelli |    After that , we had an internal meeting in Pirelli where we evaluated everything and then we prepared a report for the FIA explaining why we were requesting this change . ” ||| Après cela , nous avons fait une réunion interne chez Pirelli , lors de laquelle nous avons tout évalué , puis nous avons préparé un rapport pour la FIA afin d' expliquer pourquoi nous demandions ce changement . » 
+
+Assisi Assise | w_freq: 25 - 27 | wiki_freq: 4180 - 2979 | sentence_idx: 350011 | align_1: 28-26 | align_2: 29-31 | entity: Assisi - Assise |    As we gather here today , people from many nations representing many of the religions of the world , how can we fail to recall the meeting in Assisi thirteen years ago for the World Day of Prayer for Peace ? ||| Tandis que nous nous réunissons ici aujourd'hui , peuples de nombreuses nations représentant de nombreuses religions du monde , comment ne pas rappeler la rencontre à Assise , il y a treize ans , pour la Journée mondiale de Prière pour la Paix ? 
+
+Pompeo Pompeo | w_freq: 48 - 46 | wiki_freq: 2669 - 707 | sentence_idx: 354687 | align_1: 2-0 | align_2: 3-6 | entity: Pompeo - Pompeo |    Nor did Pompeo mention the fact that humanity has wiped out 60 % of animal life since the 1970 ’s or offer any sort of solution . ||| Pompeo n’ a pas non plus mentionné le fait que l’ humanité avait éradiqué 60 % de la vie animale depuis les années 1970 ou proposé une quelconque solution à ce problème . 
+
+Joliette Joliette | w_freq: 8 - 8 | wiki_freq: 588 - 1176 | sentence_idx: 358573 | align_1: 11-10 | align_2: 12-14 | entity: Joliette - Joliette |    We are presently debating an amendment proposed by the member for Joliette that the bill not be read a second time . ||| Nous débattons présentement un amendement proposé par le député de Joliette , qui veut que le projet de loi ne soit pas lu une deuxième fois . 
+
+Minotaur Minotaure | w_freq: 6 - 6 | wiki_freq: 1713 - 536 | sentence_idx: 359537 | align_1: 2-2 | align_2: 3-6 | entity: Minotaur - Minotaure |    ' The Minotaur scarcely defended itself . ' ||| « Le Minotaure s’ est à peine défendu … » 
+
+Cattell Cattell | w_freq: 3 - 4 | wiki_freq: 790 - 110 | sentence_idx: 435669 | align_1: 22-21 | align_2: 23-27 | entity: Raymond Cattell - Raymond Cattell |    On the basis of these findings , who can deny that morality may soon become a science , as recommended by Raymond Cattell ? ||| Sur la base de ces découvertes , qui peut nier que la moralité ne devienne bientôt une science , comme Raymond Cattell l’ appelle de ses vœux ? 
+
+Volvo Volvo | w_freq: 100 - 105 | wiki_freq: 9993 - 2245 | sentence_idx: 448244 | align_1: 4-4 | align_2: 5-9 | entity: Volvo - Volvo |    “ Do n’t forget Volvo more than 20 years ago . ||| « N’ oublions pas Volvo , il y a plus de 20 ans . 
+
+Reality Reality | w_freq: 144 - 18 | wiki_freq: 10400 - 844 | sentence_idx: 472925 | align_1: 4-3 | align_2: 5-8 | entity: Terminal Reality - Terminal Reality |    However , did Terminal Reality capture the essence of what made the cinematographic series successful in transposing it to video games ? ||| Néanmoins , Terminal Reality a -t -il su capter l' essence de ce qui a fait le succès de la série cinématographique pour le transposer en jeu vidéo ? 
+
+Palestinians Palestiniens | w_freq: 1270 - 1309 | wiki_freq: 12372 - 2644 | sentence_idx: 473884 | align_1: 5-5 | align_2: 6-9 | entity: Palestinians - Palestiniens |    He should have told the Palestinians clearly and unequivocally that their 21-month campaign of violence against Israel is unacceptable and must conclude before any discussion of rewards can be started . ||| Il aurait dû dire aux Palestiniens , de façon claire et sans équivoque , que leurs 21 mois de violence contre Israël était inacceptable et devait se terminer avant que toute discussion sur la récompense puisse commencer . 
+
+Wikiversity Wikiversité | w_freq: 2 - 2 | wiki_freq: 78 - 37 | sentence_idx: 479321 | align_1: 8-7 | align_2: 9-12 | entity: Wikiversity - Wikiversité |    People can always learn , but should the Wikiversity offer complete courses ? ||| On peut toujours apprendre , mais la Wikiversité se doit -elle d' offrir des cours complets ? 
+
+Spa Spa | w_freq: 45 - 45 | wiki_freq: 9547 - 4838 | sentence_idx: 491915 | align_1: 14-14 | align_2: 15-19 | entity: Spa - Spa |    Q : Esteban , a lot of chat about 2019 this afternoon , so Spa last weekend was a spectacular result for you . ||| Q : Esteban , beaucoup de discussions autour de 2019 cet après-midi , alors Spa le week - end dernier a été un résultat spectaculaire pour vous . 
+
+Bratislava Bratislava | w_freq: 40 - 40 | wiki_freq: 9909 - 2946 | sentence_idx: 501825 | align_1: 0-0 | align_2: 1-6 | entity: Bratislava - Bratislava |    Bratislava accuses Hungary of promoting its national culture in Slovakia . ||| Bratislava , de son côté , accuse la Hongrie de promouvoir sa culture nationale en Slovaquie . 
+
+Ukrainians Ukrainiens | w_freq: 84 - 91 | wiki_freq: 7153 - 2375 | sentence_idx: 528063 | align_1: 9-12 | align_2: 10-19 | entity: Ukrainians - Ukrainiens |    Is it not enough for our employers , that Ukrainians are ready to work voluntary much more than 8 hours per day ? ||| Est -ce que c' est peu pour nos employeurs , que les Ukrainiens , effray?s par le ch?mage , sont pr?ts ? travailler volontairement beaucoup plus que 8 heures par jour ? 
+
+Conaill Conaill | w_freq: 1 - 1 | wiki_freq: 714 - 323 | sentence_idx: 540733 | align_1: 2-2 | align_2: 3-6 | entity: Dáithí Ó Conaill - Dáithí Ó Conaill |    Dáithí Ó Conaill never equivocated on what was the cause of the war in Ireland or what was required to deliver a just and lasting peace for all of the Irish people . ||| Dáithí Ó Conaill ne s’ est jamais trompé au sujet de la cause de la guerre en Irlande ni au sujet des moyens requis pour apporter une paix juste et durable pour tout le peuple d’ Irlande . 
+
+Seimas Seimas | w_freq: 1 - 2 | wiki_freq: 1652 - 259 | sentence_idx: 541568 | align_1: 5-6 | align_2: 6-11 | entity: Seimas - Seimas |    Regrettably , last autumn the Seimas failed to gather a qualified majority to vote for a constitutional amendment enabling foreign investors to purchase land . ||| A l’ automne dernier , le Seimas n’ a malheureusement pas réussi à recueillir une majorité qualifiée pour le vote d’ un amendement constitutionnel permettant aux investisseurs étrangers d’ acheter des terres . 
+
+Ethereum Ethereum | w_freq: 118 - 129 | wiki_freq: 652 - 217 | sentence_idx: 585470 | align_1: 1-1 | align_2: 2-6 | entity: Ethereum - Ethereum |    Behind Ethereum came Litecoin [ LTC ] , with 11 % of respondents stating that they have heard about it . ||| Derrière Ethereum , il y a eu Litecoin [ LTC ] , avec 11 % des répondants déclarant en avoir entendu parler . 
+
+Prophet Prophète | w_freq: 250 - 185 | wiki_freq: 9638 - 1698 | sentence_idx: 589654 | align_1: 1-1 | align_2: 2-11 | entity: Prophet - Prophète |    The Prophet said ( the third time ) , “ And to those who get their hair cut short . ” ||| Le Prophète ( bénédiction et salut soient sur lui ) a dit après trois ou quatres fois : « Et à ceux qui raccourcissent leur cheveux » . 
+
+Gunvor Gunvor | w_freq: 5 - 5 | wiki_freq: 247 - 66 | sentence_idx: 602363 | align_1: 2-5 | align_2: 3-9 | entity: Gunvor - Gunvor |    Who at Gunvor knew about the suspicious payments ? ||| Qui , au sein de Gunvor , était au courant de ces paiements suspects ? 
+
+Horner Horner | w_freq: 6 - 6 | wiki_freq: 5091 - 1076 | sentence_idx: 643589 | align_1: 13-12 | align_2: 14-17 | entity: Horner - Horner |    Cameron did n’t want any contemporary pop music in the film , but Horner disagreed . ||| Cameron ne voulait aucune musique pop contemporaine dans le film , mais Horner n’ était pas d’ accord . 
+
+Granger Granger | w_freq: 8 - 8 | wiki_freq: 5035 - 1011 | sentence_idx: 659380 | align_1: 8-9 | align_2: 9-15 | entity: Michel Granger - Michel Granger |    What I like in this painting by Michel Granger , this is an image that is not necessarily pessimistic . ||| Ce que j’ aime dans cette peinture de Michel Granger qui en est l’ auteur , c’ est une image qui n’ est pas nécessairement pessimiste . 
+
+Welland Welland | w_freq: 3 - 3 | wiki_freq: 2441 - 326 | sentence_idx: 671782 | align_1: 4-3 | align_2: 5-8 | entity: Welland - Welland |    Could the member for Welland elaborate on the John Deere situation because good jobs have now been lost ? ||| Le député de Welland pourrait -il nous en dire davantage sur le cas de John Deere , car de bons emplois sont disparus ? 
+
+Mozi Mozi | w_freq: 1 - 1 | wiki_freq: 383 - 63 | sentence_idx: 715520 | align_1: 0-0 | align_2: 1-5 | entity: Mozi - Mozi |    Mozi believed that people in principle should care for all people equally . ||| Mozi , en revanche , croyait que les gens , en principe , doivent s' occuper de tous les gens de façon égale . 
+
+Palestinians Palestiniens | w_freq: 1270 - 1309 | wiki_freq: 12372 - 2644 | sentence_idx: 716838 | align_1: 4-4 | align_2: 5-9 | entity: Palestinians - Palestiniens |    In truth , ordinary Palestinians need neither Fatah nor Hamas to call for a " day of rage " or a new Intifada . ||| En vérité , les Palestiniens du peuple n’ ont besoin ni du Fatah ni du Hamas pour appeler à un « jour de colère » ou à une nouvelle Intifada . 
+
+Pio Pio | w_freq: 25 - 25 | wiki_freq: 2757 - 1244 | sentence_idx: 718120 | align_1: 8-8 | align_2: 9-16 | entity: Padre Pio - Padre Pio |    However , since you were told by Padre Pio whom I have never seen or known , I will go to Rome for a clarification . » ||| De toutes manières , puisque c’ est Padre Pio qui te l’ a dit , lui que je n’ ai jamais vu ni connu , j’ irai à Rome pour un éclaircissement » . 
+
+Wieck Wieck | w_freq: 1 - 1 | wiki_freq: 484 - 158 | sentence_idx: 723806 | align_1: 0-0 | align_2: 1-5 | entity: Wieck - Wieck |    Wieck later wrote , “ I did not go to prison as a pacifist but rather as an objector to war and conscription . ||| Wieck a écrit , plus tard , “ Je ne suis pas allé en prison en tant que pacifiste mais plutôt comme un objecteur à la guerre et à la conscription . 
+
+Courtney Courtney | w_freq: 14 - 15 | wiki_freq: 11993 - 1526 | sentence_idx: 724240 | align_1: 0-0 | align_2: 1-4 | entity: Courtney - Courtney |    Courtney again traveled to Manchester to see Bony ; this time , to celebrate her 23rd birthday . ||| Courtney s’ est à nouveau rendu à Manchester pour voir Bony ; cette fois , pour célébrer son 23ème anniversaire . 
+
+Palestinians Palestiniens | w_freq: 1270 - 1309 | wiki_freq: 12372 - 2644 | sentence_idx: 727754 | align_1: 4-3 | align_2: 5-13 | entity: Palestinians - Palestiniens |    Five million ethnically cleansed Palestinians can confirm that this is the case . ||| Cinq millions de Palestiniens qui ont été les victimes d’ un nettoyage ethnique peuvent confirmer que c’ est bien le cas . 
+
+Aviano Aviano | w_freq: 1 - 1 | wiki_freq: 388 - 89 | sentence_idx: 733844 | align_1: 12-13 | align_2: 13-17 | entity: Aviano - Aviano |    However no one knows precisely how many there actually are : at Aviano , there are 18 bunkers with the capacity to store another 70 . ||| Personne ne sait cependant exactement combien il y en a effectivement : à Aviano , par exemple , il y a 18 bunkers en mesure d' en stocker plus de 70 . 
+
+Israelites Israélites | w_freq: 186 - 165 | wiki_freq: 6428 - 1118 | sentence_idx: 739300 | align_1: 21-18 | align_2: 22-24 | entity: Israelites - Israélites |    Aaron was to lay both hands on the head of the goat and confess over it all the sins of the Israelites . ||| Aaron lui posera les deux mains sur la tête et confessera à sa charge toutes les fautes des Israélites , toutes leurs [ 48 ] 
+
+Bulawayo BULAWAYO | w_freq: 2 - 1 | wiki_freq: 2386 - 0 | sentence_idx: 761829 | align_1: 0-0 | align_2: 1-4 | entity: Bulawayo - BULAWAYO |    Bulawayo – She is only 17 , but each morning is a reminder of her losses in life . ||| BULAWAYO ( IPS ) - Elle n' a que 17 ans , mais chaque matin est un rappel de ses pertes dans la vie . 
+
+Mossad Mossad | w_freq: 55 - 59 | wiki_freq: 2533 - 757 | sentence_idx: 762542 | align_1: 5-7 | align_2: 6-12 | entity: Mossad - Mossad |    The official who worked with Mossad echoed that sentiment . ||| Le fonctionnaire qui a travaillé avec le Mossad s’ est fait l’ écho de ce sentiment . 
+
+Nyx Nyx | w_freq: 2 - 2 | wiki_freq: 530 - 166 | sentence_idx: 773655 | align_1: 15-17 | align_2: 16-21 | entity: Nyx - Nyx |    From there he rose into the sky each night in the train of his mother Nyx . " ||| De là , il s' élevait dans le ciel chaque nuit dans le train de sa mère Nyx ( Nuit ) . 
+
+Kelley Kelley | w_freq: 23 - 23 | wiki_freq: 11480 - 1173 | sentence_idx: 785563 | align_1: 5-6 | align_2: 6-10 | entity: Kelley - Kelley |    You can help patients like Kelley survive and thrive ! ||| Vous pouvez aider des patients comme Kelley à s’ en sortir et à mieux vivre ! 
+
+Douglass Douglass | w_freq: 6 - 6 | wiki_freq: 7981 - 655 | sentence_idx: 850650 | align_1: 5-5 | align_2: 6-9 | entity: Douglass - Douglass |    Among the most important to Douglass was Morton ’s claim that ancient Egyptians were white . ||| Parmi les plus importants à Douglass , il y avait l' affirmation de Morton selon laquelle les anciens Egyptiens étaient blancs . 
+
+Palestinians Palestiniens | w_freq: 1270 - 1309 | wiki_freq: 12372 - 2644 | sentence_idx: 851923 | align_1: 4-4 | align_2: 5-9 | entity: Palestinians - Palestiniens |    In truth , ordinary Palestinians need neither Fatah nor Hamas to call for a ‘ day of rage ’ or a new Intifada . ||| En vérité , les Palestiniens du peuple n’ ont besoin ni du Fatah ni du Hamas pour appeler à un « jour de colère » ou à une nouvelle Intifada . 
+
+Palestinians Palestiniens | w_freq: 1270 - 1309 | wiki_freq: 12372 - 2644 | sentence_idx: 878865 | align_1: 24-22 | align_2: 25-26 | entity: Palestinians - Palestiniens |    And for want of having found the real guilty parties , Israel is certainly capable of accusing others , preferably , of course , Palestinians . ||| Et faute d’ avoir trouvé de vrais coupables , Israël est fort capable d’ en inculper d’ autres , de préférence des Palestiniens , bien entendu . 
+
+eBay eBay | w_freq: 85 - 85 | wiki_freq: 4583 - 556 | sentence_idx: 904948 | align_1: 1-1 | align_2: 2-7 | entity: eBay - eBay |    For eBay daily deals you can get up to 70 % OFF without ... More ||| Pour eBay , traite de tous les jours , vous pouvez obtenir jusqu' à 70 % Sans ... Plus 
+
+Genk Genk | w_freq: 3 - 3 | wiki_freq: 1951 - 1349 | sentence_idx: 946190 | align_1: 24-29 | align_2: 25-34 | entity: Genk - Genk |    A worker on the way to factory meeting at the time said : “ We saw what happened at the Belgian Mondeo plant in Genk four years ago . ||| Un ouvrier en route pour la réunion d’ usine a dit alors : « Nous avons vu ce qui s’ est passé à l’ usine belge de Mondeo à Genk , il y a quatre ans . 
+
+Genk Genk | w_freq: 3 - 3 | wiki_freq: 1951 - 1349 | sentence_idx: 946191 | align_1: 24-29 | align_2: 25-34 | entity: Genk - Genk |    A worker on the way to factory meeting at the time said : “ We saw what happened at the Belgian Mondeo plant in Genk four years ago . ||| Un ouvrier en route pour la réunion d' usine a dit alors : « Nous avons vu ce qui s' est passé à l' usine belge de Mondeo à Genk , il y a quatre ans . 
+
+Palestinians Palestiniens | w_freq: 1270 - 1309 | wiki_freq: 12372 - 2644 | sentence_idx: 958195 | align_1: 4-4 | align_2: 5-9 | entity: Palestinians - Palestiniens |    In truth , ordinary Palestinians need neither Fatah nor Hamas to call for a “ day of rage ” or a new intifada . ||| En vérité , les Palestiniens du peuple n’ ont besoin ni du Fatah ni du Hamas pour appeler à un « jour de colère » ou à une nouvelle Intifada . 
+
+Musk Musk | w_freq: 85 - 84 | wiki_freq: 3245 - 733 | sentence_idx: 976581 | align_1: 9-8 | align_2: 10-12 | entity: Elon Musk - Elon Musk |    As at the end of each quarter , Elon Musk urged his " troops " , repeating that the sale and delivery of as many vehicles as possible in stock was priority number 1 . ||| Comme a chaque fin de trimestre , Elon Musk a d’ ailleurs exhorté ses « troupes » , répétant que la vente et la livraison du plus grand nombre possible des véhicules en stock était la priorité numéro 1 . 
+
+Messiah Messie | w_freq: 133 - 139 | wiki_freq: 7087 - 1588 | sentence_idx: 987672 | align_1: 7-8 | align_2: 8-14 | entity: Messiah - Messie |    The correct and true meaning shows that Messiah was indeed sent to save sinners . ||| La signification correcte et vraie montre que le Messie a , en effet , été envoyé pour sauver les pécheurs . 
+

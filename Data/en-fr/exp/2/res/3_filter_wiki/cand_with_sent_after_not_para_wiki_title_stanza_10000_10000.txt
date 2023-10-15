@@ -1,0 +1,90 @@
+Cosmogonies Cosmogonies | w_freq: 2 - 2 | wiki_freq: 4 - 14 | sentence_idx: 42225 | align_1: 2-3 | align_2: 3-7 | entity: Cosmogonies - Cosmogonies |    In all Cosmogonies “ Water ” plays the same important part . ||| Dans toutes les Cosmogonies , l ' " Eau " joue le même rôle important . 
+
+Whisky Whisky | w_freq: 10 - 13 | wiki_freq: 2415 - 437 | sentence_idx: 61863 | align_1: 3-3 | align_2: 4-11 | entity: Scotch Whisky - Scotch Whisky |    When was Scotch Whisky first distilled ? ||| Quand le Scotch Whisky a -t -il été distillé pour la première fois ? 
+
+Ra’ad ad | w_freq: 1 - 111 | wiki_freq: 29 - 9222 | sentence_idx: 71394 | align_1: 1-2 | align_2: 2-6 | entity: Ra’ad - Ra’ ad |    A Ra’ad being inspected by an Iranian military officer . ||| Un Ra’ ad en train d’ être inspecté par un officier iranien . 
+
+Ra’ad Ra’ | w_freq: 1 - 3 | wiki_freq: 29 - 78 | sentence_idx: 71394 | align_1: 1-1 | align_2: 2-6 | entity: Ra’ad - Ra’ ad |    A Ra’ad being inspected by an Iranian military officer . ||| Un Ra’ ad en train d’ être inspecté par un officier iranien . 
+
+Gorbachev Gorbatchev | w_freq: 30 - 24 | wiki_freq: 5506 - 1621 | sentence_idx: 73122 | align_1: 2-1 | align_2: 3-6 | entity: Gorbachev - Gorbatchev |    How could Gorbachev go home and say , ‘ Germany is reunited . ||| Comment Gorbatchev a -t -il pu rentrer chez lui et dire : « L’ Allemagne est réunie . 
+
+Iraqis Irakiens | w_freq: 92 - 84 | wiki_freq: 3367 - 562 | sentence_idx: 89476 | align_1: 3-2 | align_2: 4-7 | entity: Iraqis - Irakiens |    Why did the Iraqis not withdraw partially from Kuwait before January 15 , 1991 ? ||| Pourquoi les Irakiens ne se sont -ils pas retirés partiellement du Koweït avant le 15 janvier 1991 ? 
+
+Micro Micro | w_freq: 25 - 17 | wiki_freq: 6908 - 1108 | sentence_idx: 127253 | align_1: 2-2 | align_2: 3-6 | entity: SSi Micro - SSi Micro |    As SSi Micro noted , this principle comes from environmental law and has not been considered in this context before . ||| Comme SSi Micro l’ a fait remarquer , ce principe découle du droit de l’ environnement et n’ a pas été examiné dans ce contexte auparavant . 
+
+10.3 10.2 | w_freq: 18 - 11 | wiki_freq: 5212 - 73 | sentence_idx: 181625 | align_1: 0-0 | align_2: 1-5 | entity: 10.3 - none |    10.3 EU Users and Commercial E-mails . ||| 10.2 Utilisateurs de l’ Union européenne et e-mails commerciaux . 
+
+E.J. E.J. | w_freq: 3 - 3 | wiki_freq: 1481 - 85 | sentence_idx: 201881 | align_1: 3-2 | align_2: 4-7 | entity: E.J. - E.J. Gold |    So why is E.J. not better known , even in his own country ? ||| Pourquoi donc E.J. Gold n' est -il pas mieux connu , même dans son propre pays ? 
+
+Coulson Coulson | w_freq: 6 - 6 | wiki_freq: 3470 - 209 | sentence_idx: 233260 | align_1: 8-8 | align_2: 9-12 | entity: Coulson - Coulson |    " In their hands that 's catastrophic ; Coulson please tell me you know where it is . " ||| " Dans leurs mains c’ est catastrophique ; Coulson s’ il vous plaît me dire vous savez où il est . " 
+
+Lemire Lemire | w_freq: 9 - 9 | wiki_freq: 730 - 408 | sentence_idx: 306303 | align_1: 1-1 | align_2: 2-5 | entity: Vincent Lemire - Vincent Lemire |    Vincent Lemire is impressed by the political maturity of Palestinian civil society .... ||| Vincent Lemire , lui , est impressionné par la maturité politique de la société civile palestinienne … . 
+
+Hamdan Hamdan | w_freq: 2 - 1 | wiki_freq: 1987 - 351 | sentence_idx: 339233 | align_1: 5-6 | align_2: 6-10 | entity: Hamdan - Hamdan |    For almost a decade , Hamdan was banned from visiting her husband on security grounds . ||| Pendant près d’ une décennie , Hamdan n’ a pas été autorisée à rendre visite à son mari pour des raisons de sécurité . 
+
+Aoun Aoun | w_freq: 7 - 6 | wiki_freq: 1013 - 589 | sentence_idx: 371010 | align_1: 13-14 | align_2: 14-19 | entity: Aoun - général Aoun |    The question of the Presidency of FPM has become a priority for General Aoun two months ago . ||| La question de la présidence du CPL est devenue une priorité pour le général Aoun , il y a deux mois . 
+
+Secondly Deuxièmement | w_freq: 434 - 870 | wiki_freq: 5254 - 989 | sentence_idx: 371294 | align_1: 0-0 | align_2: 1-5 | entity: Secondly - none |    Secondly only through sacrifice – the willingness to be arrested and go to prison – do people take seriously what you are saying . ||| Deuxièmement , ce n’ est que par le sacrifice – la volonté d’ être arrêté et d’ aller en prison – que les gens prennent au sérieux ce que vous dites . 
+
+Filipinos Philippins | w_freq: 27 - 30 | wiki_freq: 7096 - 506 | sentence_idx: 412789 | align_1: 1-1 | align_2: 2-7 | entity: Filipinos - Philippins |    Are Filipinos joining this alliance ? ||| Les Philippins sont -ils en train de rejoindre cette alliance ? 
+
+Rudd Rudd | w_freq: 12 - 12 | wiki_freq: 7338 - 876 | sentence_idx: 413199 | align_1: 1-1 | align_2: 2-6 | entity: Louis Rudd - Louis Rudd |    Louis Rudd being a day or two behind him . ||| Louis Rudd , lui , se trouve un jour ou deux derrière lui . 
+
+Capulets Capulet | w_freq: 2 - 2 | wiki_freq: 132 - 142 | sentence_idx: 497855 | align_1: 6-6 | align_2: 7-10 | entity: Capulets - Capulet |    The day is hot , the Capulets abroad . ||| La journée est chaude , les Capulet , à l’ étranger ; 
+
+FAB FAB | w_freq: 1 - 4 | wiki_freq: 816 - 181 | sentence_idx: 525885 | align_1: 13-16 | align_2: 14-21 | entity: FAB - FAB |    For the first reference period , there shall be no mandatory national / FAB environment KPI . ||| Pour la première période de référence , il n’ y a pas de KPI national / FAB obligatoire en matière d’ environnement . 
+
+PSI PSI | w_freq: 13 - 13 | wiki_freq: 2751 - 1161 | sentence_idx: 538962 | align_1: 4-4 | align_2: 5-9 | entity: PSI - PSI |    Will the collaboration with PSI continue ? ||| La collaboration avec le PSI va -t -elle se poursuivre ? 
+
+Germain Germain | w_freq: 40 - 28 | wiki_freq: 4460 - 7808 | sentence_idx: 564838 | align_1: 5-4 | align_2: 6-10 | entity: St. Germain - St. Germain |    P : How did St. Germain manage his wealth and accumulate his fortune when he was in France ? ||| P : Comment St. Germain a -t -il réussi à accumuler sa richesse et accumuler sa fortune quand il était en France ? 
+
+Germain Germain | w_freq: 40 - 28 | wiki_freq: 4460 - 7808 | sentence_idx: 564839 | align_1: 5-4 | align_2: 6-10 | entity: St. Germain - St. Germain |    P : How did St. Germain manage his wealth and accumulate his fortune when he was in France ? ||| P : Comment St. Germain a -t -il réussi à accumuler sa richesse et accumuler sa fortune quand il était en France ? 
+
+Brands Brands | w_freq: 18 - 5 | wiki_freq: 9677 - 1065 | sentence_idx: 578106 | align_1: 1-1 | align_2: 2-6 | entity: Brands - Brands |    For Brands ticket sales have been slow , which is a shame , as both Italy and the UK are important markets for us . ||| Pour Brands , les ventes de billets ont été lentes , ce qui est dommage , car l’ Italie et le Royaume - Uni sont des marchés importants pour nous . 
+
+Guterres Guterres | w_freq: 15 - 15 | wiki_freq: 1204 - 362 | sentence_idx: 585305 | align_1: 3-8 | align_2: 4-12 | entity: Antonio Guterres - Antonio Guterres |    UN Secretary-General Antonio Guterres visited China in April and September without publicly expressing his concern about these issues . ||| Le Secrétaire général de l’ ONU , Antonio Guterres , s’ est rendu en Chine en avril et en septembre sans exprimer publiquement son inquiétude au sujet de ces questions . 
+
+Siddhas siddhas | w_freq: 2 - 2 | wiki_freq: 99 - 15 | sentence_idx: 594008 | align_1: 5-5 | align_2: 6-9 | entity: Siddhas - none |    • Neither Jesus nor the Siddhas intended to create a new religion . ||| • Ni Jésus ni les siddhas n’ avaient l’ intention de créer une nouvelle religion . 
+
+EasyBib EasyBib | w_freq: 2 - 2 | wiki_freq: 1 - 0 | sentence_idx: 672171 | align_1: 9-11 | align_2: 10-16 | entity: EasyBib - EasyBib |    But how many students used a free site like EasyBib on their own laptops to cite sources instead ? ||| Mais combien d’ étudiants ont utilisé un site gratuit tel que EasyBib à la place , sur leurs propres ordinateurs , pour citer leurs sources ? 
+
+Bader Bader | w_freq: 7 - 7 | wiki_freq: 3769 - 613 | sentence_idx: 688593 | align_1: 0-1 | align_2: 1-5 | entity: Bader - Bader |    Bader was variously told that he was on a submarine , in space or outside the borders of Israel . ||| A Bader , on lui a dit , à diverses occasions , qu' il était sur un sous-marin , dans l' espace ou à l’ extérieur des frontières d’ Israël . 
+
+Dhu’l-Qarnain Qarnaïn | w_freq: 1 - 1 | wiki_freq: 0 - 0 | sentence_idx: 703540 | align_1: 6-9 | align_2: 7-17 | entity: Dhu’l-Qarnain - Dhou al - Qarnaïn |    And they ask you questions about Dhu’l-Qarnain . ||| Ils t’ interrogent au sujet de Dhou al - Qarnaïn ( l’ homme aux deux cornes ) . 
+
+Daesh Daesh | w_freq: 79 - 41 | wiki_freq: 371 - 205 | sentence_idx: 733390 | align_1: 6-4 | align_2: 7-10 | entity: Daesh - Daesh |    “ We must combat all of Daesh including its financiers and its propagandists . ||| ' nous devons combattre Daesh dans son intégralité , y compris ses financiers et ses propagandistes . 
+
+Earthquake tremblement | w_freq: 8 - 188 | wiki_freq: 4969 - 6529 | sentence_idx: 797448 | align_1: 3-1 | align_2: 4-9 | entity: The New Madrid Earthquake - tremblement de terre de New Madrid |    The New Madrid Earthquake was when ? ||| Le tremblement de terre de New Madrid , c’ était quand   ? 
+
+Europeanization européanisation | w_freq: 4 - 8 | wiki_freq: 110 - 81 | sentence_idx: 798555 | align_1: 15-11 | align_2: 16-17 | entity: Europeanization - none |    It is doubtful , however , that the AREPs will serve Brussels ’ objectives of Europeanization whether from inside or outside the EU . ||| Il est toutefois douteux que les AREP servent les objectifs d' européanisation de Bruxelles , que ce soit à l' intérieur ou à l' extérieur de l' UE . 
+
+02 02/ | w_freq: 41 - 1 | wiki_freq: 8357 - 1 | sentence_idx: 803301 | align_1: 0-0 | align_2: 1-5 | entity: 02 - none |    02 No electricity in the area where the fire is alleged to have started . ||| 02/ Il n’ y a pas d’ électricité dans la zone où l’ incendie est présumé avoir débuté . 
+
+Braganza Braganza | w_freq: 2 - 1 | wiki_freq: 2289 - 72 | sentence_idx: 818904 | align_1: 0-0 | align_2: 1-5 | entity: Braganza - Braganza |    Braganza explained that it is really only since the 1990s that we have started to see the extreme heat . ||| Braganza [ BOM ] a expliqué que ce n' est vraiment que depuis les années 1990 que nous avons commencé à voir la chaleur extrême . 
+
+Limbs Limbs | w_freq: 1 - 1 | wiki_freq: 487 - 37 | sentence_idx: 822368 | align_1: 10-11 | align_2: 11-15 | entity: Life Without Limbs - Life Without Limbs |    " The biggest event that our team at Life Without Limbs has seen and maybe the largest event ever in Europe — 800,000 people in the streets of Kyiv Ukraine ! ||| “ Le plus grand événement que notre équipe à Life Without Limbs ( LWL ) a vu et peut-être le plus grand événement jamais organisé en Europe – 800 000 personnes rassemblées dans les rues de Kiev en Ukraine ! 
+
+Alkalai Alkalai | w_freq: 1 - 1 | wiki_freq: 57 - 12 | sentence_idx: 849897 | align_1: 1-3 | align_2: 2-7 | entity: Alkalai - Alkalai |    Perhaps Alkalai sought to emulate the national success of his Serbian neighbors ? ||| Peut - être Alkalai a -t -il cherché à imiter le succès national de ses voisins serbes ? 
+
+Sarbanes-Oxley Oxley | w_freq: 1 - 3 | wiki_freq: 220 - 297 | sentence_idx: 864285 | align_1: 10-14 | align_2: 11-19 | entity: Sarbanes-Oxley - Oxley |    Why was the data retention period for auditable records in Sarbanes-Oxley chosen as 7 years ? ||| Pourquoi la période de conservation des données pour les enregistrements vérifiables dans Sarbanes - Oxley a -t -elle été choisie comme étant de 7 ans ? 
+
+WACP WACP | w_freq: 1 - 1 | wiki_freq: 24 - 3 | sentence_idx: 874543 | align_1: 15-17 | align_2: 16-21 | entity: WACP - WACP |    43 years is , without a doubt , an important milestone in the life of WACP for two main reasons : ||| 43 ans constituent , à n’ en point douter , une étape importante dans la vie du WACP et cela , pour deux principales raisons : 
+
+Bacalhau bacalhau | w_freq: 1 - 2 | wiki_freq: 85 - 32 | sentence_idx: 878130 | align_1: 0-1 | align_2: 1-7 | entity: Bacalhau - none |    Bacalhau is the number one fish of the country , it is cooked in a thousand ways and it is interesting to discover the creativity with which it prepares it . ||| Le bacalhau ( Morue en français ) est LE poisson numéro 1 du pays , on le cuisine de mille façons et il est intéressant de découvrir la créativité avec laquelle ils le préparent . 
+
+UNEP PNUE | w_freq: 12 - 12 | wiki_freq: 1386 - 437 | sentence_idx: 900415 | align_1: 5-5 | align_2: 6-10 | entity: UNEP - PNUE |    In particular , how is UNEP coordinating with pan-African organisations such as the African Union to address the effects of climate change ? ||| En particulier , comment le PNUE assure -t -il la coordination avec des organisations panafricaines telles que l’ Union africaine pour faire face aux effets du changement climatique ? 
+
+LENR LENR | w_freq: 2 - 2 | wiki_freq: 18 - 10 | sentence_idx: 901235 | align_1: 10-11 | align_2: 11-15 | entity: LENR - none |    For those who want to know more about RNBE ( LENR ) , I refer you to an article I wrote in 2014 " E-Cat and LENR : It 's very serious ! ||| Pour ceux qui veulent en savoir davantage sur les RNBE ( LENR , en anglais ) , je vous réfère à un article que j’ ai écrit en 2014 « E-Cat et LENR : C’ est très sérieux ! 
+
+Capasso Capasso | w_freq: 1 - 1 | wiki_freq: 102 - 22 | sentence_idx: 917042 | align_1: 3-4 | align_2: 4-8 | entity: Capasso - Capasso |    Welcomed by President Capasso expressed appreciation for a unique and extraordinary place . ||| Accueilli par le président Capasso , ils ont exprimé leur reconnaissance pour un lieu unique et extraordinaire . 
+
+CIIA CIIA | w_freq: 1 - 1 | wiki_freq: 35 - 5 | sentence_idx: 936082 | align_1: 3-3 | align_2: 4-7 | entity: CIIA - CIIA |    However , the CIIA never strayed from its independent and non-partisan roots . ||| Pourtant , le CIIA ne s’ est jamais départi de ses racines indépendantes et non-partisanes . 
+
+Brigades Brigades | w_freq: 10 - 8 | wiki_freq: 7180 - 1998 | sentence_idx: 970815 | align_1: 9-13 | align_2: 10-17 | entity: Brigades - Brigades |    The Italian government praised the move , and the Brigades praised the Italians . ||| Le gouvernement italien a fait l’ éloge de cette initiative , et les Brigades ont fait l’ éloge des Italiens . 
+
+Daesh Daesh | w_freq: 79 - 41 | wiki_freq: 371 - 205 | sentence_idx: 970955 | align_1: 2-1 | align_2: 3-6 | entity: Daesh - Daesh |    Why is Daesh not a specific threat for you ? ||| Pourquoi Daesh ne représente -t -il pas une menace spécifique pour vous ? 
+
+RCCG RCCG | w_freq: 1 - 1 | wiki_freq: 25 - 1 | sentence_idx: 978588 | align_1: 16-23 | align_2: 17-28 | entity: RCCG - RCCG |    “ Do n’t ever marry outside the church and you have no reason to marry outside RCCG . ||| « Ne vous mariez jamais à l’ extérieur de l’ église et vous n’ avez aucune raison de vous marier en dehors du RCCG ( son église ) . 
+
+Shreveport Shreveport | w_freq: 5 - 5 | wiki_freq: 5370 - 482 | sentence_idx: 987184 | align_1: 12-11 | align_2: 13-16 | entity: Shreveport - Shreveport |    She said , " You 'll have your first service then in Shreveport , then you call me afterwards . " ||| Elle a dit : « Tu auras ton premier service à Shreveport à ce moment -là , alors appelle -moi après cela . » 
+

@@ -1,0 +1,2 @@
+Acquia Acquia | w_freq: 12 - 10 | wiki_freq: 51 - 15 | sentence_idx: 518746 | align_1: 8-8 | align_2: 9-13 | entity: Acquia - Acquia |    Learn how state and local governments partner with Acquia to a build an interactive and mobile experience . ||| Erfahren Sie , wie Landes- und Lokalregierungen mit Acquia eine Partnerschaft eingehen , um ein interaktives und mobiles Erlebnis zu entwickeln . 
+
